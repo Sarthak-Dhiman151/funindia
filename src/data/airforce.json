@@ -1,0 +1,1491 @@
+{
+  "indian_air_force": {
+    "metadata": {
+      "official_name": "Indian Air Force (IAF)",
+      "hindi_name": "Bhāratīya Vāyu Senā",
+      "founded": "8 October 1932",
+      "founding_as": "Royal Indian Air Force",
+      "renamed_to_iaf": "1950 (after India became a Republic)",
+      "headquarters": "New Delhi",
+      "motto": "Nabha Sparsham Deeptam (Touch the Sky with Glory)",
+      "motto_origin": "Bhagavad Gita, Chapter 11, Verse 24",
+      "supreme_commander": "President of India",
+      "current_chief": "Check official IAF website for current CAS",
+      "roundel_colors": ["Saffron", "White", "Green"],
+      "fin_flash": "Saffron, White, Green (vertical stripes)",
+      "rank_structure": "Based on British Royal Air Force",
+      "last_updated": "2024"
+    },
+    "general_facts": {
+      "world_ranking": "4th largest air force in the world",
+      "total_personnel": "approximately 170,000",
+      "total_aircraft": "approximately 1,700+",
+      "operational_commands": 7,
+      "number_of_air_bases": "60+",
+      "primary_roles": [
+        "Air Superiority",
+        "Ground Attack",
+        "Strategic Bombing",
+        "Reconnaissance",
+        "Transport",
+        "Search and Rescue",
+        "Helicopter Operations",
+        "Air Defense"
+      ],
+      "first_combat_operation": "1947 Kashmir Operations",
+      "major_wars_participated": [
+        "Indo-Pakistani War of 1947",
+        "Sino-Indian War of 1962",
+        "Indo-Pakistani War of 1965",
+        "Indo-Pakistani War of 1971",
+        "Kargil War of 1999",
+        "Balakot Airstrikes 2019"
+      ]
+    },
+    "commands": [
+      {
+        "name": "Western Air Command",
+        "headquarters": "New Delhi",
+        "area_of_responsibility": "Punjab, Haryana, Himachal Pradesh, J&K, Ladakh, Chandigarh, Delhi"
+      },
+      {
+        "name": "Eastern Air Command",
+        "headquarters": "Shillong",
+        "area_of_responsibility": "Northeast India, West Bengal, Sikkim"
+      },
+      {
+        "name": "Central Air Command",
+        "headquarters": "Prayagraj (Allahabad)",
+        "area_of_responsibility": "Uttar Pradesh, Madhya Pradesh, Bihar, Jharkhand"
+      },
+      {
+        "name": "Southern Air Command",
+        "headquarters": "Thiruvananthapuram",
+        "area_of_responsibility": "Tamil Nadu, Kerala, Karnataka, Andhra Pradesh, Telangana"
+      },
+      {
+        "name": "South Western Air Command",
+        "headquarters": "Gandhinagar",
+        "area_of_responsibility": "Gujarat, Rajasthan, Maharashtra"
+      },
+      {
+        "name": "Training Command",
+        "headquarters": "Bengaluru",
+        "area_of_responsibility": "All training establishments"
+      },
+      {
+        "name": "Maintenance Command",
+        "headquarters": "Nagpur",
+        "area_of_responsibility": "All maintenance and logistics"
+      }
+    ],
+    "aircraft": {
+      "currently_active": {
+        "fighter_aircraft": [
+          {
+            "name": "Sukhoi Su-30MKI",
+            "nato_reporting_name": "Flanker-H",
+            "origin": "Russia/India (License built)",
+            "type": "Multirole Air Superiority Fighter",
+            "manufacturer": "Sukhoi/HAL",
+            "introduced": "2002",
+            "status": "Active",
+            "quantity": "272 (approximately)",
+            "role": ["Air Superiority", "Ground Attack", "Maritime Strike"],
+            "max_speed": "Mach 2.0",
+            "range": "3,000 km",
+            "armament": ["BrahMos Cruise Missile", "R-77", "R-73", "KAB-1500 bombs"],
+            "special_features": ["Thrust Vectoring", "Super Maneuverability", "Can carry BrahMos"],
+            "funfact": "The Su-30MKI is the most potent fighter in the IAF and can perform the famous 'Pugachev's Cobra' maneuver. It's customized specifically for India with Israeli, French, and Indian avionics."
+          },
+          {
+            "name": "Dassault Rafale",
+            "origin": "France",
+            "type": "Multirole Fighter",
+            "manufacturer": "Dassault Aviation",
+            "introduced": "2020",
+            "status": "Active",
+            "quantity": "36 ordered (all delivered)",
+            "role": ["Air Superiority", "Nuclear Strike", "Deep Penetration"],
+            "max_speed": "Mach 1.8",
+            "range": "3,700 km",
+            "armament": ["SCALP Cruise Missile", "Meteor BVR", "MICA", "HAMMER bombs"],
+            "special_features": ["SPECTRA Electronic Warfare Suite", "Nuclear Capable", "Low RCS"],
+            "funfact": "The Rafale deal was India's largest-ever defense purchase at $8.7 billion. These jets participated in the Republic Day Parade 2021, performing the 'Vertical Charlie' formation."
+          },
+          {
+            "name": "HAL Tejas (LCA)",
+            "origin": "India",
+            "type": "Light Combat Aircraft",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "introduced": "2016",
+            "status": "Active",
+            "quantity": "40+ (with 83 more Mk1A ordered)",
+            "role": ["Air Defense", "Ground Attack"],
+            "max_speed": "Mach 1.8",
+            "range": "850 km",
+            "armament": ["R-73", "Derby", "Python-5", "Laser Guided Bombs"],
+            "special_features": ["Smallest and Lightest Multi-role Supersonic Fighter", "Fly-by-Wire", "Composite Materials"],
+            "funfact": "Tejas is the second supersonic fighter developed by India and took 33 years from conception to induction! It's named 'Tejas' meaning 'Radiance' in Sanskrit."
+          },
+          {
+            "name": "Mikoyan MiG-29",
+            "nato_reporting_name": "Fulcrum",
+            "origin": "Russia",
+            "type": "Air Superiority Fighter",
+            "manufacturer": "Mikoyan",
+            "introduced": "1987",
+            "status": "Active",
+            "quantity": "66 (approximately)",
+            "role": ["Air Superiority", "Interception"],
+            "max_speed": "Mach 2.25",
+            "range": "1,430 km",
+            "armament": ["R-77", "R-73", "R-27", "Bombs"],
+            "special_features": ["Excellent dogfighter", "High thrust-to-weight ratio"],
+            "funfact": "The MiG-29 was India's first 4th generation fighter. During Kargil War, MiG-29s provided crucial air cover with their superior radar capabilities."
+          },
+          {
+            "name": "Mikoyan MiG-21 Bison",
+            "nato_reporting_name": "Fishbed",
+            "origin": "Russia",
+            "type": "Interceptor/Fighter",
+            "manufacturer": "Mikoyan/HAL",
+            "introduced": "1963 (Bison upgrade 2006)",
+            "status": "Active (Being phased out)",
+            "quantity": "Less than 50 remaining",
+            "role": ["Interception", "Ground Attack"],
+            "max_speed": "Mach 2.1",
+            "range": "1,470 km",
+            "armament": ["R-73", "R-60", "Bombs", "Rockets"],
+            "special_features": ["Upgraded avionics", "Multi-mode radar"],
+            "funfact": "The MiG-21 is called the 'Flying Coffin' due to its high accident rate, yet Wing Commander Abhinandan shot down a Pakistani F-16 with a MiG-21 Bison in 2019!"
+          },
+          {
+            "name": "Dassault Mirage 2000",
+            "origin": "France",
+            "type": "Multirole Fighter",
+            "manufacturer": "Dassault Aviation",
+            "introduced": "1985",
+            "status": "Active",
+            "quantity": "49 (approximately)",
+            "role": ["Nuclear Strike", "Deep Penetration", "Air Defense"],
+            "max_speed": "Mach 2.2",
+            "range": "1,550 km",
+            "armament": ["MICA", "Magic II", "Laser Guided Bombs", "Nuclear weapons"],
+            "special_features": ["Delta wing design", "Nuclear capable", "Precision strike"],
+            "funfact": "Mirage 2000s conducted the famous 'Operation Safed Sagar' strikes during Kargil War and the 2019 Balakot airstrikes against terrorist camps in Pakistan."
+          },
+          {
+            "name": "SEPECAT Jaguar",
+            "origin": "UK/France",
+            "type": "Ground Attack Aircraft",
+            "manufacturer": "SEPECAT/HAL",
+            "introduced": "1979",
+            "status": "Active (Being phased out)",
+            "quantity": "Less than 100 remaining",
+            "role": ["Ground Attack", "Maritime Strike", "Nuclear Delivery"],
+            "max_speed": "Mach 1.6",
+            "range": "1,408 km",
+            "armament": ["Bombs", "Rockets", "Sea Eagle Anti-ship Missile", "Nuclear weapons"],
+            "special_features": ["DARIN upgrade", "Maritime strike capability"],
+            "funfact": "The Jaguar is nicknamed 'Shamsher' (Sword) in IAF service. It's the primary nuclear delivery platform and was used extensively in Kargil for precision strikes."
+          }
+        ],
+        "transport_aircraft": [
+          {
+            "name": "Boeing C-17 Globemaster III",
+            "origin": "USA",
+            "type": "Strategic Airlifter",
+            "manufacturer": "Boeing",
+            "introduced": "2013",
+            "status": "Active",
+            "quantity": "11",
+            "role": ["Strategic Airlift", "Humanitarian Aid", "Disaster Relief"],
+            "max_speed": "830 km/h",
+            "range": "4,482 km (with payload)",
+            "payload": "77,519 kg",
+            "special_features": ["Short field landing capability", "Can carry tanks and helicopters"],
+            "funfact": "India is the largest operator of C-17s outside the US. These giants evacuated thousands during the 2015 Yemen crisis (Operation Raahat) and 2021 Afghanistan evacuation."
+          },
+          {
+            "name": "Lockheed Martin C-130J Super Hercules",
+            "origin": "USA",
+            "type": "Tactical Airlifter",
+            "manufacturer": "Lockheed Martin",
+            "introduced": "2010",
+            "status": "Active",
+            "quantity": "12",
+            "role": ["Tactical Airlift", "Special Operations", "Disaster Relief"],
+            "max_speed": "671 km/h",
+            "range": "3,334 km",
+            "payload": "19,090 kg",
+            "special_features": ["Night vision compatible", "Short field operations"],
+            "funfact": "A C-130J created history by landing at Daulat Beg Oldie (DBO) - the world's highest airstrip at 16,614 feet near the China border!"
+          },
+          {
+            "name": "Ilyushin Il-76",
+            "nato_reporting_name": "Candid",
+            "origin": "Russia",
+            "type": "Strategic Airlifter",
+            "manufacturer": "Ilyushin",
+            "introduced": "1985",
+            "status": "Active",
+            "quantity": "17 (approximately)",
+            "role": ["Strategic Airlift", "Paratrooper Transport", "Tanker (Il-78)"],
+            "max_speed": "850 km/h",
+            "range": "4,400 km",
+            "payload": "48,000 kg",
+            "special_features": ["Rear loading ramp", "Rough field capability"],
+            "funfact": "Il-76s are the workhorses of IAF transport fleet. They've been used in every major operation from disaster relief to war logistics."
+          },
+          {
+            "name": "Ilyushin Il-78 MKI",
+            "nato_reporting_name": "Midas",
+            "origin": "Russia",
+            "type": "Aerial Refueling Tanker",
+            "manufacturer": "Ilyushin",
+            "introduced": "2003",
+            "status": "Active",
+            "quantity": "6",
+            "role": ["Aerial Refueling", "Strategic Airlift"],
+            "max_speed": "850 km/h",
+            "range": "7,300 km",
+            "fuel_capacity": "85,720 kg transferable fuel",
+            "special_features": ["Can refuel 3 aircraft simultaneously", "Probe and drogue system"],
+            "funfact": "The Il-78 MKI enabled IAF's Sukhoi Su-30MKIs to fly non-stop to Australia for Exercise Pitch Black - over 10,000 km!"
+          },
+          {
+            "name": "Antonov An-32",
+            "nato_reporting_name": "Cline",
+            "origin": "Ukraine/Russia",
+            "type": "Tactical Transport",
+            "manufacturer": "Antonov",
+            "introduced": "1984",
+            "status": "Active",
+            "quantity": "105 (approximately)",
+            "role": ["Tactical Transport", "Paratrooper Operations", "Supply"],
+            "max_speed": "530 km/h",
+            "range": "2,500 km",
+            "payload": "6,700 kg",
+            "special_features": ["High altitude operations", "Rough field capability"],
+            "funfact": "An-32 holds the record for the highest landing by a transport aircraft - at Daulat Beg Oldie! It's nicknamed 'Sutlej' in IAF service."
+          },
+          {
+            "name": "Dornier Do 228",
+            "origin": "Germany/India",
+            "type": "Light Transport/Utility",
+            "manufacturer": "Dornier/HAL",
+            "introduced": "1986",
+            "status": "Active",
+            "quantity": "40+ (approximately)",
+            "role": ["Light Transport", "Maritime Patrol", "Communication"],
+            "max_speed": "428 km/h",
+            "range": "1,037 km",
+            "payload": "2,200 kg",
+            "special_features": ["STOL capability", "Maritime surveillance variant"],
+            "funfact": "The Do 228 is license-built by HAL in India. It was the first aircraft to land on the newly-built aircraft carrier INS Vikrant's deck during trials!"
+          },
+          {
+            "name": "DRDO Airborne Early Warning and Control System (DRDO AEW&CS)",
+            "origin": "India",
+            "type": "AEW&C",
+            "manufacturer": "DRDO/Embraer (platform)",
+            "introduced": "2017",
+            "status": "Active",
+            "quantity": "2 (with more on order)",
+            "role": ["Airborne Early Warning", "Command and Control"],
+            "max_speed": "870 km/h",
+            "range": "4,500 km",
+            "special_features": ["Indigenous AESA radar", "Can track 100+ targets"],
+            "funfact": "This is India's indigenous AEW&C system nicknamed 'Netra' (Eye). It broke the monopoly of US, Israel, and Russia in this critical technology."
+          },
+          {
+            "name": "Beriev A-50 Phalcon",
+            "nato_reporting_name": "Mainstay",
+            "origin": "Russia/Israel",
+            "type": "AEW&C",
+            "manufacturer": "Beriev/Israel Aerospace Industries",
+            "introduced": "2009",
+            "status": "Active",
+            "quantity": "3",
+            "role": ["Airborne Early Warning", "Command and Control"],
+            "max_speed": "800 km/h",
+            "range": "5,500 km",
+            "special_features": ["Israeli Phalcon radar", "360-degree coverage", "Can track 60+ targets"],
+            "funfact": "The A-50 Phalcon deal was initially blocked by the US which pressured Israel. India eventually got them and they've been critical for border surveillance."
+          },
+          {
+            "name": "Boeing 737 BBJ (VVIP)",
+            "origin": "USA",
+            "type": "VIP Transport",
+            "manufacturer": "Boeing",
+            "introduced": "2021",
+            "status": "Active",
+            "quantity": "3",
+            "role": ["VVIP Transport", "Head of State Travel"],
+            "special_features": ["Advanced communication suite", "Self-defense systems", "Air-to-air refueling capable"],
+            "funfact": "Called 'Air India One' when the President or PM is on board. These aircraft have the callsign 'Rajdoot' (Ambassador) and replaced the aging Boeing 747s."
+          },
+          {
+            "name": "Embraer ERJ 145 / Embraer 135",
+            "origin": "Brazil",
+            "type": "VIP/Executive Transport",
+            "manufacturer": "Embraer",
+            "introduced": "2005",
+            "status": "Active",
+            "quantity": "5 (approximately)",
+            "role": ["VIP Transport", "Executive Transport"],
+            "special_features": ["Long range", "Comfortable cabin"],
+            "funfact": "These aircraft serve as executive transport for senior military and government officials, providing point-to-point travel capability."
+          },
+          {
+            "name": "Airbus A319",
+            "origin": "France",
+            "type": "VIP Transport",
+            "manufacturer": "Airbus",
+            "introduced": "2016",
+            "status": "Active",
+            "quantity": "3",
+            "role": ["VIP Transport"],
+            "special_features": ["Long range", "Large cabin capacity"],
+            "funfact": "These Airbus jets serve as backup VVIP aircraft and are used for large delegation transport during international visits."
+          }
+        ],
+        "helicopters": [
+          {
+            "name": "Boeing AH-64E Apache",
+            "origin": "USA",
+            "type": "Attack Helicopter",
+            "manufacturer": "Boeing",
+            "introduced": "2019",
+            "status": "Active",
+            "quantity": "22",
+            "role": ["Anti-Armor", "Close Air Support", "Armed Reconnaissance"],
+            "max_speed": "293 km/h",
+            "range": "476 km",
+            "armament": ["Hellfire Missiles", "Hydra Rockets", "30mm Chain Gun", "Stinger AAM"],
+            "special_features": ["Longbow radar", "Fire-and-forget missiles", "Night operations"],
+            "funfact": "The Apache is considered the world's most lethal attack helicopter. India's Apaches are the most advanced 'AH-64E Guardian' variant with the latest Longbow radar."
+          },
+          {
+            "name": "Boeing CH-47F Chinook",
+            "origin": "USA",
+            "type": "Heavy-Lift Helicopter",
+            "manufacturer": "Boeing",
+            "introduced": "2019",
+            "status": "Active",
+            "quantity": "15",
+            "role": ["Heavy Lift", "Troop Transport", "Artillery Repositioning"],
+            "max_speed": "315 km/h",
+            "range": "741 km",
+            "payload": "10,886 kg",
+            "special_features": ["Tandem rotor design", "Can carry artillery pieces", "High altitude operations"],
+            "funfact": "Chinooks can lift the M777 ultra-light howitzers to remote mountain positions in minutes - a game-changer for India's mountain warfare capability."
+          },
+          {
+            "name": "Mil Mi-17 / Mi-17V-5",
+            "nato_reporting_name": "Hip",
+            "origin": "Russia",
+            "type": "Medium-Lift Helicopter",
+            "manufacturer": "Kazan Helicopters",
+            "introduced": "1985 (Mi-17), 2012 (V-5)",
+            "status": "Active",
+            "quantity": "200+ (approximately)",
+            "role": ["Troop Transport", "Cargo", "Armed Assault", "VIP Transport"],
+            "max_speed": "250 km/h",
+            "range": "580 km",
+            "payload": "4,000 kg",
+            "special_features": ["Versatile", "Armed variants available", "High altitude capable"],
+            "funfact": "The Mi-17 is the backbone of IAF helicopter fleet. It's been used in every operation from Kargil to disaster relief. One variant is specifically converted for PM's travel."
+          },
+          {
+            "name": "Mil Mi-26",
+            "nato_reporting_name": "Halo",
+            "origin": "Russia",
+            "type": "Heavy-Lift Helicopter",
+            "manufacturer": "Rostvertol",
+            "introduced": "1986",
+            "status": "Active",
+            "quantity": "4",
+            "role": ["Super Heavy Lift", "Disaster Relief"],
+            "max_speed": "295 km/h",
+            "range": "800 km",
+            "payload": "20,000 kg",
+            "special_features": ["Largest production helicopter in the world", "Can carry BMP vehicles"],
+            "funfact": "The Mi-26 is so large it can carry another helicopter inside! It's been used to airlift stranded vehicles and heavy machinery during floods."
+          },
+          {
+            "name": "Mil Mi-35",
+            "nato_reporting_name": "Hind-E",
+            "origin": "Russia",
+            "type": "Attack Helicopter",
+            "manufacturer": "Mil Moscow",
+            "introduced": "1990s",
+            "status": "Active",
+            "quantity": "10 (approximately)",
+            "role": ["Attack", "Troop Transport", "Fire Support"],
+            "max_speed": "310 km/h",
+            "range": "500 km",
+            "armament": ["Anti-tank missiles", "Rockets", "23mm cannon"],
+            "special_features": ["Can carry 8 troops", "Multi-role attack helicopter"],
+            "funfact": "The Mi-35 is unique - it's an attack helicopter that can also transport troops! Called 'flying tank' for its heavy armor and firepower."
+          },
+          {
+            "name": "HAL Dhruv (ALH)",
+            "origin": "India",
+            "type": "Multi-role Helicopter",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "introduced": "2002",
+            "status": "Active",
+            "quantity": "100+ (across all variants)",
+            "role": ["Utility", "Transport", "Observation", "Search and Rescue"],
+            "max_speed": "280 km/h",
+            "range": "800 km",
+            "special_features": ["Indigenous design", "High altitude capable", "Multiple variants"],
+            "funfact": "Dhruv means 'Pole Star' in Sanskrit. It's the first indigenous helicopter by HAL and forms the basis for the armed Rudra variant."
+          },
+          {
+            "name": "HAL Rudra (ALH WSI)",
+            "origin": "India",
+            "type": "Attack Helicopter",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "introduced": "2013",
+            "status": "Active",
+            "quantity": "76 ordered",
+            "role": ["Attack", "Anti-Armor", "Close Air Support"],
+            "max_speed": "280 km/h",
+            "range": "500 km",
+            "armament": ["Anti-tank missiles", "Rockets", "20mm cannon", "Air-to-air missiles"],
+            "special_features": ["Armed variant of Dhruv", "Indigenous weapon systems"],
+            "funfact": "Rudra means 'Fierce Form of Shiva'. It's India's first indigenous attack helicopter and bridges the gap until LCH Prachand is fully inducted."
+          },
+          {
+            "name": "HAL Light Combat Helicopter (LCH) Prachand",
+            "origin": "India",
+            "type": "Attack Helicopter",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "introduced": "2022",
+            "status": "Active",
+            "quantity": "15 ordered (with more planned)",
+            "role": ["Attack", "Anti-Armor", "High Altitude Operations"],
+            "max_speed": "268 km/h",
+            "range": "550 km",
+            "armament": ["Anti-tank missiles", "Rockets", "20mm turret gun"],
+            "special_features": ["World's only attack helicopter designed for high altitude", "Stealth features", "All-weather capable"],
+            "funfact": "Prachand means 'Fierce'. It's the world's only attack helicopter specifically designed for high-altitude mountain warfare at 5,000+ meters, perfect for Siachen!"
+          },
+          {
+            "name": "HAL Chetak",
+            "origin": "France/India",
+            "type": "Light Utility Helicopter",
+            "manufacturer": "HAL (license-built Alouette III)",
+            "introduced": "1965",
+            "status": "Active (Being phased out)",
+            "quantity": "30+ remaining",
+            "role": ["Training", "Utility", "Liaison"],
+            "max_speed": "210 km/h",
+            "range": "540 km",
+            "special_features": ["Reliable workhorse", "Simple maintenance"],
+            "funfact": "The Chetak has served IAF for over 55 years! It's license-built version of the French Alouette III and trained generations of helicopter pilots."
+          },
+          {
+            "name": "HAL Cheetah",
+            "origin": "France/India",
+            "type": "Light Utility Helicopter",
+            "manufacturer": "HAL (license-built Lama)",
+            "introduced": "1971",
+            "status": "Active (Being phased out)",
+            "quantity": "30+ remaining",
+            "role": ["High Altitude Operations", "Casualty Evacuation", "Supply"],
+            "max_speed": "192 km/h",
+            "range": "515 km",
+            "special_features": ["High altitude specialist", "Siachen operations"],
+            "funfact": "The Cheetah holds the world record for highest landing by a helicopter - at 7,500 meters on the slopes of Everest! It's the workhorse of Siachen operations."
+          },
+          {
+            "name": "HAL Light Utility Helicopter (LUH)",
+            "origin": "India",
+            "type": "Light Utility Helicopter",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "introduced": "2023 (Limited)",
+            "status": "Active (Initial batch)",
+            "quantity": "On order (187 planned)",
+            "role": ["Utility", "Reconnaissance", "Search and Rescue", "Light Transport"],
+            "max_speed": "260 km/h",
+            "range": "350 km",
+            "special_features": ["Glass cockpit", "High altitude capable", "Indigenous design"],
+            "funfact": "LUH is designed to replace aging Chetak and Cheetah helicopters. It can operate from Siachen Glacier to hot deserts - a true all-terrain helicopter."
+          }
+        ],
+        "trainer_aircraft": [
+          {
+            "name": "BAE Systems Hawk Mk.132",
+            "origin": "UK/India",
+            "type": "Advanced Jet Trainer",
+            "manufacturer": "BAE Systems/HAL",
+            "introduced": "2008",
+            "status": "Active",
+            "quantity": "106 (approximately)",
+            "role": ["Advanced Training", "Weapons Training", "Aerobatic Display"],
+            "max_speed": "1,028 km/h",
+            "range": "2,520 km",
+            "armament": ["Can carry bombs and missiles for weapons training"],
+            "special_features": ["Glass cockpit", "Combat capable", "Aerobatic team aircraft"],
+            "funfact": "The Hawk is used by the famous Surya Kiran Aerobatic Team and the aircraft involved in Balakot strikes were piloted by Hawk-trained pilots."
+          },
+          {
+            "name": "HAL HJT-36 Sitara",
+            "origin": "India",
+            "type": "Intermediate Jet Trainer",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "introduced": "Under development/Limited induction",
+            "status": "Development/Initial Operations",
+            "quantity": "Limited",
+            "role": ["Intermediate Training"],
+            "max_speed": "700 km/h",
+            "range": "1,000 km",
+            "special_features": ["Indigenous design", "Modern avionics"],
+            "funfact": "Sitara means 'Star' in Hindi. It's designed to bridge the gap between basic and advanced training, filling a critical void in IAF's training pipeline."
+          },
+          {
+            "name": "HAL HPT-32 Deepak",
+            "origin": "India",
+            "type": "Basic Trainer",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "introduced": "1984",
+            "status": "Grounded (Safety concerns)",
+            "quantity": "Was approximately 80",
+            "role": ["Basic Training"],
+            "max_speed": "267 km/h",
+            "range": "738 km",
+            "special_features": ["Fully aerobatic", "Indigenous"],
+            "funfact": "The HPT-32 was grounded in 2009 after multiple fatal crashes attributed to engine problems. It was the first indigenous trainer aircraft."
+          },
+          {
+            "name": "Pilatus PC-7 Mk.II",
+            "origin": "Switzerland",
+            "type": "Basic Trainer",
+            "manufacturer": "Pilatus Aircraft",
+            "introduced": "2013",
+            "status": "Active",
+            "quantity": "75",
+            "role": ["Basic Training", "Aerobatic Training"],
+            "max_speed": "556 km/h",
+            "range": "1,574 km",
+            "special_features": ["Pressurized cockpit", "Modern avionics", "Ejection seats"],
+            "funfact": "The Pilatus was purchased after the HPT-32 grounding created a training crisis. Ironically, its purchase was controversial due to alleged corruption."
+          },
+          {
+            "name": "HAL HTT-40",
+            "origin": "India",
+            "type": "Basic Trainer",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "introduced": "2023 (Initial batch)",
+            "status": "Active (Entering service)",
+            "quantity": "70 ordered",
+            "role": ["Basic Training"],
+            "max_speed": "450 km/h",
+            "range": "1,000 km",
+            "special_features": ["Indigenous design", "Glass cockpit", "Zero-zero ejection seats"],
+            "funfact": "HTT-40 was developed to replace foreign basic trainers and reduce import dependency. It's fully aerobatic and can train pilots for all stages."
+          },
+          {
+            "name": "Kiran (HAL HJT-16)",
+            "origin": "India",
+            "type": "Intermediate Jet Trainer",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "introduced": "1968",
+            "status": "Active (Being phased out)",
+            "quantity": "Less than 50 remaining",
+            "role": ["Intermediate Training", "Weapons Training"],
+            "max_speed": "695 km/h",
+            "range": "760 km",
+            "armament": ["Light weapons for training"],
+            "special_features": ["First indigenous jet trainer", "Aerobatic capable"],
+            "funfact": "The Kiran was India's first indigenous jet trainer and served for over 50 years! It was used by the Surya Kiran team before Hawks replaced them."
+          }
+        ],
+        "uav_drones": [
+          {
+            "name": "IAI Heron",
+            "origin": "Israel",
+            "type": "Medium Altitude Long Endurance (MALE) UAV",
+            "manufacturer": "Israel Aerospace Industries",
+            "introduced": "2001",
+            "status": "Active",
+            "quantity": "50+ (approximately)",
+            "role": ["Surveillance", "Reconnaissance", "Intelligence Gathering"],
+            "max_speed": "207 km/h",
+            "endurance": "52 hours",
+            "range": "350 km (control range)",
+            "special_features": ["Long endurance", "Multiple sensor payloads"],
+            "funfact": "Heron UAVs have been used extensively along the India-Pakistan and India-China borders. They provided crucial intelligence during the 2020 Ladakh standoff."
+          },
+          {
+            "name": "IAI Harop",
+            "origin": "Israel",
+            "type": "Loitering Munition (Kamikaze Drone)",
+            "manufacturer": "Israel Aerospace Industries",
+            "introduced": "2010s",
+            "status": "Active",
+            "quantity": "Classified (estimated 100+)",
+            "role": ["Suppression of Enemy Air Defenses (SEAD)", "Precision Strike"],
+            "max_speed": "417 km/h",
+            "endurance": "9 hours",
+            "range": "1,000 km",
+            "special_features": ["Autonomous target acquisition", "Can loiter and strike", "Anti-radar"],
+            "funfact": "Harop is a 'suicide drone' that destroys enemy radar by diving into them. It was used by Azerbaijan against Armenian air defenses with devastating effect."
+          },
+          {
+            "name": "IAI Searcher II",
+            "origin": "Israel",
+            "type": "Tactical UAV",
+            "manufacturer": "Israel Aerospace Industries",
+            "introduced": "2000s",
+            "status": "Active",
+            "quantity": "80+ (approximately)",
+            "role": ["Surveillance", "Artillery Spotting", "Border Patrol"],
+            "max_speed": "200 km/h",
+            "endurance": "18 hours",
+            "range": "250 km",
+            "special_features": ["Day/night cameras", "Real-time video"],
+            "funfact": "Searcher II has been the workhorse UAV for IAF's tactical reconnaissance. It played a key role in post-surgical strike damage assessment in 2016."
+          },
+          {
+            "name": "DRDO Rustom-2 (TAPAS-BH-201)",
+            "origin": "India",
+            "type": "Medium Altitude Long Endurance (MALE) UAV",
+            "manufacturer": "DRDO/ADE",
+            "introduced": "Under development/Testing",
+            "status": "Development",
+            "quantity": "Prototypes",
+            "role": ["Surveillance", "Reconnaissance", "Potential Strike"],
+            "max_speed": "225 km/h",
+            "endurance": "24+ hours",
+            "range": "250 km (control range)",
+            "special_features": ["Indigenous MALE UAV", "Potential armed variant"],
+            "funfact": "TAPAS (Tactical Airborne Platform for Aerial Surveillance) is India's answer to imported drones. It aims to match capabilities of Israeli Heron."
+          },
+          {
+            "name": "DRDO Lakshya",
+            "origin": "India",
+            "type": "Pilotless Target Aircraft",
+            "manufacturer": "DRDO/ADE",
+            "introduced": "2000",
+            "status": "Active",
+            "quantity": "100+ (produced)",
+            "role": ["Target Practice", "Weapons Testing", "Decoy"],
+            "max_speed": "Mach 0.7",
+            "endurance": "45 minutes",
+            "range": "150 km",
+            "special_features": ["Reusable target drone", "Can simulate enemy aircraft"],
+            "funfact": "Lakshya means 'Target' in Sanskrit. It's designed to be shot down during practice! But it's also recoverable and reusable up to 5 times."
+          },
+          {
+            "name": "DRDO Abhyas",
+            "origin": "India",
+            "type": "High-Speed Expendable Aerial Target (HEAT)",
+            "manufacturer": "DRDO/ADE",
+            "introduced": "Testing (2020s)",
+            "status": "Development/Testing",
+            "quantity": "Prototypes",
+            "role": ["Target for air defense systems", "Missile testing"],
+            "max_speed": "Mach 0.5+",
+            "special_features": ["Low cost", "Expendable", "Can simulate cruise missiles"],
+            "funfact": "Abhyas means 'Practice' in Sanskrit. It's designed to be an affordable target drone for testing India's air defense systems like Akash."
+          },
+          {
+            "name": "General Atomics MQ-9B Predator (On order)",
+            "origin": "USA",
+            "type": "High Altitude Long Endurance (HALE) Armed UAV",
+            "manufacturer": "General Atomics",
+            "introduced": "On order (as of 2023)",
+            "status": "Ordered",
+            "quantity": "31 ordered",
+            "role": ["Armed Reconnaissance", "Precision Strike", "Maritime Patrol"],
+            "max_speed": "442 km/h",
+            "endurance": "40+ hours",
+            "range": "6,000+ km",
+            "armament": ["Hellfire Missiles", "GBU-12 bombs", "JDAM"],
+            "special_features": ["Armed capability", "Maritime and land surveillance", "All-weather"],
+            "funfact": "The MQ-9B will be India's first armed drone, capable of eliminating targets across borders. This $3 billion deal includes both Sea Guardian and Sky Guardian variants."
+          }
+        ],
+        "special_mission_aircraft": [
+          {
+            "name": "Dassault Falcon 2000",
+            "origin": "France",
+            "type": "Electronic Intelligence (ELINT)",
+            "manufacturer": "Dassault Aviation",
+            "introduced": "2019",
+            "status": "Active",
+            "quantity": "3 (with sensors by DRDO)",
+            "role": ["Electronic Intelligence", "Signal Intelligence"],
+            "special_features": ["Custom DRDO sensors", "Long range"],
+            "funfact": "These aircraft are part of Project 'Saraswati' and can intercept and analyze enemy communications and radar signals from standoff distances."
+          },
+          {
+            "name": "Gulfstream III / IV",
+            "origin": "USA",
+            "type": "Electronic Intelligence / Survey",
+            "manufacturer": "Gulfstream Aerospace",
+            "introduced": "1990s",
+            "status": "Active",
+            "quantity": "4 (approximately)",
+            "role": ["ELINT", "Survey", "VIP Transport"],
+            "special_features": ["Modified for intelligence gathering", "Long range"],
+            "funfact": "These modified business jets carry classified electronic warfare equipment and have been used for sensitive intelligence missions along India's borders."
+          },
+          {
+            "name": "Boeing P-8I Poseidon (Indian Navy)",
+            "origin": "USA",
+            "type": "Maritime Patrol and ASW",
+            "manufacturer": "Boeing",
+            "introduced": "2013",
+            "status": "Active (Navy, but supports IAF)",
+            "quantity": "12 (Indian Navy)",
+            "role": ["Maritime Patrol", "Anti-Submarine Warfare", "ISR"],
+            "special_features": ["Advanced sensors", "Torpedo and missile capability"],
+            "funfact": "Though operated by the Navy, P-8Is coordinate with IAF for maritime domain awareness. They detected a Pakistani submarine during heightened tensions in 2019."
+          }
+        ]
+      },
+      "decommissioned": {
+        "fighter_aircraft": [
+          {
+            "name": "Supermarine Spitfire",
+            "origin": "UK",
+            "type": "Fighter",
+            "manufacturer": "Supermarine",
+            "service_period": "1947-1954",
+            "status": "Decommissioned",
+            "quantity_operated": "20+",
+            "role": ["Air Defense", "Ground Attack"],
+            "funfact": "The legendary Spitfire was among the first aircraft of the newly independent Indian Air Force. It saw action in the 1947-48 Kashmir War."
+          },
+          {
+            "name": "Hawker Tempest",
+            "origin": "UK",
+            "type": "Fighter-Bomber",
+            "manufacturer": "Hawker Aircraft",
+            "service_period": "1947-1953",
+            "status": "Decommissioned",
+            "quantity_operated": "89",
+            "role": ["Fighter", "Ground Attack"],
+            "funfact": "The Tempest was the most powerful piston-engine fighter in IAF service. It provided crucial ground support during the 1947 Kashmir operations."
+          },
+          {
+            "name": "Hawker Hurricane",
+            "origin": "UK",
+            "type": "Fighter",
+            "manufacturer": "Hawker Aircraft",
+            "service_period": "1942-1948",
+            "status": "Decommissioned",
+            "quantity_operated": "100+",
+            "role": ["Fighter", "Ground Attack", "Reconnaissance"],
+            "funfact": "The Hurricane was the first modern fighter in IAF service. It fought alongside Spitfires in WWII as part of the Royal Indian Air Force against Japan."
+          },
+          {
+            "name": "de Havilland Vampire",
+            "origin": "UK",
+            "type": "Jet Fighter",
+            "manufacturer": "de Havilland",
+            "service_period": "1948-1965",
+            "status": "Decommissioned",
+            "quantity_operated": "285",
+            "role": ["Fighter", "Ground Attack", "Training"],
+            "funfact": "The Vampire was IAF's first jet aircraft! It had a unique twin-boom design and saw extensive action in the 1947-48 Kashmir War."
+          },
+          {
+            "name": "de Havilland Mosquito",
+            "origin": "UK",
+            "type": "Light Bomber/Reconnaissance",
+            "manufacturer": "de Havilland",
+            "service_period": "1946-1952",
+            "status": "Decommissioned",
+            "quantity_operated": "34",
+            "role": ["Reconnaissance", "Light Bombing"],
+            "funfact": "The 'Wooden Wonder' was made mostly of wood! It was one of the fastest aircraft in IAF service during its time and used for photo reconnaissance."
+          },
+          {
+            "name": "Dassault Ouragan (Toofani)",
+            "origin": "France",
+            "type": "Fighter-Bomber",
+            "manufacturer": "Dassault Aviation",
+            "service_period": "1954-1967",
+            "status": "Decommissioned",
+            "quantity_operated": "104",
+            "role": ["Ground Attack", "Fighter"],
+            "funfact": "Called 'Toofani' (Stormy) in IAF service, this was India's first French aircraft purchase. It saw action in the 1965 war against Pakistan."
+          },
+          {
+            "name": "Dassault Mystère IV",
+            "origin": "France",
+            "type": "Fighter-Bomber",
+            "manufacturer": "Dassault Aviation",
+            "service_period": "1957-1973",
+            "status": "Decommissioned",
+            "quantity_operated": "110",
+            "role": ["Ground Attack", "Air Combat"],
+            "funfact": "Mystère IVs were the stars of the 1965 and 1971 wars. Squadron Leader Trevor Keelor shot down a Pakistani F-86 Sabre in a Mystère, becoming a national hero."
+          },
+          {
+            "name": "Hawker Hunter",
+            "origin": "UK",
+            "type": "Fighter",
+            "manufacturer": "Hawker Aircraft",
+            "service_period": "1957-1980s",
+            "status": "Decommissioned",
+            "quantity_operated": "160+",
+            "role": ["Fighter", "Ground Attack"],
+            "funfact": "The Hunter was the most elegant fighter in IAF service. In 1971, four Hunters destroyed over 50 Pakistani tanks in a single mission during the Battle of Longewala!"
+          },
+          {
+            "name": "Folland Gnat",
+            "origin": "UK/India",
+            "type": "Light Fighter",
+            "manufacturer": "Folland/HAL",
+            "service_period": "1958-1978",
+            "status": "Decommissioned",
+            "quantity_operated": "175+ (including Ajeet)",
+            "role": ["Interceptor", "Dogfighter"],
+            "funfact": "The tiny Gnat was called 'Sabre Slayer' for shooting down multiple Pakistani F-86 Sabres in 1965. It was so nimble that larger jets couldn't keep up!"
+          },
+          {
+            "name": "HAL Ajeet",
+            "origin": "India",
+            "type": "Light Fighter",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "service_period": "1977-1991",
+            "status": "Decommissioned",
+            "quantity_operated": "79",
+            "role": ["Interceptor", "Ground Attack"],
+            "funfact": "Ajeet means 'Unconquerable' in Sanskrit. It was an indigenously improved version of the Gnat and was India's first modified/developed fighter jet."
+          },
+          {
+            "name": "English Electric Canberra",
+            "origin": "UK",
+            "type": "Bomber/Reconnaissance",
+            "manufacturer": "English Electric",
+            "service_period": "1957-2007",
+            "status": "Decommissioned",
+            "quantity_operated": "100+",
+            "role": ["Bomber", "Reconnaissance", "Target Towing"],
+            "funfact": "The Canberra served IAF for 50 years! A Canberra piloted by Sqn Ldr Manmohan Sehgal was the first IAF aircraft to land in Srinagar during the 1947 war."
+          },
+          {
+            "name": "Mikoyan-Gurevich MiG-21 (Original variants)",
+            "nato_reporting_name": "Fishbed",
+            "origin": "Russia",
+            "type": "Interceptor",
+            "manufacturer": "Mikoyan-Gurevich/HAL",
+            "service_period": "1963-Ongoing (variants)",
+            "status": "Original variants decommissioned",
+            "quantity_operated": "872 (total all variants)",
+            "role": ["Interceptor", "Ground Attack"],
+            "funfact": "The MiG-21 is the most produced supersonic fighter in history! Flying Officer Nirmal Jit Singh Sekhon won India's only wartime Param Vir Chakra fighting Sabres in a MiG-21."
+          },
+          {
+            "name": "Mikoyan-Gurevich MiG-23",
+            "nato_reporting_name": "Flogger",
+            "origin": "Russia",
+            "type": "Variable Geometry Fighter",
+            "manufacturer": "Mikoyan-Gurevich",
+            "service_period": "1980-2009",
+            "status": "Decommissioned",
+            "quantity_operated": "95",
+            "role": ["Interception", "Ground Attack"],
+            "funfact": "The MiG-23 was India's first variable-sweep wing ('swing wing') aircraft. Its wings could change angle from 16° to 72° during flight for different speeds!"
+          },
+          {
+            "name": "Mikoyan-Gurevich MiG-25",
+            "nato_reporting_name": "Foxbat",
+            "origin": "Russia",
+            "type": "High Altitude Interceptor/Reconnaissance",
+            "manufacturer": "Mikoyan-Gurevich",
+            "service_period": "1981-2006",
+            "status": "Decommissioned",
+            "quantity_operated": "8",
+            "role": ["Reconnaissance", "High Altitude Interception"],
+            "max_speed": "Mach 2.83 (over 3,000 km/h)",
+            "funfact": "The MiG-25 'Foxbat' was the fastest aircraft in IAF! It flew over Pakistan at 65,000+ feet altitude where no Pakistani interceptor could reach it."
+          },
+          {
+            "name": "Mikoyan-Gurevich MiG-27",
+            "nato_reporting_name": "Flogger-D/J",
+            "origin": "Russia/India",
+            "type": "Ground Attack",
+            "manufacturer": "Mikoyan-Gurevich/HAL",
+            "service_period": "1985-2019",
+            "status": "Decommissioned",
+            "quantity_operated": "165",
+            "role": ["Ground Attack", "Close Air Support"],
+            "armament": ["Bombs", "Rockets", "GSh-6-30 cannon"],
+            "funfact": "The MiG-27 was called 'Bahadur' (Brave) in IAF. Its fearsome GSh-6-30 cannon fired so fast (6,000 rounds/minute) that its recoil could slow the aircraft!"
+          },
+          {
+            "name": "Sukhoi Su-7",
+            "nato_reporting_name": "Fitter-A",
+            "origin": "Russia",
+            "type": "Ground Attack",
+            "manufacturer": "Sukhoi",
+            "service_period": "1968-1985",
+            "status": "Decommissioned",
+            "quantity_operated": "140+",
+            "role": ["Ground Attack"],
+            "funfact": "The Su-7 was the backbone of IAF's ground attack force in 1971 war. It destroyed countless Pakistani tanks and positions despite high losses."
+          },
+          {
+            "name": "HAL Marut",
+            "origin": "India",
+            "type": "Fighter-Bomber",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "service_period": "1967-1985",
+            "status": "Decommissioned",
+            "quantity_operated": "147",
+            "role": ["Ground Attack", "Interception"],
+            "funfact": "The Marut (Spirit of the Storm) was India's first indigenously designed and built jet fighter! Designed by German Kurt Tank who designed the WWII Focke-Wulf Fw 190."
+          },
+          {
+            "name": "North American F-86 Sabre",
+            "origin": "USA",
+            "type": "Fighter",
+            "manufacturer": "North American Aviation",
+            "service_period": "Brief evaluation only",
+            "status": "Not inducted (Evaluated)",
+            "quantity_operated": "0 (Evaluation only)",
+            "role": ["Fighter"],
+            "funfact": "India evaluated the F-86 but didn't procure it. Ironically, it became IAF's primary adversary - Pakistan operated them and lost many to IAF's Gnats and Hunters!"
+          }
+        ],
+        "transport_aircraft": [
+          {
+            "name": "Douglas C-47 Dakota",
+            "origin": "USA",
+            "type": "Transport",
+            "manufacturer": "Douglas Aircraft Company",
+            "service_period": "1947-1988",
+            "status": "Decommissioned",
+            "quantity_operated": "200+",
+            "role": ["Transport", "Paratroop", "VIP"],
+            "funfact": "The Dakota was the first aircraft to land in Srinagar in 1947, carrying Indian troops to defend against Pakistani raiders. It served IAF for 41 years!"
+          },
+          {
+            "name": "Douglas C-54 Skymaster",
+            "origin": "USA",
+            "type": "Transport",
+            "manufacturer": "Douglas Aircraft Company",
+            "service_period": "1948-1960s",
+            "status": "Decommissioned",
+            "quantity_operated": "6",
+            "role": ["VIP Transport", "Long Range Transport"],
+            "funfact": "The C-54 was used for VVIP transport including carrying India's first President. It was the largest aircraft in early IAF service."
+          },
+          {
+            "name": "Fairchild C-119 Packet",
+            "origin": "USA",
+            "type": "Transport",
+            "manufacturer": "Fairchild",
+            "service_period": "1954-1983",
+            "status": "Decommissioned",
+            "quantity_operated": "60+",
+            "role": ["Transport", "Paratroop", "Cargo"],
+            "funfact": "The C-119 'Flying Boxcar' could open its entire tail for loading. It dropped supplies to trapped troops during the 1962 Sino-Indian War in freezing Himalayan conditions."
+          },
+          {
+            "name": "Antonov An-12",
+            "nato_reporting_name": "Cub",
+            "origin": "Russia",
+            "type": "Transport",
+            "manufacturer": "Antonov",
+            "service_period": "1961-2012",
+            "status": "Decommissioned",
+            "quantity_operated": "80+",
+            "role": ["Transport", "Paradrop", "Cargo"],
+            "funfact": "The An-12 was the workhorse before the Il-76. It was used for the famous Tangail airdrop in 1971, the largest IAF paradrop operation in history."
+          },
+          {
+            "name": "de Havilland Canada DHC-4 Caribou",
+            "origin": "Canada",
+            "type": "STOL Transport",
+            "manufacturer": "de Havilland Canada",
+            "service_period": "1963-1988",
+            "status": "Decommissioned",
+            "quantity_operated": "20",
+            "role": ["Short Field Transport", "Mountain Operations"],
+            "funfact": "The Caribou could land on incredibly short runways in the mountains. It supplied remote Himalayan posts that no other aircraft could reach."
+          },
+          {
+            "name": "de Havilland Canada DHC-3 Otter",
+            "origin": "Canada",
+            "type": "Light Transport",
+            "manufacturer": "de Havilland Canada",
+            "service_period": "1960s-1980s",
+            "status": "Decommissioned",
+            "quantity_operated": "40+",
+            "role": ["Light Transport", "Utility"],
+            "funfact": "The Otter was perfect for remote operations. It could take off and land on grassfields, beaches, and unprepared strips in the Northeast."
+          },
+          {
+            "name": "Hawker Siddeley HS 748 (Avro)",
+            "origin": "UK/India",
+            "type": "Transport",
+            "manufacturer": "Hawker Siddeley/HAL",
+            "service_period": "1964-2016",
+            "status": "Decommissioned",
+            "quantity_operated": "89",
+            "role": ["Transport", "VIP", "Training"],
+            "funfact": "The HS 748 was license-built by HAL and called 'Avro' in IAF. It served for over 50 years and was the primary aircraft for transporting senior officers."
+          },
+          {
+            "name": "Boeing 737",
+            "origin": "USA",
+            "type": "VIP Transport",
+            "manufacturer": "Boeing",
+            "service_period": "1985-2014",
+            "status": "Decommissioned",
+            "quantity_operated": "3",
+            "role": ["VVIP Transport"],
+            "funfact": "These were modified Boeing 737s for PM and President's travel. One aircraft was reportedly in poor condition when transferred from Indian Airlines!"
+          },
+          {
+            "name": "Boeing 707",
+            "origin": "USA",
+            "type": "VIP Transport",
+            "manufacturer": "Boeing",
+            "service_period": "1970s-1990s",
+            "status": "Decommissioned",
+            "quantity_operated": "2",
+            "role": ["VVIP Transport"],
+            "funfact": "The Boeing 707 was the prestigious VVIP aircraft that carried PMs across the world. It was eventually replaced by Boeing 747s."
+          },
+          {
+            "name": "Boeing 747-400",
+            "origin": "USA",
+            "type": "VVIP Transport",
+            "manufacturer": "Boeing",
+            "service_period": "2003-2018",
+            "status": "Decommissioned",
+            "quantity_operated": "2",
+            "role": ["Head of State Transport"],
+            "funfact": "Called 'Air India One', these 747s carried the PM and President globally. They were finally replaced by Boeing 777 and 737 BBJs."
+          }
+        ],
+        "helicopters": [
+          {
+            "name": "Sikorsky S-55",
+            "origin": "USA",
+            "type": "Utility Helicopter",
+            "manufacturer": "Sikorsky",
+            "service_period": "1954-1970s",
+            "status": "Decommissioned",
+            "quantity_operated": "30+",
+            "role": ["Transport", "Rescue"],
+            "funfact": "The S-55 was IAF's first helicopter! It had a unique nose-mounted radial engine and was used for the first helicopter operations in the Himalayas."
+          },
+          {
+            "name": "Sikorsky H-19",
+            "origin": "USA",
+            "type": "Utility Helicopter",
+            "manufacturer": "Sikorsky",
+            "service_period": "1950s-1970s",
+            "status": "Decommissioned",
+            "quantity_operated": "40+",
+            "role": ["Transport", "Casualty Evacuation"],
+            "funfact": "The H-19 was the workhorse of early IAF helicopter operations. It rescued countless soldiers and civilians in the mountainous Northeast."
+          },
+          {
+            "name": "Mil Mi-4",
+            "nato_reporting_name": "Hound",
+            "origin": "Russia",
+            "type": "Transport Helicopter",
+            "manufacturer": "Mil Moscow",
+            "service_period": "1960-1989",
+            "status": "Decommissioned",
+            "quantity_operated": "100+",
+            "role": ["Transport", "Armed Assault"],
+            "funfact": "The Mi-4 was India's first armed helicopter. It saw action in the 1971 war, attacking Pakistani positions with rockets and machine guns."
+          },
+          {
+            "name": "Mil Mi-8",
+            "nato_reporting_name": "Hip",
+            "origin": "Russia",
+            "type": "Transport Helicopter",
+            "manufacturer": "Mil Moscow",
+            "service_period": "1971-1990s",
+            "status": "Decommissioned (Upgraded to Mi-17)",
+            "quantity_operated": "120+",
+            "role": ["Transport", "Assault"],
+            "funfact": "The Mi-8 was the predecessor to the Mi-17 and established the template for Soviet/Russian medium helicopters. Many were later upgraded to Mi-17 standard."
+          },
+          {
+            "name": "Westland Sea King (HAL)",
+            "origin": "UK/India",
+            "type": "Multi-role Helicopter",
+            "manufacturer": "Westland/HAL",
+            "service_period": "1971-2010s",
+            "status": "Decommissioned",
+            "quantity_operated": "60+ (mostly Navy)",
+            "role": ["Transport", "VIP", "SAR"],
+            "funfact": "The Sea King was the VVIP helicopter for the President and PM for decades. A white Sea King with the Ashoka emblem was an iconic sight at Rashtrapati Bhavan."
+          },
+          {
+            "name": "Bell 47",
+            "origin": "USA",
+            "type": "Light Helicopter",
+            "manufacturer": "Bell Helicopter",
+            "service_period": "1950s-1970s",
+            "status": "Decommissioned",
+            "quantity_operated": "30+",
+            "role": ["Training", "Observation", "Liaison"],
+            "funfact": "The Bell 47 with its distinctive bubble canopy trained early IAF helicopter pilots. It's the iconic helicopter seen in old movies and TV shows worldwide."
+          }
+        ],
+        "trainer_aircraft": [
+          {
+            "name": "de Havilland Tiger Moth",
+            "origin": "UK",
+            "type": "Basic Trainer",
+            "manufacturer": "de Havilland",
+            "service_period": "1932-1960s",
+            "status": "Decommissioned",
+            "quantity_operated": "100+",
+            "role": ["Primary Training"],
+            "funfact": "The Tiger Moth was the first aircraft type in the Royal Indian Air Force! Founded on 8 October 1932, the IAF started with just 4 pilots and 6 Tiger Moths."
+          },
+          {
+            "name": "North American T-6 Harvard/Texan",
+            "origin": "USA",
+            "type": "Advanced Trainer",
+            "manufacturer": "North American Aviation",
+            "service_period": "1940s-1970s",
+            "status": "Decommissioned",
+            "quantity_operated": "200+",
+            "role": ["Advanced Training"],
+            "funfact": "The Harvard trained more WWII pilots than any other aircraft! Generations of IAF pilots learned to fly in this legendary trainer."
+          },
+          {
+            "name": "de Havilland Chipmunk",
+            "origin": "UK",
+            "type": "Basic Trainer",
+            "manufacturer": "de Havilland",
+            "service_period": "1950s-1980s",
+            "status": "Decommissioned",
+            "quantity_operated": "75",
+            "role": ["Primary Training"],
+            "funfact": "The Chipmunk was used by Air Force Academy for decades. It's still flown by flying clubs and is beloved for its gentle handling."
+          },
+          {
+            "name": "Percival Prentice",
+            "origin": "UK",
+            "type": "Basic Trainer",
+            "manufacturer": "Percival Aircraft",
+            "service_period": "1948-1960s",
+            "status": "Decommissioned",
+            "quantity_operated": "55",
+            "role": ["Basic Training"],
+            "funfact": "The Prentice was a side-by-side seater that allowed instructor and student to sit together. It was used for initial pilot selection."
+          },
+          {
+            "name": "HAL HT-2",
+            "origin": "India",
+            "type": "Basic Trainer",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "service_period": "1953-1990s",
+            "status": "Decommissioned",
+            "quantity_operated": "160",
+            "role": ["Primary Training"],
+            "funfact": "The HT-2 was the first aircraft designed and built in India! It trained over 2,000 IAF pilots during its service life."
+          },
+          {
+            "name": "HAL Pushpak",
+            "origin": "India",
+            "type": "Light Trainer/Touring",
+            "manufacturer": "Hindustan Aeronautics Limited",
+            "service_period": "1958-1970s",
+            "status": "Decommissioned",
+            "quantity_operated": "154 (mostly civilian)",
+            "role": ["Basic Training", "Touring"],
+            "funfact": "Pushpak means 'Mythical Flying Vehicle' from the Ramayana. Though mostly civilian, some were used for IAF flying clubs."
+          },
+          {
+            "name": "Iskra TS-11",
+            "origin": "Poland",
+            "type": "Jet Trainer",
+            "manufacturer": "PZL Mielec",
+            "service_period": "1975-1990s",
+            "status": "Decommissioned",
+            "quantity_operated": "50",
+            "role": ["Intermediate Jet Training"],
+            "funfact": "The Polish Iskra (Spark) was a stop-gap trainer before Kiran became fully operational. It introduced many pilots to jet flying."
+          }
+        ],
+        "bomber_aircraft": [
+          {
+            "name": "Consolidated B-24 Liberator",
+            "origin": "USA",
+            "type": "Heavy Bomber",
+            "manufacturer": "Consolidated Aircraft",
+            "service_period": "1942-1948",
+            "status": "Decommissioned",
+            "quantity_operated": "40+",
+            "role": ["Strategic Bombing", "Maritime Patrol"],
+            "funfact": "The B-24 was the largest aircraft in early IAF service. It was used to bomb Japanese positions in Burma during WWII as part of Royal Indian Air Force."
+          },
+          {
+            "name": "Tupolev Tu-142",
+            "nato_reporting_name": "Bear-F",
+            "origin": "Russia",
+            "type": "Maritime Patrol/Anti-Submarine",
+            "manufacturer": "Tupolev",
+            "service_period": "1988-2017",
+            "status": "Decommissioned (Indian Navy)",
+            "quantity_operated": "8",
+            "role": ["Maritime Patrol", "Anti-Submarine Warfare"],
+            "funfact": "Though operated by the Navy, the Tu-142 deserves mention. It was the largest aircraft in Indian military service and could patrol for 12+ hours non-stop!"
+          }
+        ],
+        "reconnaissance_aircraft": [
+          {
+            "name": "de Havilland Mosquito PR.34",
+            "origin": "UK",
+            "type": "Photo Reconnaissance",
+            "manufacturer": "de Havilland",
+            "service_period": "1946-1952",
+            "status": "Decommissioned",
+            "quantity_operated": "10+",
+            "role": ["Photo Reconnaissance"],
+            "funfact": "The Mosquito PR.34 was the unarmed reconnaissance version of the famous 'Wooden Wonder'. It flew high-altitude photo missions over uncharted territory."
+          },
+          {
+            "name": "Lockheed P-2 Neptune",
+            "origin": "USA",
+            "type": "Maritime Patrol",
+            "manufacturer": "Lockheed",
+            "service_period": "1960s-1970s",
+            "status": "Decommissioned",
+            "quantity_operated": "8",
+            "role": ["Maritime Reconnaissance"],
+            "funfact": "The Neptune was primarily operated by the Indian Navy but provided maritime reconnaissance support. It was the first dedicated maritime patrol aircraft."
+          }
+        ]
+      }
+    },
+    "missiles_and_weapons": {
+      "air_to_air_missiles": [
+        {
+          "name": "MBDA Meteor",
+          "origin": "Europe",
+          "type": "Beyond Visual Range (BVR)",
+          "range": "150+ km",
+          "platform": "Rafale",
+          "funfact": "The Meteor is considered the world's most advanced BVR missile with a 'no-escape zone' three times larger than competitors."
+        },
+        {
+          "name": "MBDA MICA",
+          "origin": "France",
+          "type": "BVR/WVR",
+          "range": "80 km",
+          "platform": "Rafale, Mirage 2000",
+          "funfact": "MICA comes in radar and infrared variants, making it extremely versatile for both close combat and long-range engagement."
+        },
+        {
+          "name": "Vympel R-77 (RVV-AE)",
+          "nato_reporting_name": "AA-12 Adder",
+          "origin": "Russia",
+          "type": "BVR",
+          "range": "80-110 km",
+          "platform": "Su-30MKI, MiG-29",
+          "funfact": "The R-77 with its distinctive lattice fins is the primary BVR weapon for IAF's Russian-origin fighters."
+        },
+        {
+          "name": "Vympel R-73",
+          "nato_reporting_name": "AA-11 Archer",
+          "origin": "Russia",
+          "type": "Within Visual Range (WVR)",
+          "range": "30 km",
+          "platform": "Su-30MKI, MiG-29, MiG-21",
+          "funfact": "The R-73 can be targeted using the pilot's helmet - wherever the pilot looks, the missile goes! Wing Cdr Abhinandan used this to shoot down a Pakistani F-16."
+        },
+        {
+          "name": "MBDA ASRAAM",
+          "origin": "UK",
+          "type": "WVR",
+          "range": "25 km",
+          "platform": "Tejas, Jaguar",
+          "funfact": "ASRAAM is one of the most maneuverable short-range missiles, capable of engaging targets behind the launching aircraft."
+        },
+        {
+          "name": "Rafael Python-5",
+          "origin": "Israel",
+          "type": "WVR",
+          "range": "20 km",
+          "platform": "Tejas",
+          "funfact": "The Python-5 is a 5th generation missile with full-sphere engagement capability - it can hit targets in any direction around the aircraft."
+        },
+        {
+          "name": "Rafael Derby",
+          "origin": "Israel",
+          "type": "BVR",
+          "range": "50 km",
+          "platform": "Tejas",
+          "funfact": "The Derby gives Tejas credible BVR capability and is being replaced by the indigenous Astra missile."
+        },
+        {
+          "name": "DRDO Astra",
+          "origin": "India",
+          "type": "BVR",
+          "range": "110 km (Mk1), 160 km (Mk2)",
+          "platform": "Su-30MKI, Tejas, MiG-29",
+          "funfact": "Astra is India's first indigenous BVR missile. Astra Mk2 will have range exceeding 150 km, putting it in the same class as the Meteor."
+        }
+      ],
+      "air_to_ground_missiles": [
+        {
+          "name": "BrahMos-A",
+          "origin": "India-Russia",
+          "type": "Supersonic Cruise Missile",
+          "range": "290-500 km",
+          "speed": "Mach 2.8",
+          "platform": "Su-30MKI",
+          "funfact": "BrahMos is the world's fastest cruise missile! The air-launched version makes the Su-30MKI one of the most lethal strike aircraft globally."
+        },
+        {
+          "name": "MBDA SCALP / Storm Shadow",
+          "origin": "France/UK",
+          "type": "Stand-off Cruise Missile",
+          "range": "560 km",
+          "platform": "Rafale",
+          "funfact": "SCALP gives Rafale deep strike capability to hit fortified bunkers from safe distance. It uses terrain-following flight to avoid radar detection."
+        },
+        {
+          "name": "DRDO NGARM (Rudram-1)",
+          "origin": "India",
+          "type": "Anti-Radiation Missile",
+          "range": "100+ km",
+          "platform": "Su-30MKI",
+          "funfact": "Rudram is India's first indigenous anti-radiation missile that can home in on enemy radars and destroy them."
+        },
+        {
+          "name": "Kh-31",
+          "nato_reporting_name": "AS-17 Krypton",
+          "origin": "Russia",
+          "type": "Anti-Radiation/Anti-Ship Missile",
+          "range": "110 km",
+          "platform": "Su-30MKI",
+          "funfact": "The Kh-31 is one of the few supersonic anti-radar missiles in the world, flying at Mach 3.5 to destroy enemy air defenses."
+        },
+        {
+          "name": "Kh-29",
+          "nato_reporting_name": "AS-14 Kedge",
+          "origin": "Russia",
+          "type": "Air-to-Ground Tactical Missile",
+          "range": "30 km",
+          "platform": "Su-30MKI, MiG-27 (retired)",
+          "funfact": "The Kh-29 is a heavy tactical missile that can destroy hardened targets like bunkers and bridges."
+        }
+      ],
+      "bombs_and_guided_munitions": [
+        {
+          "name": "SPICE 2000",
+          "origin": "Israel",
+          "type": "Precision Guided Bomb",
+          "weight": "2,000 lb",
+          "platform": "Mirage 2000",
+          "funfact": "SPICE 2000 was used in the 2019 Balakot airstrikes. It can glide 60 km to target and hit within 3 meters accuracy."
+        },
+        {
+          "name": "HAMMER (AASM)",
+          "origin": "France",
+          "type": "Precision Guided Bomb",
+          "weight": "250-1000 kg variants",
+          "platform": "Rafale",
+          "funfact": "HAMMER has both GPS and infrared guidance, making it effective against moving targets. It can be released from any altitude."
+        },
+        {
+          "name": "Paveway II/III LGB",
+          "origin": "USA",
+          "type": "Laser Guided Bomb",
+          "weight": "500-2000 lb variants",
+          "platform": "Mirage 2000, Jaguar",
+          "funfact": "Paveway series were the first 'smart bombs' in IAF service. They were used extensively in Kargil War with devastating effect on Pakistani positions."
+        },
+        {
+          "name": "KAB-1500",
+          "origin": "Russia",
+          "type": "Guided Bomb",
+          "weight": "1,500 kg",
+          "platform": "Su-30MKI",
+          "funfact": "The KAB-1500 is a massive bunker-buster that can penetrate over 2 meters of concrete. It's designed to destroy hardened underground targets."
+        },
+        {
+          "name": "DRDO Sudarshan LGB",
+          "origin": "India",
+          "type": "Laser Guided Bomb Kit",
+          "weight": "Various bomb weights",
+          "platform": "Various",
+          "funfact": "Sudarshan converts 'dumb' bombs into precision weapons. Named after Lord Vishnu's divine discus, it's much cheaper than imported alternatives."
+        }
+      ]
+    },
+    "special_units_and_teams": {
+      "aerobatic_teams": [
+        {
+          "name": "Surya Kiran Aerobatic Team",
+          "meaning": "Ray of the Sun",
+          "aircraft": "BAE Hawk Mk.132",
+          "formation_year": "1996",
+          "previous_aircraft": ["HJT-16 Kiran"],
+          "base": "Air Force Station Bidar",
+          "team_size": "9 aircraft",
+          "funfact": "Surya Kiran is one of the few aerobatic teams in the world that flies 9 aircraft in formation. They've performed over 600 displays worldwide."
+        },
+        {
+          "name": "Sarang Helicopter Display Team",
+          "meaning": "Peacock",
+          "aircraft": "HAL Dhruv",
+          "formation_year": "2003",
+          "base": "Air Force Station Bangalore",
+          "team_size": "4 helicopters",
+          "funfact": "Sarang is the only helicopter aerobatic team in Asia! They perform the spectacular 'Sarang Split' where all 4 helicopters break away simultaneously."
+        }
+      ],
+      "special_forces": [
+        {
+          "name": "Garud Commando Force",
+          "meaning": "Garud - Mythical Eagle mount of Lord Vishnu",
+          "formed": "2004",
+          "strength": "2,000+ personnel",
+          "motto": "Protection of Air Assets",
+          "roles": [
+            "Airfield seizure",
+            "Air base defense",
+            "Combat Search and Rescue",
+            "Counter-terrorism",
+            "Special reconnaissance"
+          ],
+          "selection": "3-week probation followed by 72 weeks of training",
+          "funfact": "Garud commandos undergo one of the toughest selection processes in India. Less than 10% candidates complete the grueling training. They were involved in the 2016 surgical strikes."
+        }
+      ]
+    },
+    "historic_operations": [
+      {
+        "name": "Operation Vijay",
+        "year": "1961",
+        "description": "Liberation of Goa from Portuguese rule",
+        "aircraft_used": ["Canberra", "Vampire", "Mystere", "Hunter"],
+        "result": "Success - Goa liberated",
+        "funfact": "IAF achieved complete air supremacy within 36 hours. Not a single IAF aircraft was lost."
+      },
+      {
+        "name": "1965 Indo-Pakistani War",
+        "year": "1965",
+        "description": "Aerial combat against Pakistan Air Force",
+        "aircraft_used": ["Gnat", "Hunter", "Mystere"],
+        "result": "Stalemate / India held upper hand",
+        "funfact": "The tiny Gnat earned the nickname 'Sabre Slayer' in this war."
+      }
+    ]
+  }
+}

@@ -1,0 +1,2302 @@
+{
+  "indian_mountain_ranges": {
+    "metadata": {
+      "title": "Mountain Ranges of India",
+      "description": "Comprehensive guide to India's mountains, peaks, and treks",
+      "total_major_ranges": 12,
+      "highest_peak_in_india": "Kangchenjunga (8,586m)",
+      "total_himalayan_length_in_india": "2,500 km",
+      "states_with_major_mountains": ["Jammu & Kashmir", "Ladakh", "Himachal Pradesh", "Uttarakhand", "Sikkim", "Arunachal Pradesh", "West Bengal", "Rajasthan", "Gujarat", "Maharashtra", "Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh", "Odisha", "Jharkhand", "Meghalaya"],
+      "last_updated": "2024"
+    },
+    "major_mountain_ranges": {
+      "the_himalayas": {
+        "name": "The Himalayas",
+        "also_known_as": ["Himavat", "Abode of Snow", "Roof of the World"],
+        "meaning": "Hima (snow) + Alaya (abode) = Abode of Snow",
+        "type": "Fold Mountains (Young)",
+        "age": "50-70 million years",
+        "formation": "Collision of Indian and Eurasian tectonic plates",
+        "total_length": "2,400 km (across Asia)",
+        "length_in_india": "2,500 km",
+        "width": "150-400 km",
+        "states_covered": ["Jammu & Kashmir", "Ladakh", "Himachal Pradesh", "Uttarakhand", "Sikkim", "West Bengal (Darjeeling)", "Arunachal Pradesh"],
+        "countries_spanned": ["India", "Nepal", "Bhutan", "Tibet (China)", "Pakistan"],
+        "highest_peak": "Mount Everest (8,848.86m) - Nepal/Tibet",
+        "highest_peak_in_india": "Kangchenjunga (8,586m) - Sikkim",
+        "divisions": {
+          "greater_himalayas": {
+            "name": "Greater Himalayas (Himadri)",
+            "also_known_as": "Central Himalayas",
+            "average_elevation": "6,000+ meters",
+            "characteristics": ["Perpetual snow", "Glaciers", "Highest peaks"],
+            "notable_features": ["All 8,000m peaks located here", "Permanent snowline"],
+            "funfact": "The Greater Himalayas contain all peaks above 8,000m and some of the world's largest glaciers outside the polar regions."
+          },
+          "lesser_himalayas": {
+            "name": "Lesser Himalayas (Himachal)",
+            "also_known_as": "Middle Himalayas",
+            "average_elevation": "3,700-4,500 meters",
+            "width": "80-100 km",
+            "characteristics": ["Hill stations", "Temperate forests", "Major towns"],
+            "notable_places": ["Shimla", "Mussoorie", "Nainital", "Darjeeling", "Dharamshala"],
+            "funfact": "British established most hill stations here to escape summer heat. The Lesser Himalayas receive the maximum rainfall due to orographic effect."
+          },
+          "shiwalik_hills": {
+            "name": "Shiwalik Hills (Outer Himalayas)",
+            "also_known_as": ["Shivalik", "Churia Hills", "Sub-Himalayas"],
+            "average_elevation": "900-1,200 meters",
+            "width": "10-50 km",
+            "characteristics": ["Youngest Himalayas", "Foothills", "Dun valleys"],
+            "notable_valleys": ["Dehradun", "Patli Dun", "Kotli Dun", "Kangra Valley"],
+            "funfact": "The Shiwaliks are the youngest Himalayan range and are still growing! They're prone to landslides due to soft rock composition."
+          },
+          "trans_himalayas": {
+            "name": "Trans-Himalayas",
+            "also_known_as": "Tibetan Himalayas",
+            "location": "North of Greater Himalayas",
+            "includes": ["Karakoram", "Ladakh Range", "Zaskar Range", "Kailash Range"],
+            "characteristics": ["Cold desert", "Rain shadow", "Barren landscape"],
+            "funfact": "This is where the highest motorable road in the world (Umling La at 5,883m) is located!"
+          }
+        },
+        "famous_mountains": [
+          {
+            "name": "Kangchenjunga",
+            "height": "8,586 meters",
+            "rank_world": 3,
+            "rank_india": 1,
+            "location": "Sikkim-Nepal border",
+            "first_ascent": "25 May 1955 (Joe Brown, George Band - British)",
+            "meaning": "Five Treasures of Snow (5 peaks)",
+            "status": "Highest peak entirely/partially in India",
+            "restrictions": "Summit not touched (sacred to Sikkimese)",
+            "funfact": "Mountaineers traditionally stop a few feet below the summit to respect Sikkimese beliefs that the peak is sacred. The mountain is believed to be the abode of deity Dzönga."
+          },
+          {
+            "name": "Nanda Devi",
+            "height": "7,816 meters",
+            "rank_world": 23,
+            "rank_india": 2,
+            "location": "Uttarakhand",
+            "first_ascent": "29 August 1936 (Noel Odell, Bill Tilman - British)",
+            "meaning": "Bliss-Giving Goddess",
+            "status": "Highest mountain entirely within India",
+            "national_park": "Nanda Devi National Park (UNESCO World Heritage Site)",
+            "restrictions": "Climbing banned since 1983 to protect ecosystem",
+            "funfact": "The inner sanctuary of Nanda Devi was considered impenetrable until 1934. The Nanda Devi Sanctuary is the most spectacular mountain basin in the world with a ring of peaks above 6,000m."
+          },
+          {
+            "name": "Kamet",
+            "height": "7,756 meters",
+            "rank_world": 29,
+            "rank_india": 3,
+            "location": "Uttarakhand (near Tibet border)",
+            "first_ascent": "21 June 1931 (Frank Smythe - British)",
+            "meaning": "Named after goddess Kali",
+            "funfact": "Kamet was the highest peak climbed until Annapurna was summited in 1950. It was the first 7,500m+ peak to be climbed."
+          },
+          {
+            "name": "Saltoro Kangri",
+            "height": "7,742 meters",
+            "rank_world": 31,
+            "location": "Siachen area, Ladakh",
+            "first_ascent": "1962 (Japanese expedition)",
+            "funfact": "Located in the Siachen conflict zone. One of the most dangerous peaks due to both mountaineering challenges and military presence."
+          },
+          {
+            "name": "Saser Kangri I",
+            "height": "7,672 meters",
+            "rank_world": 35,
+            "location": "Ladakh, Karakoram",
+            "first_ascent": "1973 (Indo-Tibetan Border Police)",
+            "funfact": "One of the highest peaks in the Karakoram range in India. Extremely remote and rarely climbed."
+          },
+          {
+            "name": "Mamostong Kangri",
+            "height": "7,516 meters",
+            "rank_world": 48,
+            "location": "Ladakh, Karakoram",
+            "first_ascent": "1984 (Indo-Japanese expedition)",
+            "funfact": "Its name means 'The Great Black Devil' due to its dark, forbidding appearance."
+          },
+          {
+            "name": "Nanda Kot",
+            "height": "6,861 meters",
+            "location": "Uttarakhand",
+            "first_ascent": "1936 (Japanese expedition)",
+            "meaning": "Fortress of Nanda",
+            "funfact": "Guards the entrance to the Nanda Devi Sanctuary. Called the 'Fortress' because of its formidable appearance."
+          },
+          {
+            "name": "Trisul",
+            "height": "7,120 meters",
+            "location": "Uttarakhand",
+            "first_ascent": "12 June 1907 (Tom Longstaff - first 7,000m peak climbed)",
+            "meaning": "Trident (weapon of Lord Shiva)",
+            "funfact": "The first peak above 7,000 meters ever climbed! Tom Longstaff's ascent in 1907 was a remarkable achievement for its time."
+          },
+          {
+            "name": "Dunagiri",
+            "height": "7,066 meters",
+            "location": "Uttarakhand",
+            "first_ascent": "1939",
+            "meaning": "Named after goddess Durga",
+            "funfact": "Legend says this is where Hanuman found the Sanjeevani herb to save Lakshmana in the Ramayana."
+          },
+          {
+            "name": "Bandarpunch",
+            "height": "6,316 meters",
+            "location": "Uttarakhand",
+            "meaning": "Monkey's Tail",
+            "funfact": "According to legend, Hanuman's tail caught fire here while bringing the Sanjeevani herb. The monkey-tail shaped ridge gives it the name."
+          },
+          {
+            "name": "Kedarnath Peak",
+            "height": "6,940 meters",
+            "location": "Uttarakhand",
+            "funfact": "Overlooks the sacred Kedarnath Temple, one of the Char Dhams. Not to be confused with the temple at 3,583m."
+          },
+          {
+            "name": "Shivling",
+            "height": "6,543 meters",
+            "location": "Uttarakhand (Gangotri glacier)",
+            "meaning": "Symbol of Lord Shiva",
+            "first_ascent": "1974",
+            "funfact": "Considered one of the most beautiful peaks in the Himalayas. Its distinctive Matterhorn-like shape makes it iconic. Called the 'Matterhorn of India'."
+          },
+          {
+            "name": "Meru Peak",
+            "height": "6,660 meters",
+            "location": "Uttarakhand (Gangotri)",
+            "funfact": "The Shark's Fin route on Meru is considered one of the most difficult climbs in the world. Featured in the documentary 'Meru' (2015)."
+          },
+          {
+            "name": "Stok Kangri",
+            "height": "6,153 meters",
+            "location": "Ladakh",
+            "first_ascent": "1980s",
+            "funfact": "One of the most popular trekking peaks in India. Non-technical climb makes it accessible to beginners, yet it's over 6,000m!"
+          },
+          {
+            "name": "Nun",
+            "height": "7,135 meters",
+            "location": "Ladakh (Nun Kun massif)",
+            "first_ascent": "1953 (French expedition)",
+            "funfact": "Highest peak in Ladakh. The Nun-Kun massif has two peaks - Nun and Kun - visible from Kargil."
+          },
+          {
+            "name": "Kun",
+            "height": "7,077 meters",
+            "location": "Ladakh (Nun Kun massif)",
+            "first_ascent": "1913 (Italian)",
+            "funfact": "Sister peak to Nun. The two peaks are connected by a snowy plateau."
+          },
+          {
+            "name": "Leo Pargial",
+            "height": "6,791 meters",
+            "location": "Himachal Pradesh (Kinnaur)",
+            "funfact": "Highest peak in Himachal Pradesh. Located near the Indo-Tibetan border."
+          },
+          {
+            "name": "Mount Kailash",
+            "height": "6,638 meters",
+            "location": "Tibet (sacred to India)",
+            "status": "Unclimbed (by agreement - sacred)",
+            "significance": ["Sacred to Hindus", "Sacred to Buddhists", "Sacred to Jains", "Sacred to Bon"],
+            "funfact": "No one has ever climbed Mount Kailash out of respect for its sacred status. It's the only major peak that remains unclimbed by choice, not difficulty. Believed to be the abode of Lord Shiva."
+          },
+          {
+            "name": "Kabru",
+            "height": "7,412 meters",
+            "location": "Sikkim",
+            "first_ascent": "1935",
+            "funfact": "Part of the Kangchenjunga massif. Offers stunning views of Kangchenjunga."
+          },
+          {
+            "name": "Siniolchu",
+            "height": "6,888 meters",
+            "location": "Sikkim",
+            "first_ascent": "1936 (Paul Bauer - German)",
+            "funfact": "Called the 'Most Beautiful Peak in the World' by Douglas Freshfield. Its perfect pyramid shape is iconic."
+          },
+          {
+            "name": "Pauhunri",
+            "height": "7,128 meters",
+            "location": "Sikkim",
+            "funfact": "One of the highest peaks on the Sikkim-Tibet border. Sacred mountain in Sikkim."
+          },
+          {
+            "name": "Gorichen",
+            "height": "6,858 meters",
+            "location": "Arunachal Pradesh",
+            "meaning": "Protector of Monpas (local tribe)",
+            "funfact": "Highest peak in Arunachal Pradesh. Sacred to the Monpa people. One of the least explored major peaks in India."
+          },
+          {
+            "name": "Kangto",
+            "height": "7,090 meters",
+            "location": "Arunachal Pradesh",
+            "funfact": "Second highest peak in Arunachal Pradesh. Located on the India-Tibet border."
+          },
+          {
+            "name": "Nyegi Kangsang",
+            "height": "7,047 meters",
+            "location": "Arunachal Pradesh",
+            "funfact": "One of the highest peaks in eastern Himalayas. Rarely climbed due to remote location."
+          }
+        ],
+        "famous_treks": [
+          {
+            "name": "Chadar Trek (Frozen River Trek)",
+            "location": "Zanskar, Ladakh",
+            "duration": "9-11 days",
+            "best_season": "January-February",
+            "max_altitude": "3,400 meters",
+            "difficulty": "Difficult",
+            "distance": "105 km",
+            "highlights": ["Walking on frozen Zanskar River", "Ice caves", "Frozen waterfalls", "Nerak village"],
+            "temperature": "-20°C to -35°C",
+            "funfact": "You literally walk on a frozen river! The Zanskar River freezes in winter, creating the only road into the Zanskar valley. This trek is disappearing due to climate change - the river doesn't freeze as solidly anymore."
+          },
+          {
+            "name": "Valley of Flowers Trek",
+            "location": "Uttarakhand",
+            "duration": "6 days",
+            "best_season": "July-September",
+            "max_altitude": "3,658 meters",
+            "difficulty": "Easy to Moderate",
+            "distance": "38 km (round trip)",
+            "highlights": ["600+ flower species", "UNESCO World Heritage Site", "Hemkund Sahib", "Alpine meadows"],
+            "flowers": ["Brahma Kamal", "Blue Poppy", "Cobra Lily", "Orchids"],
+            "funfact": "British mountaineer Frank Smythe 'discovered' this valley in 1931 after losing his way. Over 600 species of flowering plants bloom here - many found nowhere else on Earth. It was unknown to the outside world until then!"
+          },
+          {
+            "name": "Roopkund Trek (Skeleton Lake)",
+            "location": "Uttarakhand",
+            "duration": "8 days",
+            "best_season": "May-June, September-October",
+            "max_altitude": "5,029 meters (Roopkund Lake)",
+            "difficulty": "Difficult",
+            "distance": "53 km",
+            "highlights": ["Mysterious skeleton lake", "Bedni Bugyal meadows", "Views of Trisul and Nanda Ghunti", "Ancient human remains"],
+            "funfact": "The lake contains hundreds of human skeletons from around 850 AD! Scientists believe they were pilgrims killed by a sudden, severe hailstorm. The mystery of these 9th-century skeletons has puzzled researchers for decades."
+          },
+          {
+            "name": "Kedarkantha Trek",
+            "location": "Uttarakhand",
+            "duration": "6 days",
+            "best_season": "December-April (snow), May-June",
+            "max_altitude": "3,800 meters",
+            "difficulty": "Easy to Moderate",
+            "distance": "20 km",
+            "highlights": ["360° Himalayan views", "Snow trek", "Pine forests", "Frozen lakes"],
+            "funfact": "Perfect winter trek! The summit offers panoramic views of over 13 Himalayan peaks including Swargarohini, Bandarpoonch, and Kala Nag. Legend says this is where Lord Shiva meditated."
+          },
+          {
+            "name": "Har Ki Dun Trek",
+            "location": "Uttarakhand",
+            "duration": "7 days",
+            "best_season": "April-June, September-November",
+            "max_altitude": "3,566 meters",
+            "difficulty": "Moderate",
+            "distance": "47 km",
+            "highlights": ["Cradle-shaped valley", "Ancient villages", "Swargarohini views", "Rich mythology"],
+            "meaning": "Valley of Gods",
+            "funfact": "Legend says the Pandavas (from Mahabharata) passed through this valley on their way to heaven. The Swargarohini peak here is believed to be the 'stairway to heaven' where Yudhishthira ascended."
+          },
+          {
+            "name": "Goechala Trek",
+            "location": "Sikkim",
+            "duration": "11 days",
+            "best_season": "April-May, October-November",
+            "max_altitude": "4,940 meters",
+            "difficulty": "Difficult",
+            "distance": "90 km",
+            "highlights": ["Kangchenjunga close-up views", "Samiti Lake", "Rhododendron forests", "Dzongri viewpoint"],
+            "funfact": "Offers the closest views of Kangchenjunga (8,586m) possible! At sunrise from Goechala, the mountain turns golden, pink, then white in minutes. The trek passes through pristine Kanchenjunga National Park."
+          },
+          {
+            "name": "Sandakphu Trek",
+            "location": "West Bengal (Darjeeling)",
+            "duration": "7 days",
+            "best_season": "April-May, October-December",
+            "max_altitude": "3,636 meters (Sandakphu)",
+            "difficulty": "Moderate",
+            "distance": "51 km",
+            "highlights": ["View of 4 of world's 5 highest peaks", "Sleeping Buddha formation", "Rhododendrons", "Land Rover rides"],
+            "peaks_visible": ["Everest", "Kangchenjunga", "Lhotse", "Makalu"],
+            "funfact": "The ONLY place in the world where you can see four of the five highest peaks (Everest, Kangchenjunga, Lhotse, Makalu) in a single view! The ridgeline forms the India-Nepal border."
+          },
+          {
+            "name": "Markha Valley Trek",
+            "location": "Ladakh",
+            "duration": "8 days",
+            "best_season": "June-September",
+            "max_altitude": "5,200 meters (Kongmaru La)",
+            "difficulty": "Moderate to Difficult",
+            "distance": "65 km",
+            "highlights": ["Two high passes", "Traditional villages", "Hemis Monastery", "Snow leopard habitat"],
+            "funfact": "The Markha Valley is home to snow leopards! You trek through their habitat. The valley has ancient Buddhist villages that seem frozen in time."
+          },
+          {
+            "name": "Hampta Pass Trek",
+            "location": "Himachal Pradesh",
+            "duration": "5 days",
+            "best_season": "June-October",
+            "max_altitude": "4,270 meters",
+            "difficulty": "Moderate",
+            "distance": "26 km",
+            "highlights": ["Dramatic landscape change", "Kullu to Lahaul crossing", "Chandratal Lake", "Glacial streams"],
+            "funfact": "You start in green Kullu and end in barren Lahaul - two completely different landscapes in one trek! The pass acts as a climate barrier between lush and desert regions."
+          },
+          {
+            "name": "Pin Parvati Pass Trek",
+            "location": "Himachal Pradesh",
+            "duration": "11 days",
+            "best_season": "July-September",
+            "max_altitude": "5,319 meters",
+            "difficulty": "Very Difficult",
+            "distance": "110 km",
+            "highlights": ["Crosses from Kullu to Spiti", "Glaciers", "Remote valleys", "Pin Valley National Park"],
+            "funfact": "One of India's most challenging treks! Crosses from fertile Parvati Valley to barren Spiti Valley over a technical glacier pass. Snow bridges, crevasses, and high altitude make it extreme."
+          },
+          {
+            "name": "Rupin Pass Trek",
+            "location": "Uttarakhand-Himachal border",
+            "duration": "8 days",
+            "best_season": "May-June, September-October",
+            "max_altitude": "4,650 meters",
+            "difficulty": "Difficult",
+            "distance": "52 km",
+            "highlights": ["Massive waterfalls", "Snow walls", "Hanging villages", "Diverse terrain"],
+            "funfact": "Features some of the most dramatic scenery in Indian Himalayas! The descent after the pass is through a narrow snow gully that's almost vertical in places."
+          },
+          {
+            "name": "Triund Trek",
+            "location": "Himachal Pradesh (Dharamshala)",
+            "duration": "1-2 days",
+            "best_season": "Year-round (except monsoon)",
+            "max_altitude": "2,850 meters",
+            "difficulty": "Easy",
+            "distance": "9 km (one way)",
+            "highlights": ["Dhauladhar views", "Easy accessibility", "Night camping", "McLeodganj"],
+            "funfact": "Most accessible Himalayan trek! You can start from McLeodganj after breakfast and be at the ridge by lunch. Views of Moon Peak and Dhauladhar range are spectacular."
+          },
+          {
+            "name": "Brahmatal Trek",
+            "location": "Uttarakhand",
+            "duration": "6 days",
+            "best_season": "December-March",
+            "max_altitude": "3,500 meters",
+            "difficulty": "Moderate",
+            "distance": "24 km",
+            "highlights": ["Frozen Brahmatal Lake", "Mt. Trisul views", "Winter snow trek", "Roopkund views"],
+            "funfact": "Legend says Lord Brahma meditated here! The lake freezes completely in winter, and you walk on it. Views of Roopkund peak and Trisul are stunning."
+          },
+          {
+            "name": "Beas Kund Trek",
+            "location": "Himachal Pradesh (Manali)",
+            "duration": "4 days",
+            "best_season": "May-October",
+            "max_altitude": "3,690 meters",
+            "difficulty": "Easy to Moderate",
+            "distance": "24 km",
+            "highlights": ["Source of Beas River", "Alpine meadows", "Glacial lake", "Hanuman Tibba views"],
+            "funfact": "You trek to the legendary source of the Beas River! Named after sage Vyas who wrote the Mahabharata. The glacial lake feeding the Beas is surrounded by moraines."
+          },
+          {
+            "name": "Kuari Pass Trek (Curzon Trail)",
+            "location": "Uttarakhand",
+            "duration": "6 days",
+            "best_season": "April-June, September-November",
+            "max_altitude": "3,876 meters",
+            "difficulty": "Moderate",
+            "distance": "33 km",
+            "highlights": ["Nanda Devi views", "Oak and rhododendron forests", "Historic trail", "Garhwal villages"],
+            "funfact": "Named after Lord Curzon (Viceroy of India) who trekked here in 1905! Offers one of the best views of Nanda Devi and over 20 peaks in a single panorama."
+          },
+          {
+            "name": "Dzukou Valley Trek",
+            "location": "Nagaland-Manipur border",
+            "duration": "2-3 days",
+            "best_season": "June-September (flowers), October-March",
+            "max_altitude": "2,452 meters",
+            "difficulty": "Easy to Moderate",
+            "distance": "13 km (round trip)",
+            "highlights": ["Valley of flowers of Northeast", "Dzukou Lily", "Rolling hills", "Sunrise views"],
+            "funfact": "Called the 'Valley of Flowers of the Northeast'! Home to the rare Dzukou Lily found nowhere else on Earth. The undulating hills look like waves."
+          },
+          {
+            "name": "Phulara Ridge Trek",
+            "location": "Uttarakhand",
+            "duration": "5 days",
+            "best_season": "April-June, September-November",
+            "max_altitude": "3,700 meters",
+            "difficulty": "Easy to Moderate",
+            "distance": "32 km",
+            "highlights": ["Ridge walk", "Kedarkantha views", "Meadows", "360° views"],
+            "funfact": "One of the few treks where you walk ON the ridge most of the time! Offers 270-degree views throughout. Feels like walking on top of the world."
+          },
+          {
+            "name": "Nag Tibba Trek",
+            "location": "Uttarakhand",
+            "duration": "2-3 days",
+            "best_season": "Year-round (best: March-June, September-December)",
+            "max_altitude": "3,022 meters",
+            "difficulty": "Easy",
+            "distance": "16 km",
+            "highlights": ["Highest peak in lower Himalayas of Garhwal", "Weekend trek", "Bandarpunch views", "Temple at summit"],
+            "funfact": "Perfect weekend trek from Delhi! 'Nag Tibba' means 'Serpent's Peak' - there's a temple to the snake god at the top. Offers views of Swargarohini, Bandarpunch, and Gangotri peaks."
+          },
+          {
+            "name": "Tarsar Marsar Trek",
+            "location": "Kashmir",
+            "duration": "7 days",
+            "best_season": "June-September",
+            "max_altitude": "4,000 meters",
+            "difficulty": "Moderate",
+            "distance": "43 km",
+            "highlights": ["Twin alpine lakes", "Kashmiri meadows", "Pine forests", "Pristine beauty"],
+            "funfact": "Features two of Kashmir's most beautiful alpine lakes! Tarsar is deep blue, Marsar is green. The meadows around are carpeted with wildflowers in summer."
+          },
+          {
+            "name": "Great Lakes of Kashmir Trek",
+            "location": "Kashmir",
+            "duration": "7-8 days",
+            "best_season": "July-September",
+            "max_altitude": "4,200 meters",
+            "difficulty": "Moderate to Difficult",
+            "distance": "65 km",
+            "highlights": ["7 alpine lakes", "Vishansar Lake", "Gadsar Lake", "Gangabal Lake"],
+            "funfact": "Passes through 7 stunning alpine lakes in one trek! Each lake has a different color - emerald, turquoise, deep blue. Considered one of the most beautiful treks in India."
+          },
+          {
+            "name": "Stok Kangri Trek",
+            "location": "Ladakh",
+            "duration": "9 days",
+            "best_season": "June-September",
+            "max_altitude": "6,153 meters",
+            "difficulty": "Difficult",
+            "distance": "40 km",
+            "highlights": ["6,000m peak climb", "Stok village", "Buddhist culture", "Karakoram views"],
+            "funfact": "One of the highest non-technical peaks you can climb! No mountaineering experience needed (though fitness is crucial). Summit views include K2 on clear days!"
+          },
+          {
+            "name": "Kanchenjunga Base Camp Trek",
+            "location": "Sikkim",
+            "duration": "14-16 days",
+            "best_season": "March-May, October-November",
+            "max_altitude": "5,143 meters (Goechala)",
+            "difficulty": "Very Difficult",
+            "distance": "140+ km",
+            "highlights": ["World's third highest peak", "Remote villages", "Rhododendron forests", "Glaciers"],
+            "funfact": "Multi-day expedition into the heart of Kangchenjunga region! One of the most remote and challenging treks in India. Crosses through primeval forests and over glacial moraines."
+          },
+          {
+            "name": "Auden's Col Trek",
+            "location": "Uttarakhand",
+            "duration": "15-18 days",
+            "best_season": "May-June, September-October",
+            "max_altitude": "5,490 meters",
+            "difficulty": "Extremely Difficult",
+            "distance": "130 km",
+            "highlights": ["Technical glacier crossing", "Gangotri to Kedarnath link", "Remote high altitude"],
+            "funfact": "One of India's most technical treks! Involves crossing Auden's Col, a challenging glacial pass. Only for experienced mountaineers. Named after British geologist John Auden."
+          },
+          {
+            "name": "Panch Kedar Trek",
+            "location": "Uttarakhand",
+            "duration": "14-16 days",
+            "best_season": "May-June, September-October",
+            "max_altitude": "4,100+ meters",
+            "difficulty": "Difficult",
+            "distance": "150+ km",
+            "highlights": ["Five sacred Shiva temples", "Tungnath (highest Shiva temple)", "Remote valleys"],
+            "temples": ["Kedarnath", "Tungnath", "Rudranath", "Madhyamaheshwar", "Kalpeshwar"],
+            "funfact": "Pilgrimage to five ancient Shiva temples, each representing a body part of Lord Shiva. Tungnath at 3,680m is the world's highest Shiva temple!"
+          }
+        ],
+        "general_funfacts": [
+          "The Himalayas are still rising by about 1cm per year due to ongoing tectonic collision!",
+          "Mount Everest was originally called 'Peak XV' before being named after British surveyor George Everest.",
+          "The Himalayas contain the largest deposit of snow and ice outside the polar regions.",
+          "The Ganges, Indus, Brahmaputra, and dozens of major rivers originate in the Himalayas.",
+          "The Himalayas block cold Central Asian air, creating the monsoon climate of South Asia.",
+          "If the Himalayas didn't exist, the Indian subcontinent would be a desert!",
+          "The Himalayas have 9 of the world's 10 highest peaks."
+        ]
+      },
+      "karakoram_range": {
+        "name": "Karakoram Range",
+        "meaning": "Black Gravel (Turkish)",
+        "type": "Extension of Himalayan system",
+        "location": "Ladakh (India), Pakistan, China, Afghanistan, Tajikistan",
+        "length_in_india": "Approximately 200 km",
+        "highest_peak": "K2 (8,611m) - Pakistan/China",
+        "highest_peak_in_india": "Saser Kangri I (7,672m)",
+        "notable_glaciers": ["Siachen Glacier (76 km - world's second longest non-polar glacier)", "Biafo Glacier", "Baltoro Glacier"],
+        "characteristics": ["More glaciated than Himalayas", "Higher average elevation", "More rugged terrain"],
+        "famous_mountains": [
+          {
+            "name": "Saser Kangri I",
+            "height": "7,672 meters",
+            "location": "Ladakh",
+            "first_ascent": "1973 (ITBP)",
+            "funfact": "Highest peak of Karakoram range within India. Located in the Saser Muztagh subrange."
+          },
+          {
+            "name": "Saser Kangri II East",
+            "height": "7,518 meters",
+            "location": "Ladakh",
+            "funfact": "Part of the Saser massif. Extremely remote and rarely climbed."
+          },
+          {
+            "name": "Mamostong Kangri",
+            "height": "7,516 meters",
+            "location": "Ladakh",
+            "meaning": "Great Black Devil",
+            "first_ascent": "1984",
+            "funfact": "Named for its dark, forbidding appearance. Part of the Rimo Muztagh subrange."
+          },
+          {
+            "name": "Rimo I",
+            "height": "7,385 meters",
+            "location": "Ladakh (Siachen region)",
+            "first_ascent": "1988 (Indo-Japanese)",
+            "funfact": "Located near the Siachen Glacier. 'Rimo' means striped mountain in local language."
+          },
+          {
+            "name": "Apsarasas Kangri",
+            "height": "7,245 meters",
+            "location": "Ladakh",
+            "meaning": "Peak of the Celestial Maidens",
+            "funfact": "Apsaras are celestial dancers in Hindu mythology. The peak has multiple summits."
+          },
+          {
+            "name": "Teram Kangri I",
+            "height": "7,462 meters",
+            "location": "Siachen area",
+            "funfact": "Located in the disputed Siachen region. One of India's higher Karakoram peaks."
+          }
+        ],
+        "famous_treks": [
+          {
+            "name": "Siachen Base Camp Trek",
+            "location": "Nubra Valley, Ladakh",
+            "duration": "12-14 days",
+            "max_altitude": "5,753 meters (Siachen Base)",
+            "difficulty": "Very Difficult",
+            "highlights": ["World's highest battlefield", "Massive glaciers", "Military history"],
+            "permit_required": "Special permit from Indian Army",
+            "funfact": "Trek to the base of the world's highest battlefield! The Siachen Glacier at 76 km is the longest glacier in the Karakoram. Indian Army has been stationed here since 1984."
+          },
+          {
+            "name": "Saser La Trek",
+            "location": "Nubra Valley to Shyok",
+            "max_altitude": "5,334 meters",
+            "difficulty": "Difficult",
+            "funfact": "Ancient trade route connecting Nubra to Central Asia. The pass was used by caravans for centuries."
+          },
+          {
+            "name": "Nubra Valley Trek",
+            "location": "Ladakh",
+            "duration": "7-9 days",
+            "max_altitude": "5,600 meters (Khardung La)",
+            "difficulty": "Moderate to Difficult",
+            "highlights": ["Double-humped Bactrian camels", "Diskit Monastery", "Sand dunes", "Hot springs"],
+            "funfact": "You'll see Bactrian camels in the desert at 10,000 feet! The camels are descendants of Silk Road trading animals. Hunder village has bizarre cold desert sand dunes."
+          }
+        ],
+        "funfact": "The Karakoram has more glaciers and permanent snow than any mountain range outside the polar regions! The Siachen Glacier alone is 76 km long - you could fit the entire Manhattan Island on it multiple times."
+      },
+      "ladakh_range": {
+        "name": "Ladakh Range",
+        "also_known_as": "Kailas Range (western extension)",
+        "location": "Ladakh (between Indus and Shyok rivers)",
+        "length": "Approximately 370 km",
+        "average_elevation": "5,800 meters",
+        "highest_peak": "Mount Stok Kangri (6,153m)",
+        "characteristics": ["Rain shadow region", "Cold desert", "Buddhist culture", "Stark barren beauty"],
+        "famous_mountains": [
+          {
+            "name": "Stok Kangri",
+            "height": "6,153 meters",
+            "location": "Stok, Ladakh",
+            "first_ascent": "1980s",
+            "difficulty": "Moderate (as mountaineering peaks go)",
+            "funfact": "Most popular trekking peak in India! Non-technical climb suitable for beginners. You can summit a 6,000m peak without mountaineering experience."
+          },
+          {
+            "name": "Kang Yatze I",
+            "height": "6,400 meters",
+            "location": "Markha Valley, Ladakh",
+            "funfact": "Challenging climb in the Markha Valley. Two peaks - Kang Yatze I (technical) and II (trekking peak)."
+          },
+          {
+            "name": "Mentok Kangri",
+            "height": "6,250 meters",
+            "location": "Tso Moriri area",
+            "funfact": "Located near the beautiful Tso Moriri Lake. Popular expedition peak."
+          }
+        ],
+        "famous_treks": [
+          {
+            "name": "Markha Valley Trek",
+            "location": "Ladakh",
+            "duration": "8-9 days",
+            "best_season": "June-September",
+            "max_altitude": "5,200 meters (Kongmaru La)",
+            "difficulty": "Moderate to Difficult",
+            "distance": "65 km",
+            "highlights": ["Two high passes", "Traditional villages", "Hemis National Park", "Snow leopard territory"],
+            "funfact": "Passes through snow leopard habitat! The traditional villages along the route seem frozen in time. Kongmaru La offers views of Stok Kangri and beyond."
+          },
+          {
+            "name": "Stok Kangri Expedition",
+            "location": "Ladakh",
+            "duration": "9-10 days",
+            "best_season": "June-September",
+            "max_altitude": "6,153 meters",
+            "difficulty": "Difficult (high altitude)",
+            "funfact": "One of the easiest 6,000m+ peaks to climb! Non-technical route but very demanding due to altitude. Summit day starts at 1 AM!"
+          },
+          {
+            "name": "Sham Valley Trek (Baby Trek)",
+            "location": "Lower Ladakh",
+            "duration": "4-5 days",
+            "best_season": "May-October",
+            "max_altitude": "3,900 meters",
+            "difficulty": "Easy",
+            "highlights": ["Traditional villages", "Monasteries", "Apricot orchards", "Gentle introduction to Ladakh"],
+            "funfact": "Called 'Baby Trek' because it's the easiest in Ladakh! Perfect for acclimatization. Passes through ancient Buddhist villages with 500-year-old monasteries."
+          },
+          {
+            "name": "Lamayuru to Alchi Trek",
+            "location": "Western Ladakh",
+            "duration": "5 days",
+            "max_altitude": "5,150 meters",
+            "difficulty": "Moderate",
+            "highlights": ["Lamayuru Moonland", "Ancient Alchi Monastery", "Traditional villages"],
+            "funfact": "Connects two of Ladakh's most ancient monasteries! Alchi has 1,000-year-old Buddhist murals that are UNESCO-worthy. Lamayuru's 'moonland' looks like lunar landscape."
+          },
+          {
+            "name": "Rumtse to Tso Moriri Trek",
+            "location": "Changthang, Ladakh",
+            "duration": "7-8 days",
+            "best_season": "July-September",
+            "max_altitude": "5,400 meters",
+            "difficulty": "Difficult",
+            "highlights": ["High altitude lake", "Changpa nomads", "Wild kiang (wild ass)", "Remote wilderness"],
+            "funfact": "Trek through the habitat of Tibetan wild ass (kiang)! The Changpa nomads you meet still live as their ancestors did 1,000 years ago. Tso Moriri is one of the highest lakes in the world."
+          }
+        ],
+        "funfact": "The Ladakh Range is so high and dry that it receives less rainfall than the Sahara Desert! Yet it's surrounded by the highest mountains on Earth. The rain shadow effect creates this 'cold desert' environment."
+      },
+      "zanskar_range": {
+        "name": "Zanskar Range",
+        "location": "Southern Ladakh, J&K",
+        "length": "Approximately 300 km",
+        "highest_peak": "Nun (7,135m)",
+        "characteristics": ["Remote and isolated", "Buddhist monasteries", "Frozen river trek", "Challenging terrain"],
+        "famous_mountains": [
+          {
+            "name": "Nun",
+            "height": "7,135 meters",
+            "location": "Zanskar, Ladakh",
+            "first_ascent": "1953 (French)",
+            "funfact": "Highest peak in the Zanskar Range. Part of the famous Nun-Kun massif visible from Kargil."
+          },
+          {
+            "name": "Kun",
+            "height": "7,077 meters",
+            "location": "Zanskar, Ladakh",
+            "first_ascent": "1913 (Italian)",
+            "funfact": "Sister peak to Nun. The two peaks are connected by a high snowy plateau. More accessible than Nun."
+          },
+          {
+            "name": "Z1 (Karsha Ri)",
+            "height": "6,270 meters",
+            "location": "Zanskar",
+            "funfact": "Popular expedition peak in Zanskar. Named 'Z1' as the highest peak in the Zanskar region."
+          }
+        ],
+        "famous_treks": [
+          {
+            "name": "Chadar Trek",
+            "location": "Zanskar River",
+            "duration": "9-11 days",
+            "best_season": "January-February",
+            "max_altitude": "3,400 meters",
+            "difficulty": "Difficult",
+            "distance": "105 km",
+            "temperature": "-20°C to -35°C",
+            "highlights": ["Walking on frozen river", "Ice caves", "Frozen waterfalls", "Nerak village"],
+            "funfact": "You literally walk on a sheet of ice ('Chadar') on the frozen Zanskar River! The only way into Zanskar in winter. Climate change is making this trek increasingly rare - the river doesn't freeze solidly anymore."
+          },
+          {
+            "name": "Zanskar Valley Trek",
+            "location": "Zanskar",
+            "duration": "10-14 days",
+            "best_season": "June-September",
+            "max_altitude": "5,100 meters (Shingo La)",
+            "difficulty": "Difficult",
+            "highlights": ["Phuktal Monastery", "Remote valleys", "Drang Drung Glacier"],
+            "funfact": "Phuktal Monastery is built into a cliff face and is one of the most spectacular monasteries in the Himalayas! Zanskar was completely cut off from the world until the 1980s."
+          },
+          {
+            "name": "Padum to Darcha Trek",
+            "location": "Zanskar to Himachal",
+            "duration": "10-12 days",
+            "max_altitude": "5,100 meters (Shingo La)",
+            "difficulty": "Difficult",
+            "funfact": "Ancient trade route connecting Zanskar to Lahaul! Crosses the mighty Shingo La. You literally walk from Ladakh to Himachal Pradesh."
+          }
+        ],
+        "funfact": "Zanskar is so isolated that until the 1980s, there were no roads! The only access was by trekking over high passes or walking the frozen river in winter. Some villages still have no road access."
+      },
+      "pir_panjal_range": {
+        "name": "Pir Panjal Range",
+        "also_known_as": "Lesser Himalayas",
+        "location": "Jammu & Kashmir, Himachal Pradesh",
+        "length": "300 km (approximately)",
+        "highest_peak": "Not clearly defined (around 5,500m)",
+        "separates": "Kashmir Valley from Jammu/Chenab Valley",
+        "characteristics": ["Dense forests", "Alpine meadows", "Heavy snowfall", "Passes into Kashmir"],
+        "famous_passes": [
+          {
+            "name": "Pir Panjal Pass",
+            "altitude": "3,490 meters",
+            "funfact": "The range takes its name from this pass. 'Pir' means saint - named after a Muslim saint."
+          },
+          {
+            "name": "Rohtang Pass",
+            "altitude": "3,978 meters",
+            "location": "Connects Kullu to Lahaul",
+            "funfact": "Name means 'Pile of Corpses'! Many travelers died crossing it in ancient times. Now bypassed by Atal Tunnel."
+          },
+          {
+            "name": "Banihal Pass",
+            "altitude": "2,832 meters",
+            "funfact": "Main route into Kashmir from Jammu. Now bypassed by the Jawahar Tunnel."
+          }
+        ],
+        "famous_mountains": [
+          {
+            "name": "Pir Panjal Peak",
+            "height": "5,500 meters (approximately)",
+            "location": "Kashmir",
+            "funfact": "The range is named after this peak and the saint who meditated here."
+          },
+          {
+            "name": "Tatakoti Peak",
+            "height": "4,745 meters",
+            "location": "Kashmir",
+            "funfact": "Popular trekking destination near Srinagar."
+          }
+        ],
+        "famous_treks": [
+          {
+            "name": "Great Lakes of Kashmir Trek",
+            "location": "Kashmir",
+            "duration": "7-8 days",
+            "best_season": "July-September",
+            "max_altitude": "4,200 meters",
+            "difficulty": "Moderate to Difficult",
+            "distance": "65 km",
+            "highlights": ["7 alpine lakes", "Vishansar", "Krishansar", "Gadsar", "Gangabal"],
+            "funfact": "Seven stunning alpine lakes in one trek! Each lake is a different shade of blue or green. Vishansar and Krishansar are named after the Hindu god Vishnu and Krishna."
+          },
+          {
+            "name": "Tarsar Marsar Trek",
+            "location": "Kashmir",
+            "duration": "7 days",
+            "max_altitude": "4,000 meters",
+            "difficulty": "Moderate",
+            "highlights": ["Twin lakes", "Meadows", "Pine forests"],
+            "funfact": "Two stunning lakes - Tarsar (blue) and Marsar (green). The meadows around are carpeted with wildflowers in summer. One of the most beautiful treks in India."
+          },
+          {
+            "name": "Nafran Valley Trek",
+            "location": "Kashmir",
+            "duration": "5-6 days",
+            "max_altitude": "3,800 meters",
+            "difficulty": "Moderate",
+            "funfact": "Less crowded alternative to other Kashmir treks. Features pristine meadows and pine forests."
+          }
+        ],
+        "funfact": "The Pir Panjal receives the heaviest snowfall in India! Some areas get over 10 meters of snow annually. The range acts as a barrier, trapping moisture from the plains."
+      },
+      "dhauladhar_range": {
+        "name": "Dhauladhar Range",
+        "meaning": "White Range (due to snow)",
+        "location": "Himachal Pradesh",
+        "length": "120 km",
+        "highest_peak": "Hanuman Tibba (5,982m)",
+        "average_elevation": "4,500-5,500 meters",
+        "characteristics": ["Dramatic rise from plains", "Visible from Dharamshala", "Dalai Lama's residence", "Pine and deodar forests"],
+        "famous_mountains": [
+          {
+            "name": "Hanuman Tibba",
+            "height": "5,982 meters",
+            "location": "Above Manali",
+            "first_ascent": "1968",
+            "funfact": "Highest peak in the Dhauladhar Range. Named after Lord Hanuman. Popular mountaineering objective."
+          },
+          {
+            "name": "Moon Peak",
+            "height": "4,600 meters",
+            "location": "Above McLeodganj",
+            "funfact": "Iconic peak visible from Dharamshala. Named for its crescent shape. Popular with climbers."
+          },
+          {
+            "name": "Indera Pass Peak",
+            "height": "4,342 meters",
+            "location": "Dhauladhar Range",
+            "funfact": "Gateway to the Chamba Valley. The pass is at 4,342m and offers stunning views."
+          },
+          {
+            "name": "Mun Peak",
+            "height": "4,610 meters",
+            "location": "Above Dharamshala",
+            "funfact": "Challenging technical climb near Dharamshala."
+          }
+        ],
+        "famous_treks": [
+          {
+            "name": "Triund Trek",
+            "location": "Dharamshala/McLeodganj",
+            "duration": "1-2 days",
+            "best_season": "Year-round (except monsoon)",
+            "max_altitude": "2,850 meters",
+            "difficulty": "Easy",
+            "distance": "9 km (one way)",
+            "highlights": ["Dhauladhar views", "Easy access", "Night camping", "Sunset views"],
+            "funfact": "India's most accessible Himalayan trek! You can start after breakfast and be at the ridge by lunch. The ridge offers a perfect front-row view of the Dhauladhar Range."
+          },
+          {
+            "name": "Indrahar Pass Trek",
+            "location": "Dharamshala to Chamba",
+            "duration": "5-6 days",
+            "best_season": "May-June, September-October",
+            "max_altitude": "4,342 meters",
+            "difficulty": "Moderate to Difficult",
+            "distance": "35 km",
+            "highlights": ["High pass crossing", "Views of Pir Panjal and Dhauladhar", "Ancient trade route"],
+            "funfact": "This pass was used by traders for centuries to cross between Kangra and Chamba valleys. You literally walk from one valley to another across the mighty Dhauladhar!"
+          },
+          {
+            "name": "Kareri Lake Trek",
+            "location": "Dharamshala",
+            "duration": "3-4 days",
+            "best_season": "May-October",
+            "max_altitude": "2,950 meters",
+            "difficulty": "Easy to Moderate",
+            "highlights": ["Alpine lake", "Pine forests", "Less crowded"],
+            "funfact": "Less crowded alternative to Triund! The glacial lake is surrounded by deodars and reflects the Dhauladhar peaks. Perfect for solitude seekers."
+          },
+          {
+            "name": "Minkiani Pass Trek",
+            "location": "Dharamshala",
+            "duration": "6-7 days",
+            "max_altitude": "4,250 meters",
+            "difficulty": "Difficult",
+            "funfact": "One of the most challenging treks in Dhauladhar. Crosses from Kangra to Chamba through pristine wilderness."
+          }
+        ],
+        "funfact": "The Dhauladhar Range rises so dramatically from the Kangra Valley that you go from 800m to 5,000m in just 25 km horizontal distance! This is one of the steepest elevation gradients in the Himalayas."
+      },
+      "aravalli_range": {
+        "name": "Aravalli Range",
+        "also_known_as": "Aravali",
+        "meaning": "Line of Peaks",
+        "type": "Fold Mountains (Oldest)",
+        "age": "1.8 billion years (oldest mountain range in India!)",
+        "location": "Rajasthan, Haryana, Delhi, Gujarat",
+        "length": "692 km",
+        "direction": "Southwest to Northeast",
+        "highest_peak": "Guru Shikhar (1,722m) on Mount Abu",
+        "characteristics": ["Highly eroded", "Discontinuous ridges", "Dry deciduous vegetation", "Ancient heritage"],
+        "significance": ["Stops Thar Desert expansion", "Source of rivers", "Wildlife corridors", "Ancient forts"],
+        "famous_mountains": [
+          {
+            "name": "Guru Shikhar",
+            "height": "1,722 meters",
+            "location": "Mount Abu, Rajasthan",
+            "funfact": "Highest peak in Rajasthan and the Aravallis! Has a temple dedicated to Guru Dattatreya at the top. The only hill station in Rajasthan is here."
+          },
+          {
+            "name": "Ser (Sirohi Peak)",
+            "height": "1,597 meters",
+            "location": "Sirohi, Rajasthan",
+            "funfact": "Second highest peak in the Aravallis. Part of the Mount Abu massif."
+          },
+          {
+            "name": "Achalgarh",
+            "height": "1,380 meters",
+            "location": "Mount Abu",
+            "funfact": "Has an ancient Shiva temple dating to the 14th century. The name means 'Immovable Fort'."
+          },
+          {
+            "name": "Taragarh",
+            "height": "870 meters",
+            "location": "Ajmer, Rajasthan",
+            "meaning": "Star Fort",
+            "funfact": "One of the oldest hill forts in India! Built in the 6th century. Called 'Gibraltar of Rajputana' by the British."
+          },
+          {
+            "name": "Ranthambore Hills",
+            "height": "500 meters (approximately)",
+            "location": "Sawai Madhopur, Rajasthan",
+            "funfact": "Home to the famous Ranthambore Fort and Tiger Reserve. Tigers actually climb these hills!"
+          }
+        ],
+        "famous_treks": [
+          {
+            "name": "Mount Abu Circuit Trek",
+            "location": "Mount Abu, Rajasthan",
+            "duration": "2-3 days",
+            "best_season": "October-March",
+            "max_altitude": "1,722 meters (Guru Shikhar)",
+            "difficulty": "Easy to Moderate",
+            "highlights": ["Guru Shikhar peak", "Dilwara Jain Temples", "Nakki Lake", "Wildlife"],
+            "funfact": "Trek through the only hill station in Rajasthan! The Dilwara Temples here are considered the most beautiful Jain temples in India, with marble carvings so fine that marble appears like lace."
+          },
+          {
+            "name": "Kumbhalgarh Wall Trek",
+            "location": "Kumbhalgarh, Rajasthan",
+            "duration": "1-2 days",
+            "best_season": "October-March",
+            "max_altitude": "1,100 meters",
+            "difficulty": "Easy",
+            "highlights": ["World's second longest wall", "36 km rampart", "Historic fort", "Wildlife sanctuary"],
+            "funfact": "Walk along the second longest wall in the world after the Great Wall of China! The 36 km wall is wide enough for 8 horses to ride abreast. Built by Rana Kumbha in the 15th century."
+          },
+          {
+            "name": "Jaisamand to Kumbhalgarh Trek",
+            "location": "Udaipur region, Rajasthan",
+            "duration": "5-6 days",
+            "max_altitude": "1,100 meters",
+            "difficulty": "Moderate",
+            "highlights": ["Rural Rajasthan", "Bhil tribal villages", "Wildlife corridor"],
+            "funfact": "Walk through the Aravalli wildlife corridor where leopards still roam! Pass through Bhil tribal villages unchanged for centuries."
+          },
+          {
+            "name": "Sariska Trek",
+            "location": "Sariska, Rajasthan",
+            "duration": "1-2 days",
+            "difficulty": "Easy",
+            "highlights": ["Tiger reserve", "Ancient temples", "Bhangarh Fort (haunted!)"],
+            "funfact": "Trek through tiger territory! The nearby Bhangarh Fort is officially listed as 'haunted' by the Archaeological Survey of India - entry is prohibited after sunset!"
+          },
+          {
+            "name": "Delhi Ridge Trail",
+            "location": "Delhi",
+            "duration": "Half day",
+            "difficulty": "Easy",
+            "highlights": ["Urban forest", "Ancient monuments", "Bird watching"],
+            "funfact": "The Aravallis extend all the way to Delhi! The Delhi Ridge is the northernmost extension and is Delhi's 'green lung'. You can trek through forested trails just 20 minutes from Connaught Place."
+          }
+        ],
+        "funfact": "The Aravallis are 1.8 billion years old - older than the Atlantic Ocean, older than most life on Earth! They were once as tall as the Himalayas but have eroded over billions of years. They stop the Thar Desert from spreading east into the fertile Gangetic plains."
+      },
+      "vindhya_range": {
+        "name": "Vindhya Range",
+        "also_known_as": "Vindhyachal",
+        "meaning": "Hunter (Sanskrit)",
+        "type": "Block Mountains",
+        "age": "1.5 billion years",
+        "location": "Madhya Pradesh, Gujarat, Uttar Pradesh, Chhattisgarh, Bihar",
+        "length": "1,050 km",
+        "average_height": "300-650 meters",
+        "highest_peak": "Sad-bhawna Shikhar (752m) near Amarkantak",
+        "separates": "North India from South India (geographically and culturally)",
+        "characteristics": ["Flat-topped hills", "Sandstone and limestone", "Deep gorges", "Dense forests"],
+        "significance": ["Historical barrier between North and South", "Source of many rivers", "Rich in minerals", "Tribal homeland"],
+        "rivers_originating": ["Narmada", "Son", "Betwa", "Ken", "Chambal (partially)"],
+        "famous_mountains": [
+          {
+            "name": "Amarkantak",
+            "height": "1,048 meters",
+            "location": "Madhya Pradesh (at junction with Satpura)",
+            "funfact": "Sacred source of the Narmada and Son rivers! Called 'King of Pilgrimage Sites' (Teerth Raj). The Narmada begins as a small spring here."
+          },
+          {
+            "name": "Maikal Hills",
+            "height": "600-900 meters",
+            "location": "Eastern Vindhyas, MP/Chhattisgarh",
+            "funfact": "Contains the Achanakmar Wildlife Sanctuary with significant tiger population."
+          },
+          {
+            "name": "Kaimur Hills",
+            "height": "350-450 meters",
+            "location": "Eastern extension into Bihar/UP",
+            "funfact": "Eastern extension of Vindhyas. Has numerous waterfalls and prehistoric rock paintings."
+          }
+        ],
+        "famous_treks": [
+          {
+            "name": "Amarkantak Pilgrimage Trek",
+            "location": "Madhya Pradesh",
+            "duration": "2-3 days",
+            "best_season": "October-March",
+            "max_altitude": "1,048 meters",
+            "difficulty": "Easy",
+            "highlights": ["Narmada source", "Ancient temples", "Waterfalls", "Bamboo forests"],
+            "funfact": "Walk to where the sacred Narmada River is born! The Mai ki Bagiya is a beautiful garden at the exact source. Ancient temples dot the landscape."
+          },
+          {
+            "name": "Pachmarhi Trek",
+            "location": "Madhya Pradesh",
+            "duration": "2-3 days",
+            "best_season": "October-March",
+            "max_altitude": "1,352 meters",
+            "difficulty": "Easy to Moderate",
+            "highlights": ["Satpura's Queen", "Bee Falls", "Pandava Caves", "Rock paintings"],
+            "funfact": "Called the 'Queen of Satpura'! The Pandava Caves here are believed to be where the Pandavas hid during exile. 10,000-year-old rock paintings exist in caves."
+          },
+          {
+            "name": "Ken-Son Linking Trek",
+            "location": "MP/UP border",
+            "duration": "3-4 days",
+            "difficulty": "Moderate",
+            "highlights": ["River valleys", "Remote villages", "Wildlife"],
+            "funfact": "Walk along the controversial Ken-Son river linking project area. See the landscape that may soon be underwater."
+          }
+        ],
+        "funfact": "The Vindhyas were considered such a significant barrier that ancient texts describe them as the boundary between 'Aryavarta' (North) and 'Dakshinapatha' (South). The legendary sage Agastya is credited with 'crossing' the Vindhyas to spread Vedic culture to South India!"
+      },
+      "satpura_range": {
+        "name": "Satpura Range",
+        "meaning": "Seven Folds (Sapt + Pura)",
+        "type": "Block Mountains",
+        "age": "Similar to Vindhyas (1+ billion years)",
+        "location": "Madhya Pradesh, Maharashtra, Gujarat, Chhattisgarh",
+        "length": "900 km",
+        "average_height": "600-900 meters",
+        "highest_peak": "Dhupgarh (1,352m) in Pachmarhi",
+        "characteristics": ["Parallel to Narmada River (south bank)", "Dense teak forests", "Tiger habitat", "Tribal regions"],
+        "rivers": ["Forms southern bank of Narmada Valley", "Tapi originates here"],
+        "famous_mountains": [
+          {
+            "name": "Dhupgarh",
+            "height": "1,352 meters",
+            "location": "Pachmarhi, Madhya Pradesh",
+            "funfact": "Highest point in Madhya Pradesh! Famous for sunrise and sunset views. Name means 'Place of Sunshine'."
+          },
+          {
+            "name": "Chauragarh",
+            "height": "1,326 meters",
+            "location": "Pachmarhi",
+            "funfact": "Sacred Shiva temple at the top reached by climbing 1,350 steps! Pilgrims carry heavy tridents up on Mahashivratri."
+          },
+          {
+            "name": "Mahadeo Hills",
+            "height": "1,200+ meters",
+            "location": "Pachmarhi region",
+            "funfact": "Sacred hills named after Lord Shiva. Multiple caves and temples."
+          },
+          {
+            "name": "Rajpipla Hills",
+            "height": "600-700 meters",
+            "location": "Gujarat (western Satpura)",
+            "funfact": "Western extension of Satpura into Gujarat. Heavily forested tribal region."
+          }
+        ],
+        "famous_treks": [
+          {
+            "name": "Pachmarhi Hill Trek",
+            "location": "Madhya Pradesh",
+            "duration": "3-4 days",
+            "best_season": "October-March",
+            "max_altitude": "1,352 meters (Dhupgarh)",
+            "difficulty": "Moderate",
+            "highlights": ["Dhupgarh sunrise", "Bee Falls", "Jata Shankar caves", "Prehistoric paintings"],
+            "funfact": "Trek through Madhya Pradesh's only hill station! The Bhimbetka rock shelters nearby have 30,000-year-old paintings - UNESCO World Heritage Site."
+          },
+          {
+            "name": "Chauragarh Temple Trek",
+            "location": "Pachmarhi",
+            "duration": "1 day",
+            "max_altitude": "1,326 meters",
+            "difficulty": "Moderate (1,350 steps!)",
+            "highlights": ["Sacred Shiva temple", "Forest walk", "Panoramic views"],
+            "funfact": "Climb 1,350 steps to the sacred Shiva shrine! On Mahashivratri, pilgrims carry heavy iron tridents all the way up. Said to be where Shiva rested while carrying Sati's body."
+          },
+          {
+            "name": "Satpura Tiger Reserve Trek",
+            "location": "Madhya Pradesh",
+            "duration": "2-3 days",
+            "difficulty": "Moderate",
+            "highlights": ["Walking safari (rare in India!)", "Tiger spotting", "Ancient ruins", "Denwa River"],
+            "funfact": "One of the ONLY tiger reserves in India where walking safaris are allowed! You can actually trek through tiger territory on foot. Also has boat and elephant safaris."
+          },
+          {
+            "name": "Toranmal Trek",
+            "location": "Maharashtra (western Satpura)",
+            "duration": "2-3 days",
+            "max_altitude": "1,150 meters",
+            "difficulty": "Moderate",
+            "highlights": ["Less touristy hill station", "Yashwant Lake", "Lotus Lake"],
+            "funfact": "Maharashtra's secret hill station! Far less crowded than Mahabaleshwar. The Lotus Lake is covered with lotus flowers in season."
+          }
+        ],
+        "funfact": "The Satpura Range runs parallel to the Vindhyas with the Narmada River flowing between them! This creates the famous 'Narmada Rift Valley'. The name 'Satpura' means 'Seven Folds' referring to seven mountain ranges (though geologists count only one continuous range)."
+      },
+      "western_ghats": {
+        "name": "Western Ghats",
+        "also_known_as": ["Sahyadri", "Sahya Mountains"],
+        "meaning": "Saha (endure) + Adri (mountain) = Mountain that endures",
+        "type": "Fault Block Mountains (Escarpment)",
+        "age": "150 million years (formed when India separated from Gondwana)",
+        "unesco_status": "UNESCO World Heritage Site (2012)",
+        "location": "Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu",
+        "length": "1,600 km",
+        "average_height": "1,200 meters",
+        "highest_peak": "Anamudi (2,695m) in Kerala",
+        "biodiversity": "One of world's 8 'hottest' biodiversity hotspots",
+        "characteristics": ["Steep western escarpment", "Gentle eastern slope", "Causes monsoon rainfall", "Extraordinary biodiversity"],
+        "endemic_species": "5,000+ flowering plants, 139 mammal species, 508 bird species",
+        "famous_mountains": [
+          {
+            "name": "Anamudi",
+            "height": "2,695 meters",
+            "location": "Kerala (Eravikulam National Park)",
+            "meaning": "Elephant's Forehead",
+            "funfact": "Highest peak in South India! Home to the endangered Nilgiri Tahr. The name refers to its shape resembling an elephant's head. Permits required for trekking."
+          },
+          {
+            "name": "Doddabetta",
+            "height": "2,637 meters",
+            "location": "Tamil Nadu (Nilgiris)",
+            "meaning": "Big Peak",
+            "funfact": "Highest peak in Tamil Nadu! Has a telescope house at the top. Visible from Ooty town. Covered in shola-grassland ecosystem."
+          },
+          {
+            "name": "Mullayanagiri",
+            "height": "1,930 meters",
+            "location": "Karnataka (Chikmagalur)",
+            "funfact": "Highest peak in Karnataka! Has a small temple at the top. Popular weekend trek from Bengaluru. Covered in grasslands with stunning views."
+          },
+          {
+            "name": "Kudremukh",
+            "height": "1,894 meters",
+            "location": "Karnataka",
+            "meaning": "Horse Face (shape resembles horse face)",
+            "funfact": "One of the most beautiful peaks in Western Ghats. Part of Kudremukh National Park. The peak looks like a horse's face when viewed from a distance."
+          },
+          {
+            "name": "Tadiandamol",
+            "height": "1,748 meters",
+            "location": "Karnataka (Coorg)",
+            "meaning": "Heavenly Mountain",
+            "funfact": "Highest peak in Coorg district. Sacred to the Kodava people. Popular trek with stunning sunrise views."
+          },
+          {
+            "name": "Kalsubai",
+            "height": "1,646 meters",
+            "location": "Maharashtra",
+            "funfact": "Highest peak in Maharashtra! Has a temple of goddess Kalsubai at the top. Popular trek from Mumbai. Iron ladders installed at steep sections."
+          },
+          {
+            "name": "Harishchandragad",
+            "height": "1,424 meters",
+            "location": "Maharashtra",
+            "funfact": "Ancient fort with a stunning Konkan Kada cliff. The Kokan Kada is a vertical cliff face dropping 1,000+ feet. Popular and challenging trek."
+          },
+          {
+            "name": "Rajgad",
+            "height": "1,376 meters",
+            "location": "Maharashtra",
+            "meaning": "Royal Fort",
+            "funfact": "Was the capital of Maratha Empire under Shivaji for 26 years! One of the most important forts in Maharashtra history."
+          },
+          {
+            "name": "Agasthyamalai",
+            "height": "1,868 meters",
+            "location": "Kerala/Tamil Nadu border",
+            "funfact": "Named after sage Agastya who is believed to have meditated here. Southern tip of Western Ghats. Extremely biodiverse."
+          },
+          {
+            "name": "Meesapulimala",
+            "height": "2,640 meters",
+            "location": "Kerala",
+            "meaning": "Moustached Leopard Mountain",
+            "funfact": "Second highest peak in South India! Named because the mountain looks like a leopard with a moustache. Permits required."
+          },
+          {
+            "name": "Chembra Peak",
+            "height": "2,100 meters",
+            "location": "Kerala (Wayanad)",
+            "funfact": "Has a heart-shaped lake near the summit! Popular trek in Wayanad. The heart-shaped pond never dries up."
+          }
+        ],
+        "famous_treks": [
+          {
+            "name": "Kalsubai Peak Trek",
+            "location": "Maharashtra",
+            "duration": "1 day",
+            "best_season": "June-February",
+            "max_altitude": "1,646 meters",
+            "difficulty": "Moderate",
+            "distance": "10 km (round trip)",
+            "highlights": ["Highest peak in Maharashtra", "Temple at summit", "Iron ladders", "Sunrise trek"],
+            "funfact": "Popular weekend trek from Mumbai! Iron ladders installed at steep sections make it accessible. The temple at top is dedicated to goddess Kalsubai."
+          },
+          {
+            "name": "Harishchandragad Trek",
+            "location": "Maharashtra",
+            "duration": "2 days",
+            "best_season": "June-February",
+            "max_altitude": "1,424 meters",
+            "difficulty": "Moderate to Difficult",
+            "highlights": ["Konkan Kada cliff", "Ancient caves", "Kedareshwar temple"],
+            "funfact": "The Konkan Kada is a stunning overhang cliff with a 1,000-foot vertical drop! One of Maharashtra's most dramatic treks. The ancient temple cave has a Shiva lingam surrounded by water."
+          },
+          {
+            "name": "Kudremukh Trek",
+            "location": "Karnataka",
+            "duration": "2 days",
+            "best_season": "October-February",
+            "max_altitude": "1,894 meters",
+            "difficulty": "Moderate",
+            "distance": "20 km",
+            "highlights": ["Horse-face peak", "Shola forests", "Rolling grasslands"],
+            "funfact": "The peak resembles a horse's face when viewed from certain angles! The grasslands here are incredibly beautiful. Heavy restrictions apply - booking required months in advance."
+          },
+          {
+            "name": "Kumara Parvatha Trek",
+            "location": "Karnataka (Coorg)",
+            "duration": "2 days",
+            "best_season": "October-February",
+            "max_altitude": "1,712 meters",
+            "difficulty": "Difficult",
+            "distance": "22 km",
+            "highlights": ["Second highest in Karnataka", "Pushpagiri Wildlife Sanctuary", "Steep climb"],
+            "funfact": "One of the toughest treks in Karnataka! The climb is incredibly steep. Also called Pushpagiri. Home to rare wildlife and plants."
+          },
+          {
+            "name": "Tadiandamol Trek",
+            "location": "Karnataka (Coorg)",
+            "duration": "1 day",
+            "best_season": "October-February",
+            "max_altitude": "1,748 meters",
+            "difficulty": "Moderate",
+            "highlights": ["Highest in Coorg", "Coffee plantations", "Rolling hills"],
+            "funfact": "Trek through coffee plantations to the highest peak in Coorg! The Kodava people consider this mountain sacred. Stunning sunrise views."
+          },
+          {
+            "name": "Anamudi Summit Trek",
+            "location": "Kerala (Eravikulam NP)",
+            "duration": "2 days",
+            "best_season": "September-March",
+            "max_altitude": "2,695 meters",
+            "difficulty": "Difficult",
+            "highlights": ["Highest in South India", "Nilgiri Tahr habitat", "Shola forests"],
+            "permit": "Required from Forest Department",
+            "funfact": "Summit the highest peak in South India! Special permits required. You may see endangered Nilgiri Tahr along the way. The neelakurinji flower blooms here once every 12 years."
+          },
+          {
+            "name": "Meesapulimala Trek",
+            "location": "Kerala",
+            "duration": "2 days",
+            "max_altitude": "2,640 meters",
+            "difficulty": "Difficult",
+            "highlights": ["Second highest in South India", "Tea plantations", "Grasslands"],
+            "funfact": "Second highest peak in South India! Named because the mountain looks like a moustached leopard. Permits required from Tamil Nadu Forest Department."
+          },
+          {
+            "name": "Chembra Peak Trek",
+            "location": "Kerala (Wayanad)",
+            "duration": "1 day",
+            "max_altitude": "2,100 meters",
+            "difficulty": "Moderate",
+            "highlights": ["Heart-shaped lake", "Highest in Wayanad", "Tea estates"],
+            "funfact": "Features a famous heart-shaped lake that never dries! One of the most popular treks in Kerala. The heart shape is natural and quite photogenic."
+          },
+          {
+            "name": "Rajmachi Fort Trek",
+            "location": "Maharashtra",
+            "duration": "1-2 days",
+            "max_altitude": "920 meters",
+            "difficulty": "Moderate",
+            "highlights": ["Twin forts", "Monsoon beauty", "Waterfalls"],
+            "funfact": "Features two small forts - Shrivardhan and Manaranjan! Spectacular during monsoon with numerous waterfalls. Popular night trek from Mumbai."
+          },
+          {
+"name": "Rajgad Fort Trek",
+          "location": "Maharashtra",
+          "duration": "1-2 days",
+          "best_season": "June-February",
+          "max_altitude": "1,376 meters",
+          "difficulty": "Moderate",
+          "distance": "14 km (round trip)",
+          "highlights": ["Capital of Maratha Empire", "Three machis (platforms)", "Balekilla (citadel)", "Sanjivani Machi"],
+          "funfact": "Shivaji Maharaj's capital for 26 years! His queen Saibai and mother Jijabai spent time here. The fort is so large it has three separate plateaus (machis). One of the most historically significant forts in India."
+        },
+        {
+          "name": "Sinhagad Fort Trek",
+          "location": "Maharashtra (Pune)",
+          "duration": "Half day",
+          "max_altitude": "1,312 meters",
+          "difficulty": "Easy",
+          "highlights": ["Historic fort", "Battle of Sinhagad", "Views of Pune"],
+          "funfact": "Site of the legendary Battle of Sinhagad where Tanaji Malusare died conquering the fort! Shivaji reportedly said 'Gad aala pan Sinha gela' (We got the fort but lost the Lion). Now a popular weekend getaway from Pune."
+        },
+        {
+          "name": "Lohagad Fort Trek",
+          "location": "Maharashtra",
+          "duration": "Half day",
+          "max_altitude": "1,050 meters",
+          "difficulty": "Easy",
+          "highlights": ["Iron fort", "Vinchukata (scorpion's tail)", "Adjacent to Visapur"],
+          "funfact": "Name means 'Iron Fort' due to its impregnability! The distinctive 'Vinchukata' (scorpion tail) fortification makes it unique. Connected to twin fort Visapur by a saddle."
+        },
+        {
+          "name": "Dudhsagar Falls Trek",
+          "location": "Goa/Karnataka border",
+          "duration": "1 day",
+          "best_season": "October-January",
+          "max_altitude": "312 meters",
+          "difficulty": "Moderate",
+          "distance": "10 km (from Kulem)",
+          "highlights": ["India's 5th tallest waterfall", "Railway track walk", "Jungle trek"],
+          "funfact": "The waterfall looks like 'Sea of Milk' (Dudhsagar)! You walk along active railway tracks to reach it. The 310m falls cascade down in four tiers. Made famous by the movie 'Chennai Express'."
+        },
+        {
+          "name": "Kodachadri Trek",
+          "location": "Karnataka",
+          "duration": "1-2 days",
+          "best_season": "October-February",
+          "max_altitude": "1,343 meters",
+          "difficulty": "Moderate",
+          "highlights": ["Mookambika Temple", "Sunset point", "Hidden waterfalls"],
+          "funfact": "Sacred peak with Mookambika Temple nearby! One of the most picturesque peaks in Karnataka. Dense shola forests and grasslands. The sunset from the peak is legendary."
+        },
+        {
+          "name": "Brahmagiri Trek",
+          "location": "Karnataka (Coorg)",
+          "duration": "1 day",
+          "best_season": "October-March",
+          "max_altitude": "1,608 meters",
+          "difficulty": "Moderate",
+          "highlights": ["Views of Coorg hills", "Wildlife sanctuary", "Iruppu Falls nearby"],
+          "funfact": "Part of Brahmagiri Wildlife Sanctuary! The peak offers 360-degree views of Coorg's coffee country. The trek passes through diverse ecosystems from coffee to shola forest."
+        },
+        {
+          "name": "Agumbe Rainforest Trek",
+          "location": "Karnataka",
+          "duration": "2-3 days",
+          "best_season": "November-February (or monsoon for adventurous)",
+          "difficulty": "Easy to Moderate",
+          "highlights": ["Cherrapunji of South", "King Cobra habitat", "Waterfalls", "Sunset point"],
+          "funfact": "Called the 'Cherrapunji of the South' - receives over 7,000mm rainfall annually! This is the King Cobra capital of India. The Agumbe Rainforest Research Station studies these magnificent snakes."
+        },
+        {
+          "name": "Velliangiri Mountains Trek",
+          "location": "Tamil Nadu (Coimbatore)",
+          "duration": "1-2 days",
+          "best_season": "Year-round (temple festival in March)",
+          "max_altitude": "1,840 meters",
+          "difficulty": "Difficult",
+          "distance": "32 km (round trip)",
+          "highlights": ["Seven hills pilgrimage", "Shiva temple at summit", "Spiritual trek"],
+          "funfact": "Called 'Kailash of the South'! Pilgrims climb seven hills to reach the Shiva temple at the top. Isha Foundation's Sadhguru has made this trek popular. Ancient yogi tradition site."
+        },
+        {
+          "name": "Perumal Peak Trek",
+          "location": "Tamil Nadu (Kodaikanal)",
+          "duration": "1 day",
+          "max_altitude": "2,439 meters",
+          "difficulty": "Moderate to Difficult",
+          "highlights": ["Highest peak in Palani Hills", "Shola forests", "Panoramic views"],
+          "funfact": "Highest point in the Palani Hills! Sacred to local tribes. Offers views stretching to Kerala on clear days."
+        },
+        {
+          "name": "Nilgiri Tahr Trail (Eravikulam)",
+          "location": "Kerala",
+          "duration": "1 day",
+          "difficulty": "Easy",
+          "highlights": ["Endangered Nilgiri Tahr", "Neelakurinji blooms (every 12 years)", "Rolling grasslands"],
+          "funfact": "Walk among the endangered Nilgiri Tahr who are remarkably unafraid of humans! The Neelakurinji flower turns entire mountainsides purple-blue every 12 years (next: 2030)."
+        }
+      ],
+      "funfact": "The Western Ghats are older than the Himalayas! They formed 150 million years ago when India broke from Gondwana. Despite being heavily eroded, they're one of the world's 8 'hottest' biodiversity hotspots - more species-rich per square kilometer than almost anywhere else on Earth."
+    },
+    "eastern_ghats": {
+      "name": "Eastern Ghats",
+      "also_known_as": ["Purva Ghats", "Mahendra Parvatam (ancient name)"],
+      "type": "Discontinuous Mountain Chain",
+      "age": "1.6+ billion years (among oldest in India)",
+      "location": "Odisha, Andhra Pradesh, Telangana, Tamil Nadu, Karnataka (small portion)",
+      "length": "1,750 km (discontinuous)",
+      "average_height": "600-900 meters",
+      "highest_peak": "Arma Konda (1,680m) in Andhra Pradesh",
+      "characteristics": ["Broken by rivers", "Not continuous like Western Ghats", "Lower and older", "Rich in bauxite"],
+      "rivers_cutting_through": ["Godavari", "Krishna", "Mahanadi", "Kaveri", "Pennar"],
+      "hill_ranges_included": [
+        "Nallamala Hills (AP/Telangana)",
+        "Velikonda Range (AP)",
+        "Palkonda Hills (AP)",
+        "Shevaroy Hills (Tamil Nadu)",
+        "Javadi Hills (Tamil Nadu)",
+        "Kolli Hills (Tamil Nadu)",
+        "Pachamalai Hills (Tamil Nadu)",
+        "Simhachalam Hills (AP)",
+        "Mahendra Giri (Odisha)"
+      ],
+      "famous_mountains": [
+        {
+          "name": "Arma Konda",
+          "height": "1,680 meters",
+          "location": "Visakhapatnam district, Andhra Pradesh",
+          "funfact": "Highest peak in the Eastern Ghats and in Andhra Pradesh! Located in the Ananthagiri Hills. Remote and rarely visited."
+        },
+        {
+          "name": "Jindhagada Peak",
+          "height": "1,690 meters",
+          "location": "Odisha (disputed measurement)",
+          "funfact": "Some surveys list this as the highest in Eastern Ghats. Located in Koraput district near Araku."
+        },
+        {
+          "name": "Mahendra Giri",
+          "height": "1,501 meters",
+          "location": "Odisha (Gajapati district)",
+          "meaning": "Named after Lord Parashurama's father Jamadagni (also called Mahendra)",
+          "funfact": "Second highest peak in Odisha! Sacred mountain with ancient temples. Legend says Parashurama meditated here after killing the Kshatriyas."
+        },
+        {
+          "name": "Deomali",
+          "height": "1,672 meters",
+          "location": "Odisha (Koraput district)",
+          "funfact": "Highest peak in Odisha! Located near Daringbadi, called the 'Kashmir of Odisha'. Has pine forests unusual for Eastern Ghats."
+        },
+        {
+          "name": "Shevaroy Hills (Yercaud)",
+          "height": "1,623 meters (Servarayan Temple peak)",
+          "location": "Tamil Nadu",
+          "funfact": "Home to the Yercaud hill station! Called 'Poor Man's Ooty'. The Servarayan Temple at the highest point is sacred to local tribes."
+        },
+        {
+          "name": "Kolli Hills (Kolli Malai)",
+          "height": "1,415 meters",
+          "location": "Tamil Nadu",
+          "meaning": "Mountains of Death",
+          "funfact": "The road to the top has 70 hairpin bends! Called 'Mountains of Death' due to dangerous roads and malaria (now eradicated). Has ancient Arapaleeswarar Temple."
+        },
+        {
+          "name": "Javadi Hills",
+          "height": "1,140 meters",
+          "location": "Tamil Nadu",
+          "funfact": "Largest hill range in Tamil Nadu by area! Home to the Malayali tribal community. Remote and less developed."
+        },
+        {
+          "name": "Simhachalam",
+          "height": "244 meters",
+          "location": "Visakhapatnam, Andhra Pradesh",
+          "meaning": "Lion's Hill",
+          "funfact": "Famous for the ancient Varaha Lakshmi Narasimha Temple dating to 11th century. One of the most important Vaishnavite sites in South India."
+        },
+        {
+          "name": "Papikonda Hills",
+          "height": "879 meters",
+          "location": "Andhra Pradesh (Godavari district)",
+          "funfact": "Part of Papikondalu National Park! The Godavari River cuts through these hills creating spectacular gorges. Popular boat rides."
+        },
+        {
+          "name": "Nallamala Hills",
+          "height": "900 meters (average)",
+          "location": "Andhra Pradesh/Telangana",
+          "funfact": "Home to the Nagarjunasagar-Srisailam Tiger Reserve - India's largest! Also contains the famous Srisailam Jyotirlinga temple."
+        },
+        {
+          "name": "Horsley Hills",
+          "height": "1,265 meters",
+          "location": "Andhra Pradesh (Chittoor district)",
+          "funfact": "Named after British collector W.D. Horsley who discovered it in 1870! Called 'Andhra Ooty'. Has pleasant year-round climate."
+        }
+      ],
+      "famous_treks": [
+        {
+          "name": "Araku Valley Trek",
+          "location": "Andhra Pradesh",
+          "duration": "2-3 days",
+          "best_season": "October-March",
+          "max_altitude": "1,300 meters",
+          "difficulty": "Easy to Moderate",
+          "highlights": ["Tribal villages", "Borra Caves", "Coffee plantations", "Waterfalls"],
+          "funfact": "Walk through coffee plantations and tribal villages! The Borra Caves here have million-year-old stalactites and stalagmites. The valley is home to over 19 tribes with unique cultures."
+        },
+        {
+          "name": "Mahendra Giri Trek",
+          "location": "Odisha",
+          "duration": "1-2 days",
+          "best_season": "October-March",
+          "max_altitude": "1,501 meters",
+          "difficulty": "Moderate",
+          "highlights": ["Ancient temple", "Panoramic views", "Sacred mountain", "Less crowded"],
+          "funfact": "Sacred to Lord Parashurama who is believed to have meditated here! Has temples dating back to the 8th century. One of the least-visited peaks in Eastern Ghats."
+        },
+        {
+          "name": "Deomali Trek",
+          "location": "Odisha",
+          "duration": "1-2 days",
+          "max_altitude": "1,672 meters",
+          "difficulty": "Moderate",
+          "highlights": ["Highest in Odisha", "Pine forests", "Tribal villages"],
+          "funfact": "Trek to the highest point in Odisha! The area has unusual pine forests (rare in Eastern Ghats). The region is called 'Kashmir of Odisha' for its pleasant climate."
+        },
+        {
+          "name": "Kolli Hills Trek",
+          "location": "Tamil Nadu",
+          "duration": "2 days",
+          "best_season": "Year-round",
+          "max_altitude": "1,415 meters",
+          "difficulty": "Moderate",
+          "highlights": ["70 hairpin bends road", "Agaya Gangai waterfalls", "Arapaleeswarar Temple"],
+          "funfact": "The road has 70 continuous hairpin bends - one of the most winding roads in India! The 300-foot Agaya Gangai waterfall is reached by climbing down 1,300 steps. Ancient tribal traditions still survive here."
+        },
+        {
+          "name": "Yercaud (Shevaroy Hills) Trek",
+          "location": "Tamil Nadu",
+          "duration": "1-2 days",
+          "max_altitude": "1,623 meters",
+          "difficulty": "Easy to Moderate",
+          "highlights": ["Servarayan Temple", "Lady's Seat viewpoint", "Coffee estates", "Emerald Lake"],
+          "funfact": "Called 'Jewel of the South' and 'Poor Man's Ooty'! The Servarayan Temple opens only during the Shevaroy festival once a year. Views extend to the Salem plains below."
+        },
+        {
+          "name": "Javadi Hills Trek",
+          "location": "Tamil Nadu",
+          "duration": "2-3 days",
+          "max_altitude": "1,140 meters",
+          "difficulty": "Moderate",
+          "highlights": ["Remote tribal villages", "Beema Falls", "Less touristy"],
+          "funfact": "One of the least explored hill ranges in South India! The Malayali tribes here have preserved ancient traditions. Very few tourists venture here."
+        },
+        {
+          "name": "Papikondalu Gorge Trek/Boat",
+          "location": "Andhra Pradesh",
+          "duration": "1-2 days",
+          "difficulty": "Easy (boat) to Moderate (trek)",
+          "highlights": ["Godavari River gorge", "Waterfalls", "Tribal villages", "Paper boat ride"],
+          "funfact": "The Godavari River cuts through the mountains creating spectacular gorges! Traditional paper boats navigate the rapids. The Bison Hills offer treks into the gorge."
+        },
+        {
+          "name": "Nallamala Forest Trek",
+          "location": "Andhra Pradesh/Telangana",
+          "duration": "2-3 days",
+          "difficulty": "Moderate",
+          "highlights": ["Tiger reserve", "Srisailam temple", "Dense forests", "River views"],
+          "permit": "Required from forest department",
+          "funfact": "Trek through India's largest tiger reserve! The forests hide the ancient Srisailam temple, one of the 12 Jyotirlingas. The Krishna River cuts a dramatic gorge through the hills."
+        },
+        {
+          "name": "Horsley Hills Trek",
+          "location": "Andhra Pradesh",
+          "duration": "1 day",
+          "max_altitude": "1,265 meters",
+          "difficulty": "Easy",
+          "highlights": ["Viewpoints", "Eucalyptus groves", "Tree house"],
+          "funfact": "Named after British collector who 'discovered' it in 1870! Has India's oldest tree house. The climate is pleasant year-round due to the elevation."
+        },
+        {
+          "name": "Pachamalai Hills Trek",
+          "location": "Tamil Nadu",
+          "duration": "1-2 days",
+          "max_altitude": "1,072 meters",
+          "difficulty": "Moderate",
+          "highlights": ["Tribal villages", "Sacred groves", "Waterfalls"],
+          "meaning": "Green Mountains",
+          "funfact": "Home to the Malayali tribe who worship sacred groves! The hills are covered in jackfruit trees - a major livelihood source. Remote and rarely visited by tourists."
+        }
+      ],
+      "funfact": "Unlike the continuous Western Ghats, the Eastern Ghats are broken by every major east-flowing river! This is why they're not a true mountain range but a series of disconnected hills. They're also much older - some rocks here are 1.6 billion years old!"
+    },
+    "nilgiri_hills": {
+      "name": "Nilgiri Hills",
+      "also_known_as": ["Blue Mountains", "Nilgiris"],
+      "meaning": "Nila (Blue) + Giri (Mountain) - Named for the blue Neelakurinji flowers",
+      "location": "Tamil Nadu (primarily), with extensions into Kerala and Karnataka",
+      "part_of": "Junction of Western and Eastern Ghats",
+      "highest_peak": "Doddabetta (2,637m)",
+      "average_elevation": "2,000 meters",
+      "biosphere_reserve": "Nilgiri Biosphere Reserve (India's first, 1986)",
+      "unesco_status": "Part of Western Ghats World Heritage Site",
+      "characteristics": ["Unique shola-grassland ecosystem", "Tea plantations", "Tribal cultures", "Endemic species"],
+      "hill_stations": ["Ooty (Udhagamandalam)", "Coonoor", "Kotagiri"],
+      "famous_mountains": [
+        {
+          "name": "Doddabetta",
+          "height": "2,637 meters",
+          "location": "Nilgiris, Tamil Nadu",
+          "meaning": "Big Peak",
+          "funfact": "Highest peak in the Nilgiris and Tamil Nadu! Has a telescope house at the summit. On clear days, you can see as far as Mysore. The peak is often shrouded in mist."
+        },
+        {
+          "name": "Mukurthi Peak",
+          "height": "2,554 meters",
+          "location": "Nilgiris",
+          "funfact": "Part of Mukurthi National Park, home to the endangered Nilgiri Tahr. The peak is sacred to the Toda tribe. Permits required for trekking."
+        },
+        {
+          "name": "Kundah Peak",
+          "height": "2,538 meters",
+          "location": "Nilgiris",
+          "funfact": "Part of the Kundah Range that feeds the famous Pykara waterfalls. The area has multiple small hydroelectric projects."
+        },
+        {
+          "name": "Nilgiri Peak",
+          "height": "2,478 meters",
+          "location": "Nilgiris",
+          "funfact": "The peak that gave the entire range its name! Appears blue due to the Neelakurinji flowers that bloom every 12 years."
+        },
+        {
+          "name": "Kolaribetta",
+          "height": "2,629 meters",
+          "location": "Nilgiris",
+          "funfact": "Third highest peak in the Nilgiris. Less visited than Doddabetta. Offers stunning views of the Western Ghats."
+        }
+      ],
+      "famous_treks": [
+        {
+          "name": "Doddabetta Peak Trek",
+          "location": "Nilgiris, Tamil Nadu",
+          "duration": "Half day to 1 day",
+          "best_season": "October-June",
+          "max_altitude": "2,637 meters",
+          "difficulty": "Easy",
+          "highlights": ["Highest in Nilgiris", "Telescope house", "Panoramic views", "Shola forests"],
+          "funfact": "A road goes almost to the top, but the trek through shola forests is more rewarding! On clear days, the views extend to Mysore and beyond. The peak is the highest in Tamil Nadu."
+        },
+        {
+          "name": "Mukurthi Peak Trek",
+          "location": "Nilgiris (Mukurthi National Park)",
+          "duration": "2 days",
+          "best_season": "September-May",
+          "max_altitude": "2,554 meters",
+          "difficulty": "Moderate to Difficult",
+          "permit": "Required from Forest Department",
+          "highlights": ["Nilgiri Tahr habitat", "Pristine grasslands", "Mukurthi Lake", "Remote wilderness"],
+          "funfact": "One of the best treks to see the endangered Nilgiri Tahr in the wild! The Mukurthi Lake is sacred to the Toda tribe. Very limited permits issued to protect the ecosystem."
+        },
+        {
+          "name": "Avalanche Lake Trek",
+          "location": "Nilgiris",
+          "duration": "1 day",
+          "max_altitude": "2,200 meters",
+          "difficulty": "Easy to Moderate",
+          "highlights": ["Beautiful lake", "Trout fishing", "Rhododendron forests", "Bison sightings"],
+          "funfact": "Named after a massive landslide in 1823 that created the lake! The waters are icy cold. Trout fishing is permitted. Indian Gaur (bison) are commonly spotted."
+        },
+        {
+          "name": "Pykara Trek",
+          "location": "Nilgiris",
+          "duration": "Half day",
+          "difficulty": "Easy",
+          "highlights": ["Pykara waterfalls", "Pykara Lake", "Pine forests", "Boat rides"],
+          "funfact": "The Pykara River drops in two beautiful cascades! Toda tribal settlements are nearby. The pine forests here were planted by the British."
+        },
+        {
+          "name": "Kotagiri to Kodanad Trek",
+          "location": "Nilgiris",
+          "duration": "1 day",
+          "max_altitude": "2,000 meters",
+          "difficulty": "Moderate",
+          "highlights": ["Tea estates", "Viewpoints", "Less touristy", "Catherine Falls"],
+          "funfact": "Kotagiri is the oldest hill station in the Nilgiris! The views from Kodanad viewpoint are spectacular. Catherine Falls is one of the highest in Tamil Nadu."
+        },
+        {
+          "name": "Ooty to Pykara Trek",
+          "location": "Nilgiris",
+          "duration": "1 day",
+          "distance": "20 km",
+          "difficulty": "Easy to Moderate",
+          "highlights": ["Pine forests", "Toda villages", "Lake views", "Waterfalls"],
+          "funfact": "Walk through eucalyptus and pine forests planted by the British! Pass traditional Toda hamlets. The Todas have a unique barrel-shaped hut design found nowhere else."
+        },
+        {
+          "name": "Parsons Valley Trek",
+          "location": "Nilgiris",
+          "duration": "1 day",
+          "difficulty": "Easy to Moderate",
+          "highlights": ["Reservoir", "Meadows", "Bird watching", "Photography"],
+          "funfact": "Lesser-known gem near Ooty! The reservoir is surrounded by meadows and shola forests. Excellent for bird watching and landscape photography."
+        }
+      ],
+      "toda_tribe": {
+        "name": "Toda Tribe",
+        "population": "Approximately 1,500",
+        "unique_features": ["Barrel-shaped huts", "Buffalo worship", "Unique embroidery", "Ancient traditions"],
+        "funfact": "The Todas have lived in the Nilgiris for centuries and have their own unique culture including buffalo worship. Their barrel-shaped huts (dogles) are found nowhere else on Earth. Their embroidery is a UNESCO-recognized craft."
+      },
+      "neelakurinji_bloom": {
+        "flower": "Neelakurinji (Strobilanthes kunthiana)",
+        "bloom_cycle": "Once every 12 years",
+        "last_bloom": 2018,
+        "next_bloom": 2030,
+        "funfact": "The Nilgiris get their name from this flower! When it blooms, entire mountainsides turn blue-purple. The Paliyan tribe used to calculate their age by counting the blooms."
+      },
+      "funfact": "The Nilgiris are at the junction of the Western and Eastern Ghats - a unique ecological convergence! This makes them extremely biodiverse. The British established Ooty here as a summer capital to escape the heat of the plains."
+    },
+    "palani_hills": {
+      "name": "Palani Hills",
+      "also_known_as": ["Palni Hills", "Varushanadu Hills"],
+      "location": "Tamil Nadu and Kerala border",
+      "part_of": "Southern Western Ghats",
+      "highest_peak": "Perumal Peak (2,439m)",
+      "famous_hill_station": "Kodaikanal",
+      "characteristics": ["Unique ecosystem", "Hill station", "Pilgrimage site", "Coffee and spice plantations"],
+      "famous_mountains": [
+        {
+          "name": "Perumal Peak",
+          "height": "2,439 meters",
+          "location": "Palani Hills",
+          "funfact": "Highest peak in the Palani Hills! Sacred to local tribes. Offers panoramic views of the entire range."
+        },
+        {
+          "name": "Vandaravu Peak",
+          "height": "2,533 meters",
+          "location": "Near Kodaikanal",
+          "funfact": "Actually the highest point near Kodaikanal! Less visited than other peaks. Offers stunning views of the Vaigai Dam."
+        },
+        {
+          "name": "Palani Hills (Main)",
+          "height": "2,180 meters (Palani Temple area)",
+          "funfact": "Site of the famous Murugan Temple at Palani - one of the six abodes of Lord Murugan. Pilgrims climb 699 steps to reach the temple."
+        }
+      ],
+      "famous_treks": [
+        {
+          "name": "Dolphin's Nose Trek",
+          "location": "Kodaikanal",
+          "duration": "Half day",
+          "difficulty": "Easy to Moderate",
+          "highlights": ["Rock formation", "Panoramic views", "Shola forests"],
+          "funfact": "Named for the rock that resembles a dolphin's nose! Offers views of the Palani Plains 2,000 meters below. On clear days, you can see Madurai."
+        },
+        {
+          "name": "Perumal Peak Trek",
+          "location": "Near Kodaikanal",
+          "duration": "1-2 days",
+          "max_altitude": "2,439 meters",
+          "difficulty": "Difficult",
+          "permit": "Required from Forest Department",
+          "funfact": "Trek to the highest peak in the Palani Hills! The route passes through pristine shola forests. Very few tourists attempt this trek."
+        },
+        {
+          "name": "Palani Hills Temple Trek",
+          "location": "Palani, Tamil Nadu",
+          "duration": "Half day",
+          "difficulty": "Moderate (699 steps)",
+          "highlights": ["Ancient Murugan Temple", "Panoramic views", "Spiritual experience"],
+          "funfact": "Climb 699 steps to one of the most important Murugan temples! Alternatively, use the winch or rope car. Millions of pilgrims visit annually."
+        },
+        {
+          "name": "Pambar Shola Trek",
+          "location": "Near Kodaikanal",
+          "duration": "Half day",
+          "difficulty": "Easy",
+          "highlights": ["Undisturbed shola forest", "Rare birds", "Stream crossings"],
+          "funfact": "Walk through one of the last undisturbed shola forests! Home to several endemic bird species. The forest floor is carpeted with ferns and mosses."
+        },
+        {
+          "name": "Berijam Lake Trek",
+          "location": "Kodaikanal",
+          "duration": "1 day",
+          "difficulty": "Easy",
+          "permit": "Required (limited entries)",
+          "highlights": ["Pristine lake", "Tiger habitat", "Dense forests"],
+          "funfact": "One of the most beautiful lakes in South India! Access is restricted to protect the ecosystem. The lake supplies water to Kodaikanal."
+        }
+      ],
+      "funfact": "Kodaikanal was established by American missionaries in 1845, not the British! It's called the 'Princess of Hill Stations'. The Palani Temple here is one of six sacred abodes of Lord Murugan."
+    },
+    "anamalai_hills": {
+      "name": "Anamalai Hills",
+      "also_known_as": ["Anamala Hills", "Elephant Mountains"],
+      "meaning": "Ana (Elephant) + Malai (Mountain)",
+      "location": "Tamil Nadu and Kerala border",
+      "part_of": "Southern Western Ghats",
+      "highest_peak": "Anamudi (2,695m) - Highest in South India",
+      "tiger_reserve": "Anamalai Tiger Reserve",
+      "characteristics": ["Elephant habitat", "Highest peak in South", "Tea estates", "Dense forests"],
+      "famous_mountains": [
+        {
+          "name": "Anamudi",
+          "height": "2,695 meters",
+          "location": "Kerala (Eravikulam National Park)",
+          "meaning": "Elephant's Forehead",
+          "first_ascent": "1862 (British)",
+          "funfact": "Highest peak in South India! The shape resembles an elephant's forehead. Home to the endangered Nilgiri Tahr. Permits required for climbing."
+        },
+        {
+          "name": "Meesapulimala",
+          "height": "2,640 meters",
+          "location": "Tamil Nadu (near Munnar)",
+          "meaning": "Mountain of the Moustached Leopard",
+          "funfact": "Second highest peak in South India! The mountain profile looks like a moustached leopard. One of the most challenging treks in the region."
+        },
+        {
+          "name": "Kolukkumalai",
+          "height": "2,300 meters",
+          "location": "Tamil Nadu",
+          "funfact": "Home to the world's highest tea plantation! The sunrise views are legendary. Accessible by jeep on steep dirt roads."
+        }
+      ],
+      "famous_treks": [
+        {
+          "name": "Anamudi Summit Trek",
+          "location": "Kerala (Eravikulam NP)",
+          "duration": "2-3 days",
+          "best_season": "September-May",
+          "max_altitude": "2,695 meters",
+          "difficulty": "Difficult",
+          "permit": "Required from Forest Department",
+          "highlights": ["Highest peak in South India", "Nilgiri Tahr", "Shola forests", "Grasslands"],
+          "funfact": "Summit the highest peak south of the Himalayas! The trek passes through prime Nilgiri Tahr habitat. Limited permits ensure minimal human impact."
+        },
+        {
+          "name": "Meesapulimala Trek",
+          "location": "Tamil Nadu/Kerala border",
+          "duration": "2 days",
+          "best_season": "September-May",
+          "max_altitude": "2,640 meters",
+          "difficulty": "Difficult",
+          "permit": "Required",
+          "highlights": ["Second highest in South India", "Grassland camping", "Sunrise views"],
+          "funfact": "The mountain looks like a moustached leopard! One of the most rewarding treks in South India. The night camping on the grasslands is magical."
+        },
+        {
+          "name": "Kolukkumalai Sunrise Trek",
+          "location": "Near Munnar",
+          "duration": "1 day (starts at night)",
+          "max_altitude": "2,300 meters",
+          "difficulty": "Moderate",
+          "highlights": ["World's highest tea estate", "Spectacular sunrise", "Tea factory visit"],
+          "funfact": "Watch the sunrise from the world's highest tea plantation! The jeep ride up is an adventure itself. The century-old tea factory still uses orthodox methods."
+        },
+        {
+          "name": "Chinnar Wildlife Trek",
+          "location": "Kerala",
+          "duration": "2 days",
+          "difficulty": "Moderate",
+          "highlights": ["Dry thorny forest", "Giant grizzled squirrel", "Tribal villages"],
+          "funfact": "Unique dry ecosystem in otherwise wet Western Ghats! Home to the endangered grizzled giant squirrel. Muthuvan tribal guides lead the treks."
+        },
+        {
+          "name": "Top Station Trek",
+          "location": "Near Munnar",
+          "duration": "Half day",
+          "max_altitude": "1,880 meters",
+          "difficulty": "Easy",
+          "highlights": ["Views of Tamil Nadu plains", "Neelakurinji (seasonal)", "Photography"],
+          "funfact": "Called 'Top Station' because it was the top point of a ropeway! On clear days, you can see the plains of Tamil Nadu 2,000 meters below. Neelakurinji blooms here every 12 years."
+        }
+      ],
+      "funfact": "The Anamalai Hills contain the highest peak in South India and are named after the elephants that roam here! The region has the highest density of Asian elephants in India. The Anamalai Tiger Reserve is one of the best-protected forests in India."
+    },
+    "cardamom_hills": {
+      "name": "Cardamom Hills",
+      "also_known_as": ["Yela Mala", "Elettaria Mountains"],
+      "meaning": "Named after cardamom spice grown here",
+      "location": "Kerala and Tamil Nadu",
+      "part_of": "Southern Western Ghats",
+      "highest_peak": "Anamudi (shared with Anamalai Hills)",
+      "average_elevation": "1,000-2,000 meters",
+      "characteristics": ["Spice plantations", "Tea estates", "Dense forests", "High rainfall"],
+      "hill_stations": ["Munnar", "Thekkady", "Vagamon"],
+      "famous_mountains": [
+        {
+          "name": "Anaerangal",
+          "height": "1,500 meters (approximately)",
+          "location": "Near Munnar",
+          "funfact": "Features a scenic lake surrounded by tea estates. Popular photography destination."
+        },
+        {
+          "name": "Mattupetty",
+          "height": "1,700 meters (approximately)",
+          "location": "Near Munnar",
+          "funfact": "Has a famous reservoir surrounded by tea gardens and forests. Echo point nearby."
+        }
+      ],
+      "famous_treks": [
+        {
+          "name": "Munnar Tea Plantation Trek",
+          "location": "Munnar, Kerala",
+          "duration": "1 day",
+          "difficulty": "Easy",
+          "highlights": ["Tea gardens", "Factory visit", "Mountain views", "Colonial history"],
+          "funfact": "Walk through endless carpets of tea! Munnar produces some of the world's finest tea. The tea museum showcases the industry's colonial history."
+        },
+        {
+          "name": "Periyar Tiger Reserve Trek",
+          "location": "Thekkady, Kerala",
+          "duration": "1-3 days",
+          "difficulty": "Easy to Difficult (depends on route)",
+          "permit": "Required",
+          "highlights": ["Tiger Reserve", "Bamboo rafting", "Night patrolling", "Wildlife"],
+          "funfact": "One of the few tiger reserves where you can trek inside! Options range from nature walks to full border hikes. Former poachers now work as guides."
+        },
+        {
+          "name": "Vagamon Meadows Trek",
+          "location": "Vagamon, Kerala",
+          "duration": "1 day",
+          "difficulty": "Easy",
+          "highlights": ["Rolling meadows", "Pine forests", "Paragliding", "Kurisumala"],
+          "funfact": "Called 'Mini Scotland' for its rolling green meadows! The pine forests were planted by the British. Kurisumala Ashram offers spiritual retreats."
+        },
+        {
+          "name": "Gavi Trek",
+          "location": "Near Thekkady",
+          "duration": "1-2 days",
+          "difficulty": "Moderate",
+          "permit": "Required (limited daily entries)",
+          "highlights": ["Untouched forests", "Bison sightings", "Lake camping", "Rare birds"],
+          "funfact": "One of Kerala's best-kept secrets! Limited entries protect this pristine ecosystem. Excellent chances of seeing Indian Gaur (bison) and elephants."
+        }
+      ],
+      "funfact": "The Cardamom Hills produce 60% of India's cardamom - the 'Queen of Spices'! The spice has been traded from here for over 3,000 years. Ancient Romans paid exorbitant prices for cardamom from these hills."
+    },
+    "purvanchal_range": {
+      "name": "Purvanchal Range",
+      "also_known_as": ["Eastern Mountains", "Northeast Hills"],
+      "meaning": "Purva (East) + Anchal (Region)",
+      "location": "Northeast India (Arunachal Pradesh, Nagaland, Manipur, Mizoram, Tripura, Meghalaya)",
+      "type": "Extension of Himalayas (curving southward)",
+      "length": "Approximately 1,000 km",
+      "average_height": "1,500-3,000 meters",
+      "characteristics": ["Dense tropical forests", "Tribal cultures", "High rainfall", "Rich biodiversity"],
+      "sub_ranges": [
+        {
+          "name": "Patkai Range",
+          "location": "Arunachal Pradesh, Nagaland, Manipur",
+          "highest_peak": "Saramati (3,841m)",
+          "funfact": "Forms the India-Myanmar border. The word 'Patkai' means 'chicken cut' in local language referring to a legendary event."
+        },
+        {
+          "name": "Naga Hills",
+          "location": "Nagaland, Manipur",
+          "highest_peak": "Saramati (3,841m)",
+          "funfact": "Home to the Naga tribes with rich warrior traditions. The famous Hornbill Festival celebrates Naga culture."
+        },
+        {
+          "name": "Manipur Hills",
+          "location": "Manipur",
+          "highest_peak": "Mount Iso (2,994m)",
+          "funfact": "Surround the Manipur Valley creating a bowl-shaped landscape. Home to the unique Loktak Lake with floating islands."
+        },
+        {
+          "name": "Mizo Hills (Lushai Hills)",
+          "location": "Mizoram",
+          "highest_peak": "Phawngpui (2,157m) - Blue Mountain",
+          "funfact": "The most southerly extension of the Himalayan system. The blue mountain (Phawngpui) is sacred to the Mizo people."
+        },
+        {
+          "name": "Garo-Khasi-Jaintia Hills",
+          "location": "Meghalaya",
+          "highest_peak": "Shillong Peak (1,965m)",
+          "funfact": "Meghalaya means 'Abode of Clouds'. Cherrapunji and Mawsynram here receive the highest rainfall on Earth!"
+        },
+        {
+          "name": "Barail Range",
+          "location": "Assam, Manipur, Nagaland",
+          "highest_peak": "Japvo (3,015m)",
+          "funfact": "Separates the Brahmaputra and Barak river basins. Forms the boundary between Naga and Manipuri cultures."
+        },
+        {
+          "name": "Mishmi Hills",
+          "location": "Arunachal Pradesh",
+          "highest_peak": "Diphupani (4,578m)",
+          "funfact": "Among the least explored mountains in India! Home to the Mishmi tribe and the endangered Mishmi Takin."
+        }
+      ],
+      "famous_mountains": [
+        {
+          "name": "Saramati",
+          "height": "3,841 meters",
+          "location": "Nagaland-Myanmar border",
+          "funfact": "Highest peak in Nagaland! On the India-Myanmar border. Rhododendrons bloom spectacularly here. Snow-capped in winter - unusual for this latitude."
+        },
+        {
+          "name": "Phawngpui (Blue Mountain)",
+          "height": "2,157 meters",
+          "location": "Mizoram",
+          "meaning": "Blue Mountain",
+          "funfact": "Highest peak in Mizoram! Appears blue from a distance due to the flowers. Sacred to the Mizo people. Has unique orchids found nowhere else."
+        },
+        {
+          "name": "Mount Iso (Shirui Peak)",
+          "height": "2,994 meters",
+          "location": "Manipur",
+          "funfact": "Home to the rare Shirui Lily found nowhere else on Earth! The lily blooms in May-June and is celebrated with a festival."
+        },
+        {
+          "name": "Japvo Peak",
+          "height": "3,015 meters",
+          "location": "Nagaland (Kohima district)",
+          "funfact": "Considered sacred by the Angami Naga tribe. The summit offers views of both Manipur and Nagaland. Dense rhododendron forests cover the slopes."
+        },
+        {
+          "name": "Shillong Peak",
+          "height": "1,965 meters",
+          "location": "Meghalaya",
+          "funfact": "Highest point in Meghalaya! Offers views of the entire Shillong Plateau. An Air Force radar station sits at the top. Named 'U-Shulong' by Khasis."
+        },
+        {
+          "name": "Mount Harriet",
+          "height": "365 meters",
+          "location": "Andaman Islands (different region but related geologically)",
+          "funfact": "Highest point in the Andaman Islands! Named after Harriet Tytler. Has a remnant of tropical rainforest."
+        },
+        {
+          "name": "Nokrek Peak",
+          "height": "1,412 meters",
+          "location": "Meghalaya (Garo Hills)",
+          "funfact": "Part of Nokrek National Park - home to wild citrus varieties, ancestors of all modern oranges! UNESCO Biosphere Reserve."
+        },
+        {
+          "name": "Mawphlang Sacred Peak",
+          "height": "1,500 meters (approximately)",
+          "location": "Meghalaya",
+          "funfact": "Site of the famous Mawphlang Sacred Grove - an ancient forest protected for centuries by tribal law. Nothing can be removed from the grove."
+        }
+      ],
+      "famous_treks": [
+        {
+          "name": "Dzukou Valley Trek",
+          "location": "Nagaland-Manipur border",
+          "duration": "2-3 days",
+          "best_season": "June-September (flowers), October-May (clear skies)",
+          "max_altitude": "2,452 meters",
+          "difficulty": "Moderate",
+          "highlights": ["Valley of Flowers of Northeast", "Rare Dzukou Lily", "Rolling hills", "Sunrise views"],
+          "funfact": "Called the 'Valley of Flowers of the Northeast'! Home to the rare Dzukou Lily found nowhere else. The undulating hills look like green waves."
+        },
+        {
+          "name": "Saramati Peak Trek",
+          "location": "Nagaland",
+          "duration": "5-6 days",
+          "best_season": "November-April",
+          "max_altitude": "3,841 meters",
+          "difficulty": "Difficult",
+          "permit": "Required (Protected Area Permit)",
+          "highlights": ["Highest in Nagaland", "Rhododendron forests", "Tribal villages", "Snow in winter"],
+          "funfact": "Trek through Naga tribal lands to Nagaland's highest peak! Snow caps the summit in winter. The rhododendrons in bloom are spectacular."
+        },
+        {
+          "name": "Phawngpui (Blue Mountain) Trek",
+          "location": "Mizoram",
+          "duration": "2-3 days",
+          "best_season": "October-April",
+          "max_altitude": "2,157 meters",
+          "difficulty": "Moderate",
+          "highlights": ["Highest in Mizoram", "Rare orchids", "Sacred mountain", "Spectacular views"],
+          "funfact": "Trek to Mizoram's highest and most sacred peak! Appears blue from distance due to rare flowers. The mountain is protected as a national park."
+        },
+        {
+          "name": "Shirui Peak (Mount Iso) Trek",
+          "location": "Manipur",
+          "duration": "2 days",
+          "best_season": "May-June (for Shirui Lily)",
+          "max_altitude": "2,994 meters",
+          "difficulty": "Moderate to Difficult",
+          "highlights": ["Shirui Lily", "Unique ecosystem", "Views of Manipur Valley"],
+          "funfact": "The ONLY place on Earth where the Shirui Lily grows! The flower blooms in May-June. The Shirui Lily Festival celebrates this natural wonder."
+        },
+        {
+          "name": "Living Root Bridges Trek",
+          "location": "Meghalaya (Cherrapunji/Mawlynnong)",
+          "duration": "1-3 days",
+          "best_season": "October-May",
+          "difficulty": "Moderate",
+          "highlights": ["Living root bridges", "Double-decker bridge", "Cleanest village", "Waterfalls"],
+          "funfact": "Walk on bridges made from living tree roots! The Khasi people train rubber tree roots to grow into bridges over 30 meters long. Some are 500+ years old and still growing!"
+        },
+        {
+          "name": "David Scott Trail",
+          "location": "Meghalaya",
+          "duration": "1-2 days",
+          "best_season": "October-May",
+          "max_altitude": "1,800 meters",
+          "difficulty": "Moderate",
+          "distance": "16 km",
+          "highlights": ["British-era trail", "Umiam Lake views", "Khasi villages", "Waterfalls"],
+          "funfact": "Named after a British administrator who built this trail in the 1800s to link Bangladesh (then Bengal) to Assam. Passes through beautiful Khasi countryside."
+        },
+        {
+          "name": "Nongriat Double Decker Bridge Trek",
+          "location": "Meghalaya",
+          "duration": "1 day",
+          "difficulty": "Moderate (3,500 steps!)",
+          "highlights": ["Double-decker root bridge", "Rainbow falls", "Natural swimming pool"],
+          "funfact": "Descend 3,500 steps to see the world-famous double-decker living root bridge! The only double-decker in the world. The swimming pool at Rainbow Falls is crystal clear."
+        },
+        {
+          "name": "Nohkalikai Falls Trek",
+          "location": "Meghalaya (Cherrapunji)",
+          "duration": "Half day",
+          "difficulty": "Moderate",
+          "highlights": ["India's tallest plunge waterfall", "Views", "Legend of Ka Likai"],
+          "funfact": "India's tallest plunge waterfall at 340 meters! Named after a woman who jumped to her death after a tragedy. The blue pool at the base is mesmerizing."
+        },
+        {
+          "name": "Mawphlang Sacred Grove Trek",
+          "location": "Meghalaya",
+          "duration": "Half day",
+          "difficulty": "Easy",
+          "highlights": ["Sacred forest", "Ancient trees", "Medicinal plants", "Tribal traditions"],
+          "funfact": "Walk through a forest protected for centuries by tribal law! Nothing can be removed - even a fallen leaf. The forest is a living pharmacy with hundreds of medicinal plants."
+        },
+        {
+          "name": "Keibul Lamjao Trek/Canoe",
+          "location": "Manipur",
+          "duration": "1 day",
+          "difficulty": "Easy",
+          "highlights": ["World's only floating park", "Sangai deer", "Loktak Lake", "Phumdis"],
+          "funfact": "The only floating national park in the world! Home to the endangered Sangai (dancing deer). The park floats on phumdis (floating vegetation) on Loktak Lake."
+        }
+      ],
+      "funfact": "The Purvanchal mountains are the southward continuation of the Himalayas! They curve around the head of the Brahmaputra River. The region receives some of the highest rainfall on Earth - Mawsynram (11,871mm) and Cherrapunji are here."
+    },
+    "shillong_plateau": {
+      "name": "Shillong Plateau",
+      "also_known_as": ["Meghalaya Plateau"],
+      "location": "Meghalaya",
+      "type": "Horst (uplifted block)",
+      "average_elevation": "1,500 meters",
+      "highest_point": "Shillong Peak (1,965m)",
+      "characteristics": ["Ancient rock formation", "Distinct from Himalayas", "Highest rainfall area", "Living root bridges"],
+      "famous_features": [
+        {
+          "name": "Cherrapunji (Sohra)",
+          "rainfall": "11,430mm average annual",
+          "funfact": "Once held the record for highest rainfall! Features stunning waterfalls and living root bridges."
+        },
+        {
+          "name": "Mawsynram",
+          "rainfall": "11,871mm average annual",
+          "funfact": "Current holder of the record for highest average annual rainfall on Earth! Even wetter than Cherrapunji."
+        }
+      ],
+      "funfact": "The Shillong Plateau is geologically separate from the Himalayas - it's a piece of the ancient Indian peninsula that uplifted! It's made of rocks 600 million years old, while the Himalayas are only 50 million years old."
+    }
+  },
+  "summary_statistics": {
+    "total_major_ranges": 12,
+    "highest_peak_in_india": {
+      "name": "Kangchenjunga",
+      "height": "8,586 meters",
+      "location": "Sikkim",
+      "world_rank": 3
+    },
+    "highest_peaks_by_region": {
+      "north_india": {
+        "name": "Kangchenjunga",
+        "height": "8,586 meters",
+        "range": "Himalayas"
+      },
+      "south_india": {
+        "name": "Anamudi",
+        "height": "2,695 meters",
+        "range": "Western Ghats/Anamalai Hills"
+      },
+      "central_india": {
+        "name": "Dhupgarh",
+        "height": "1,352 meters",
+        "range": "Satpura"
+      },
+      "western_india": {
+        "name": "Guru Shikhar",
+        "height": "1,722 meters",
+        "range": "Aravallis"
+      },
+      "eastern_india": {
+        "name": "Arma Konda/Deomali",
+        "height": "1,680/1,672 meters",
+        "range": "Eastern Ghats"
+      },
+      "northeast_india": {
+        "name": "Kangto",
+        "height": "7,090 meters",
+        "range": "Eastern Himalayas"
+      }
+    },
+    "famous_treks_count": "100+ major treks documented",
+    "oldest_mountain_range": {
+      "name": "Aravallis",
+      "age": "1.8 billion years"
+    },
+    "youngest_mountain_range": {
+      "name": "Himalayas",
+      "age": "50-70 million years",
+      "note": "Still growing at 1cm per year!"
+    },
+    "most_biodiverse_range": "Western Ghats (UNESCO World Heritage Site)",
+    "highest_rainfall_area": "Mawsynram/Cherrapunji (Meghalaya - Shillong Plateau)",
+    "longest_range_in_india": "Himalayas (2,500 km within India)"
+  },
+  "interesting_facts": [
+    {
+      "fact": "The Himalayas are still growing at about 1cm per year!",
+      "funfact": "The collision between the Indian and Eurasian plates continues. This is why earthquakes are common in the Himalayan region."
+    },
+    {
+      "fact": "The Aravallis are older than the Himalayas by 1.75 billion years!",
+      "funfact": "The Aravallis were once as tall as the Himalayas but have eroded over billions of years. They're among the oldest mountains on Earth."
+    },
+    {
+      "fact": "The Western Ghats are older than the Himalayas",
+      "funfact": "The Western Ghats formed 150 million years ago when India separated from Africa. They're a remnant of the ancient supercontinent Gondwana."
+    },
+    {
+      "fact": "India has peaks over 8,000m, 7,000m, 6,000m, and numerous peaks above 5,000m",
+      "funfact": "Only Nepal has more 8,000m peaks. India has the third highest peak in the world (Kangchenjunga)."
+    },
+    {
+      "fact": "The Chadar Trek is disappearing due to climate change",
+      "funfact": "The Zanskar River doesn't freeze as solidly as it used to. Scientists predict the trek may become impossible within decades."
+    },
+    {
+      "fact": "Mount Kailash has never been climbed",
+      "funfact": "Despite being only 6,638m (climbable height), Mount Kailash remains unclimbed out of respect for its sacred status to Hindus, Buddhists, Jains, and Bon followers."
+    },
+    {
+      "fact": "Roopkund Lake contains hundreds of ancient human skeletons",
+      "funfact": "Scientists believe these were 9th-century pilgrims killed by a sudden hailstorm. DNA analysis shows they were from different populations across Asia and the Mediterranean!"
+    },
+    {
+      "fact": "Living root bridges in Meghalaya are grown, not built",
+      "funfact": "Khasi tribes train rubber tree roots to grow across streams. These living bridges strengthen with age and can last 500+ years. Some are over 30 meters long."
+    },
+    {
+      "fact": "The Neelakurinji flower blooms only once every 12 years",
+      "funfact": "When it blooms, entire mountainsides in the Nilgiris turn blue-purple. The Paliyan tribe used to calculate their age by counting the blooms."
+    },
+    {
+      "fact": "Mawsynram receives more rainfall than almost any other place on Earth",
+      "funfact": "It receives 11,871mm of rainfall annually - that's nearly 40 feet of rain! Ironically, the region faces water shortages in dry season because the rain runs off quickly."
+    },
+    {
+      "fact": "The Valley of Flowers was unknown to the outside world until 1931",
+      "funfact": "British mountaineer Frank Smythe 'discovered' it after losing his way. Over 600 species of flowering plants bloom here, many found nowhere else."
+    },
+    {
+      "fact": "Sandakphu is the only place to see 4 of the world's 5 highest peaks",
+      "funfact": "From this ridge on the India-Nepal border, you can see Everest, Kangchenjunga, Lhotse, and Makalu simultaneously. No other point on Earth offers this view."
+    },
+    {
+      "fact": "The Shirui Lily grows only on one mountain peak in the world",
+      "funfact": "Found only on Mount Iso (Shirui Peak) in Manipur. Attempts to grow it elsewhere have failed. The Shirui Lily Festival celebrates this natural wonder."
+    },
+    {
+      "fact": "Stok Kangri is one of the easiest 6,000m peaks to climb",
+      "funfact": "No technical climbing skills are needed. Thousands of trekkers summit it each year, making it a popular 'bucket list' peak for adventure seekers."
+    },
+    {
+      "fact": "The Aravallis stop the Thar Desert from spreading",
+      "funfact": "Without the Aravallis, the Thar Desert would expand eastward into the fertile Gangetic plains. These ancient mountains serve as a crucial ecological barrier."
+    }
+  ]
+  }
+}

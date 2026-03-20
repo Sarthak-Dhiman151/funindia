@@ -1,0 +1,3306 @@
+{
+  "indian_biodiversity": {
+    "metadata": {
+      "title": "Flora and Fauna of Indian States",
+      "description": "Comprehensive guide to biodiversity across India's states and union territories",
+      "total_states_covered": 28,
+      "total_union_territories_covered": 8,
+      "biodiversity_rank": "India is one of the 17 megadiverse countries, hosting 7-8% of all recorded species",
+      "last_updated": "2024"
+    },
+    "states": {
+      "Andhra_Pradesh": {
+        "state_animal": {
+          "name": "Blackbuck",
+          "scientific_name": "Antilope cervicapra",
+          "status": "Least Concern",
+          "habitat": "Grasslands and open plains",
+          "funfact": "Blackbucks can leap up to 2 meters high and run at speeds of 80 km/h - faster than most predators! Males have beautiful spiraling horns that can grow up to 70cm long."
+        },
+        "state_bird": {
+          "name": "Indian Roller (Palapitta)",
+          "scientific_name": "Coracias benghalensis",
+          "status": "Least Concern",
+          "habitat": "Open countryside, cultivated areas",
+          "funfact": "The Indian Roller performs spectacular aerial acrobatics during mating season, rolling and tumbling through the air - hence its name! Its feathers display 8 different shades of blue."
+        },
+        "state_tree": {
+          "name": "Neem",
+          "scientific_name": "Azadirachta indica",
+          "type": "Evergreen",
+          "uses": "Medicinal, pesticidal, cosmetic",
+          "funfact": "Neem is called the 'Village Pharmacy' in India because every part - leaves, bark, seeds, flowers - has medicinal properties. It can purify air and soil, and one neem tree produces enough oxygen for 10 people!"
+        },
+        "state_flower": {
+          "name": "Water Lily",
+          "scientific_name": "Nymphaea nouchali",
+          "type": "Aquatic flowering plant",
+          "blooming_season": "Throughout the year",
+          "funfact": "Water lily flowers open in the morning and close at night, following the sun! The ancient Egyptians considered it sacred, and it can survive in water as deep as 2.5 meters."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Olive Ridley Sea Turtle",
+            "scientific_name": "Lepidochelys olivacea",
+            "status": "Vulnerable",
+            "location": "Coastal beaches",
+            "funfact": "Thousands of female Olive Ridley turtles arrive simultaneously at Andhra's beaches for 'arribada' (mass nesting) - one of nature's most spectacular events! They return to the same beach where they were born decades ago."
+          },
+          {
+            "name": "Fishing Cat",
+            "scientific_name": "Prionailurus viverrinus",
+            "status": "Vulnerable",
+            "location": "Wetlands and mangroves",
+            "funfact": "Unlike most cats, fishing cats love water! They have partially webbed paws and can dive underwater to catch fish. They tap the water surface to mimic insect movements and lure fish."
+          },
+          {
+            "name": "Indian Pangolin",
+            "scientific_name": "Manis crassicaudata",
+            "status": "Endangered",
+            "location": "Forests and grasslands",
+            "funfact": "Pangolins are the world's only scaly mammals and the most trafficked animal globally. When threatened, they curl into a perfect ball that even lions can't unroll! One pangolin can eat 70 million ants per year."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Jerdon's Courser",
+            "scientific_name": "Rhinoptilus bitorquatus",
+            "type": "Bird",
+            "status": "Critically Endangered",
+            "location": "Sri Lankamaleswara Wildlife Sanctuary",
+            "funfact": "This bird was thought to be extinct for 86 years until it was rediscovered in 1986 in Andhra Pradesh! It's a nocturnal bird that's so rare, fewer than 50 individuals may exist."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Sri Venkateswara National Park",
+            "area_sq_km": 353,
+            "established": 1989,
+            "key_species": "Sloth Bear, Indian Giant Squirrel, Golden Gecko",
+            "funfact": "This park is home to the rare Golden Gecko, a lizard that glows golden in sunlight and can detach its tail to escape predators!"
+          }
+        ]
+      },
+      "Arunachal_Pradesh": {
+        "state_animal": {
+          "name": "Gayal (Mithun)",
+          "scientific_name": "Bos frontalis",
+          "status": "Vulnerable",
+          "habitat": "Hilly forested areas",
+          "funfact": "The Mithun is a semi-domesticated bovine used as currency in tribal societies! It's considered more valuable than money - bride prices and fines are calculated in Mithuns. They can climb steep mountain slopes with ease."
+        },
+        "state_bird": {
+          "name": "Great Hornbill",
+          "scientific_name": "Buceros bicornis",
+          "status": "Vulnerable",
+          "habitat": "Evergreen forests",
+          "funfact": "Female hornbills seal themselves inside tree cavities during nesting, leaving only a small hole. The male feeds her through this hole for 4 months! Their casque (helmet) is so light it's hollow inside despite looking solid."
+        },
+        "state_tree": {
+          "name": "Hollong",
+          "scientific_name": "Dipterocarpus macrocarpus",
+          "type": "Deciduous",
+          "uses": "Timber, construction",
+          "funfact": "Hollong trees can grow up to 50 meters tall - as high as a 15-story building! Their seeds have wing-like structures that spiral down like helicopters when falling."
+        },
+        "state_flower": {
+          "name": "Foxtail Orchid (Lady's Slipper)",
+          "scientific_name": "Rhynchostylis retusa",
+          "type": "Epiphytic orchid",
+          "blooming_season": "Winter",
+          "funfact": "This orchid grows on tree branches without harming the tree (epiphyte). Its flowers smell like grape candy and bloom in cascading bunches of 100+ flowers that last for weeks!"
+        },
+        "notable_wildlife": [
+          {
+            "name": "Red Panda",
+            "scientific_name": "Ailurus fulgens",
+            "status": "Endangered",
+            "location": "Eastern Himalayas",
+            "funfact": "Red pandas are not related to giant pandas - they're more closely related to raccoons! They have a 'false thumb' (extended wrist bone) to grip bamboo, and they spend 13 hours a day eating because bamboo has so little nutrition."
+          },
+          {
+            "name": "Clouded Leopard",
+            "scientific_name": "Neofelis nebulosa",
+            "status": "Vulnerable",
+            "location": "Dense forests",
+            "funfact": "Clouded leopards have the longest canine teeth relative to body size of any cat - up to 2 inches! They can hang upside down from branches using their hind legs and rotate their ankles 180 degrees."
+          },
+          {
+            "name": "Takin",
+            "scientific_name": "Budorcas taxicolor",
+            "status": "Vulnerable",
+            "location": "High altitude forests",
+            "funfact": "Takins are called 'goat-antelopes' and look like a mix between a cow and a goat. According to legend, the Takin was created when a Tibetan saint attached the head of a goat to the body of a cow!"
+          },
+          {
+            "name": "Mishmi Takin",
+            "scientific_name": "Budorcas taxicolor taxicolor",
+            "status": "Vulnerable",
+            "location": "Mishmi Hills",
+            "funfact": "This subspecies secretes an oily substance on its coat that acts as a natural raincoat! They can survive in temperatures as low as -20°C."
+          },
+          {
+            "name": "Snow Leopard",
+            "scientific_name": "Panthera uncia",
+            "status": "Vulnerable",
+            "location": "High altitude mountains",
+            "funfact": "Snow leopards can't roar (unlike other big cats) but they can purr! Their tail is almost as long as their body and so thick they use it as a scarf to wrap around their face while sleeping in freezing temperatures."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Bugun Liocichla",
+            "scientific_name": "Liocichla bugunorum",
+            "type": "Bird",
+            "status": "Critically Endangered",
+            "location": "Eaglenest Wildlife Sanctuary",
+            "funfact": "Discovered only in 2006, this bird is so rare that fewer than 20 individuals have ever been spotted! It's one of the newest bird species discovered in India in the last 50 years."
+          },
+          {
+            "name": "Arunachal Macaque",
+            "scientific_name": "Macaca munzala",
+            "type": "Mammal",
+            "status": "Endangered",
+            "location": "High altitude forests",
+            "funfact": "This macaque was discovered in 2004 and can survive at altitudes up to 3,500 meters - higher than any other macaque! It's the only primate discovered in India in modern times."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Namdapha National Park",
+            "area_sq_km": 1985,
+            "established": 1983,
+            "key_species": "Snow Leopard, Red Panda, Clouded Leopard, White-winged Wood Duck",
+            "funfact": "Namdapha is the only park in the world that has four big cat species - Tiger, Leopard, Snow Leopard, and Clouded Leopard! It ranges from 200m to 4,500m altitude."
+          }
+        ],
+        "unique_flora": [
+          {
+            "name": "Blue Vanda Orchid",
+            "scientific_name": "Vanda coerulea",
+            "status": "Endangered",
+            "location": "Forests at 1000-1500m altitude",
+            "funfact": "This stunning blue orchid is so rare and valuable that it's called the 'Queen of Orchids'. A single plant can sell for thousands of dollars! Its true blue color is extremely rare in nature."
+          }
+        ]
+      },
+      "Assam": {
+        "state_animal": {
+          "name": "Indian One-horned Rhinoceros",
+          "scientific_name": "Rhinoceros unicornis",
+          "status": "Vulnerable",
+          "habitat": "Grasslands and swamps",
+          "funfact": "The Indian rhino has 'armor-plated' skin with folds that look like riveted metal plates! Despite weighing 2,000+ kg, they can run at 55 km/h and are excellent swimmers. Their horn is made of keratin (like your fingernails), not bone."
+        },
+        "state_bird": {
+          "name": "White-winged Duck",
+          "scientific_name": "Asarcornis scutulata",
+          "status": "Endangered",
+          "habitat": "Dense tropical forests near water",
+          "funfact": "Also called 'White-winged Wood Duck', this is one of the world's rarest ducks with fewer than 1,000 individuals left! They nest in tree holes 10-15 meters high, and ducklings jump down to the ground within 24 hours of hatching."
+        },
+        "state_tree": {
+          "name": "Hollong",
+          "scientific_name": "Dipterocarpus macrocarpus",
+          "type": "Deciduous",
+          "uses": "Timber, plywood",
+          "funfact": "The same as Arunachal Pradesh's state tree. These giants can live for over 500 years! The wood is so durable it was used to build traditional Assamese houses that last centuries."
+        },
+        "state_flower": {
+          "name": "Foxtail Orchid",
+          "scientific_name": "Rhynchostylis retusa",
+          "type": "Epiphytic orchid",
+          "blooming_season": "October to January",
+          "funfact": "Assam has over 500 species of orchids! The Foxtail Orchid's flowers hang in dense clusters like a fox's tail and are used in traditional Assamese medicine to treat skin diseases."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Asiatic Wild Water Buffalo",
+            "scientific_name": "Bubalus arnee",
+            "status": "Endangered",
+            "location": "Kaziranga and Manas",
+            "funfact": "Wild water buffaloes are the ancestors of domestic buffaloes and are the largest bovine species! Bulls can weigh up to 1,200 kg and their horns can span 2 meters. They once killed a tiger in Kaziranga!"
+          },
+          {
+            "name": "Hoolock Gibbon",
+            "scientific_name": "Hoolock hoolock",
+            "status": "Endangered",
+            "location": "Forests of Assam",
+            "funfact": "India's only ape species! Hoolock gibbons are monogamous and 'sing' elaborate duets with their partners every morning to defend territory. They can swing through trees at 55 km/h using just their arms (brachiation)."
+          },
+          {
+            "name": "Pygmy Hog",
+            "scientific_name": "Porcula salvania",
+            "status": "Critically Endangered",
+            "location": "Manas National Park",
+            "funfact": "The world's smallest and rarest wild pig, standing only 25cm tall! Once thought extinct, they were rediscovered in 1971. They build elaborate nests for protection and are the only pig species that does so."
+          },
+          {
+            "name": "Bengal Florican",
+            "scientific_name": "Houbaropsis bengalensis",
+            "status": "Critically Endangered",
+            "location": "Grasslands",
+            "funfact": "During mating season, male Bengal Floricans perform spectacular aerial displays, jumping 2 meters high while flapping wings! Fewer than 1,000 individuals remain globally."
+          },
+          {
+            "name": "Ganges River Dolphin",
+            "scientific_name": "Platanista gangetica",
+            "status": "Endangered",
+            "location": "Brahmaputra River",
+            "funfact": "These dolphins are effectively blind! They navigate using echolocation in muddy river waters. They swim on their side and can only survive in freshwater. India declared it the National Aquatic Animal in 2009."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Assam Roofed Turtle",
+            "scientific_name": "Pangshura sylhetensis",
+            "type": "Reptile",
+            "status": "Endangered",
+            "location": "Rivers and wetlands",
+            "funfact": "Once thought extinct, this turtle was rediscovered in 2002! It has a distinctive roof-like shell. Conservationists are now breeding them to save the species from extinction."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Kaziranga National Park",
+            "area_sq_km": 430,
+            "established": 1974,
+            "key_species": "One-horned Rhino, Tiger, Elephant, Wild Water Buffalo",
+            "funfact": "Kaziranga has the world's largest population of one-horned rhinos (over 2,400)! It's also one of the few places where you can see a tiger swimming. Two-thirds of the park floods during monsoon, forcing animals to migrate to higher ground."
+          },
+          {
+            "name": "Manas National Park",
+            "area_sq_km": 500,
+            "established": 1990,
+            "key_species": "Pygmy Hog, Golden Langur, Hispid Hare, Tiger",
+            "funfact": "Manas is a UNESCO World Heritage Site and the only tiger reserve in India with the rare Golden Langur! It's named after the serpent goddess Manas and borders Bhutan's Royal Manas National Park."
+          }
+        ],
+        "famous_tea_biodiversity": {
+          "fact": "Assam tea gardens are biodiversity hotspots hosting over 400 bird species!",
+          "unique_species": "Tea gardens provide habitat for elephants, leopards, and the rare Assam Macaque that loves to steal tea leaves."
+        }
+      },
+      "Bihar": {
+        "state_animal": {
+          "name": "Gaur (Indian Bison)",
+          "scientific_name": "Bos gaurus",
+          "status": "Vulnerable",
+          "habitat": "Forests and grasslands",
+          "funfact": "The Gaur is the world's largest bovine, with bulls weighing up to 1,500 kg! Despite their massive size, they can jump over 2-meter fences. Tigers are their only natural predator, and even tigers often fail to bring down a healthy adult."
+        },
+        "state_bird": {
+          "name": "House Sparrow",
+          "scientific_name": "Passer domesticus",
+          "status": "Declining",
+          "habitat": "Urban and rural areas near humans",
+          "funfact": "Sparrows are disappearing from Indian cities at an alarming rate - down 80% in some areas! They've lived alongside humans for 10,000 years. March 20 is celebrated as World Sparrow Day to raise awareness."
+        },
+        "state_tree": {
+          "name": "Peepal (Sacred Fig)",
+          "scientific_name": "Ficus religiosa",
+          "type": "Evergreen",
+          "uses": "Religious, medicinal, shade",
+          "funfact": "Buddha attained enlightenment under a Peepal tree 2,500 years ago! These trees can live for over 3,000 years and grow on buildings (strangler fig). They release oxygen even at night, unlike most trees."
+        },
+        "state_flower": {
+          "name": "Marigold (Genda)",
+          "scientific_name": "Tagetes erecta",
+          "type": "Flowering plant",
+          "blooming_season": "October to March",
+          "funfact": "Marigolds are offered in every temple in Bihar and used in all festivals! The flowers are edible and used in medicines. One marigold plant can produce 50+ flowers in a season."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Gharial (Fish-eating Crocodile)",
+            "scientific_name": "Gavialis gangeticus",
+            "status": "Critically Endangered",
+            "location": "Ganges River",
+            "funfact": "Gharials have the narrowest snout of any crocodilian - perfect for catching fish! Males develop a bulbous growth on their snout called a 'ghara' (pot) used to make buzzing sounds to attract females. They can't walk on land like other crocodiles."
+          },
+          {
+            "name": "Indian Wolf",
+            "scientific_name": "Canis lupus pallipes",
+            "status": "Endangered",
+            "location": "Grasslands",
+            "funfact": "Indian wolves are smaller than their northern cousins and live in packs of 3-5. They're genetically distinct and may be a separate species! The famous 'Jungle Book' wolves were likely this species."
+          },
+          {
+            "name": "Smooth-coated Otter",
+            "scientific_name": "Lutrogale perspicillata",
+            "status": "Vulnerable",
+            "location": "Rivers and wetlands",
+            "funfact": "These otters hunt in groups and can take down 4-foot catfish! They're incredibly playful and create water slides on riverbanks just for fun. They use 12 different vocalizations to communicate."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Valmiki National Park (Valmiki Tiger Reserve)",
+            "area_sq_km": 899,
+            "established": 1990,
+            "key_species": "Tiger, Leopard, Sloth Bear, Gharial",
+            "funfact": "Named after sage Valmiki who wrote the Ramayana. It's part of the larger Terai Arc landscape shared with Nepal. Wild elephants migrate between India and Nepal through this park."
+          }
+        ],
+        "river_ecosystem": {
+          "name": "Gangetic Dolphins in Bihar",
+          "location": "Vikramshila Gangetic Dolphin Sanctuary",
+          "established": 1991,
+          "funfact": "This is Asia's only sanctuary exclusively for river dolphins! The 60 km stretch of Ganges here hosts the highest concentration of Gangetic dolphins in the world."
+        }
+      },
+      "Chhattisgarh": {
+        "state_animal": {
+          "name": "Wild Water Buffalo (Van Bhainsa)",
+          "scientific_name": "Bubalus arnee",
+          "status": "Endangered",
+          "habitat": "Wetlands and grasslands",
+          "funfact": "Wild water buffaloes in Chhattisgarh's Indravati National Park are among the last pure genetic populations! They're excellent swimmers and can stay submerged for several minutes. A single kick can kill a tiger."
+        },
+        "state_bird": {
+          "name": "Hill Myna",
+          "scientific_name": "Gracula religiosa",
+          "status": "Least Concern",
+          "habitat": "Forests",
+          "funfact": "Hill Mynas are better mimics than parrots! They can perfectly copy human speech, other bird calls, and even mechanical sounds like car alarms. In captivity, they can learn 100+ words and phrases."
+        },
+        "state_tree": {
+          "name": "Sal (Sakhua)",
+          "scientific_name": "Shorea robusta",
+          "type": "Deciduous",
+          "uses": "Timber, religious ceremonies",
+          "funfact": "Sal trees can live for 150+ years and grow to 50 meters! Their wood is termite-resistant and was used to build railway sleepers across India. Lord Buddha was born, attained enlightenment, and died under Sal trees."
+        },
+        "state_flower": {
+          "name": "Not officially designated",
+          "note": "Chhattisgarh doesn't have an officially declared state flower yet",
+          "common_flowers": "Marigold, Jasmine, various orchids in forest regions"
+        },
+        "notable_wildlife": [
+          {
+            "name": "Bastar Hill Myna",
+            "scientific_name": "Gracula religiosa",
+            "status": "Threatened by trade",
+            "location": "Bastar region forests",
+            "funfact": "Bastar region's hill mynas are so sought after for their talking ability that they're threatened by illegal wildlife trade. Tribals traditionally keep them as pets and teach them local dialects!"
+          },
+          {
+            "name": "Flying Squirrel",
+            "scientific_name": "Petaurista philippensis",
+            "status": "Least Concern",
+            "location": "Dense forests",
+            "funfact": "Flying squirrels don't actually fly - they glide up to 150 meters between trees using a furry membrane! They're nocturnal and can make 90-degree turns in mid-air. Their large eyes glow red in flashlight."
+          },
+          {
+            "name": "Indian Giant Squirrel (Shekru)",
+            "scientific_name": "Ratufa indica",
+            "status": "Least Concern",
+            "location": "Deciduous forests",
+            "funfact": "These squirrels can grow up to 3 feet long (including tail) and have spectacular multi-colored fur - maroon, black, cream, and brown! They can leap 20 feet between trees and eat while hanging upside down."
+          },
+          {
+            "name": "Sloth Bear",
+            "scientific_name": "Melursus ursinus",
+            "status": "Vulnerable",
+            "location": "Forests throughout Chhattisgarh",
+            "funfact": "Sloth bears inspired Baloo in 'The Jungle Book'! They can close their nostrils completely and use their lips like a vacuum cleaner to suck up termites. They carry their cubs on their back - the only bear species to do so."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Indravati National Park",
+            "area_sq_km": 1258,
+            "established": 1982,
+            "key_species": "Wild Water Buffalo, Tiger, Leopard, Barasingha",
+            "funfact": "Named after the Indravati River, this park has one of the last populations of genetically pure wild water buffaloes. It's also home to the rare Hill Myna that can mimic 40+ different sounds!"
+          },
+          {
+            "name": "Kanger Valley National Park (Kanger Ghati)",
+            "area_sq_km": 200,
+            "established": 1982,
+            "key_species": "Tiger, Leopard, Mouse Deer, Flying Squirrel",
+            "funfact": "Famous for the spectacular Tirathgarh Waterfalls and mysterious Kotumsar Caves - one of the longest natural caves in India at 330 meters! The caves host blind fish that evolved in total darkness."
+          }
+        ],
+        "tribal_biodiversity_connection": {
+          "fact": "Chhattisgarh has 42 tribal communities with deep forest connections",
+          "traditional_knowledge": "Tribals use over 500 medicinal plants and have sustainable harvesting practices that have protected forests for millennia",
+          "funfact": "The Gond tribe's artwork depicts hundreds of local animals and plants with incredible accuracy, serving as a biodiversity database!"
+        }
+      },
+      "Goa": {
+        "state_animal": {
+          "name": "Gaur (Indian Bison)",
+          "scientific_name": "Bos gaurus",
+          "status": "Vulnerable",
+          "habitat": "Dense forests",
+          "funfact": "Goa's Gaurs are particularly large because of the lush Western Ghats habitat! Bulls can stand 2.2 meters at the shoulder. They have a distinctive dorsal ridge and dewlap (neck fold) that makes them look imposing."
+        },
+        "state_bird": {
+          "name": "Flame-throated Bulbul (Ruby-throated Bulbul)",
+          "scientific_name": "Rubigula gularis",
+          "status": "Least Concern",
+          "habitat": "Western Ghats forests",
+          "funfact": "This bird is found only in the Western Ghats! Males have a brilliant ruby-red throat that glows in sunlight. They're excellent singers and create complex melodious songs to attract mates."
+        },
+        "state_tree": {
+          "name": "Matti (Asna/Indian Laurel)",
+          "scientific_name": "Terminalia elliptica",
+          "type": "Deciduous",
+          "uses": "Timber, traditional medicine",
+          "funfact": "Matti wood is so hard and durable it was used to build Portuguese-era ships! The tree can grow in rocky, shallow soil where other trees can't. Its bark is used to treat dysentery."
+        },
+        "state_flower": {
+          "name": "Not officially designated",
+          "note": "Goa doesn't have an officially declared state flower",
+          "common_flowers": "Jasmine, Frangipani, Bougainvillea"
+        },
+        "notable_wildlife": [
+          {
+            "name": "Malabar Giant Squirrel",
+            "scientific_name": "Ratufa indica",
+            "status": "Least Concern",
+            "location": "Western Ghats forests",
+            "funfact": "These psychedelic squirrels have purple, orange, black, and maroon fur! They build multiple nests (up to 5) and use different ones for sleeping, eating, and hiding. They're so arboreal they rarely touch the ground."
+          },
+          {
+            "name": "King Cobra",
+            "scientific_name": "Ophiophagus hannah",
+            "status": "Vulnerable",
+            "location": "Forests of Goa",
+            "funfact": "The world's longest venomous snake (up to 18 feet)! King Cobras are the only snakes that build nests for their eggs and guard them fiercely. Their venom can kill an elephant, but they're actually quite shy."
+          },
+          {
+            "name": "Hump-nosed Pit Viper",
+            "scientific_name": "Hypnale hypnale",
+            "status": "Least Concern",
+            "location": "Forests and plantations",
+            "funfact": "This small viper has a distinctive upturned snout! It's responsible for many snakebites in Goa because it's well-camouflaged in leaf litter. Unlike cobras, they give birth to live young (not eggs)."
+          },
+          {
+            "name": "Indian Grey Hornbill",
+            "scientific_name": "Ocyceros birostris",
+            "status": "Least Concern",
+            "location": "Forests and urban areas",
+            "funfact": "These hornbills feed on fruits and regurgitate seeds far from the parent tree, making them crucial 'forest farmers'! They have a distinctive bouncing flight pattern like a basketball."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Mollem National Park",
+            "area_sq_km": 240,
+            "established": 1978,
+            "key_species": "Bengal Tiger, Black Panther, King Cobra, Malabar Giant Squirrel",
+            "funfact": "Part of the Western Ghats UNESCO World Heritage Site! Home to the spectacular Dudhsagar Waterfalls - India's 5th tallest waterfall that looks like flowing milk (Dudhsagar means 'Sea of Milk')."
+          },
+          {
+            "name": "Bhagwan Mahavir Wildlife Sanctuary",
+            "area_sq_km": 240,
+            "established": 1967,
+            "key_species": "Gaur, Sambar, Leopard, Flying Lizard",
+            "funfact": "Houses the Devil's Canyon - a mysterious gorge with unique rock formations. The sanctuary has over 600 species of flowering plants, many endemic to Western Ghats!"
+          }
+        ],
+        "marine_biodiversity": {
+          "coastal_species": [
+            {
+              "name": "Olive Ridley Sea Turtle",
+              "nesting_sites": "Galgibaga, Morjim beaches",
+              "funfact": "Goa's beaches are crucial nesting sites! Turtle nests are protected by locals and forest department. Baby turtles instinctively rush to sea using the moon's reflection on water."
+            },
+            {
+              "name": "Bottlenose Dolphin",
+              "location": "Arabian Sea, river estuaries",
+              "funfact": "Dolphin watching is popular in Goa! They're incredibly intelligent, use names to call each other, and sleep with one eye open to watch for predators."
+            }
+          ]
+        }
+      },
+      "Gujarat": {
+        "state_animal": {
+          "name": "Asiatic Lion",
+          "scientific_name": "Panthera leo persica",
+          "status": "Endangered",
+          "habitat": "Gir Forest",
+          "funfact": "Gujarat is the ONLY place in the world where Asiatic lions exist in the wild! Once down to just 20 individuals in 1913, conservation efforts have increased the population to 700+. Male Asiatic lions have smaller manes than African lions."
+        },
+        "state_bird": {
+          "name": "Greater Flamingo",
+          "scientific_name": "Phoenicopterus roseus",
+          "status": "Least Concern",
+          "habitat": "Coastal mudflats, salt pans",
+          "funfact": "Gujarat hosts the world's largest breeding colony of flamingos - over 2 lakh birds! Flamingos are pink because they eat shrimp and algae containing carotenoids. They can drink boiling water near geysers and filter salt from water."
+        },
+        "state_tree": {
+          "name": "Banyan (Vad)",
+          "scientific_name": "Ficus benghalensis",
+          "type": "Evergreen",
+          "uses": "Shade, religious significance, medicinal",
+          "funfact": "Banyan trees never die of old age! They keep expanding by growing aerial roots that become new trunks. The largest banyan in India (in Andhra Pradesh) covers 4.7 acres and can shelter 20,000 people!"
+        },
+        "state_flower": {
+          "name": "Marigold (Galgota)",
+          "scientific_name": "Tagetes erecta",
+          "type": "Flowering plant",
+          "blooming_season": "Throughout winter",
+          "funfact": "Marigolds are used in every Gujarati festival and wedding! The flowers contain natural pest control compounds - planting them near vegetables keeps insects away naturally."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Indian Wild Ass (Khur)",
+            "scientific_name": "Equus hemionus khur",
+            "status": "Endangered",
+            "location": "Little Rann of Kutch",
+            "funfact": "Found ONLY in Gujarat's Little Rann of Kutch! They can run at 70 km/h and survive in salt deserts where temperatures reach 50°C. The population grew from 362 in 1962 to over 6,000 now - a conservation success!"
+          },
+          {
+            "name": "Chinkara (Indian Gazelle)",
+            "scientific_name": "Gazella bennettii",
+            "status": "Least Concern",
+            "location": "Grasslands and deserts",
+            "funfact": "Chinkaras can survive without drinking water - they get all moisture from plants! They can run at 80 km/h and leap 4-5 meters. Their name comes from the sneezing 'chink-chink' sound they make."
+          },
+          {
+            "name": "Blackbuck",
+            "scientific_name": "Antilope cervicapra",
+            "status": "Least Concern",
+            "location": "Velavadar Blackbuck National Park",
+            "funfact": "Velavadar has one of the highest blackbuck densities in the world! Males perform spectacular pronking - jumping 2 meters high with all four legs off the ground. Their spiral horns can grow up to 79 cm long."
+          },
+          {
+            "name": "Marsh Crocodile (Mugger)",
+            "scientific_name": "Crocodylus palustris",
+            "status": "Vulnerable",
+            "location": "Rivers and water bodies",
+            "funfact": "Mugger crocodiles in Gujarat's Vishwamitri River live in urban areas! They're often found in parks and even cross roads in Vadodara city. They can survive in both freshwater and saltwater."
+          },
+          {
+            "name": "Great Indian Bustard",
+            "scientific_name": "Ardeotis nigriceps",
+            "status": "Critically Endangered",
+            "location": "Kutch grasslands",
+            "funfact": "One of the world's heaviest flying birds at 15 kg! Fewer than 150 individuals remain. Males perform elaborate courtship displays, inflating their neck sac and making booming calls audible from 500 meters."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Gir National Park",
+            "area_sq_km": 1412,
+            "established": 1965,
+            "key_species": "Asiatic Lion, Leopard, Marsh Crocodile",
+            "funfact": "The Nawab of Junagadh refused to hunt the last 20 lions in 1913, saving the species from extinction! Gir's lions have adapted to climb trees - unusual behavior rarely seen in African lions."
+          },
+          {
+            "name": "Marine National Park (Jamnagar)",
+            "area_sq_km": 163,
+            "established": 1982,
+            "key_species": "Coral reefs, Sea turtles, Dolphins, Dugongs",
+            "funfact": "India's first Marine National Park! At low tide, you can walk on exposed coral islands. It has 42 islands and hosts coral species, sponges, and is one of the last habitats of the rare Dugong (sea cow)."
+          },
+          {
+            "name": "Wild Ass Sanctuary (Little Rann of Kutch)",
+            "area_sq_km": 4954,
+            "established": 1973,
+            "key_species": "Indian Wild Ass, Wolf, Caracal, Flamingos",
+            "funfact": "The world's largest compact salt desert! During monsoon, it becomes a shallow wetland attracting millions of flamingos. It's also home to traditional salt farmers who live in temporary settlements."
+          }
+        ],
+        "unique_ecosystems": [
+          {
+            "name": "Great Rann of Kutch",
+            "type": "Seasonal salt marsh",
+            "area": "Over 7,500 sq km",
+            "funfact": "The world's largest salt desert! During dry season, it's a blinding white expanse of salt crust. During monsoon, it transforms into a shallow wetland. It's so flat you can see the Earth's curvature!"
+          }
+        ]
+      },
+      "Haryana": {
+        "state_animal": {
+          "name": "Blackbuck",
+          "scientific_name": "Antilope cervicapra",
+          "status": "Least Concern",
+          "habitat": "Grasslands, open plains",
+          "funfact": "Haryana's Bhiwani district has significant blackbuck populations that are protected by local Bishnoi communities who consider them sacred! Young blackbucks can accelerate from 0 to 80 km/h in just 3 seconds."
+        },
+        "state_bird": {
+          "name": "Black Francolin (Black Partridge)",
+          "scientific_name": "Francolinus francolinus",
+          "status": "Least Concern",
+          "habitat": "Agricultural lands, grasslands",
+          "funfact": "Males make a distinctive 'chik-chik-chikaara' call at dawn that sounds like they're saying 'I have no fear'! They prefer running to flying and only fly when absolutely necessary. They've adapted well to agricultural landscapes."
+        },
+        "state_tree": {
+          "name": "Peepal (Sacred Fig)",
+          "scientific_name": "Ficus religiosa",
+          "type": "Evergreen",
+          "uses": "Religious, medicinal, shade",
+          "funfact": "Haryana has ancient Peepal trees that are over 1,000 years old! These trees are considered sacred and cutting one is prohibited by law in many states. They host over 20 species of birds and insects."
+        },
+        "state_flower": {
+          "name": "Lotus",
+          "scientific_name": "Nelumbo nucifera",
+          "type": "Aquatic flower",
+          "blooming_season": "June to September",
+          "funfact": "Lotus is India's national flower too! The flower is self-cleaning - water droplets roll off its petals carrying dirt (lotus effect). Seeds can remain viable for 1,300+ years! Ancient lotus seeds germinated after being dormant for centuries."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Nilgai (Blue Bull)",
+            "scientific_name": "Boselaphus tragocamelus",
+            "status": "Least Concern",
+            "location": "Throughout Haryana",
+            "funfact": "Asia's largest antelope! Males are blue-grey (hence 'Nilgai' - blue cow), females are brown. Despite weighing 300 kg, they can leap 2-meter fences. They're protected as 'cows' by many communities."
+          },
+          {
+            "name": "Indian Peafowl",
+            "scientific_name": "Pavo cristatus",
+            "status": "Least Concern",
+            "location": "Villages and forests",
+            "funfact": "India's national bird! A peacock's train has about 200 feathers with eye-spots that appear to stare at predators. Only males have the spectacular tail. They dance before rain and can kill snakes."
+          },
+          {
+            "name": "Golden Jackal",
+            "scientific_name": "Canis aureus",
+            "status": "Least Concern",
+            "location": "Agricultural areas, scrublands",
+            "funfact": "Jackals mate for life and the pair stays together for years! They're extremely vocal and their howling chorus at dusk is iconic. They help farmers by eating rodents and crop pests."
+          },
+          {
+            "name": "Sarus Crane",
+            "scientific_name": "Antigone antigone",
+            "status": "Vulnerable",
+            "location": "Wetlands and agricultural fields",
+            "funfact": "The world's tallest flying bird at 1.8 meters! Sarus cranes mate for life and perform elaborate duets - dancing and calling in perfect synchronization. If one dies, the mate often refuses to eat and dies of grief."
+          }
+        ],
+        "wildlife_sanctuaries": [
+          {
+            "name": "Sultanpur National Park",
+            "area_sq_km": 1.43,
+            "established": 1989,
+            "key_species": "Migratory birds - over 250 species",
+            "funfact": "Just 50 km from Delhi, this tiny park hosts Siberian Cranes, flamingos, pelicans, and hundreds of bird species! It's a crucial stopover for birds migrating from Europe to India."
+          },
+          {
+            "name": "Kalesar National Park",
+            "area_sq_km": 46,
+            "established": 2003,
+            "key_species": "Leopard, Red Junglefowl, Barking Deer",
+            "funfact": "Named after Lord Shiva's temple (Kali+Swar). This park is where the Sal forests of Himalayas meet the scrublands of plains - creating unique biodiversity mixing species from both ecosystems."
+          }
+        ],
+        "conservation_success": {
+          "species": "Chinkara (Indian Gazelle)",
+          "fact": "Once nearly extinct in Haryana, Chinkaras have made a comeback thanks to community conservation efforts",
+          "funfact": "Local Bishnoi communities protect them so well that Chinkaras are often seen grazing alongside livestock in villages!"
+        }
+      },
+      "Himachal_Pradesh": {
+        "state_animal": {
+          "name": "Snow Leopard",
+          "scientific_name": "Panthera uncia",
+          "status": "Vulnerable",
+          "habitat": "High altitude mountains above 3,000m",
+          "funfact": "Snow leopards can jump 9 meters (30 feet) in one leap - the distance of 3 cars! Their tail is almost as long as their body and so thick they wrap it around themselves like a blanket in freezing temperatures. They can't roar but make a unique 'chuffing' sound."
+        },
+        "state_bird": {
+          "name": "Western Tragopan (Jujurana)",
+          "scientific_name": "Tragopan melanocephalus",
+          "status": "Vulnerable",
+          "habitat": "Alpine and subalpine forests",
+          "funfact": "One of the rarest pheasants in the world! Males have a spectacular blue facial skin that they inflate like a balloon during courtship display. They nest in trees (unlike most pheasants) and can fly straight upwards."
+        },
+        "state_tree": {
+          "name": "Deodar (Himalayan Cedar)",
+          "scientific_name": "Cedrus deodara",
+          "type": "Coniferous evergreen",
+          "uses": "Timber, religious significance, essential oils",
+          "funfact": "'Deodar' means 'Wood of the Gods' in Sanskrit! These majestic trees can live for 1,000+ years and grow to 65 meters tall. Their wood is naturally termite-resistant and was used to build ancient temples. The scent repels insects."
+        },
+        "state_flower": {
+          "name": "Pink Rhododendron (Burans)",
+          "scientific_name": "Rhododendron campanulatum",
+          "type": "Flowering shrub",
+          "blooming_season": "March to May",
+          "funfact": "When rhododendrons bloom, entire mountainsides turn pink! The flowers are edible - locals make juice, jam, and pickles. The petals are rich in Vitamin C. Bees that feed on rhododendron make 'mad honey' that can cause hallucinations!"
+        },
+        "notable_wildlife": [
+          {
+            "name": "Himalayan Brown Bear",
+            "scientific_name": "Ursus arctos isabellinus",
+            "status": "Critically Endangered",
+            "location": "High altitude regions",
+            "funfact": "Found only in the Himalayas above 3,000m! These bears can weigh up to 300 kg and survive on 70% vegetarian diet. Before hibernating, they eat continuously for weeks and can gain 180 kg!"
+          },
+          {
+            "name": "Himalayan Tahr",
+            "scientific_name": "Hemitragus jemlahicus",
+            "status": "Near Threatened",
+            "location": "Rocky mountain slopes",
+            "funfact": "These goat-antelopes have rubber-like hooves that provide excellent grip on near-vertical cliffs! They can climb 60-degree slopes and jump 2 meters to cross ravines. Their thick coat has two layers for extreme cold."
+          },
+          {
+            "name": "Musk Deer",
+            "scientific_name": "Moschus chrysogaster",
+            "status": "Endangered",
+            "location": "Alpine forests",
+            "funfact": "Males have vampire-like fangs (tusks) up to 7cm long used for fighting! They produce musk - the world's most expensive animal product ($45,000/kg). They're heavily poached but now protected. They have no antlers."
+          },
+          {
+            "name": "Himalayan Monal (State Bird of Uttarakhand too)",
+            "scientific_name": "Lophophorus impejanus",
+            "status": "Least Concern",
+            "location": "Alpine meadows and forests",
+            "funfact": "The male has 9 different metallic colors that shimmer in sunlight - it's like a living rainbow! They dig for food using their beaks, creating distinctive crescent-shaped marks. They're depicted on the ₹10 coin."
+          },
+          {
+            "name": "Himalayan Vulture",
+            "scientific_name": "Gyps himalayensis",
+            "status": "Near Threatened",
+            "location": "High altitude mountains",
+            "funfact": "One of the highest-flying birds - recorded at 37,000 feet (11,300m)! They can spot a carcass from 4 km away. Their stomach acid is so strong it can digest anthrax and botulinum toxin, preventing disease spread."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Great Himalayan National Park",
+            "area_sq_km": 1171,
+            "established": 1984,
+            "key_species": "Snow Leopard, Musk Deer, Himalayan Tahr, Western Tragopan",
+            "funfact": "A UNESCO World Heritage Site! Has 31 mammal species, 181 bird species, and over 800 plant species. The altitude ranges from 1,500m to 6,000m, creating multiple climate zones in one park!"
+          },
+          {
+            "name": "Pin Valley National Park",
+            "area_sq_km": 675,
+            "established": 1987,
+            "key_species": "Snow Leopard, Siberian Ibex, Bharal",
+            "funfact": "India's coldest national park! Located in the Trans-Himalayan region, it's a cold desert with temperatures dropping to -25°C. Home to the endangered Himalayan wolf that hunts in packs."
+          }
+        ],
+        "unique_flora": [
+          {
+            "name": "Brahma Kamal (Saussurea obvallata)",
+            "type": "High-altitude flower",
+            "blooming_season": "July to September (blooms at night)",
+            "funfact": "Considered the 'King of Himalayan Flowers'! Blooms only once a year at night and is considered sacred. Found above 4,500m altitude. The flower was offered to Lord Shiva according to mythology."
+          },
+          {
+            "name": "Himalayan Blue Poppy",
+            "scientific_name": "Meconopsis aculeata",
+            "status": "Rare",
+            "location": "Alpine meadows above 3,500m",
+            "funfact": "The stunning blue poppy is Bhutan's national flower and found in HP too! The blue color is so rare that it took botanists decades to verify it wasn't dyed. It grows where few other flowers can survive."
+          }
+        ]
+      },
+      "Jharkhand": {
+        "state_animal": {
+          "name": "Indian Elephant",
+          "scientific_name": "Elephas maximus indicus",
+          "status": "Endangered",
+          "habitat": "Forests and grasslands",
+          "funfact": "Jharkhand's elephants migrate through ancient corridors they've used for thousands of years! Elephants can detect water sources 5 km away and communicate using infrasound (below human hearing range) across 10 km distances."
+        },
+        "state_bird": {
+          "name": "Asian Koel",
+          "scientific_name": "Eudynamys scolopaceus",
+          "status": "Least Concern",
+          "habitat": "Forests, gardens, urban areas",
+          "funfact": "The Koel is a brood parasite - females lay eggs in crow nests and let crows raise their chicks! Males have a distinctive 'koo-ooo' call that intensifies during monsoon. In mythology, its call announced the arrival of spring."
+        },
+        "state_tree": {
+          "name": "Sal (Sakhua)",
+          "scientific_name": "Shorea robusta",
+          "type": "Deciduous",
+          "uses": "Timber, religious significance, resin",
+          "funfact": "Jharkhand has some of India's finest Sal forests! Sal leaves are used to make eco-friendly plates (pattal) used in millions across India. The resin is used in incense and traditional medicine. Tribes use Sal leaves for roofing."
+        },
+        "state_flower": {
+          "name": "Palash (Flame of the Forest)",
+          "scientific_name": "Butea monosperma",
+          "type": "Deciduous tree",
+          "blooming_season": "January to March",
+          "funfact": "When Palash blooms, entire forests turn bright orange-red like they're on fire! The flowers are used in Holi colors, traditional medicine, and to make dye. They're also used to make 'tesu' drink during Holi festival."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Indian Bison (Gaur)",
+            "scientific_name": "Bos gaurus",
+            "status": "Vulnerable",
+            "location": "Saranda forests",
+            "funfact": "Saranda means '700 hills' in the local language and has Asia's largest Sal forests! Gaurs here can weigh 1,500 kg. Despite their size, they're shy and run from humans, crashing through the forest like bulldozers."
+          },
+          {
+            "name": "Leopard",
+            "scientific_name": "Panthera pardus",
+            "status": "Vulnerable",
+            "location": "Forests throughout Jharkhand",
+            "funfact": "Jharkhand has one of India's highest leopard densities! Unlike tigers, leopards adapt well near human settlements. They can carry prey twice their weight up a tree and have individual spot patterns like fingerprints."
+          },
+          {
+            "name": "Sloth Bear",
+            "scientific_name": "Melursus ursinus",
+            "status": "Vulnerable",
+            "location": "Forests",
+            "funfact": "Jharkhand's sloth bears love to eat honey and mahua flowers! They can close their nostrils and use their lips like a vacuum to suck termites from 5-foot-deep tunnels, creating a sound audible from 100 meters!"
+          },
+          {
+            "name": "Four-horned Antelope (Chousingha)",
+            "scientific_name": "Tetracerus quadricornis",
+            "status": "Vulnerable",
+            "location": "Forests and grasslands",
+            "funfact": "The ONLY antelope in the world with four horns! The front pair is tiny (only 2-5 cm). They're so shy that researchers rarely see them. They prefer rocky, hilly terrain and are excellent climbers."
+          },
+          {
+            "name": "Dhole (Indian Wild Dog)",
+            "scientific_name": "Cuon alpinus",
+            "status": "Endangered",
+            "location": "Forests",
+            "funfact": "Dholes hunt in packs and can take down prey 10 times their size, including tigers! They make whistling sounds to communicate (not barking). Packs share food with sick/injured members - showing remarkable social behavior."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Betla National Park (Palamau Tiger Reserve)",
+            "area_sq_km": 1026,
+            "established": 1974,
+            "key_species": "Tiger, Elephant, Leopard, Gaur",
+            "funfact": "One of India's first tiger reserves! Has the historic Palamau Fort built in 1613 inside the park. During summer, animals gather at waterholes, making it excellent for wildlife viewing."
+          },
+          {
+            "name": "Dalma Wildlife Sanctuary",
+            "area_sq_km": 195,
+            "established": 1976,
+            "key_species": "Elephant, Leopard, Barking Deer",
+            "funfact": "Famous for elephant migration! Every year, elephants migrate through this sanctuary using the same routes their ancestors used. Local tribes celebrate the elephant migration as a festival."
+          }
+        ],
+        "tribal_wildlife_connection": {
+          "fact": "Jharkhand has 32 tribal groups with deep forest connections",
+          "practice": "Sarhul Festival",
+          "funfact": "Tribals worship Sal trees during Sarhul festival, asking nature's permission before using forest resources. This ancient practice has protected forests for centuries!"
+        }
+      }
+,
+      "Karnataka": {
+        "state_animal": {
+          "name": "Indian Elephant",
+          "scientific_name": "Elephas maximus indicus",
+          "status": "Endangered",
+          "habitat": "Forests of Western Ghats",
+          "funfact": "Karnataka has India's highest elephant population (over 6,000)! Elephants spend 16 hours daily eating and can consume 150 kg of food. They mourn their dead, covering bodies with leaves and returning to 'graveyards' for years."
+        },
+        "state_bird": {
+          "name": "Indian Roller",
+          "scientific_name": "Coracias benghalensis",
+          "status": "Least Concern",
+          "habitat": "Open countryside, cultivated areas",
+          "funfact": "Called 'Neelkanth' (Blue Throat) after Lord Shiva! During courtship, males perform spectacular aerial acrobatics - diving, rolling, and tumbling. Seeing one on Dussehra is considered extremely auspicious in Karnataka."
+        },
+        "state_tree": {
+          "name": "Sandalwood (Chandana)",
+          "scientific_name": "Santalum album",
+          "type": "Evergreen",
+          "uses": "Perfume, religious ceremonies, medicine, carving",
+          "funfact": "Karnataka produces 75% of India's sandalwood! The heartwood takes 15-20 years to develop fragrance. It's so valuable (₹15,000/kg) that each tree is GPS-tagged and guarded. It's a parasitic tree that steals nutrients from neighboring tree roots!"
+        },
+        "state_flower": {
+          "name": "Lotus",
+          "scientific_name": "Nelumbo nucifera",
+          "type": "Aquatic flower",
+          "blooming_season": "June to September",
+          "funfact": "The lotus symbolizes purity in Indian culture because it grows in muddy water but remains spotless! Its leaves are superhydrophobic - water forms perfect spheres and rolls off, cleaning the surface (lotus effect used in technology)."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Bengal Tiger",
+            "scientific_name": "Panthera tigris tigris",
+            "status": "Endangered",
+            "location": "Bandipur, Nagarhole, BRT Hills",
+            "funfact": "Karnataka's tiger reserves form India's largest contiguous tiger habitat! Tigers have striped skin, not just fur - if shaved, stripes remain. Each tiger's stripe pattern is unique like human fingerprints. They can eat 40 kg in one sitting!"
+          },
+          {
+            "name": "Indian Leopard",
+            "scientific_name": "Panthera pardus fusca",
+            "status": "Vulnerable",
+            "location": "Throughout Karnataka's forests",
+            "funfact": "Karnataka has India's highest leopard density! They're incredibly adaptable - living in forests, farms, and even cities. They can survive on just 2 kg of meat per day. Black leopards (black panthers) are common in Karnataka's Kabini region."
+          },
+          {
+            "name": "Malabar Giant Squirrel",
+            "scientific_name": "Ratufa indica",
+            "status": "Least Concern",
+            "location": "Western Ghats forests",
+            "funfact": "These rainbow-colored squirrels can grow up to 1 meter long! They build multiple globe-shaped nests (dreys) and use different ones for different purposes. They can jump 6 meters between trees and hang upside down while eating."
+          },
+          {
+            "name": "Dhole (Wild Dog)",
+            "scientific_name": "Cuon alpinus",
+            "status": "Endangered",
+            "location": "Bandipur, Nagarhole, BRT Hills",
+            "funfact": "Karnataka has one of the largest dhole populations in the world! Pack members regurgitate food for sick/injured members. They're so fearsome that even tigers avoid them. A pack of 15 dholes can kill a tiger!"
+          },
+          {
+            "name": "King Cobra",
+            "scientific_name": "Ophiophagus hannah",
+            "status": "Vulnerable",
+            "location": "Western Ghats forests",
+            "funfact": "Agumbe in Karnataka is the 'King Cobra Capital of India'! King cobras are the only snakes that build nests. They can 'stand' up to 6 feet tall (1/3 of their body). Despite deadly venom, they're shy and avoid humans."
+          },
+          {
+            "name": "Lion-tailed Macaque",
+            "scientific_name": "Macaca silenus",
+            "status": "Endangered",
+            "location": "Western Ghats rainforests",
+            "funfact": "One of the world's rarest monkeys with only 4,000 remaining! They have a magnificent silver-white mane around their face. They're so shy they'll abandon their home range if disturbed. They communicate using 17 different calls."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Wroughton's Free-tailed Bat",
+            "scientific_name": "Otomops wroughtoni",
+            "type": "Mammal",
+            "status": "Critically Endangered",
+            "location": "Single cave in Karnataka",
+            "funfact": "This bat exists in only ONE cave in the entire world - Barapede Cave in Karnataka! Discovered in 1913, then 'lost' for 86 years until rediscovered in 2001. Fewer than 200 individuals exist!"
+          },
+          {
+            "name": "Malabar Pit Viper",
+            "scientific_name": "Trimeresurus malabaricus",
+            "type": "Reptile",
+            "status": "Least Concern",
+            "location": "Western Ghats",
+            "funfact": "These beautiful pit vipers come in multiple colors - green, yellow, brown, and even blue! They have heat-sensing pits between their eyes and nostrils to detect warm-blooded prey in complete darkness."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Bandipur National Park",
+            "area_sq_km": 874,
+            "established": 1974,
+            "key_species": "Tiger, Elephant, Leopard, Gaur, Wild Dog",
+            "funfact": "Part of the Nilgiri Biosphere Reserve - India's first biosphere reserve! Night traffic is banned through the park. It's one of the best places to spot tigers in India with over 150 tigers."
+          },
+          {
+            "name": "Nagarhole National Park (Rajiv Gandhi National Park)",
+            "area_sq_km": 644,
+            "established": 1988,
+            "key_species": "Tiger, Elephant, Wild Dog, Leopard",
+            "funfact": "Has India's highest density of herbivores! The Kabini backwaters attract huge herds of elephants - sometimes 200+ together. It's one of the best places to spot black panthers in the world."
+          },
+          {
+            "name": "Bannerghatta National Park",
+            "area_sq_km": 104,
+            "established": 1971,
+            "key_species": "Elephant, Leopard, Indian Bison, Sloth Bear",
+            "funfact": "One of the few reserves near a major city (just 22 km from Bengaluru)! Has India's first butterfly park with over 20 species. The park has an elephant corridor connecting Bandipur reserve."
+          }
+        ],
+        "bird_sanctuaries": [
+          {
+            "name": "Ranganathittu Bird Sanctuary",
+            "area_sq_km": 0.67,
+            "key_species": "Painted Stork, Spoonbill, Cormorant, River Tern",
+            "funfact": "Karnataka's largest bird sanctuary despite being tiny! Set on 6 islands in Kaveri river. Over 170 bird species nest here. Crocodiles bask on rocks below the bird colonies - an amazing sight!"
+          }
+        ],
+        "western_ghats_biodiversity": {
+          "unesco_status": "World Heritage Site",
+          "percentage_of_india_flora": "30% of India's flowering plants",
+          "endemic_species_count": "325+ endemic species",
+          "funfact": "The Western Ghats in Karnataka are older than the Himalayas! They're one of the world's 8 'hottest' biodiversity hotspots with more endemic species per sq km than almost anywhere else on Earth."
+        }
+      },
+      "Kerala": {
+        "state_animal": {
+          "name": "Indian Elephant",
+          "scientific_name": "Elephas maximus indicus",
+          "status": "Endangered",
+          "habitat": "Forests of Western Ghats",
+          "funfact": "Kerala's temple elephants are cultural icons! Elephants can recognize themselves in mirrors (only great apes and dolphins can too). They have excellent memories - they remember friends and enemies for decades. A dying elephant will be mourned by the herd for days."
+        },
+        "state_bird": {
+          "name": "Great Hornbill",
+          "scientific_name": "Buceros bicornis",
+          "status": "Vulnerable",
+          "habitat": "Evergreen forests",
+          "funfact": "The casque on their head is hollow (despite looking solid) and amplifies their calls! During nesting, females seal themselves in tree hollows with mud - the male feeds her through a small hole for 4 months. They mate for life!"
+        },
+        "state_tree": {
+          "name": "Coconut Palm",
+          "scientific_name": "Cocos nucifera",
+          "type": "Palm tree",
+          "uses": "Food, oil, coir, timber, thatch - every part is useful",
+          "funfact": "Called 'Kalpavriksha' (wish-fulfilling tree) because every part has a use! A single tree can produce 75-200 coconuts/year for 60-80 years. Coconut water is sterile and was used as emergency IV fluid in WWII!"
+        },
+        "state_flower": {
+          "name": "Kanikonna (Golden Shower Tree)",
+          "scientific_name": "Cassia fistula",
+          "type": "Deciduous tree",
+          "blooming_season": "March to June (Vishu festival)",
+          "funfact": "When Kanikonna blooms during Vishu (Kerala New Year), entire landscapes turn golden! Seeing Kanikonna first thing on Vishu morning is considered extremely auspicious. The tree is called 'Golden Shower' because flowers fall like golden rain!"
+        },
+        "notable_wildlife": [
+          {
+            "name": "Nilgiri Tahr",
+            "scientific_name": "Nilgiritragus hylocrius",
+            "status": "Endangered",
+            "location": "Eravikulam National Park",
+            "funfact": "Found ONLY in the Western Ghats! These mountain goats have specially adapted hooves that grip slippery rocks. Males have distinctive curved horns and a 'saddle' marking on their back. Only 2,500 remain in the wild."
+          },
+          {
+            "name": "Lion-tailed Macaque",
+            "scientific_name": "Macaca silenus",
+            "status": "Endangered",
+            "location": "Silent Valley, Anamalai Hills",
+            "funfact": "Called 'Wanderoo' - one of the world's 25 most endangered primates! Their silver mane makes them look like miniature lions. They spend 95% of their life in trees and rarely come to ground."
+          },
+          {
+            "name": "Nilgiri Marten",
+            "scientific_name": "Martes gwatkinsii",
+            "status": "Vulnerable",
+            "location": "High-altitude forests",
+            "funfact": "The only marten species in South India and extremely rare! They're excellent climbers and can rotate their hind legs 180° to climb down trees headfirst. They have a bright yellow-orange throat patch."
+          },
+          {
+            "name": "Malabar Civet",
+            "scientific_name": "Viverra civettina",
+            "status": "Critically Endangered",
+            "location": "Lowland forests",
+            "funfact": "One of the world's rarest mammals! Only two confirmed sightings in the last 30 years. They were once common in cashew plantations. Scientists aren't sure if they still exist - they're 'living ghosts'."
+          },
+          {
+            "name": "Purple Frog",
+            "scientific_name": "Nasikabatrachus sahyadrensis",
+            "status": "Endangered",
+            "location": "Western Ghats",
+            "funfact": "Discovered only in 2003, this 'pig-nosed frog' looks like a bloated purple balloon! It spends 50 weeks underground and emerges only during monsoon to mate. It's a 'living fossil' - its ancestors split from other frogs 130 million years ago!"
+          },
+          {
+            "name": "Travancore Tortoise",
+            "scientific_name": "Indotestudo travancorica",
+            "status": "Vulnerable",
+            "location": "Western Ghats forests",
+            "funfact": "Found only in the Western Ghats! They can live for over 100 years. During hot weather, they dig burrows and 'aestivate' (summer hibernation). Shell patterns are unique to each individual."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Malabar Large-spotted Civet",
+            "scientific_name": "Viverra civettina",
+            "type": "Mammal",
+            "status": "Critically Endangered",
+            "location": "Kerala lowlands",
+            "funfact": "Possibly extinct! Last confirmed sighting was in 1987. Scientists have placed camera traps throughout its former range hoping to find survivors. It was once common but vanished mysteriously."
+          },
+          {
+            "name": "Kerala Laughingthrush",
+            "scientific_name": "Trochalopteron fairbanki",
+            "type": "Bird",
+            "status": "Near Threatened",
+            "location": "High-altitude shola forests",
+            "funfact": "Endemic to the Palani Hills! Their call sounds like maniacal laughter echoing through the misty forests. They live in groups and 'mob' predators by surrounding them while making alarm calls."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Silent Valley National Park",
+            "area_sq_km": 237,
+            "established": 1984,
+            "key_species": "Lion-tailed Macaque, Nilgiri Langur, Tiger, Leopard",
+            "funfact": "Called 'Silent Valley' because of the absence of cicadas (unlike other Kerala forests)! It has the largest population of lion-tailed macaques. A massive public movement in the 1970s saved it from being dammed!"
+          },
+          {
+            "name": "Eravikulam National Park",
+            "area_sq_km": 97,
+            "established": 1978,
+            "key_species": "Nilgiri Tahr, Atlas Moth, Nilgiri Langur",
+            "funfact": "Home to the world's largest population of Nilgiri Tahr! During neelakurinji bloom (once every 12 years), the hills turn completely blue-purple with millions of flowers. The 2018 bloom attracted over 1 million visitors!"
+          },
+          {
+            "name": "Periyar National Park",
+            "area_sq_km": 925,
+            "established": 1982,
+            "key_species": "Elephant, Tiger, Gaur, Lion-tailed Macaque",
+            "funfact": "Built around an artificial lake created by the British in 1895! You can watch elephants bathing and swimming from boats. It's one of the few reserves where you can see wildlife from water. Bamboo rafting safaris are unique here."
+          }
+        ],
+        "backwater_ecosystem": {
+          "name": "Kerala Backwaters",
+          "area_sq_km": 1500,
+          "type": "Unique brackish lagoon ecosystem",
+          "key_species": "Kingfishers, Cormorants, Mudskippers, Prawns, Crabs",
+          "funfact": "The backwaters are a network of 900 km of waterways! They support unique species adapted to both fresh and saltwater. Farmers here practice 'below-sea-level farming' - the only place in India where crops grow below sea level!"
+        },
+        "unique_flora": [
+          {
+            "name": "Neelakurinji",
+            "scientific_name": "Strobilanthes kunthiana",
+            "type": "Flowering shrub",
+            "blooming_cycle": "Once every 12 years",
+            "funfact": "This flower blooms only once every 12 years! When it does, entire mountainsides turn purple-blue. The Paliyan tribe used to calculate age by counting neelakurinji blooms. Next bloom: 2030!"
+          }
+        ]
+      },
+      "Madhya_Pradesh": {
+        "state_animal": {
+          "name": "Barasingha (Swamp Deer)",
+          "scientific_name": "Rucervus duvaucelii",
+          "status": "Vulnerable",
+          "habitat": "Swamps and grasslands",
+          "funfact": "'Barasingha' means '12-tined' referring to the antlers that can have 10-14 points! The hard-ground subspecies found in MP's Kanha is found NOWHERE else in the world. They were down to just 66 individuals in 1970, now recovered to 800+!"
+        },
+        "state_bird": {
+          "name": "Indian Paradise Flycatcher",
+          "scientific_name": "Terpsiphone paradisi",
+          "status": "Least Concern",
+          "habitat": "Dense forests",
+          "funfact": "Males have magnificent tail feathers up to 30 cm long - longer than their body! Young males are rufous colored but turn pure white as they age. They catch insects mid-air, their long tails streaming behind like ribbons."
+        },
+        "state_tree": {
+          "name": "Banyan (Bargad)",
+          "scientific_name": "Ficus benghalensis",
+          "type": "Evergreen",
+          "uses": "Shade, religious significance, medicine",
+          "funfact": "A single banyan tree can cover several acres with its aerial roots becoming new trunks! The largest living organism by area is a banyan tree in Andhra Pradesh covering 4.7 acres. MP has ancient banyans over 500 years old."
+        },
+        "state_flower": {
+          "name": "White Lily (Madonna Lily)",
+          "scientific_name": "Lilium candidum",
+          "type": "Flowering plant",
+          "blooming_season": "Spring and summer",
+          "funfact": "White lilies symbolize purity and are used in religious ceremonies across MP. A single lily bulb can produce the same flower for decades! They've been cultivated for over 3,000 years - among the oldest cultivated flowers."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Bengal Tiger",
+            "scientific_name": "Panthera tigris tigris",
+            "status": "Endangered",
+            "location": "Kanha, Bandhavgarh, Pench, Satpura",
+            "funfact": "MP is called 'Tiger State of India' with the highest tiger population! Tigers can leap 10 meters horizontally. Each tiger needs about 60 sq km of territory. Kanha inspired Rudyard Kipling's 'The Jungle Book'."
+          },
+          {
+            "name": "Indian Leopard",
+            "scientific_name": "Panthera pardus fusca",
+            "status": "Vulnerable",
+            "location": "Throughout MP forests",
+            "funfact": "MP has more leopards than any other state! They're incredibly stealthy - a leopard can be 10 feet away and you won't see it. They carry prey 3 times their weight up trees. Each leopard's spots are unique."
+          },
+          {
+            "name": "Gaur (Indian Bison)",
+            "scientific_name": "Bos gaurus",
+            "status": "Vulnerable",
+            "location": "Kanha, Bandhavgarh",
+            "funfact": "The world's largest bovine - bulls can weigh 1,500 kg! Despite their size, they can jump 2-meter fences. Even tigers think twice before attacking a healthy adult gaur. They have a distinctive muscular ridge on their back."
+          },
+          {
+            "name": "Indian Wild Dog (Dhole)",
+            "scientific_name": "Cuon alpinus",
+            "status": "Endangered",
+            "location": "Kanha, Pench",
+            "funfact": "Dholes are one of the most efficient predators - 90% hunting success rate compared to lions' 30%! They use whistling sounds to coordinate hunts. Pack members share food with nursing mothers and injured individuals."
+          },
+          {
+            "name": "Sloth Bear",
+            "scientific_name": "Melursus ursinus",
+            "status": "Vulnerable",
+            "location": "Throughout MP forests",
+            "funfact": "MP has one of India's highest sloth bear populations! They can vacuum up 10,000 ants in one night. They carry cubs on their back - the only bear species to do this. Their shaggy coat protects against bee stings."
+          },
+          {
+            "name": "Indian Wolf",
+            "scientific_name": "Canis lupus pallipes",
+            "status": "Endangered",
+            "location": "Grasslands and scrublands",
+            "funfact": "Indian wolves are smaller and more slender than northern wolves. They hunt cooperatively but live in smaller packs of 3-5. They're the wolves featured in Kipling's 'The Jungle Book'!"
+          },
+          {
+            "name": "Indian Gharial",
+            "scientific_name": "Gavialis gangeticus",
+            "status": "Critically Endangered",
+            "location": "Son River, Chambal River",
+            "funfact": "MP's Chambal Sanctuary is one of the last gharial strongholds! Their narrow snout is perfect for catching fish. Males develop a bulbous growth on their snout called a 'ghara'. Only about 650 adults remain worldwide."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Kanha National Park",
+            "area_sq_km": 940,
+            "established": 1955,
+            "key_species": "Tiger, Barasingha, Leopard, Wild Dog",
+            "funfact": "Inspired Rudyard Kipling's 'The Jungle Book'! The ONLY place where the hard-ground barasingha exists. It was India's first tiger reserve to have dedicated tourism zones. Has over 300 tigers and 900 barasingha."
+          },
+          {
+            "name": "Bandhavgarh National Park",
+            "area_sq_km": 437,
+            "established": 1968,
+            "key_species": "Tiger, Leopard, Sloth Bear, Gaur",
+            "funfact": "Has the highest density of Bengal tigers in India! The 2,000-year-old Bandhavgarh Fort sits atop a cliff in the park. A 35-foot statue of Vishnu carved from rock lies in the forest. Famous tigress 'Sita' was filmed for 15 years!"
+          },
+          {
+            "name": "Pench National Park",
+            "area_sq_km": 293,
+            "established": 1975,
+            "key_species": "Tiger, Leopard, Wild Dog, Gaur",
+            "funfact": "Another park that inspired 'The Jungle Book'! The Pench River was where Mowgli was found. It spans two states (MP and Maharashtra). Famous tigress 'Collarwali' raised 26 cubs - a record!"
+          },
+          {
+            "name": "Satpura National Park",
+            "area_sq_km": 524,
+            "established": 1981,
+            "key_species": "Tiger, Leopard, Sloth Bear, Giant Squirrel",
+            "funfact": "The only park in India where walking safaris are allowed inside the core zone! It has prehistoric rock shelters with 10,000-year-old paintings. Elephant safaris take you through dense forests where vehicles can't go."
+          }
+        ],
+        "tiger_conservation": {
+          "total_tigers": "Over 700 (highest in India)",
+          "tiger_reserves": 6,
+          "funfact": "MP was home to 'Machali' and 'Collarwali' - the two most famous tigresses in the world! Machali was photographed by millions of tourists and even had a documentary on Netflix."
+        }
+      },
+      "Maharashtra": {
+        "state_animal": {
+          "name": "Indian Giant Squirrel (Shekru)",
+          "scientific_name": "Ratufa indica",
+          "status": "Least Concern",
+          "habitat": "Dense forests of Western Ghats",
+          "funfact": "These magnificent squirrels can grow up to 1 meter long (including tail)! They have spectacular multicolored fur - maroon, orange, cream, and black. They build multiple nests and rarely come to the ground, leaping 6 meters between trees."
+        },
+        "state_bird": {
+          "name": "Yellow-footed Green Pigeon (Hariyal)",
+          "scientific_name": "Treron phoenicopterus",
+          "status": "Least Concern",
+          "habitat": "Deciduous forests, groves",
+          "funfact": "These beautiful pigeons are so well camouflaged in fig trees that they're almost invisible! Despite being common, they're rarely seen. Their distinctive whistling call is one of the most pleasant bird sounds in Indian forests."
+        },
+        "state_tree": {
+          "name": "Mango (Amba)",
+          "scientific_name": "Mangifera indica",
+          "type": "Evergreen",
+          "uses": "Fruit, timber, religious ceremonies",
+          "funfact": "Maharashtra's Alphonso (Hapus) mango is called the 'King of Mangoes' and exported worldwide! A single tree can produce 400-600 fruits per year for over 100 years. India produces 50% of the world's mangoes."
+        },
+        "state_flower": {
+          "name": "Jarul (Pride of India)",
+          "scientific_name": "Lagerstroemia speciosa",
+          "type": "Deciduous tree",
+          "blooming_season": "May to July",
+          "funfact": "When Jarul blooms, the purple-pink flowers are so spectacular it's called 'Pride of India'! The flowers only last one day but new ones bloom continuously. The tree is also called 'Queen's Flower' or 'Giant Crape Myrtle'."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Bengal Tiger",
+            "scientific_name": "Panthera tigris tigris",
+            "status": "Endangered",
+            "location": "Tadoba, Pench, Melghat",
+            "funfact": "Tadoba's tigers are famous for being bold and photogenic! Tigers here often walk on safari roads in broad daylight. The tigress 'Maya' of Tadoba was photographed by over a million tourists."
+          },
+          {
+            "name": "Indian Leopard",
+            "scientific_name": "Panthera pardus fusca",
+            "status": "Vulnerable",
+            "location": "Throughout Maharashtra, including Mumbai!",
+            "funfact": "Mumbai's Sanjay Gandhi National Park has the world's highest leopard density in an urban area! About 35 leopards live within the city limits. They've adapted to eat stray dogs and are rarely aggressive to humans."
+          },
+          {
+            "name": "Indian Bison (Gaur)",
+            "scientific_name": "Bos gaurus",
+            "status": "Vulnerable",
+            "location": "Western Ghats, Tadoba",
+            "funfact": "Gaurs in Maharashtra can weigh up to 1,500 kg! They're the largest wild cattle in the world. Despite their intimidating size, they're vegetarian. A charging gaur can derail small vehicles!"
+          },
+          {
+            "name": "Sloth Bear",
+            "scientific_name": "Melursus ursinus",
+            "status": "Vulnerable",
+            "location": "Melghat, Tadoba",
+            "funfact": "Maharashtra's Melghat is one of India's best sloth bear habitats. These bears inspired Baloo in 'The Jungle Book'! They can hang upside down from branches like sloths (hence the name) and eat 10,000 termites in one session."
+          },
+          {
+            "name": "Indian Wild Dog (Dhole)",
+            "scientific_name": "Cuon alpinus",
+            "status": "Endangered",
+            "location": "Tadoba, Pench",
+            "funfact": "Dholes are so effective as pack hunters that even tigers avoid them! They communicate through whistles and can coordinate attacks using specific calls. In Tadoba, they've been seen chasing tigers away from their kills!"
+          },
+          {
+            "name": "Forest Owlet",
+            "scientific_name": "Heteroglaux blewitti",
+            "status": "Critically Endangered",
+            "location": "Melghat Tiger Reserve",
+            "funfact": "Thought extinct for 113 years until rediscovered in Maharashtra in 1997! Only about 250 individuals exist. Unlike most owls, they're active during the day. They hunt lizards and small birds."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Koyna Toad",
+            "scientific_name": "Xanthophryne koynayensis",
+            "type": "Amphibian",
+            "status": "Critically Endangered",
+            "location": "Koyna region, Western Ghats",
+            "funfact": "Found ONLY in a 10 sq km area near Koyna Dam! Discovered in 2009, it's one of India's most range-restricted amphibians. Climate change threatens to make it extinct within decades."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Tadoba Andhari Tiger Reserve",
+            "area_sq_km": 1727,
+            "established": 1995,
+            "key_species": "Tiger, Leopard, Sloth Bear, Wild Dog, Gaur",
+            "funfact": "Maharashtra's oldest and largest national park! Tigers here are famous for approaching safari vehicles without fear. The legendary tigress 'Maya' was one of the most photographed tigers in the world."
+          },
+          {
+            "name": "Sanjay Gandhi National Park",
+            "area_sq_km": 104,
+            "established": 1969,
+            "key_species": "Leopard, Spotted Deer, Wild Boar, Bonnet Macaque",
+            "funfact": "One of the most visited parks in Asia with 2 million visitors annually! It's inside Mumbai city - the only city with a national park inside its limits. Has 35+ leopards living alongside 20 million humans!"
+          },
+          {
+            "name": "Melghat Tiger Reserve",
+            "area_sq_km": 1677,
+            "established": 1974,
+            "key_species": "Tiger, Sloth Bear, Forest Owlet, Gaur",
+            "funfact": "One of the first nine tiger reserves established in India! Has the highest sloth bear density in the country. The rediscovered Forest Owlet (after 113 years) was found here."
+          }
+        ],
+        "marine_biodiversity": {
+          "location": "Konkan Coast",
+          "notable_species": [
+            {
+              "name": "Olive Ridley Sea Turtle",
+              "nesting_sites": "Velas, Anjarle beaches",
+              "funfact": "Local villages have transformed from turtle hunters to turtle protectors! The Velas Turtle Festival celebrates conservation and attracts thousands of visitors to watch baby turtles enter the sea."
+            },
+            {
+              "name": "Whale Shark",
+              "location": "Off Maharashtra coast",
+              "funfact": "The world's largest fish visits Maharashtra's waters! Local fishermen now release accidentally caught whale sharks and receive compensation. They can grow up to 12 meters long but eat only plankton."
+            }
+          ]
+        }
+      },
+      "Manipur": {
+        "state_animal": {
+          "name": "Sangai (Brow-antlered Deer)",
+          "scientific_name": "Rucervus eldii eldii",
+          "status": "Endangered",
+          "habitat": "Keibul Lamjao floating marshland",
+          "funfact": "The Sangai is called 'Dancing Deer of Manipur' because of its delicate walking style on floating vegetation! Found ONLY in Manipur's Keibul Lamjao - the world's only floating national park. They walk on phumdis (floating vegetation) that sink under their weight!"
+        },
+        "state_bird": {
+          "name": "Mrs. Hume's Pheasant (Nongin)",
+          "scientific_name": "Syrmaticus humiae",
+          "status": "Near Threatened",
+          "habitat": "Montane forests",
+          "funfact": "Named after Mary Anne Hume, wife of British naturalist Allan Hume! The male has spectacular steel-blue, maroon, and white plumage with a 90cm tail. They're so shy that even local tribes rarely see them."
+        },
+        "state_tree": {
+          "name": "Uningthou (Phoebe hainesiana)",
+          "scientific_name": "Phoebe hainesiana",
+          "type": "Evergreen",
+          "uses": "Timber, traditional medicine",
+          "funfact": "Uningthou is sacred to Manipuri people and represents life and immortality! The tree is never cut and is planted near homes for protection. Ancient Uningthou trees mark historical and sacred sites."
+        },
+        "state_flower": {
+          "name": "Siroi Lily",
+          "scientific_name": "Lilium mackliniae",
+          "type": "Terrestrial lily",
+          "blooming_season": "May to June",
+          "funfact": "Found ONLY on Siroi Hill in Manipur - nowhere else on Earth! It was discovered in 1946 and named after Mrs. Macklin who first collected it. Local tribes protect it and celebrate the Shirui Lily Festival annually."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Hoolock Gibbon",
+            "scientific_name": "Hoolock hoolock",
+            "status": "Endangered",
+            "location": "Forests of Manipur",
+            "funfact": "India's only ape species! They 'sing' elaborate duets at dawn that can be heard 2 km away. They swing through trees at 55 km/h and can leap 15 meters between branches. They mate for life."
+          },
+          {
+            "name": "Slow Loris",
+            "scientific_name": "Nycticebus bengalensis",
+            "status": "Endangered",
+            "location": "Dense forests",
+            "funfact": "The only venomous primate! They have a toxic bite - their saliva mixed with gland secretions causes severe allergic reactions. They move so slowly that algae grows on their fur, helping them camouflage."
+          },
+          {
+            "name": "Clouded Leopard",
+            "scientific_name": "Neofelis nebulosa",
+            "status": "Vulnerable",
+            "location": "Montane forests",
+            "funfact": "Has the longest canine teeth relative to body size of any living cat! They can climb down trees headfirst and hang upside down from branches. Their cloud-shaped spots provide perfect camouflage."
+          },
+          {
+            "name": "Marbled Cat",
+            "scientific_name": "Pardofelis marmorata",
+            "status": "Near Threatened",
+            "location": "Dense forests",
+            "funfact": "One of the least-known wild cats! They're incredibly rare and secretive. Their tail is as long as their body and helps them balance on thin branches. They hunt birds and squirrels in trees."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Manipur Bush Quail",
+            "scientific_name": "Perdicula manipurensis",
+            "type": "Bird",
+            "status": "Vulnerable",
+            "location": "Grasslands of Manipur",
+            "funfact": "Found only in Northeast India! They're so shy they prefer running through grass rather than flying. They live in coveys of 10-20 birds and make soft whistling calls."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Keibul Lamjao National Park",
+            "area_sq_km": 40,
+            "established": 1977,
+            "key_species": "Sangai, Hog Deer, Otter",
+            "funfact": "The ONLY floating national park in the world! It's located in Loktak Lake - the largest freshwater lake in Northeast India. The phumdis (floating vegetation) are up to 2 meters thick and support trees, wildlife, and even human settlements!"
+          }
+        ],
+        "loktak_lake_ecosystem": {
+          "name": "Loktak Lake",
+          "area_sq_km": 287,
+          "type": "Freshwater lake with floating islands",
+          "key_features": "Phumdis (floating vegetation mats)",
+          "funfact": "The only floating biomass ecosystem in the world! Phumdis cover 40% of the lake. Local Keibul people live on floating huts called phumshongs. The lake hosts over 230 species of aquatic plants and 100+ bird species."
+        }
+      },
+      "Meghalaya": {
+        "state_animal": {
+          "name": "Clouded Leopard",
+          "scientific_name": "Neofelis nebulosa",
+          "status": "Vulnerable",
+          "habitat": "Dense tropical forests",
+          "funfact": "Clouded leopards have the longest canine teeth relative to body size of any cat - up to 2 inches! They can rotate their ankles 180° to climb down trees headfirst. They're so secretive that scientists know very little about their behavior."
+        },
+        "state_bird": {
+          "name": "Hill Myna",
+          "scientific_name": "Gracula religiosa",
+          "status": "Declining due to trade",
+          "habitat": "Evergreen and moist deciduous forests",
+          "funfact": "Hill Mynas can mimic human speech better than parrots! They can learn over 100 words and even mimic emotions and accents. In the wild, they mimic other birds and forest sounds. They're heavily trafficked for the pet trade."
+        },
+        "state_tree": {
+          "name": "Gamhar (White Teak)",
+          "scientific_name": "Gmelina arborea",
+          "type": "Deciduous",
+          "uses": "Timber, medicine, fodder",
+          "funfact": "Gamhar is one of the fastest-growing trees in India - growing up to 5 meters per year! The wood is used for making drums (like the dhol). Ancient texts mention it as a cure for many diseases."
+        },
+        "state_flower": {
+          "name": "Lady's Slipper Orchid",
+          "scientific_name": "Paphiopedilum insigne",
+          "type": "Orchid",
+          "blooming_season": "October to December",
+          "funfact": "This orchid traps insects inside its slipper-shaped pouch to ensure pollination! Meghalaya has over 300 orchid species. The Lady's Slipper is so valuable that it's heavily protected from illegal collection."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Asian Elephant",
+            "scientific_name": "Elephas maximus",
+            "status": "Endangered",
+            "location": "Garo Hills",
+            "funfact": "Meghalaya's Garo Hills have India's largest elephant population outside protected areas! Elephants use the same migration routes their ancestors used for centuries. They can communicate through infrasound over 10 km."
+          },
+          {
+            "name": "Hoolock Gibbon",
+            "scientific_name": "Hoolock hoolock",
+            "status": "Endangered",
+            "location": "Forests throughout Meghalaya",
+            "funfact": "Meghalaya is a stronghold for India's only ape! Their morning songs establish territory and strengthen pair bonds. Unlike monkeys, they have no tail. They can brachiate (swing) through trees faster than a human can run."
+          },
+          {
+            "name": "Red Panda",
+            "scientific_name": "Ailurus fulgens",
+            "status": "Endangered",
+            "location": "Higher elevations",
+            "funfact": "Red pandas spend up to 13 hours a day eating bamboo because it's so low in nutrition! They have a false 'thumb' (extended wrist bone) to grip bamboo. They're not related to giant pandas - more closely related to raccoons."
+          },
+          {
+            "name": "Golden Cat",
+            "scientific_name": "Catopuma temminckii",
+            "status": "Near Threatened",
+            "location": "Dense forests",
+            "funfact": "Also called 'Fire Tiger' by locals! Despite the name, they come in many colors - gold, gray, cinnamon, and even melanistic (black). They're rarely photographed in the wild."
+          },
+          {
+            "name": "Capped Langur",
+            "scientific_name": "Trachypithecus pileatus",
+            "status": "Vulnerable",
+            "location": "Forests",
+            "funfact": "Named for the cap-like hair on their head! Babies are bright orange for the first few months, then turn gray-black. They can digest mature leaves that other monkeys can't, thanks to special stomach bacteria."
+          }
+        ],
+        "unique_ecosystems": [
+          {
+            "name": "Living Root Bridges",
+            "location": "Khasi Hills",
+            "type": "Bio-engineering marvel",
+            "funfact": "The Khasi people train rubber tree roots to grow into bridges that can span 30 meters and support 50+ people! These living bridges strengthen with age and last for centuries. Some are 500+ years old and still growing!"
+          },
+          {
+            "name": "Sacred Groves (Law Kyntang)",
+            "type": "Community-protected forests",
+            "funfact": "Meghalaya has over 100 sacred groves protected by tribal traditions! These untouched forests are biodiversity hotspots. Mawphlang Sacred Grove has 400+ tree species in just 78 hectares!"
+          }
+        ],
+        "caves_and_underground_fauna": {
+          "notable_caves": "Meghalaya has India's longest caves",
+          "cave_fauna": [
+            {
+              "name": "Cave Fish (Schistura larketensis)",
+              "funfact": "Blind fish found only in Meghalaya caves! They evolved without eyes because there's no light. They navigate using other senses. Discovered in Siju Cave."
+            },
+            {
+              "name": "Cave Crab",
+              "funfact": "Several endemic cave crab species exist only in Meghalaya's caves! They're pale white due to lack of sunlight."
+            }
+          ],
+          "funfact": "Meghalaya has India's longest and deepest caves! Krem Liat Prah is 31 km long. These caves harbor unique species found nowhere else on Earth."
+        },
+        "national_parks": [
+          {
+            "name": "Nokrek National Park",
+            "area_sq_km": 47,
+            "established": 1986,
+            "key_species": "Red Panda, Clouded Leopard, Asian Elephant, Hoolock Gibbon",
+            "funfact": "A UNESCO Biosphere Reserve! Home to the 'Citrus Gene Sanctuary' protecting wild citrus species - ancestors of all modern oranges and lemons! Nokrek is the only place in India where wild citrus diversity is protected."
+          },
+          {
+            "name": "Balpakram National Park",
+            "area_sq_km": 220,
+            "established": 1987,
+            "key_species": "Tiger, Elephant, Red Panda, Clouded Leopard",
+            "funfact": "Known as 'Land of Spirits' or 'Land of Perpetual Winds'! The Garo tribe believes this is where souls of the dead rest before moving to the afterlife. It has dramatic canyon landscapes and waterfalls."
+          }
+        ]
+      },
+      "Mizoram": {
+        "state_animal": {
+          "name": "Serow (Himalayan Serow)",
+          "scientific_name": "Capricornis thar",
+          "status": "Near Threatened",
+          "habitat": "Steep forested hills",
+          "funfact": "Serows are called 'goat-antelopes' because they look like a mix of both! They can scale near-vertical cliffs. They're so sure-footed that they can leap from boulder to boulder without slipping. They live alone or in pairs, unlike most goat-relatives."
+        },
+        "state_bird": {
+          "name": "Mrs. Hume's Pheasant (Vavu)",
+          "scientific_name": "Syrmaticus humiae",
+          "status": "Near Threatened",
+          "habitat": "Montane and submontane forests",
+          "funfact": "One of the most beautiful pheasants in the world! Males have iridescent steel-blue plumage and a tail up to 90cm long. They're so shy that they'll run and hide rather than fly when disturbed."
+        },
+        "state_tree": {
+          "name": "Herhse (Iron Wood)",
+          "scientific_name": "Mesua ferrea",
+          "type": "Evergreen",
+          "uses": "Timber, medicine, religious ceremonies",
+          "funfact": "Iron Wood is so dense it sinks in water! The wood is almost impossible to saw with hand tools. The tree produces beautiful fragrant white flowers that bloom at night. It can live for over 1,000 years."
+        },
+        "state_flower": {
+          "name": "Red Vanda (Senhri)",
+          "scientific_name": "Renanthera imschootiana",
+          "type": "Epiphytic orchid",
+          "blooming_season": "April to May",
+          "funfact": "One of the rarest orchids in India! The stunning red flowers can have up to 50 blooms on a single plant. It grows on tree trunks and gets nutrients from air and rain. Highly endangered due to collection."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Hoolock Gibbon",
+            "scientific_name": "Hoolock hoolock",
+            "status": "Endangered",
+            "location": "Forests throughout Mizoram",
+            "funfact": "Mizoram's forests echo with gibbon songs at dawn! These apes mate for life and raise only one baby every 2-3 years. If a partner dies, the survivor may never mate again. Their arms are longer than their legs."
+          },
+          {
+            "name": "Slow Loris",
+            "scientific_name": "Nycticebus bengalensis",
+            "status": "Endangered",
+            "location": "Dense forests",
+            "funfact": "The world's only venomous primate! They lick venom glands on their elbows and deliver toxic bites. They move so slowly that algae grows on their fur. They're critically threatened by the illegal pet trade."
+          },
+          {
+            "name": "Leaf Deer",
+            "scientific_name": "Muntiacus putaoensis",
+            "status": "Data Deficient",
+            "location": "Remote forests",
+            "funfact": "One of the smallest deer in the world! Discovered only in 1999. They're so tiny they can hide behind large leaves. Males have small antlers and vampire-like fangs (tusks)."
+          },
+          {
+            "name": "Marbled Cat",
+            "scientific_name": "Pardofelis marmorata",
+            "status": "Near Threatened",
+            "location": "Dense forests",
+            "funfact": "One of the most mysterious cats in Asia! Rarely photographed, little is known about their behavior. Their marbled coat provides excellent camouflage. They have exceptionally long tails for balance while climbing."
+          }
+        ],
+        "bamboo_flowering_phenomenon": {
+          "name": "Mautam",
+          "cycle": "48 years",
+          "bamboo_species": "Melocanna baccifera",
+          "funfact": "Every 48 years, bamboo forests flower and die simultaneously! This causes a massive rat population explosion (they eat the seeds), followed by famine as rats destroy crops. The last Mautam was in 2007."
+        },
+        "national_parks": [
+          {
+            "name": "Murlen National Park",
+            "area_sq_km": 100,
+            "established": 1991,
+            "key_species": "Tiger, Leopard, Serow, Hoolock Gibbon",
+            "funfact": "Named after the Murlen village. It's one of the most remote parks in India! Has pristine forests with over 150 orchid species. The Murlen cliff face rises 1,500 meters and is visible from Myanmar."
+          },
+          {
+            "name": "Phawngpui National Park (Blue Mountain)",
+            "area_sq_km": 50,
+            "established": 1992,
+            "key_species": "Serow, Barking Deer, Leopard, Red Panda",
+            "funfact": "Contains Mizoram's highest peak (2,157m)! Called 'Blue Mountain' because it appears blue from a distance. Home to rare orchids and rhododendrons. The mountain is sacred to the Mizo people."
+          }
+        ],
+        "unique_flora": [
+          {
+            "name": "Mizoram Pitcher Plant",
+            "scientific_name": "Nepenthes khasiana",
+            "type": "Carnivorous plant",
+            "status": "Endangered",
+            "funfact": "India's only pitcher plant species! Found only in Northeast India. It traps insects in its pitcher-shaped leaves and digests them for nutrients. Can grow up to 15 meters as a climbing vine!"
+          }
+        ]
+      },
+      "Nagaland": {
+        "state_animal": {
+          "name": "Mithun (Gayal)",
+          "scientific_name": "Bos frontalis",
+          "status": "Vulnerable",
+          "habitat": "Forested hills",
+          "funfact": "Mithuns are sacred to Naga tribes and used as currency! Bride prices and fines are calculated in mithuns. A wealthy man might own 50+ mithuns. They're semi-domesticated but roam freely in forests."
+        },
+        "state_bird": {
+          "name": "Blyth's Tragopan",
+          "scientific_name": "Tragopan blythii",
+          "status": "Vulnerable",
+          "habitat": "Dense evergreen forests",
+          "funfact": "Males have spectacular blue facial skin that inflates during courtship! They perform elaborate dances, spreading their wings and fanning their tail. They're the state bird of Arunachal Pradesh too."
+        },
+        "state_tree": {
+          "name": "Alder (Uttis)",
+          "scientific_name": "Alnus nepalensis",
+          "type": "Deciduous",
+          "uses": "Timber, firewood, soil improvement",
+          "funfact": "Alder trees fix nitrogen in soil, making them essential for jhum (slash-and-burn) cultivation recovery! They're often the first trees to colonize bare land. Their wood is used for making traditional Naga drums."
+        },
+        "state_flower": {
+          "name": "Rhododendron",
+          "scientific_name": "Rhododendron arboreum",
+          "type": "Flowering shrub/tree",
+          "blooming_season": "March to May",
+          "funfact": "Nagaland has over 30 rhododendron species! When they bloom, entire mountainsides turn red and pink. The flower juice is used to make a traditional drink. Bees that feed on rhododendrons produce 'mad honey' that can cause hallucinations!"
+        },
+        "notable_wildlife": [
+          {
+            "name": "Hoolock Gibbon",
+            "scientific_name": "Hoolock hoolock",
+            "status": "Endangered",
+            "location": "Forests throughout Nagaland",
+            "funfact": "Nagas have traditionally protected gibbons because of their human-like appearance. Gibbons can swing through trees at 55 km/h. Their morning songs can be heard from 2 km away!"
+          },
+          {
+            "name": "Amur Falcon",
+            "scientific_name": "Falco amurensis",
+            "status": "Least Concern",
+            "location": "Doyang Reservoir (during migration)",
+            "funfact": "Over 1 MILLION Amur Falcons stop in Nagaland during their 22,000 km migration from Siberia to South Africa! It's one of nature's greatest spectacles. Nagaland was once a hunting ground but is now a protected stopover."
+          },
+          {
+            "name": "Serow",
+            "scientific_name": "Capricornis thar",
+            "status": "Near Threatened",
+            "location": "Rocky forested hills",
+            "funfact": "Serows can climb nearly vertical cliffs! They live alone and are extremely territorial. They mark their territory with scent glands below their eyes. Despite looking clumsy, they're incredibly agile."
+          },
+          {
+            "name": "Binturong (Bearcat)",
+            "scientific_name": "Arctictis binturong",
+            "status": "Vulnerable",
+            "location": "Dense forests",
+            "funfact": "Binturongs smell like buttered popcorn! This scent comes from a chemical also found in popcorn. They're one of only two carnivores with a prehensile tail (the other is the kinkajou). They can rotate their hind legs backward."
+          }
+        ],
+        "hornbill_significance": {
+          "cultural_importance": "Sacred to Naga tribes",
+          "species_found": "Great Hornbill, Wreathed Hornbill, Rufous-necked Hornbill",
+          "funfact": "Hornbill feathers are essential for traditional Naga warrior headdresses. The Hornbill Festival celebrates Naga culture! Nagas now protect hornbills - killing one brings shame to the entire village."
+        },
+        "national_parks": [
+          {
+            "name": "Intanki National Park",
+            "area_sq_km": 202,
+            "established": 1993,
+            "key_species": "Elephant, Hoolock Gibbon, Binturong, Serow",
+            "funfact": "Created to protect the endangered hoolock gibbon! One of the most remote parks in India. The forest is so dense that satellite mapping is difficult. Has over 300 bird species including all 4 hornbill species found in the region."
+          }
+        ],
+        "conservation_success": {
+          "species": "Amur Falcon",
+          "story": "From hunting ground to sanctuary",
+          "funfact": "Until 2012, Nagas hunted Amur Falcons for food. After awareness campaigns, they became protectors! The transformation was so remarkable that it won the 'India Biodiversity Award'. Villages now compete to host the falcons."
+        }
+      },
+      "Odisha": {
+        "state_animal": {
+          "name": "Sambar Deer",
+          "scientific_name": "Rusa unicolor",
+          "status": "Vulnerable",
+          "habitat": "Dense forests",
+          "funfact": "Sambar is India's largest deer, weighing up to 300 kg! When alarmed, they make a distinctive 'dhank' call that alerts all forest animals. Tigers find them difficult prey because of their size and powerful kicks."
+        },
+        "state_bird": {
+          "name": "Indian Roller (Nilakantha)",
+          "scientific_name": "Coracias benghalensis",
+          "status": "Least Concern",
+          "habitat": "Open countryside",
+          "funfact": "Called 'Nilakantha' (Blue Throat) after Lord Shiva in Odisha! They perform spectacular rolling flights during courtship. Seeing one during Dussehra is considered auspicious."
+        },
+        "state_tree": {
+          "name": "Sacred Fig (Ashwatha)",
+          "scientific_name": "Ficus religiosa",
+          "type": "Evergreen",
+          "uses": "Religious significance, medicine, shade",
+          "funfact": "Buddha attained enlightenment under a Sacred Fig (Bodhi Tree)! These trees release oxygen 24/7 (unlike most trees). They can live for 3,000+ years. Konark Sun Temple has carvings of this tree."
+        },
+        "state_flower": {
+          "name": "Ashoka (Ashok)",
+          "scientific_name": "Saraca asoca",
+          "type": "Evergreen tree",
+          "blooming_season": "February to April",
+          "funfact": "'Ashoka' means 'without sorrow' - the tree is believed to remove grief! In Ramayana, Sita was held captive in an Ashoka grove. The bark is used in traditional medicine for women's health for over 3,000 years."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Olive Ridley Sea Turtle",
+            "scientific_name": "Lepidochelys olivacea",
+            "status": "Vulnerable",
+            "location": "Gahirmatha, Rushikulya, Devi River beaches",
+            "funfact": "Gahirmatha hosts the world's largest Olive Ridley rookery! Over 500,000 turtles arrive simultaneously for mass nesting (arribada). Females return to the same beach where they were born 15-30 years earlier!"
+          },
+          {
+            "name": "Saltwater Crocodile",
+            "scientific_name": "Crocodylus porosus",
+            "status": "Least Concern",
+            "location": "Bhitarkanika mangroves",
+            "funfact": "Bhitarkanika has India's largest saltwater crocodiles - some over 6 meters (20 feet)! They're the world's largest living reptiles. They can swim 1,000 km in open ocean. One crocodile killed here measured 7.1 meters!"
+          },
+          {
+            "name": "Indian Python",
+            "scientific_name": "Python molurus",
+            "status": "Near Threatened",
+            "location": "Forests and mangroves",
+            "funfact": "Indian pythons can swallow prey larger than their head by dislocating their jaw! They can go without food for 2 years. A female can lay 100 eggs and coils around them for 2-3 months, not eating the entire time."
+          },
+          {
+            "name": "Irrawaddy Dolphin",
+            "scientific_name": "Orcaella brevirostris",
+            "status": "Endangered",
+            "location": "Chilika Lake",
+            "funfact": "Chilika Lake has the largest population of Irrawaddy dolphins in India! They have a distinctive rounded head with no beak. They can spit water to herd fish - the only dolphins known to do this!"
+          },
+          {
+            "name": "Fishing Cat",
+            "scientific_name": "Prionailurus viverrinus",
+            "status": "Vulnerable",
+            "location": "Mangroves and wetlands",
+            "funfact": "Unlike most cats, fishing cats love water! They have partially webbed paws for swimming. They dive into water to catch fish and can swim long distances. They've been seen eating crocodile eggs!"
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "White Tiger (Rare genetic variant)",
+            "location": "Originally from Odisha",
+            "funfact": "All captive white tigers in the world descend from 'Mohan', a white tiger captured in Odisha in 1951! White tigers are not albinos - they have a genetic mutation affecting coat color. They're extinct in the wild."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Simlipal National Park",
+            "area_sq_km": 2750,
+            "established": 1980,
+            "key_species": "Tiger, Elephant, Gaur, Mugger Crocodile",
+            "funfact": "Named after the Simul (silk cotton) trees! One of India's largest tiger reserves. Has spectacular waterfalls including Barehipani (399m) and Joranda (181m). Melanistic (black) tigers have been photographed here!"
+          },
+          {
+            "name": "Bhitarkanika National Park",
+            "area_sq_km": 145,
+            "established": 1988,
+            "key_species": "Saltwater Crocodile, Water Monitor, King Cobra",
+            "funfact": "Has India's second-largest mangrove forest! Home to the largest saltwater crocodiles in India. Over 1 million Olive Ridley turtles nest at nearby Gahirmatha beach - the world's largest rookery!"
+          }
+        ],
+        "chilika_lake": {
+          "name": "Chilika Lake",
+          "area_sq_km": 1100,
+          "type": "Asia's largest brackish water lagoon",
+          "key_species": "Irrawaddy Dolphin, 230+ bird species, Flamingos",
+          "funfact": "Over 1 million migratory birds visit Chilika annually from as far as Siberia! It's India's largest coastal lagoon. The Nalabana Island inside the lake is a bird sanctuary hosting over 400,000 birds at peak season!"
+        }
+      },
+      "Punjab": {
+        "state_animal": {
+          "name": "Blackbuck",
+          "scientific_name": "Antilope cervicapra",
+          "status": "Least Concern",
+          "habitat": "Grasslands, agricultural areas",
+          "funfact": "Blackbucks are protected by the Bishnoi community who consider them sacred! In 1998, Salman Khan was prosecuted for allegedly killing blackbucks in Rajasthan - the case lasted 20 years. Males turn jet black during breeding season."
+        },
+        "state_bird": {
+          "name": "Northern Goshawk (Baaz)",
+          "scientific_name": "Accipiter gentilis",
+          "status": "Least Concern",
+          "habitat": "Forests and open areas",
+          "funfact": "The Baaz (hawk) is the emblem of the Sikh faith! Guru Gobind Singh kept hawks and established falconry traditions. They can chase prey through dense forests at 60 km/h, weaving between trees with incredible agility."
+        },
+        "state_tree": {
+          "name": "Shisham (Indian Rosewood)",
+          "scientific_name": "Dalbergia sissoo",
+          "type": "Deciduous",
+          "uses": "Furniture, musical instruments, medicine",
+          "funfact": "Shisham wood is so valuable it's called 'Punjab Teak'! It's used to make premium furniture and musical instruments. The wood becomes more beautiful with age. It fixes nitrogen, improving soil fertility."
+        },
+        "state_flower": {
+          "name": "Gladiolus",
+          "scientific_name": "Gladiolus grandiflorus",
+          "type": "Flowering plant",
+          "blooming_season": "February to April",
+          "funfact": "Punjab is India's largest gladiolus producer! A single stem can have 20+ flowers. The name comes from Latin 'gladius' (sword) due to sword-shaped leaves. Punjab's flower markets export millions of gladiolus stems annually."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Nilgai (Blue Bull)",
+            "scientific_name": "Boselaphus tragocamelus",
+            "status": "Least Concern",
+            "location": "Throughout Punjab",
+            "funfact": "Asia's largest antelope! Males have blue-gray coats (hence 'Nilgai' - blue cow). They're often seen in agricultural areas. Despite weighing 300 kg, they can jump 1.5-meter fences from a standing position!"
+          },
+          {
+            "name": "Indian Hare",
+            "scientific_name": "Lepus nigricollis",
+            "status": "Least Concern",
+            "location": "Agricultural lands, scrublands",
+            "funfact": "Indian hares can run at 70 km/h! Unlike rabbits, they don't dig burrows - babies are born in shallow depressions. They can leap 3 meters in a single bound. Their large ears help regulate body temperature."
+          },
+          {
+            "name": "Sarus Crane",
+            "scientific_name": "Antigone antigone",
+            "status": "Vulnerable",
+            "location": "Wetlands, agricultural fields",
+            "funfact": "The world's tallest flying bird at 1.8 meters! Sarus cranes mate for life and dance together. If one partner dies, the other often stops eating and dies of grief. They're considered symbols of marital fidelity in India."
+          },
+          {
+            "name": "Indian Peafowl",
+            "scientific_name": "Pavo cristatus",
+            "status": "Least Concern",
+            "location": "Throughout Punjab",
+            "funfact": "India's national bird is common in Punjab! A peacock's train has about 200 feathers with 'eye' spots that appear to stare at predators. They eat snakes and are protected by farmers for pest control."
+          }
+        ],
+        "wildlife_sanctuaries": [
+          {
+            "name": "Harike Wetland and Bird Sanctuary",
+            "area_sq_km": 86,
+            "established": 1982,
+            "key_species": "350+ bird species including migratory waterfowl",
+            "funfact": "North India's largest wetland! Created at the confluence of Sutlej and Beas rivers. Hosts over 1 million migratory birds in winter including rare Dalmatian Pelicans. It's a Ramsar Wetland of International Importance."
+          },
+          {
+            "name": "Bir Moti Bagh Sanctuary",
+            "area_sq_km": 6,
+            "established": 1972,
+            "key_species": "Chital, Nilgai, Sambar",
+            "funfact": "Located within Patiala city! Once the hunting ground of Maharajas of Patiala. One of India's smallest sanctuaries but important for educating urban populations about wildlife."
+          }
+        ],
+        "agricultural_biodiversity": {
+          "fact": "Punjab is India's breadbasket but intensive farming has reduced biodiversity",
+          "conservation_efforts": "Movement to restore natural grasslands and wetlands",
+          "funfact": "Once, Punjab's plains had lions, cheetahs, and wild elephants! Old hunting records show incredible biodiversity that existed before intensive agriculture."
+        }
+      },
+      "Rajasthan": {
+        "state_animal": {
+          "name": "Chinkara (Indian Gazelle)",
+          "scientific_name": "Gazella bennettii",
+          "status": "Least Concern",
+          "habitat": "Desert and dry regions",
+          "funfact": "Chinkaras can survive without drinking water for their entire life! They get all moisture from plants and morning dew. They can run at 80 km/h and leap 6 meters. The name comes from the sneezing 'chink' sound they make."
+        },
+        "state_bird": {
+          "name": "Great Indian Bustard",
+          "scientific_name": "Ardeotis nigriceps",
+          "status": "Critically Endangered",
+          "habitat": "Grasslands and semi-arid regions",
+          "funfact": "Fewer than 150 Great Indian Bustards survive! Once considered for National Bird of India but rejected because its name sounds like a curse word. Males perform spectacular displays, inflating their neck like a balloon."
+        },
+        "state_tree": {
+          "name": "Khejri",
+          "scientific_name": "Prosopis cineraria",
+          "type": "Thorny evergreen",
+          "uses": "Fodder, food (sangri pods), medicine, firewood",
+          "funfact": "The Bishnoi community sacrificed their lives protecting Khejri trees in 1730! Amrita Devi and 363 villagers were killed for hugging trees. This led to India's first wildlife protection act. The pods (sangri) are a Rajasthani delicacy."
+        },
+        "state_flower": {
+          "name": "Rohida (Desert Teak)",
+          "scientific_name": "Tecomella undulata",
+          "type": "Deciduous tree",
+          "blooming_season": "February to April",
+          "funfact": "Rohida flowers in the driest months when nothing else blooms! The orange-red flowers carpet the desert floor. It's the only timber tree that survives in the Thar Desert. The tree can live for 200+ years."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Bengal Tiger",
+            "scientific_name": "Panthera tigris tigris",
+            "status": "Endangered",
+            "location": "Ranthambore, Sariska",
+            "funfact": "Ranthambore's tigress 'Machali' (T-16) was the most photographed tiger in history! She appeared in National Geographic documentaries and killed a 14-foot crocodile. She lived to 19 years - ancient for a wild tiger."
+          },
+          {
+            "name": "Indian Leopard",
+            "scientific_name": "Panthera pardus fusca",
+            "status": "Vulnerable",
+            "location": "Throughout Rajasthan",
+            "funfact": "Jawai region has the highest concentration of leopards living alongside humans in India! Leopards here live in caves and rocky outcrops. They've learned to coexist with local Rabari shepherds who don't fear them."
+          },
+          {
+            "name": "Indian Wolf",
+            "scientific_name": "Canis lupus pallipes",
+            "status": "Endangered",
+            "location": "Grasslands",
+            "funfact": "Rajasthan has India's largest wolf population! They hunt in small packs of 3-5 and can take down nilgai. The 'werewolf' legend may have originated from Indian wolves that occasionally attacked children."
+          },
+          {
+            "name": "Caracal",
+            "scientific_name": "Caracal caracal",
+            "status": "Least Concern",
+            "location": "Semi-arid regions",
+            "funfact": "Caracals can leap 3 meters into the air to catch flying birds! Their tufted ears help them hear prey in tall grass. They were trained by Mughal emperors for hunting birds. They can take down prey twice their size."
+          },
+          {
+            "name": "Desert Fox",
+            "scientific_name": "Vulpes vulpes pusilla",
+            "status": "Least Concern",
+            "location": "Thar Desert",
+            "funfact": "Desert foxes have enormous ears (10cm) that radiate heat and help them hear prey underground! They can survive body temperatures of 40°C. They live in burrows during the day and hunt at night."
+          },
+          {
+            "name": "Spiny-tailed Lizard",
+            "scientific_name": "Saara hardwickii",
+            "status": "Vulnerable",
+            "location": "Thar Desert",
+            "funfact": "Also called 'Sanda' - locals believe its oil has medicinal properties (it doesn't)! They can change color based on temperature. They dig burrows up to 2 meters deep. Sadly, thousands are killed for traditional medicine."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Ranthambore National Park",
+            "area_sq_km": 392,
+            "established": 1980,
+            "key_species": "Tiger, Leopard, Sloth Bear, Sambar",
+            "funfact": "One of the best places in the world to see wild tigers! Has a 1000-year-old fort inside the park. Tigers here are unusually bold, often walking on safari roads in daylight. The legendary tigress Machali ruled for 15 years."
+          },
+          {
+            "name": "Keoladeo National Park (Bharatpur)",
+            "area_sq_km": 29,
+            "established": 1982,
+            "key_species": "Over 350 bird species, including formerly Siberian Cranes",
+            "funfact": "UNESCO World Heritage Site! Once a royal hunting ground where British Viceroys shot 4,000 ducks in a single day! Now India's premier bird sanctuary. Siberian Cranes used to winter here but haven't been seen since 2002."
+          },
+          {
+            "name": "Desert National Park",
+            "area_sq_km": 3162,
+            "established": 1980,
+            "key_species": "Great Indian Bustard, Chinkara, Desert Fox, Spiny-tailed Lizard",
+            "funfact": "One of the largest national parks in India! Contains 180-million-year-old fossils including dinosaur bones. It's the last refuge of the critically endangered Great Indian Bustard. Has sand dunes up to 50 meters high!"
+          }
+        ],
+        "desert_ecosystem": {
+          "name": "Thar Desert",
+          "area_sq_km": 200000,
+          "funfact": "The Thar is the world's most densely populated desert! It supports 83 mammal species, 355 bird species, and 110 reptile species. Despite receiving less than 25cm rain annually, it sustains 40 million people."
+        }
+      },
+      "Sikkim": {
+        "state_animal": {
+          "name": "Red Panda",
+          "scientific_name": "Ailurus fulgens",
+          "status": "Endangered",
+          "habitat": "Temperate forests with bamboo",
+          "funfact": "Red pandas spend up to 13 hours a day eating bamboo because it's so low in nutrition! They have a 'false thumb' (extended wrist bone) to grip bamboo. They're not related to giant pandas - more closely related to raccoons and weasels."
+        },
+        "state_bird": {
+          "name": "Blood Pheasant",
+          "scientific_name": "Ithaginis cruentus",
+          "status": "Least Concern",
+          "habitat": "High altitude forests and alpine meadows",
+          "funfact": "Named for the blood-red streaks on male's feathers! They live at elevations up to 5,000 meters. In winter, they descend to lower altitudes. They're the only pheasant that lives in the alpine zone year-round."
+        },
+        "state_tree": {
+          "name": "Rhododendron",
+          "scientific_name": "Rhododendron niveum",
+          "type": "Flowering tree/shrub",
+          "uses": "Ornamental, medicine, fuel",
+          "funfact": "Sikkim has over 36 rhododendron species! When they bloom in spring, entire mountains turn red, pink, and white. The flowers are used to make juice and wine. Some species grow as tall trees (30+ meters)!"
+        },
+        "state_flower": {
+          "name": "Noble Dendrobium Orchid",
+          "scientific_name": "Dendrobium nobile",
+          "type": "Orchid",
+          "blooming_season": "February to May",
+          "funfact": "Sikkim has over 550 orchid species - 28% of India's total! This orchid is called 'Donpang' locally. Each flower can last 2-3 weeks. It grows on tree branches without harming the host tree."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Snow Leopard",
+            "scientific_name": "Panthera uncia",
+            "status": "Vulnerable",
+            "location": "High altitude regions above 3,000m",
+            "funfact": "Snow leopards can leap 15 meters in a single bound! Their tail is almost as long as their body and so thick they use it as a blanket. They can take down prey 3 times their weight. Fewer than 7,000 remain in the wild."
+          },
+          {
+            "name": "Himalayan Black Bear",
+            "scientific_name": "Ursus thibetanus",
+            "status": "Vulnerable",
+            "location": "Temperate forests",
+            "funfact": "They have a distinctive white 'V' on their chest! Despite being called 'black bear', their coat can be brown or reddish. They're excellent climbers and build nests in trees for sleeping. They can eat 20,000 ants in one sitting!"
+          },
+          {
+            "name": "Himalayan Monal",
+            "scientific_name": "Lophophorus impejanus",
+            "status": "Least Concern",
+            "location": "Subalpine and alpine forests",
+            "funfact": "Males have 9 different metallic colors that shimmer in sunlight - they're living rainbows! They dig through snow to find food. Their call echoes through mountains and sounds like a squeaky door."
+          },
+          {
+            "name": "Tibetan Wolf",
+            "scientific_name": "Canis lupus chanco",
+            "status": "Endangered",
+            "location": "High altitude regions",
+            "funfact": "Tibetan wolves are larger than Indian wolves and can survive at 5,000+ meters! They have thicker fur for extreme cold. They hunt blue sheep and marmots. They're genetically distinct from other wolf subspecies."
+          },
+
+          {
+            "name": "Blue Sheep (Bharal)",
+            "scientific_name": "Pseudois nayaur",
+            "status": "Least Concern",
+            "location": "Alpine meadows and cliffs",
+            "funfact": "Neither truly sheep nor goat - they're an evolutionary link between both! They can navigate near-vertical cliffs with ease. Their blue-gray coat provides perfect camouflage against rocky slopes. Snow leopards depend on them as primary prey."
+          },
+          {
+            "name": "Himalayan Marmot",
+            "scientific_name": "Marmota himalayana",
+            "status": "Least Concern",
+            "location": "Alpine meadows above 3,500m",
+            "funfact": "These giant squirrel-relatives hibernate for 8 months! They can survive at altitudes above 5,000m. They whistle loudly to warn of predators - earning the name 'whistling marmot'. Entire families cuddle together in underground burrows."
+          },
+          {
+            "name": "Satyr Tragopan",
+            "scientific_name": "Tragopan satyra",
+            "status": "Near Threatened",
+            "location": "Dense forests",
+            "funfact": "Males have electric blue facial skin and a blue inflatable throat lappet! During courtship, they fan their feathers and inflate colorful throat patches. They're named after Satyrs from Greek mythology due to their wild appearance."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Sikkim Stag Beetle",
+            "scientific_name": "Lucanus sikkimensis",
+            "type": "Insect",
+            "status": "Data Deficient",
+            "funfact": "Male stag beetles have massive mandibles (jaws) that look like deer antlers! They use them to fight rivals. Despite fierce appearance, they only drink tree sap. Larvae live in rotting wood for 3-5 years before becoming adults."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Khangchendzonga National Park",
+            "area_sq_km": 1784,
+            "established": 1977,
+            "key_species": "Snow Leopard, Red Panda, Himalayan Black Bear, Musk Deer",
+            "funfact": "UNESCO World Heritage Site! Contains India's highest peak (Khangchendzonga at 8,586m). Has glaciers, alpine meadows, and ancient forests in one park. Sacred to both Buddhists and Hindus. Over 550 bird species recorded!"
+          }
+        ],
+        "orchid_biodiversity": {
+          "total_species": "550+ (28% of India's orchids)",
+          "rare_species": ["Blue Vanda", "Lady's Slipper", "Black Orchid"],
+          "funfact": "Sikkim is called 'Paradise of Orchids'! The entire state is an orchid hotspot. Some orchids here bloom only once every 12 years. Many species are endemic - found nowhere else on Earth."
+        },
+        "butterfly_diversity": {
+          "total_species": "690+ species",
+          "notable_species": "Kaiser-i-Hind, Bhutan Glory, Golden Birdwing",
+          "funfact": "Sikkim has more butterfly species than all of Europe combined! The Kaiser-i-Hind ('Emperor of India') is so rare and beautiful that collectors pay thousands of dollars for specimens. It's now strictly protected."
+        }
+      },
+      "Tamil_Nadu": {
+        "state_animal": {
+          "name": "Nilgiri Tahr",
+          "scientific_name": "Nilgiritragus hylocrius",
+          "status": "Endangered",
+          "habitat": "Montane grasslands of Western Ghats",
+          "funfact": "Found ONLY in the Western Ghats! Adult males have a distinctive silvery 'saddle' marking on their back. They can navigate near-vertical cliffs with rubbery hooves that grip like suction cups. Only about 2,500 remain in the wild."
+        },
+        "state_bird": {
+          "name": "Emerald Dove",
+          "scientific_name": "Chalcophaps indica",
+          "status": "Least Concern",
+          "habitat": "Dense forests",
+          "funfact": "Their wings shimmer with emerald-green iridescence! They're ground feeders but sleep in trees. Unlike most doves, they're extremely shy and rarely seen despite being common. They make a deep, mournful 'coo' at dawn and dusk."
+        },
+        "state_tree": {
+          "name": "Palmyra Palm (Panai)",
+          "scientific_name": "Borassus flabellifer",
+          "type": "Palm tree",
+          "uses": "Food, toddy, timber, thatch - 801 uses documented!",
+          "funfact": "Tamil literature documents 801 uses for Palmyra Palm! It's called 'Karpaga Vriksham' (wish-fulfilling tree). The toddy (fermented sap) is a traditional drink. A single tree can live for 100+ years and yield products worth lakhs."
+        },
+        "state_flower": {
+          "name": "Gloriosa Lily (Karthigai Poo)",
+          "scientific_name": "Gloriosa superba",
+          "type": "Climbing lily",
+          "blooming_season": "Monsoon season",
+          "funfact": "One of the most striking flowers in India! The petals curl backward like flames. Despite its beauty, it's highly poisonous - all parts can be lethal if ingested. Used in traditional medicine in tiny, controlled doses."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Bengal Tiger",
+            "scientific_name": "Panthera tigris tigris",
+            "status": "Endangered",
+            "location": "Mudumalai, Anamalai, Kalakkad-Mundanthurai",
+            "funfact": "Tamil Nadu's tiger reserves are connected to Karnataka's, forming India's largest tiger landscape! Tigers here regularly cross state borders. The Nilgiri Biosphere has over 700 tigers - one of the densest populations."
+          },
+          {
+            "name": "Asian Elephant",
+            "scientific_name": "Elephas maximus",
+            "status": "Endangered",
+            "location": "Throughout Western Ghats",
+            "funfact": "Tamil Nadu has one of the largest wild elephant populations! The 'Elephant Corridor' connecting Mudumalai to Bandipur is crucial. Elephants here have adapted to cross highways using underpasses built specifically for them."
+          },
+          {
+            "name": "Lion-tailed Macaque",
+            "scientific_name": "Macaca silenus",
+            "status": "Endangered",
+            "location": "Anamalai Hills, Palani Hills",
+            "funfact": "One of the world's rarest monkeys with only 4,000 remaining! They have a magnificent silver mane. They spend 95% of their life in trees. They communicate using 17 different calls. Some populations haven't been on the ground in generations!"
+          },
+          {
+            "name": "Grizzled Giant Squirrel",
+            "scientific_name": "Ratufa macroura",
+            "status": "Near Threatened",
+            "location": "Srivilliputhur and Grizzled Squirrel Wildlife Sanctuary",
+            "funfact": "Found only in South India and Sri Lanka! They're called 'grizzled' because of their salt-and-pepper colored fur. They build multiple basketball-sized nests in a single tree. They can leap 6 meters between branches!"
+          },
+          {
+            "name": "Nilgiri Marten",
+            "scientific_name": "Martes gwatkinsii",
+            "status": "Vulnerable",
+            "location": "High-altitude forests",
+            "funfact": "South India's only marten species and extremely rare! They have a distinctive yellow-orange throat patch. They can rotate their hind feet 180° to climb down trees headfirst. Active both day and night."
+          },
+          {
+            "name": "Dugong (Sea Cow)",
+            "scientific_name": "Dugong dugon",
+            "status": "Vulnerable",
+            "location": "Gulf of Mannar",
+            "funfact": "India's only remaining dugong population lives in Tamil Nadu's Gulf of Mannar! They're the only herbivorous marine mammals. They 'mow' seagrass meadows, grazing like underwater cows. Sailors' sightings inspired mermaid legends!"
+          },
+          {
+            "name": "Whale Shark",
+            "scientific_name": "Rhincodon typus",
+            "status": "Endangered",
+            "location": "Gulf of Mannar, Palk Bay",
+            "funfact": "The world's largest fish can grow to 12 meters! Despite their size, they eat only plankton and small fish. Each whale shark has a unique spot pattern like a fingerprint. Tamil fishermen now protect them after conservation programs."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Anamalai Flying Frog",
+            "scientific_name": "Rhacophorus pseudomalabaricus",
+            "type": "Amphibian",
+            "status": "Critically Endangered",
+            "location": "Anamalai Hills",
+            "funfact": "These frogs 'fly' by gliding up to 12 meters using webbed feet as parachutes! They lay eggs on branches overhanging water - tadpoles fall into the water when they hatch. Found only in a tiny area of Anamalai Hills."
+          },
+          {
+            "name": "Nilgiri Blue Robin",
+            "scientific_name": "Myiomela major",
+            "type": "Bird",
+            "status": "Endangered",
+            "location": "Nilgiri and Palani Hills",
+            "funfact": "Found only in the shola-grassland ecosystem of Tamil Nadu and Kerala! Males have stunning cobalt-blue plumage. They're extremely secretive, hopping through dense undergrowth. Climate change threatens their high-altitude habitat."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Mudumalai National Park",
+            "area_sq_km": 321,
+            "established": 1940,
+            "key_species": "Tiger, Elephant, Gaur, Wild Dog, Leopard",
+            "funfact": "Part of the Nilgiri Biosphere Reserve - India's first biosphere reserve! Located at the junction of three states. Has India's largest elephant camp at Theppakadu. The 'Moyar Gorge' here is a spectacular canyon."
+          },
+          {
+            "name": "Anamalai Tiger Reserve (Indira Gandhi Wildlife Sanctuary)",
+            "area_sq_km": 958,
+            "established": 1976,
+            "key_species": "Tiger, Lion-tailed Macaque, Nilgiri Tahr, Elephant",
+            "funfact": "Has one of the highest tiger densities in South India! Contains 'Grass Hills' - a unique rolling grassland ecosystem. The sanctuary spans from 340m to 2,400m altitude, creating multiple climate zones."
+          },
+          {
+            "name": "Gulf of Mannar Marine National Park",
+            "area_sq_km": 10,
+            "established": 1980,
+            "key_species": "Dugong, Sea Turtle, Dolphins, Coral Reefs",
+            "funfact": "India's first marine biosphere reserve! Has 21 islands with coral reefs, seagrass beds, and mangroves. Contains 3,600+ plant and animal species. The 'Adam's Bridge' (Ram Setu) chain of islands starts here!"
+          }
+        ],
+        "point_calimere": {
+          "name": "Point Calimere Wildlife Sanctuary",
+          "area_sq_km": 21,
+          "key_species": "Flamingos, Blackbuck, Waterfowl",
+          "funfact": "Hosts over 100,000 flamingos during winter! It's a crucial stopover for migratory birds from Siberia and Europe. The salt pans and mudflats attract 257 bird species. Blackbucks graze alongside flamingos!"
+        }
+      },
+      "Telangana": {
+        "state_animal": {
+          "name": "Spotted Deer (Chital)",
+          "scientific_name": "Axis axis",
+          "status": "Least Concern",
+          "habitat": "Forests and grasslands",
+          "funfact": "Chital are the most common deer in Indian forests! Their spotted coat provides excellent camouflage. They often follow langurs and pick up fruits the monkeys drop. They alarm-call when they spot predators, warning other animals."
+        },
+        "state_bird": {
+          "name": "Indian Roller (Palapitta)",
+          "scientific_name": "Coracias benghalensis",
+          "status": "Least Concern",
+          "habitat": "Open countryside, agricultural areas",
+          "funfact": "Called 'Neelakantha' (Blue-throated) after Lord Shiva! They perform spectacular rolling aerial acrobatics during courtship - diving, twisting, and somersaulting. Their feathers display 8 different shades of blue."
+        },
+        "state_tree": {
+          "name": "Jammi (Prosopis)",
+          "scientific_name": "Prosopis cineraria",
+          "type": "Deciduous thorny tree",
+          "uses": "Fodder, fuel, religious significance",
+          "funfact": "Jammi tree is sacred to Telangana! During Dussehra, people worship the Jammi tree. Legend says the Pandavas hid their weapons in a Jammi tree during exile. The tree can survive extreme drought and fix nitrogen in soil."
+        },
+        "state_flower": {
+          "name": "Tangedu (Senna auriculata)",
+          "scientific_name": "Senna auriculata",
+          "type": "Flowering shrub",
+          "blooming_season": "Throughout the year",
+          "funfact": "Tangedu has bright yellow flowers used in Bathukamma festival! Women create elaborate floral stacks for this unique Telangana festival. The plant has medicinal properties and is used in traditional diabetes treatment."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Bengal Tiger",
+            "scientific_name": "Panthera tigris tigris",
+            "status": "Endangered",
+            "location": "Kawal and Amrabad Tiger Reserves",
+            "funfact": "Tigers are making a comeback in Telangana! After decades of absence, tigers have been confirmed in both reserves. The Godavari and Krishna river basins provide crucial corridors for tiger movement between states."
+          },
+          {
+            "name": "Indian Leopard",
+            "scientific_name": "Panthera pardus fusca",
+            "status": "Vulnerable",
+            "location": "Throughout forested areas",
+            "funfact": "Leopards in Telangana often live near human settlements! They've learned to hunt at night and hide during the day. Camera traps have revealed surprisingly high numbers even near Hyderabad city."
+          },
+          {
+            "name": "Sloth Bear",
+            "scientific_name": "Melursus ursinus",
+            "status": "Vulnerable",
+            "location": "Forests of Telangana",
+            "funfact": "Sloth bears can close their nostrils completely to vacuum up termites! They carry cubs on their back - the only bear species to do this. A single bear can destroy a termite mound in minutes and eat 10,000 termites."
+          },
+          {
+            "name": "Indian Wolf",
+            "scientific_name": "Canis lupus pallipes",
+            "status": "Endangered",
+            "location": "Grasslands and scrublands",
+            "funfact": "Telangana's grasslands still support Indian wolves! They're smaller than their northern relatives but equally social. They hunt cooperatively and share food with pack members. They were likely the 'wolves' in Kipling's Jungle Book."
+          },
+          {
+            "name": "Indian Pangolin",
+            "scientific_name": "Manis crassicaudata",
+            "status": "Endangered",
+            "location": "Forests and rocky areas",
+            "funfact": "The world's most trafficked mammal! Pangolins are covered in scales made of keratin (like fingernails). When threatened, they curl into a ball so tight that even tigers can't unroll them. One pangolin eats 70 million ants per year!"
+          },
+          {
+            "name": "Mugger Crocodile",
+            "scientific_name": "Crocodylus palustris",
+            "status": "Vulnerable",
+            "location": "Rivers, lakes, and reservoirs",
+            "funfact": "Muggers live in surprising places - even urban lakes near Hyderabad! They've been spotted in Hussain Sagar Lake in the city center. They can survive in polluted water and eat almost anything including garbage."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Deccan Mahseer",
+            "scientific_name": "Tor khudree",
+            "type": "Fish",
+            "status": "Endangered",
+            "location": "Rivers of Deccan Plateau",
+            "funfact": "Called the 'Tiger of Rivers'! Once abundant, now rare due to pollution and dams. They can grow to 45 kg and live for 25 years. Considered sacred fish in some communities and not eaten."
+          }
+        ],
+        "wildlife_sanctuaries": [
+          {
+            "name": "Kawal Tiger Reserve",
+            "area_sq_km": 893,
+            "established": 2012,
+            "key_species": "Tiger, Leopard, Sloth Bear, Wild Dog",
+            "funfact": "Telangana's first tiger reserve! The forests are so dense that tiger surveys are extremely challenging. Connected to Maharashtra's tiger landscapes, allowing genetic exchange between populations."
+          },
+          {
+            "name": "Amrabad Tiger Reserve",
+            "area_sq_km": 2611,
+            "established": 2014,
+            "key_species": "Tiger, Leopard, Sloth Bear, Pangolin",
+            "funfact": "India's second-largest tiger reserve! Located in the Nallamala Hills. Has ancient Buddhist sites within the reserve. The Nagarjunasagar-Srisailam forests form a crucial wildlife corridor."
+          },
+          {
+            "name": "Pocharam Wildlife Sanctuary",
+            "area_sq_km": 130,
+            "established": 1952,
+            "key_species": "Chital, Sambar, Sloth Bear, Nilgai",
+            "funfact": "Built around Pocharam Lake! One of the oldest protected areas in Telangana. Popular for bird watching with over 200 species. The lake attracts thousands of migratory birds in winter."
+          }
+        ],
+        "unique_ecosystem": {
+          "name": "Deccan Plateau Dry Deciduous Forests",
+          "characteristics": "Thorny scrub, dry deciduous trees, rocky outcrops",
+          "funfact": "These forests look barren but support incredible biodiversity! They're home to unique reptiles and insects found nowhere else. The rocky hillocks (inselbergs) host endemic plants that evolved in isolation."
+        }
+      },
+      "Tripura": {
+        "state_animal": {
+          "name": "Phayre's Langur (Spectacled Langur)",
+          "scientific_name": "Trachypithecus phayrei",
+          "status": "Endangered",
+          "habitat": "Semi-evergreen and moist deciduous forests",
+          "funfact": "Named for British administrator Arthur Phayre! They have distinctive white rings around their eyes like spectacles. Babies are born bright orange and slowly turn gray. They can digest mature leaves that other monkeys can't."
+        },
+        "state_bird": {
+          "name": "Green Imperial Pigeon",
+          "scientific_name": "Ducula aenea",
+          "status": "Least Concern",
+          "habitat": "Tropical and subtropical forests",
+          "funfact": "These large pigeons are crucial for forest regeneration! They eat fruits whole and disperse seeds far from parent trees. Despite being nearly 50cm long, they're incredibly agile fliers. Their cooing echoes through forests."
+        },
+        "state_tree": {
+          "name": "Agar (Agarwood)",
+          "scientific_name": "Aquilaria malaccensis",
+          "type": "Evergreen",
+          "uses": "Perfume, incense, medicine",
+          "funfact": "Agarwood is one of the most expensive woods in the world - worth more than gold by weight! The fragrant resin only forms when the tree is infected by mold. A kilogram of high-quality agarwood can cost $100,000!"
+        },
+        "state_flower": {
+          "name": "Nageshwar (Mesua ferrea)",
+          "scientific_name": "Mesua ferrea",
+          "type": "Flowering tree",
+          "blooming_season": "April to June",
+          "funfact": "The flowers are so fragrant they perfume entire forests! The wood is called 'Iron Wood' because it's so dense it sinks in water. Ancient temples were built using this wood. The flowers bloom at night and emit stronger fragrance."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Clouded Leopard",
+            "scientific_name": "Neofelis nebulosa",
+            "status": "Vulnerable",
+            "location": "Dense forests",
+            "funfact": "Tripura has declared the Clouded Leopard its state animal since 2007! They have the longest canine teeth relative to body size of any cat. They can climb down trees headfirst and hang from branches by their hind legs."
+          },
+          {
+            "name": "Hoolock Gibbon",
+            "scientific_name": "Hoolock hoolock",
+            "status": "Endangered",
+            "location": "Forests throughout Tripura",
+            "funfact": "India's only ape! Their morning songs establish territory and can be heard 2 km away. Couples 'duet' together. They swing through trees at 55 km/h and rarely touch the ground. They mate for life."
+          },
+          {
+            "name": "Bison (Gaur)",
+            "scientific_name": "Bos gaurus",
+            "status": "Vulnerable",
+            "location": "Dense forests",
+            "funfact": "The world's largest wild cattle! Bulls can weigh 1,500 kg. Despite their massive size, they can jump 2-meter fences. Even tigers rarely attack healthy adult gaurs. They have a distinctive muscular ridge on their back."
+          },
+          {
+            "name": "Capped Langur",
+            "scientific_name": "Trachypithecus pileatus",
+            "status": "Vulnerable",
+            "location": "Forests",
+            "funfact": "Named for the cap-like hair on their head! Newborns are golden-orange for the first few months before turning gray. They have multi-chambered stomachs like cows, allowing them to digest tough leaves."
+          },
+          {
+            "name": "Indian Python",
+            "scientific_name": "Python molurus",
+            "status": "Near Threatened",
+            "location": "Forests and wetlands",
+            "funfact": "Indian pythons can go without food for up to 2 years! They have heat-sensing pits to detect warm-blooded prey. A female can lay 100 eggs and coils around them for 2-3 months without eating."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Clouded Leopard National Park",
+            "area_sq_km": 5.08,
+            "established": 2007,
+            "key_species": "Clouded Leopard, Binturong, Slow Loris",
+            "funfact": "India's smallest national park dedicated to a single species! It's essentially a breeding center for clouded leopards. The elusive cats are rarely seen in the wild, so captive breeding is crucial for conservation."
+          }
+        ],
+        "wildlife_sanctuaries": [
+          {
+            "name": "Sepahijala Wildlife Sanctuary",
+            "area_sq_km": 18,
+            "established": 1972,
+            "key_species": "Spectacled Langur, Capped Langur, Clouded Leopard",
+            "funfact": "Famous for its primates! Has a natural lake with a rubber tree-lined shore. The sanctuary has a zoo and botanical garden alongside natural forest. One of the best places to see spectacled langurs."
+          },
+          {
+            "name": "Gumti Wildlife Sanctuary",
+            "area_sq_km": 389,
+            "established": 1988,
+            "key_species": "Elephant, Gaur, Hoolock Gibbon, Leopard",
+            "funfact": "The largest wildlife sanctuary in Tripura! Has ancient temples within the forest. The Gumti River flows through, creating diverse habitats. Elephants here migrate between India and Bangladesh."
+          }
+        ],
+        "rubber_plantation_wildlife": {
+          "fact": "Tripura has extensive rubber plantations that host surprising wildlife",
+          "funfact": "Clouded leopards, civets, and langurs have adapted to live in rubber plantations! The trees provide cover and food. Conservation efforts now integrate rubber farming with wildlife protection."
+        }
+      },
+      "Uttar_Pradesh": {
+        "state_animal": {
+          "name": "Swamp Deer (Barasingha)",
+          "scientific_name": "Rucervus duvaucelii",
+          "status": "Vulnerable",
+          "habitat": "Grasslands and swamps",
+          "funfact": "'Barasingha' means '12-tined' referring to the antlers! The UP subspecies lives in tall grasslands, not swamps. Only about 3,000 remain in the wild. They were nearly extinct but conservation efforts in Dudhwa saved them."
+        },
+        "state_bird": {
+          "name": "Sarus Crane",
+          "scientific_name": "Antigone antigone",
+          "status": "Vulnerable",
+          "habitat": "Wetlands, agricultural fields",
+          "funfact": "The world's tallest flying bird at 1.8 meters! Sarus cranes mate for life and perform elaborate synchronized dances. If one partner dies, the other often stops eating. UP has India's largest Sarus population."
+        },
+        "state_tree": {
+          "name": "Ashoka",
+          "scientific_name": "Saraca asoca",
+          "type": "Evergreen",
+          "uses": "Religious significance, medicine",
+          "funfact": "'Ashoka' means 'without sorrow'! In the Ramayana, Sita was held in an Ashoka grove. The bark is used in traditional medicine for women's health. The tree is considered sacred to both Hindus and Buddhists."
+        },
+        "state_flower": {
+          "name": "Palash (Flame of the Forest)",
+          "scientific_name": "Butea monosperma",
+          "type": "Deciduous tree",
+          "blooming_season": "February to April",
+          "funfact": "When Palash blooms, forests look like they're on fire! The flowers are used to make natural Holi colors. They were used to dye clothes for thousands of years. The tree is also called 'Dhak' and features in countless poems."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Bengal Tiger",
+            "scientific_name": "Panthera tigris tigris",
+            "status": "Endangered",
+            "location": "Dudhwa, Pilibhit, Amangarh",
+            "funfact": "UP's Dudhwa is one of India's finest tiger reserves! It's the only place where Indian tigers and Indian rhinos coexist naturally. The grasslands here are so tall that elephants can disappear in them!"
+          },
+          {
+            "name": "Indian One-horned Rhinoceros",
+            "scientific_name": "Rhinoceros unicornis",
+            "status": "Vulnerable",
+            "location": "Dudhwa National Park",
+            "funfact": "Rhinos were reintroduced to UP's Dudhwa from Assam in the 1980s! They were extinct here for over 100 years. Now about 40 rhinos live in Dudhwa. Their armor-like skin has folds but is surprisingly soft!"
+          },
+          {
+            "name": "Gangetic Dolphin",
+            "scientific_name": "Platanista gangetica",
+            "status": "Endangered",
+            "location": "Ganges and tributaries",
+            "funfact": "India's National Aquatic Animal! These dolphins are effectively blind - they navigate using echolocation in muddy water. They swim on their side and can only live in freshwater. UP's Chambal has a significant population."
+          },
+          {
+            "name": "Gharial",
+            "scientific_name": "Gavialis gangeticus",
+            "status": "Critically Endangered",
+            "location": "Chambal River, Katerniaghat",
+            "funfact": "Gharials have the narrowest snout of any crocodilian! Males develop a bulbous 'ghara' (pot) on their snout. They're fish specialists and can't walk on land like other crocodiles. Only about 650 adults survive."
+          },
+          {
+            "name": "Indian Wolf",
+            "scientific_name": "Canis lupus pallipes",
+            "status": "Endangered",
+            "location": "Grasslands and scrublands",
+            "funfact": "UP's wolves inspired Kipling's 'The Jungle Book'! They're smaller than northern wolves but equally intelligent. They hunt in packs of 3-5. They've been known to raid villages for livestock."
+          },
+          {
+            "name": "Blackbuck",
+            "scientific_name": "Antilope cervicapra",
+            "status": "Least Concern",
+            "location": "Grasslands",
+            "funfact": "Once abundant, blackbucks now survive mainly in protected areas. Males turn jet black during breeding season. They can run at 80 km/h and leap 2 meters high. The spiral horns can grow to 70cm!"
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Dudhwa National Park",
+            "area_sq_km": 490,
+            "established": 1977,
+            "key_species": "Tiger, Rhino, Swamp Deer, Elephant",
+            "funfact": "The ONLY place in India where tigers and rhinos coexist! Has tall elephant grass that can hide entire elephant herds. The park borders Nepal. Famous conservationist Billy Arjan Singh lived and worked here."
+          },
+          {
+            "name": "Pilibhit Tiger Reserve",
+            "area_sq_km": 730,
+            "established": 2014,
+            "key_species": "Tiger, Leopard, Swamp Deer, Fishing Cat",
+            "funfact": "Won the TX2 Award for doubling its tiger population! The reserve has flooded grasslands and sal forests. Connected to Nepal's forests, allowing transboundary tiger movement. Has over 130 bird species."
+          }
+        ],
+        "chambal_sanctuary": {
+          "name": "National Chambal Sanctuary",
+          "area_sq_km": 5400,
+          "shared_with": "Madhya Pradesh, Rajasthan",
+          "key_species": "Gharial, Gangetic Dolphin, Mugger Crocodile, Red-crowned Turtle",
+          "funfact": "The cleanest river in North India! Supports one of the last healthy gharial populations. The river is so pristine because dacoits (bandits) kept people away for decades. Now it's a conservation success!"
+        }
+      },
+      "Uttarakhand": {
+        "state_animal": {
+          "name": "Alpine Musk Deer",
+          "scientific_name": "Moschus chrysogaster",
+          "status": "Endangered",
+          "habitat": "Alpine forests and meadows",
+          "funfact": "Male musk deer have vampire-like fangs (tusks) up to 7cm long! They produce musk - the world's most expensive animal product at $45,000/kg. They're heavily poached despite strict protection. They have no antlers."
+        },
+        "state_bird": {
+          "name": "Himalayan Monal",
+          "scientific_name": "Lophophorus impejanus",
+          "status": "Least Concern",
+          "habitat": "Alpine meadows and forests",
+          "funfact": "Males display 9 metallic colors that shimmer like a rainbow! They dig through snow to find food using their curved beaks. Their call echoes through the Himalayas. They're depicted on the ₹10 coin!"
+        },
+        "state_tree": {
+          "name": "Buransh (Rhododendron)",
+          "scientific_name": "Rhododendron arboreum",
+          "type": "Flowering tree",
+          "uses": "Juice, jam, medicine",
+          "funfact": "When Buransh blooms, entire Himalayan hillsides turn red! The flower juice is rich in Vitamin C and made into a popular drink. The nectar produces 'mad honey' that can cause hallucinations in large doses!"
+        },
+        "state_flower": {
+          "name": "Brahma Kamal",
+          "scientific_name": "Saussurea obvallata",
+          "type": "High-altitude flower",
+          "blooming_season": "July to September (blooms at night)",
+          "funfact": "Called 'King of Himalayan Flowers'! Blooms only once a year, at night, above 4,500m altitude. According to mythology, it was used to revive Lakshmana in the Ramayana. It's the state flower of Uttarakhand."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Bengal Tiger",
+            "scientific_name": "Panthera tigris tigris",
+            "status": "Endangered",
+            "location": "Jim Corbett, Rajaji",
+            "funfact": "Jim Corbett was India's first national park (1936) and first tiger reserve! It's named after legendary hunter-turned-conservationist Jim Corbett. Tigers here live in hill forests - unusual for the species."
+          },
+          {
+            "name": "Asian Elephant",
+            "scientific_name": "Elephas maximus",
+            "status": "Endangered",
+            "location": "Corbett, Rajaji",
+            "funfact": "Uttarakhand's elephants migrate through ancient corridors connecting reserves! The Rajaji-Corbett corridor is crucial for genetic diversity. Elephants here have learned to use highway underpasses safely."
+          },
+          {
+            "name": "Snow Leopard",
+            "scientific_name": "Panthera uncia",
+            "status": "Vulnerable",
+            "location": "High Himalayas",
+            "funfact": "Snow leopards in Uttarakhand live above 3,000m! They can jump 15 meters in one leap. Their tail is so thick they wrap it around their face while sleeping. They're called 'Grey Ghosts' because they're so elusive."
+          },
+          {
+            "name": "Himalayan Black Bear",
+            "scientific_name": "Ursus thibetanus",
+            "status": "Vulnerable",
+            "location": "Temperate forests",
+            "funfact": "They have a distinctive white 'V' on their chest! They're excellent tree climbers. Before hibernation, they can gain 100 kg eating berries and nuts. They've attacked pilgrims on the Kedarnath trail."
+          },
+          {
+            "name": "Himalayan Tahr",
+            "scientific_name": "Hemitragus jemlahicus",
+            "status": "Near Threatened",
+            "location": "Rocky mountain slopes",
+            "funfact": "These goat-antelopes have rubbery hooves that grip near-vertical cliffs! Males have magnificent manes. They can survive temperatures of -40°C. They're the primary prey of snow leopards."
+          },
+          {
+            "name": "Serow",
+            "scientific_name": "Capricornis thar",
+            "status": "Near Threatened",
+            "location": "Steep forested hills",
+            "funfact": "Serows are called 'goat-antelopes'! They're solitary and extremely territorial. They can navigate near-vertical cliff faces. Despite looking clumsy, they're incredibly agile. They're most active at dawn and dusk."
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Golden Mahseer",
+            "scientific_name": "Tor putitora",
+            "type": "Fish",
+            "status": "Endangered",
+            "location": "Himalayan rivers",
+            "funfact": "Called the 'Tiger of Rivers'! They can grow to 2 meters and 50 kg. They migrate upstream to spawn, leaping waterfalls like salmon. Overfishing and dams have made them rare. They're considered sacred."
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Jim Corbett National Park",
+            "area_sq_km": 521,
+            "established": 1936,
+            "key_species": "Tiger, Elephant, Leopard, King Cobra",
+            "funfact": "India's first national park and first tiger reserve! Named after Jim Corbett who killed man-eating tigers but later became a conservationist. The Ramganga River creates stunning grasslands. Has over 650 bird species!"
+          },
+          {
+            "name": "Rajaji National Park",
+            "area_sq_km": 820,
+            "established": 1983,
+            "key_species": "Elephant, Tiger, Leopard, King Cobra",
+            "funfact": "Named after C. Rajagopalachari! The Ganges enters the plains at Haridwar through this park. Has one of the highest elephant densities in India. The Chilla-Motichur corridor is crucial for elephant migration."
+          },
+          {
+            "name": "Valley of Flowers National Park",
+            "area_sq_km": 87,
+            "established": 1982,
+            "key_species": "600+ flowering plant species, Himalayan Black Bear, Snow Leopard",
+            "funfact": "UNESCO World Heritage Site! Over 600 flower species bloom simultaneously in summer - a riot of colors! It was 'discovered' by mountaineer Frank Smythe in 1931. Blue Poppy, Brahma Kamal, and rare orchids carpet the valley."
+          },
+          {
+            "name": "Nanda Devi National Park",
+            "area_sq_km": 630,
+            "established": 1982,
+            "key_species": "Snow Leopard, Himalayan Black Bear, Musk Deer, Bharal",
+            "funfact": "UNESCO World Heritage Site! Dominated by India's second-highest peak Nanda Devi (7,816m). The inner sanctuary was closed in 1982 to preserve its pristine ecosystem. Only scientists can enter the core zone."
+          }
+        ],
+        "gangotri_ecosystem": {
+          "name": "Gangotri National Park",
+          "area_sq_km": 2390,
+          "key_feature": "Source of the Ganges",
+          "funfact": "Contains the Gangotri Glacier - source of the holy Ganges! The glacier has retreated 2 km in the last century due to climate change. Snow leopards, blue sheep, and Himalayan tahr live above the glaciers."
+        }
+      },
+      "West_Bengal": {
+        "state_animal": {
+          "name": "Fishing Cat",
+          "scientific_name": "Prionailurus viverrinus",
+          "status": "Vulnerable",
+          "habitat": "Wetlands, mangroves, marshes",
+          "funfact": "Unlike most cats, fishing cats LOVE water! They have partially webbed paws and can swim long distances. They dive into water to catch fish. They tap the water surface with their paw to mimic insect movements and attract fish!"
+        },
+        "state_bird": {
+          "name": "White-throated Kingfisher",
+          "scientific_name": "Halcyon smyrnensis",
+          "status": "Least Concern",
+          "habitat": "Near water bodies, open country",
+          "funfact": "Despite being called 'kingfisher', they eat more insects and lizards than fish! They have a distinctive laughing call. They nest in tunnels dug into earthen banks. Their bright blue and chestnut plumage is unmistakable."
+        },
+        "state_tree": {
+          "name": "Chatim (Devil Tree)",
+          "scientific_name": "Alstonia scholaris",
+          "type": "Evergreen",
+          "uses": "Timber, medicine, writing boards",
+          "funfact": "Called 'Devil Tree' because of strong-smelling flowers that bloom at night! Traditional school writing boards (peti) were made from this wood - hence 'scholaris'. The bark is used to treat malaria and fever."
+        },
+        "state_flower": {
+          "name": "Night-flowering Jasmine (Shiuli)",
+          "scientific_name": "Nyctanthes arbor-tristis",
+          "type": "Flowering shrub",
+          "blooming_season": "September to November",
+          "funfact": "Flowers open at dusk and fall at dawn - carpeting the ground white! The orange stalks are used as natural dye for monk robes. The name 'arbor-tristis' means 'sad tree' because flowers fall so quickly. Iconic during Durga Puja."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Royal Bengal Tiger",
+            "scientific_name": "Panthera tigris tigris",
+            "status": "Endangered",
+            "location": "Sundarbans, Buxa",
+            "funfact": "Sundarban tigers are the only ones that regularly swim in saltwater! They can swim up to 8 km and hunt in water. They're smaller than mainland tigers but exceptionally powerful. They're the only man-eating tiger population today."
+          },
+          {
+            "name": "Indian Elephant",
+            "scientific_name": "Elephas maximus",
+            "status": "Endangered",
+            "location": "Northern Bengal forests",
+            "funfact": "West Bengal's elephants migrate through 'elephant corridors' connecting Bhutan and Nepal! The famous Jaldapara has one of the highest elephant densities in India. Tea gardens often face elephant intrusions."
+          },
+          {
+            "name": "Indian One-horned Rhinoceros",
+            "scientific_name": "Rhinoceros unicornis",
+            "status": "Vulnerable",
+            "location": "Jaldapara, Gorumara",
+            "funfact": "West Bengal has India's second-largest rhino population after Assam! Jaldapara has over 300 rhinos. Their 'armor-plated' skin is actually quite soft. They can run at 55 km/h despite weighing 2,000+ kg!"
+          },
+          {
+            "name": "Saltwater Crocodile",
+            "scientific_name": "Crocodylus porosus",
+            "status": "Least Concern",
+            "location": "Sundarbans",
+            "funfact": "The world's largest living reptile! Sundarbans crocodiles can grow over 6 meters. They can swim 1,000 km in open ocean. They coexist with tigers - both are apex predators in the mangroves!"
+          },
+          {
+            "name": "Gangetic Dolphin",
+            "scientific_name": "Platanista gangetica",
+            "status": "Endangered",
+            "location": "Rivers of Bengal",
+            "funfact": "These dolphins are effectively blind! They navigate murky rivers using echolocation. They swim on their side. The Hooghly River near Kolkata still has a small population despite heavy shipping traffic."
+          },
+          {
+            "name": "Clouded Leopard",
+            "scientific_name": "Neofelis nebulosa",
+            "status": "Vulnerable",
+            "location": "Northern Bengal forests",
+            "funfact": "The smallest of the big cats! They have the longest canine teeth relative to body size. They can climb down trees headfirst. Buxa Tiger Reserve is one of the best places to spot them in India."
+          }
+        ],
+        "sundarbans_ecosystem": {
+          "name": "Sundarbans",
+          "area_sq_km": 4264,
+          "type": "World's largest mangrove forest",
+          "shared_with": "Bangladesh",
+          "unesco_status": "World Heritage Site",
+          "key_species": "Royal Bengal Tiger, Saltwater Crocodile, Gangetic Dolphin, Fishing Cat",
+          "funfact": "The ONLY mangrove forest where tigers live! Tigers here swim between islands hunting deer, wild boar, and even fishing. They've killed more humans than any other tiger population. Locals wear masks on the back of their heads because tigers prefer attacking from behind!"
+        },
+        "national_parks": [
+          {
+            "name": "Sundarbans National Park",
+            "area_sq_km": 1330,
+            "established": 1984,
+            "key_species": "Tiger, Saltwater Crocodile, Fishing Cat, Irrawaddy Dolphin",
+            "funfact": "The core area of the Sundarbans! Tigers here have become semi-aquatic. The forest is named after 'Sundari' trees (Heritiera fomes). It's a labyrinth of over 100 islands. Tides rise up to 5 meters daily!"
+          },
+          {
+            "name": "Jaldapara National Park",
+            "area_sq_km": 217,
+            "established": 2012,
+            "key_species": "Indian Rhino, Elephant, Tiger, Gaur",
+            "funfact": "Has India's second-largest rhino population! The tall elephant grass provides perfect cover for rhinos. Elephant safari is the best way to see wildlife. Was upgraded from wildlife sanctuary to national park in 2012."
+          },
+          {
+            "name": "Gorumara National Park",
+            "area_sq_km": 80,
+            "established": 1994,
+            "key_species": "Indian Rhino, Elephant, Gaur, Wild Boar",
+            "funfact": "One of the best places to see Indian rhinos up close! The Jaldhaka River flows through. Has excellent watchtowers for wildlife viewing. The grasslands are burned annually to promote new growth for herbivores."
+          },
+          {
+            "name": "Buxa Tiger Reserve",
+            "area_sq_km": 761,
+            "established": 1983,
+            "key_species": "Tiger, Elephant, Clouded Leopard, Gaur",
+            "funfact": "Borders Bhutan and has exceptional biodiversity! Contains the historic Buxa Fort used as a detention camp during India's freedom struggle. The Jayanti River creates beautiful forests. Has 230+ bird species."
+          }
+        ],
+        "migratory_birds": {
+          "location": "Raiganj Wildlife Sanctuary",
+          "species": "Open-billed Stork, Egrets, Cormorants",
+          "funfact": "Asia's second-largest bird colony! Over 100,000 birds from Siberia winter here. The trees turn white with bird droppings! The storks arrive in June and leave by December."
+        }
+      }
+    },
+    "union_territories": {
+      "Andaman_and_Nicobar_Islands": {
+        "ut_animal": {
+          "name": "Dugong (Sea Cow)",
+          "scientific_name": "Dugong dugon",
+          "status": "Vulnerable",
+          "habitat": "Seagrass meadows",
+          "funfact": "Dugongs are the only herbivorous marine mammals! They 'mow' seagrass like underwater cows. They were likely the inspiration for mermaid legends. A & N Islands have India's largest dugong population - about 200 individuals."
+        },
+        "ut_bird": {
+          "name": "Andaman Wood Pigeon",
+          "scientific_name": "Columba palumboides",
+          "status": "Near Threatened",
+          "habitat": "Evergreen forests",
+          "funfact": "Found ONLY in the Andaman Islands! They're larger than common pigeons with metallic green plumage. They feed in the forest canopy and rarely come to the ground. Their booming calls echo through the forests."
+        },
+        "ut_tree": {
+          "name": "Andaman Padauk",
+          "scientific_name": "Pterocarpus dalbergioides",
+          "type": "Deciduous",
+          "uses": "Premium furniture, musical instruments",
+          "funfact": "One of the most valuable timbers in the world! The wood has beautiful red-orange color. It was overexploited but now protected. A single Padauk tree can be worth lakhs of rupees!"
+        },
+        "notable_wildlife": [
+          {
+            "name": "Saltwater Crocodile",
+            "scientific_name": "Crocodylus porosus",
+            "status": "Least Concern",
+            "location": "Mangroves, estuaries, open sea",
+            "funfact": "The world's largest reptile! Andaman 'salties' grow over 6 meters and can weigh 1,000+ kg. They swim between islands and have been seen 100 km from shore. They're responsible for occasional human fatalities."
+          },
+          {
+            "name": "Andaman Wild Pig",
+            "scientific_name": "Sus scrofa andamanensis",
+            "status": "Vulnerable",
+            "location": "Forests",
+            "funfact": "An endemic subspecies found nowhere else! They're smaller than mainland wild pigs. They're a crucial food source for indigenous tribes. Feral dogs are their main threat."
+          },
+          {
+            "name": "Narcondam Hornbill",
+            "scientific_name": "Rhyticeros narcondami",
+            "status": "Endangered",
+            "location": "ONLY on Narcondam Island",
+            "funfact": "Found ONLY on one tiny volcanic island (7 sq km)! The entire world population of about 400 birds lives on this single island. If the island's forest is destroyed, the species goes extinct."
+          },
+          {
+            "name": "Andaman Day Gecko",
+            "scientific_name": "Phelsuma andamanense",
+            "status": "Near Threatened",
+            "location": "Endemic to Andaman Islands",
+            "funfact": "One of the few gecko species active during daytime! They have brilliant green coloration. Unlike most geckos, they lack sticky toe pads and rely on claws for climbing."
+          },
+          {
+            "name": "Leatherback Sea Turtle",
+            "scientific_name": "Dermochelys coriacea",
+            "status": "Vulnerable",
+            "location": "Beaches of Andaman",
+            "funfact": "The world's largest turtle - up to 3 meters long and 900 kg! They dive deeper than any other turtle (1,200 meters). They can maintain body temperature in cold water. India's best nesting beaches are here."
+          },
+          {
+            "name": "Coconut Crab",
+            "scientific_name": "Birgus latro",
+            "status": "Data Deficient",
+            "location": "Islands",
+            "funfact": "The world's largest land invertebrate - leg span up to 1 meter! They can crack coconuts with their powerful claws. They climb trees and drop coconuts to eat. They can lift 28 kg - heavier than a small child!"
+          }
+        ],
+        "endemic_species": [
+          {
+            "name": "Andaman Serpent Eagle",
+            "scientific_name": "Spilornis elgini",
+            "type": "Bird",
+            "status": "Near Threatened",
+            "funfact": "Endemic to Andaman Islands! Specialized in hunting snakes. They can spot a snake from 100 meters away. Their short crest distinguishes them from mainland serpent eagles."
+          },
+          {
+            "name": "Nicobar Megapode",
+            "scientific_name": "Megapodius nicobariensis",
+            "type": "Bird",
+            "status": "Vulnerable",
+            "funfact": "These birds don't incubate their eggs - they bury them in mounds of decaying vegetation! The heat from decomposition incubates the eggs. Chicks dig themselves out and are independent from day one."
+          },
+          {
+            "name": "Andaman Cobra",
+            "scientific_name": "Naja sagittifera",
+            "type": "Reptile",
+            "status": "Near Threatened",
+            "funfact": "Found only in Andaman Islands! They're smaller than mainland cobras. Unlike other cobras, they rarely raise a hood when threatened. They're the top snake predator on the islands."
+          }
+        ],
+        "coral_reef_ecosystem": {
+          "type": "Fringing coral reefs",
+          "species_count": "500+ coral species, 1,200+ fish species",
+          "funfact": "Andaman has India's best coral reefs! The 2004 tsunami actually exposed new corals. Some reefs here are 8,000 years old. Mahatma Gandhi Marine National Park has spectacular underwater biodiversity."
+        },
+        "national_parks": [
+          {
+            "name": "Mahatma Gandhi Marine National Park",
+            "area_sq_km": 282,
+            "established": 1983,
+            "key_species": "Coral reefs, Sea turtles, Dolphins, 300+ fish species",
+            "funfact": "India's only marine national park where you can walk on a coral reef at low tide! Glass-bottom boat rides show underwater wonders. The park has 15 islands with pristine beaches."
+          },
+          {
+            "name": "Campbell Bay National Park",
+            "area_sq_km": 426,
+            "established": 1992,
+            "key_species": "Saltwater Crocodile, Nicobar Megapode, Coconut Crab",
+            "funfact": "India's southernmost national park! Closer to Indonesia than to mainland India. The indigenous Shompen tribe lives in the buffer zone. Mount Thullier (642m) is the highest peak."
+          }
+        ]
+      },
+      "Chandigarh": {
+        "ut_bird": {
+          "name": "Indian Grey Hornbill",
+          "scientific_name": "Ocyceros birostris",
+          "status": "Least Concern",
+          "habitat": "Urban parks, gardens",
+          "funfact": "Despite being a city, Chandigarh has thriving hornbill populations! They nest in tree holes in Sector 17 and Rock Garden. They eat figs and regurgitate seeds, planting trees across the city."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Nilgai",
+            "scientific_name": "Boselaphus tragocamelus",
+            "status": "Least Concern",
+            "location": "Sukhna Wildlife Sanctuary",
+            "funfact": "Asia's largest antelope lives on the outskirts of India's most planned city! They often wander into residential areas. Despite weighing 300 kg, they can jump 1.5-meter fences!"
+          },
+          {
+            "name": "Sambar Deer",
+            "scientific_name": "Rusa unicolor",
+            "status": "Vulnerable",
+            "location": "Sukhna Wildlife Sanctuary",
+            "funfact": "India's largest deer! They come to Sukhna Lake to drink at dawn and dusk. Their alarm call warns all forest creatures of predators. Males have magnificent antlers that shed annually."
+          },
+          {
+            "name": "Indian Leopard",
+            "scientific_name": "Panthera pardus fusca",
+            "status": "Vulnerable",
+            "location": "Shivalik foothills near Chandigarh",
+            "funfact": "Leopards occasionally venture into Chandigarh from surrounding forests! They've been spotted in sectors near the hills. The city's green cover and deer population attract them."
+          }
+        ],
+        "sukhna_lake_ecosystem": {
+          "type": "Man-made wetland",
+          "area_sq_km": 3,
+          "key_species": "120+ bird species, migratory waterfowl",
+          "funfact": "Created by Le Corbusier in 1958! Now a Ramsar Wetland of International Importance. Thousands of migratory birds from Siberia winter here. The lake is motor-boat free to protect wildlife."
+        }
+      },
+      "Dadra_Nagar_Haveli_and_Daman_Diu": {
+        "notable_wildlife": [
+          {
+            "name": "Leopard",
+            "scientific_name": "Panthera pardus",
+            "status": "Vulnerable",
+            "location": "Forested areas of Dadra Nagar Haveli",
+            "funfact": "Despite being a small UT, leopards still survive in the forested hills! They prey on wild pigs and deer. Camera traps have captured them near village edges."
+          },
+          {
+            "name": "Indian Flying Fox",
+            "scientific_name": "Pteropus medius",
+            "status": "Least Concern",
+            "location": "Throughout the UT",
+            "funfact": "India's largest bat with a wingspan of 1.5 meters! They roost in trees in huge colonies of 5,000+ bats. They fly up to 50 km each night to feed on fruit. They're crucial pollinators for many trees."
+          }
+        ],
+        "marine_life": {
+          "location": "Diu coastline",
+          "notable_species": "Dolphins, Sea Turtles, Whale Sharks (seasonal)",
+          "funfact": "Diu's waters host migrating whale sharks in winter! Local fishermen now protect them instead of hunting. The beaches are nesting sites for Olive Ridley turtles."
+        }
+      },
+      "Delhi": {
+        "ut_bird": {
+          "name": "House Sparrow",
+          "scientific_name": "Passer domesticus",
+          "status": "Declining",
+          "habitat": "Urban areas",
+          "funfact": "Once abundant, Delhi's sparrows have declined by 80%! Causes include radiation, fewer mud houses, and pesticides. Conservation efforts include installing nest boxes. World Sparrow Day (March 20) raises awareness."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Nilgai",
+            "scientific_name": "Boselaphus tragocamelus",
+            "status": "Least Concern",
+            "location": "Delhi Ridge, South Delhi",
+            "funfact": "Asia's largest antelope lives in India's capital! They're seen regularly in the Ridge area and even near Parliament. They cause traffic jams when crossing roads!"
+          },
+          {
+            "name": "Indian Peafowl",
+            "scientific_name": "Pavo cristatus",
+            "status": "Least Concern",
+            "location": "Throughout Delhi",
+            "funfact": "India's national bird thrives in Delhi! They roam gardens, university campuses, and even government buildings. Their calls are common in South Delhi neighborhoods."
+          },
+          {
+            "name": "Golden Jackal",
+            "scientific_name": "Canis aureus",
+            "status": "Least Concern",
+            "location": "Delhi Ridge, outskirts",
+            "funfact": "Jackals survive in the middle of Delhi! They're nocturnal and rarely seen but their howling can be heard at dusk. They help control rodent populations. Camera traps have captured them near Rashtrapati Bhavan!"
+          },
+          {
+            "name": "Painted Stork",
+            "scientific_name": "Mycteria leucocephala",
+            "status": "Near Threatened",
+            "location": "Delhi Zoo, Okhla Bird Sanctuary",
+            "funfact": "Delhi Zoo has one of India's largest painted stork colonies! Over 2,000 birds nest here. They fly 50+ km daily to feed in wetlands around Delhi."
+          }
+        ],
+        "delhi_ridge": {
+          "name": "Delhi Ridge Forest",
+          "area_sq_km": 77,
+          "type": "Semi-arid scrub forest",
+          "key_species": "Nilgai, Jackal, Mongoose, 450+ bird species",
+          "funfact": "The Ridge is Delhi's 'green lung'! It's an extension of the Aravalli Hills - the world's oldest mountain range. Despite urban pressure, it hosts 450+ bird species. Ancient Mughal hunting lodges still exist within the forest."
+        },
+        "okhla_bird_sanctuary": {
+          "name": "Okhla Bird Sanctuary",
+          "area_sq_km": 4,
+          "key_species": "320+ bird species, including rare migratory birds",
+          "funfact": "A tiny wetland hosting 320+ bird species right on the Delhi-UP border! Siberian birds winter here. The Okhla Barrage creates ideal habitat. You can see 100+ species in a single day during winter!"
+        }
+      },
+      "Goa": {
+        "already_covered": "Covered in main states section above"
+      },
+      "Jammu_and_Kashmir": {
+        "ut_animal": {
+          "name": "Kashmir Stag (Hangul)",
+          "scientific_name": "Cervus hanglu hanglu",
+          "status": "Critically Endangered",
+          "habitat": "Dense forests of Dachigam",
+          "funfact": "Found ONLY in Kashmir! Once numbering 5,000+, now fewer than 250 remain. It's the only surviving Asian subspecies of red deer. Males have magnificent antlers with 11-16 points. They shed and regrow antlers annually."
+        },
+        "ut_bird": {
+          "name": "Black-necked Crane",
+          "scientific_name": "Grus nigricollis",
+          "status": "Near Threatened",
+          "habitat": "High-altitude wetlands of Ladakh",
+          "funfact": "The world's only alpine crane! They breed in Ladakh above 4,500m. They're sacred to Tibetan Buddhists who call them 'Heavenly Birds'. They mate for life and perform elaborate dances."
+        },
+        "ut_tree": {
+          "name": "Chinar",
+          "scientific_name": "Platanus orientalis",
+          "type": "Deciduous",
+          "uses": "Shade, ornamental, traditional crafts",
+          "funfact": "The Chinar is Kashmir's iconic tree! Some trees are over 700 years old. The Chinar Bagh in Srinagar has trees planted by Mughal emperors. Their leaves turn spectacular red-gold in autumn."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Snow Leopard",
+            "scientific_name": "Panthera uncia",
+            "status": "Vulnerable",
+            "location": "Higher regions",
+            "funfact": "J&K has significant snow leopard populations! They can jump 15 meters in one leap. Their tail is so thick they wrap it around their face while sleeping. They can take down prey three times their weight."
+          },
+          {
+            "name": "Himalayan Brown Bear",
+            "scientific_name": "Ursus arctos isabellinus",
+            "status": "Critically Endangered",
+            "location": "High altitude regions",
+            "funfact": "One of the rarest bear subspecies! Only about 500-750 remain. They're the apex predator above the treeline. Before hibernating, they can eat for 20 hours a day and gain 100 kg!"
+          },
+          {
+            "name": "Markhor",
+            "scientific_name": "Capra falconeri",
+            "status": "Near Threatened",
+            "location": "Steep mountain cliffs",
+            "funfact": "Pakistan's national animal lives in J&K too! Males have spectacular spiraling horns up to 1.5 meters. They can climb near-vertical cliffs. Their name means 'snake eater' though they're herbivores."
+          },
+          {
+            "name": "Asiatic Black Bear",
+            "scientific_name": "Ursus thibetanus",
+            "status": "Vulnerable",
+            "location": "Temperate forests",
+            "funfact": "They have a distinctive white 'V' on their chest! They're excellent tree climbers. Man-bear conflicts are increasing as forests shrink. They can run 40 km/h despite their bulk."
+          },
+          {
+            "name": "Musk Deer",
+            "scientific_name": "Moschus chrysogaster",
+            "status": "Endangered",
+            "location": "Alpine forests",
+            "funfact": "Males have vampire-like fangs instead of antlers! They produce musk worth $45,000/kg. They're heavily poached. One male has enough musk to make 50,000 perfume bottles!"
+          }
+        ],
+        "national_parks": [
+          {
+            "name": "Dachigam National Park",
+            "area_sq_km": 141,
+            "established": 1981,
+            "key_species": "Hangul, Himalayan Black Bear, Leopard, Musk Deer",
+            "funfact": "The ONLY home of the critically endangered Hangul! 'Dachigam' means 'ten villages' - ten villages were relocated to create this park. The alpine meadows in summer are carpeted with wildflowers."
+          },
+          {
+            "name": "Hemis National Park",
+            "area_sq_km": 4400,
+            "established": 1981,
+            "key_species": "Snow Leopard, Bharal, Tibetan Wolf, Eurasian Brown Bear",
+            "funfact": "India's largest national park! Has the highest density of snow leopards in the world. Located in Ladakh's cold desert. Contains the famous Hemis Monastery. Completely road-less - only accessible by foot or horse."
+          },
+          {
+            "name": "Kishtwar High Altitude National Park",
+            "area_sq_km": 400,
+            "established": 1981,
+            "key_species": "Himalayan Brown Bear, Snow Leopard, Serow",
+            "funfact": "One of the least explored parks in India! Has glaciers, alpine meadows, and dense forests. The Himalayan brown bear is the main attraction. Completely uninhabited and rarely visited."
+          }
+        ],
+        "dal_lake_ecosystem": {
+          "name": "Dal Lake",
+          "area_sq_km": 21,
+          "type": "Urban lake ecosystem",
+          "key_species": "150+ bird species, Schizothorax fish",
+          "funfact": "Called 'Jewel in the crown of Kashmir'! Supports unique floating gardens called 'Rad'. Over 150 bird species visit seasonally. The lake is a complex ecosystem with lotus roots, fish, and waterfowl coexisting."
+        }
+      },
+      "Ladakh": {
+        "ut_animal": {
+          "name": "Snow Leopard",
+          "scientific_name": "Panthera uncia",
+          "status": "Vulnerable",
+          "habitat": "High altitude mountains",
+          "funfact": "Ladakh has the world's highest density of snow leopards! They're called 'Grey Ghosts' because they're so elusive. They can leap 15 meters in one bound. Their spots help them vanish against rocky slopes."
+        },
+        "ut_bird": {
+          "name": "Black-necked Crane",
+          "scientific_name": "Grus nigricollis",
+          "status": "Near Threatened",
+          "habitat": "High-altitude wetlands",
+          "funfact": "The only crane that breeds at high altitude! Ladakh's Hanle and Tso Kar are crucial breeding sites. They fly to Tibet and back. Locals call them 'Cha Thungthung' and consider them sacred."
+        },
+        "notable_wildlife": [
+          {
+            "name": "Wild Yak",
+            "scientific_name": "Bos mutus",
+            "status": "Vulnerable",
+            "location": "Changthang Plateau",
+            "funfact": "Wild yaks can survive at 6,000m where oxygen is 40% lower! Their lungs and heart are three times larger than cattle. They have three times more red blood cells. They can smell predators from 2 km away!"
+          },
+          {
+            "name": "Tibetan Wild Ass (Kiang)",
+            "scientific_name": "Equus kiang",
+            "status": "Least Concern",
+            "location": "Changthang Plateau",
+            "funfact": "The largest wild ass species! They can run at 70 km/h at altitudes where most animals can barely breathe. Herds of 100+ graze on the high plateau. They're more closely related to horses than donkeys."
+          },
+          {
+            "name": "Tibetan Wolf",
+            "scientific_name": "Canis lupus chanco",
+            "status": "Endangered",
+            "location": "High altitude regions",
+            "funfact": "One of the least-studied wolves! They're larger than Indian wolves with thicker fur. They prey on bharal, marmots, and even yaks. They've learned to hunt in Ladakh's extreme cold where other predators can't survive."
+          },
+          {
+            "name": "Bharal (Blue Sheep)",
+            "scientific_name": "Pseudois nayaur",
+            "status": "Least Concern",
+            "location": "Rocky slopes",
+            "funfact": "Neither sheep nor goat - they're an evolutionary link! Their blue-gray coat provides perfect camouflage. They can navigate near-vertical cliffs. Snow leopards depend on them as primary prey."
+          },
+          {
+            "name": "Pallas's Cat (Manul)",
+            "scientific_name": "Otocolobus manul",
+            "status": "Near Threatened",
+            "location": "Rocky steppes",
+            "funfact": "The world's grumpiest-looking cat! Their flat face and round pupils make them look perpetually angry. They have the longest and densest fur of any cat. They can survive -50°C temperatures."
+          },
+          {
+            "name": "Himalayan Marmot",
+            "scientific_name": "Marmota himalayana",
+            "status": "Least Concern",
+            "location": "Alpine meadows",
+            "funfact": "These giant rodents hibernate for 8 months! They whistle to warn of predators. They live in family groups in extensive burrow systems. They're the main prey of golden eagles in Ladakh."
+          }
+        ],
+        "high_altitude_lakes": {
+          "notable_lakes": ["Pangong Tso", "Tso Moriri", "Tso Kar"],
+          "key_species": "Bar-headed Goose, Black-necked Crane, Brahminy Duck",
+          "funfact": "Pangong Tso is one of the world's highest saltwater lakes at 4,350m! It changes color from blue to green to red. Tso Moriri has breeding bar-headed geese that fly over Everest during migration!"
+        },
+        "national_parks": [
+          {
+            "name": "Hemis National Park",
+            "area_sq_km": 4400,
+            "established": 1981,
+            "key_species": "Snow Leopard, Bharal, Wild Yak, Tibetan Wolf",
+            "funfact": "India's largest national park and world's best place to see snow leopards! Has around 200 snow leopards - the highest density anywhere. The entire park is above 3,000m altitude. Completely uninhabited."
+          },
+          {
+            "name": "Karakoram Wildlife Sanctuary",
+            "area_sq_km": 5000,
+            "established": 1981,
+            "key_species": "Snow Leopard, Tibetan Wolf, Wild Yak",
+            "funfact": "One of the highest wildlife sanctuaries in the world! Contains some of the world's largest glaciers. Extremely remote and rarely visited. Has the rare Ladakh urial sheep."
+          }
+        ]
+      },
+      "Lakshadweep": {
+        "marine_ecosystem": {
+          "type": "Coral atolls",
+          "total_islands": 36,
+          "inhabited_islands": 10,
+          "funfact": "India's smallest UT and only coral atoll system! The islands are tiny - total land area is just 32 sq km. The lagoons are so clear you can see 50 meters deep. Some atolls are only 2 meters above sea level!"
+        },
+        "notable_wildlife": [
+          {
+            "name": "Hawksbill Sea Turtle",
+            "scientific_name": "Eretmochelys imbricata",
+            "status": "Critically Endangered",
+            "location": "Coral reefs and beaches",
+            "funfact": "Critically endangered turtles nest here! Their beak-like mouth is perfect for eating sponges in coral crevices. The beautiful shell made them targets for poachers. Now strictly protected."
+          },
+          {
+            "name": "Green Sea Turtle",
+            "scientific_name": "Chelonia mydas",
+            "status": "Endangered",
+            "location": "Seagrass beds and beaches",
+            "funfact": "Green turtles get their name from green fat (not shell)! They're the only herbivorous sea turtle, grazing on seagrass. They return to the same beach where they hatched, navigating thousands of kilometers."
+          },
+          {
+            "name": "Manta Ray",
+            "scientific_name": "Mobula birostris",
+            "status": "Vulnerable",
+            "location": "Open ocean, near islands",
+            "funfact": "The world's largest ray with a 7-meter wingspan! They have the largest brain of any fish and can recognize themselves in mirrors. Lakshadweep is one of the best places in India to see them."
+          },
+          {
+            "name": "Whale Shark",
+            "scientific_name": "Rhincodon typus",
+            "status": "Endangered",
+            "location": "Open waters",
+            "funfact": "The world's largest fish visits Lakshadweep waters! Despite their size (up to 12m), they eat only plankton and small fish. They're gentle giants and completely harmless to humans."
+          },
+          {
+            "name": "Spinner Dolphin",
+            "scientific_name": "Stenella longirostris",
+            "status": "Least Concern",
+            "location": "Around islands",
+            "funfact": "Named for their acrobatic spinning jumps! They can spin up to 7 times in one leap. Pods of 1,000+ dolphins are common around Lakshadweep. They're incredibly social and playful."
+          }
+        ],
+        "coral_biodiversity": {
+          "coral_species": "100+ species",
+          "fish_species": "600+ species",
+          "funfact": "Lakshadweep's coral reefs are among the healthiest in India! The lagoons host giant clams, parrotfish, and reef sharks. Climate change and coral bleaching are major threats. The atolls exist only because of coral growth."
+        },
+        "endemic_species": [
+          {
+            "name": "Lakshadweep Sea Slug",
+            "type": "Marine invertebrate",
+            "funfact": "Several sea slug species are found only in Lakshadweep! These colorful creatures are essentially snails without shells. Some species can photosynthesize like plants using algae they eat!"
+          }
+        ]
+      },
+      "Puducherry": {
+        "notable_wildlife": [
+          {
+            "name": "Olive Ridley Sea Turtle",
+            "scientific_name": "Lepidochelys olivacea",
+            "status": "Vulnerable",
+            "location": "Beaches",
+            "funfact": "Puducherry's beaches are turtle nesting sites! The French-era laws actually protected turtles. Local fishermen now help protect nests. Hatchlings instinctively crawl toward the sea at night."
+          },
+          {
+            "name": "Bottlenose Dolphin",
+            "scientific_name": "Tursiops truncatus",
+            "status": "Least Concern",
+            "location": "Coastal waters",
+            "funfact": "Dolphins are regularly seen from Puducherry's beaches! They're incredibly intelligent - can recognize themselves in mirrors. They sleep with one eye open! They've been known to rescue drowning humans."
+          }
+        ],
+        "ousteri_lake": {
+          "name": "Ousteri Lake (Oussudu Lake)",
+          "type": "Freshwater lake",
+          "status": "Ramsar Wetland Site",
+          "key_species": "150+ bird species, migratory waterfowl",
+          "funfact": "One of the most important wetlands in South India! Over 40,000 migratory birds visit annually. Spot-billed Pelicans breed here. Despite being near Puducherry city, it remains a crucial bird habitat."
+        }
+      }
+    },
+    "summary_statistics": {
+      "total_mammal_species_in_india": "427+",
+      "total_bird_species": "1,350+",
+      "total_reptile_species": "500+",
+      "total_amphibian_species": "350+",
+      "total_fish_species": "3,000+",
+      "total_flowering_plant_species": "18,000+",
+      "endemic_species_percentage": "33% of India's species are endemic",
+      "biodiversity_hotspots": ["Western Ghats", "Eastern Himalayas", "Indo-Burma", "Sundaland (Andaman & Nicobar)"],
+      "funfact": "India has only 2.4% of the world's land area but hosts 7-8% of all recorded species! It's one of 17 'megadiverse' countries. The Western Ghats alone have more endemic species than most countries!"
+    }
+  }
+}
+

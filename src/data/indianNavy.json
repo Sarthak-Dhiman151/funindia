@@ -1,0 +1,2788 @@
+{
+  "indian_navy": {
+    "metadata": {
+      "official_name": "Indian Navy",
+      "hindi_name": "Bhāratīya Nau Senā",
+      "founded": "26 January 1950",
+      "predecessor": "Royal Indian Navy (1934-1950)",
+      "headquarters": "New Delhi",
+      "naval_headquarters": "Integrated Headquarters of Ministry of Defence (Navy)",
+      "motto": "Sham No Varunah (May the Lord of the Oceans be auspicious unto us)",
+      "motto_origin": "Rigveda",
+      "supreme_commander": "President of India",
+      "operational_command": "Chief of Naval Staff (CNS)",
+      "navy_day": "4 December (commemorating Operation Trident, 1971)",
+      "ensign": "White Ensign with Saint George's Cross and National Emblem",
+      "website": "www.indiannavy.nic.in",
+      "last_updated": "2024"
+    },
+    "general_facts": {
+      "world_ranking": "7th largest navy in the world",
+      "total_personnel": "67,000+ (approximately)",
+      "total_vessels": "150+ (including submarines)",
+      "total_aircraft": "300+",
+      "operational_commands": 3,
+      "primary_roles": [
+        "Sea Control",
+        "Power Projection",
+        "Deterrence",
+        "Maritime Security",
+        "Humanitarian Assistance and Disaster Relief (HADR)",
+        "Coastal Defense",
+        "Anti-Submarine Warfare",
+        "Anti-Surface Warfare",
+        "Naval Aviation Operations"
+      ],
+      "area_of_responsibility": "Indian Ocean Region (IOR)",
+      "strategic_importance": "Guards 7,516 km coastline and island territories",
+      "funfact": "The Indian Navy is the only navy in the world to have sunk an enemy warship using an anti-ship missile in combat (INS Nipat sank PNS Khaibar in 1971)."
+    },
+    "commands": [
+      {
+        "name": "Western Naval Command",
+        "headquarters": "Mumbai",
+        "established": 1948,
+        "area_of_responsibility": "Arabian Sea, West Coast of India",
+        "key_bases": ["Mumbai", "Goa (INS Kadamba)", "Karwar", "Porbandar", "Okha"],
+        "funfact": "The largest of all three commands. Houses the aircraft carrier INS Vikramaditya."
+      },
+      {
+        "name": "Eastern Naval Command",
+        "headquarters": "Visakhapatnam",
+        "established": 1971,
+        "area_of_responsibility": "Bay of Bengal, East Coast of India, Andaman & Nicobar",
+        "key_bases": ["Visakhapatnam", "Chennai", "Kolkata", "Port Blair"],
+        "funfact": "Controls the strategic Andaman & Nicobar Command, India's only tri-service command."
+      },
+      {
+        "name": "Southern Naval Command",
+        "headquarters": "Kochi",
+        "established": 1971,
+        "area_of_responsibility": "Training Command",
+        "key_bases": ["Kochi", "Lonavala (INS Shivaji)"],
+        "funfact": "Primary training command of the Indian Navy. Hosts the prestigious Indian Naval Academy at Ezhimala."
+      }
+    ],
+    "naval_bases": [
+      {
+        "name": "INS Kadamba",
+        "location": "Karwar, Karnataka",
+        "type": "Largest Naval Base",
+        "established": 2005,
+        "funfact": "Asia's largest naval base! Named 'Project Seabird', it can berth over 50 warships including aircraft carriers and nuclear submarines. Cost over ₹25,000 crores to build."
+      },
+      {
+        "name": "INS Shikra",
+        "location": "Mumbai",
+        "type": "Naval Air Station",
+        "funfact": "Strategically located in Mumbai Harbor. Houses helicopters for the Western Fleet."
+      },
+      {
+        "name": "INS Dega",
+        "location": "Visakhapatnam",
+        "type": "Naval Air Station",
+        "funfact": "Primary air station for Eastern Naval Command. Home to maritime patrol aircraft."
+      },
+      {
+        "name": "INS Hansa",
+        "location": "Goa",
+        "type": "Naval Air Station",
+        "funfact": "India's largest naval air station! Operates MiG-29K fighters. Training base for carrier-based pilots."
+      },
+      {
+        "name": "INS Jarawa",
+        "location": "Port Blair, Andaman",
+        "type": "Naval Base",
+        "funfact": "Strategic base in the Andaman Islands, guarding the approaches to the Strait of Malacca."
+      },
+      {
+        "name": "INS Chilka",
+        "location": "Chilika, Odisha",
+        "type": "Sailors Training Establishment",
+        "funfact": "One of Asia's largest sailor training establishments. Located on the banks of Chilika Lake."
+      },
+      {
+        "name": "Indian Naval Academy (INA)",
+        "location": "Ezhimala, Kerala",
+        "type": "Training Academy",
+        "established": 2009,
+        "funfact": "Asia's largest naval academy! Built on 2,500 acres. Trains officers from India and friendly foreign nations. Cost ₹3,000 crores to build."
+      }
+    ],
+    "vessels": {
+      "aircraft_carriers": [
+        {
+          "name": "INS Vikramaditya",
+          "pennant_number": "R33",
+          "class": "Modified Kiev-class",
+          "origin": "Russia (formerly Admiral Gorshkov)",
+          "type": "STOBAR Aircraft Carrier",
+          "displacement": "45,400 tonnes",
+          "length": "284 meters",
+          "commissioned": "16 November 2013",
+          "status": "Active",
+          "home_port": "Karwar (INS Kadamba)",
+          "aircraft_capacity": "30+ (MiG-29K, Ka-31, Ka-28)",
+          "crew": "1,600+",
+          "top_speed": "32 knots",
+          "propulsion": "Steam turbines, 8 boilers",
+          "armament": "AK-630 CIWS, Barak-1 SAM",
+          "funfact": "Purchased from Russia for $2.35 billion - the most expensive military purchase in Indian history at that time. Originally laid down in 1978 as a Soviet carrier. Has a distinctive ski-jump ramp for aircraft takeoff."
+        },
+        {
+          "name": "INS Vikrant",
+          "pennant_number": "R11",
+          "class": "Vikrant-class",
+          "origin": "India (Indigenous)",
+          "type": "STOBAR Aircraft Carrier",
+          "displacement": "43,000 tonnes (full load)",
+          "length": "262 meters",
+          "commissioned": "2 September 2022",
+          "status": "Active",
+          "home_port": "Kochi (transitioning to Karwar)",
+          "aircraft_capacity": "30 aircraft (MiG-29K, LCA Navy, helicopters)",
+          "crew": "1,600+",
+          "top_speed": "28 knots",
+          "propulsion": "4 General Electric LM2500+ gas turbines",
+          "armament": "Barak-8 SAM, AK-630 CIWS",
+          "builder": "Cochin Shipyard Limited",
+          "cost": "₹20,000 crores (approximately)",
+          "funfact": "India's first indigenous aircraft carrier and largest warship ever built in India! Named after the original INS Vikrant (R11) that served in the 1971 war. Makes India only the 6th country to build its own aircraft carrier. 76% indigenous content."
+        }
+      ],
+      "aircraft_carriers_decommissioned": [
+        {
+          "name": "INS Vikrant (R11) - Original",
+          "class": "Majestic-class",
+          "origin": "United Kingdom (formerly HMS Hercules)",
+          "commissioned": "4 March 1961",
+          "decommissioned": "31 January 1997",
+          "displacement": "19,500 tonnes",
+          "service_history": "36 years",
+          "wars_participated": ["1971 Indo-Pakistani War"],
+          "funfact": "India's first aircraft carrier! Played crucial role in 1971 war, blockading East Pakistan (now Bangladesh). Her aircraft flew 125+ sorties. Now a museum in Mumbai (planned)."
+        },
+        {
+          "name": "INS Viraat (R22)",
+          "class": "Centaur-class",
+          "origin": "United Kingdom (formerly HMS Hermes)",
+          "commissioned": "12 May 1987",
+          "decommissioned": "6 March 2017",
+          "displacement": "28,700 tonnes",
+          "service_history": "30 years in Indian Navy (59 years total)",
+          "funfact": "The longest-serving aircraft carrier in the world! Served in the Royal Navy during the Falklands War before joining India. Operated Sea Harrier jets. Plans to convert to museum/hotel."
+        }
+      ],
+      "destroyers": {
+        "active": [
+          {
+            "name": "INS Visakhapatnam",
+            "pennant_number": "D66",
+            "class": "Visakhapatnam-class (Project 15B)",
+            "type": "Guided Missile Destroyer",
+            "origin": "India (Indigenous)",
+            "displacement": "7,400 tonnes",
+            "length": "163 meters",
+            "commissioned": "21 November 2021",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "armament": [
+              "BrahMos supersonic cruise missiles",
+              "Barak-8 SAM (32 cells)",
+              "76mm Super Rapid Gun Mount",
+              "AK-630 CIWS",
+              "Torpedo tubes",
+              "RBU-6000 Anti-submarine rockets"
+            ],
+            "helicopters": "2 x Sea King/MH-60R",
+            "top_speed": "30+ knots",
+            "funfact": "Lead ship of India's most advanced indigenous destroyers! 75% indigenous content. Has advanced stealth features reducing radar signature. Can simultaneously track and engage multiple aerial and surface targets."
+          },
+          {
+            "name": "INS Mormugao",
+            "pennant_number": "D67",
+            "class": "Visakhapatnam-class (Project 15B)",
+            "type": "Guided Missile Destroyer",
+            "origin": "India (Indigenous)",
+            "displacement": "7,400 tonnes",
+            "commissioned": "18 December 2022",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after the port city of Mormugao in Goa. Second ship of Project 15B. Features improved stealth and combat systems compared to older destroyers."
+          },
+          {
+            "name": "INS Imphal",
+            "pennant_number": "D68",
+            "class": "Visakhapatnam-class (Project 15B)",
+            "type": "Guided Missile Destroyer",
+            "origin": "India (Indigenous)",
+            "displacement": "7,400 tonnes",
+            "commissioned": "26 December 2023",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after Imphal, capital of Manipur. Third ship of the class. Features enhanced automation allowing smaller crew."
+          },
+          {
+            "name": "INS Surat",
+            "pennant_number": "D69",
+            "class": "Visakhapatnam-class (Project 15B)",
+            "type": "Guided Missile Destroyer",
+            "origin": "India (Indigenous)",
+            "displacement": "7,400 tonnes",
+            "commissioned": "Expected 2024",
+            "status": "Sea Trials/Fitting Out",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after the commercial capital of Gujarat. Fourth and final ship of Project 15B class."
+          },
+          {
+            "name": "INS Kolkata",
+            "pennant_number": "D63",
+            "class": "Kolkata-class (Project 15A)",
+            "type": "Guided Missile Destroyer",
+            "origin": "India (Indigenous)",
+            "displacement": "7,500 tonnes",
+            "length": "164 meters",
+            "commissioned": "16 August 2014",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "armament": [
+              "16 x BrahMos supersonic cruise missiles",
+              "32-cell Barak-8 SAM",
+              "76mm OTO Melara gun",
+              "4 x AK-630 CIWS",
+              "Torpedo tubes"
+            ],
+            "top_speed": "30+ knots",
+            "funfact": "Lead ship of India's first indigenously designed stealth destroyers! The most potent surface combatants in the Indian Navy. Can engage targets 300+ km away with BrahMos missiles."
+          },
+          {
+            "name": "INS Kochi",
+            "pennant_number": "D64",
+            "class": "Kolkata-class (Project 15A)",
+            "type": "Guided Missile Destroyer",
+            "origin": "India (Indigenous)",
+            "displacement": "7,500 tonnes",
+            "commissioned": "30 September 2015",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after the beautiful port city of Kochi. Has the capability to detect and track over 100 targets simultaneously."
+          },
+          {
+            "name": "INS Chennai",
+            "pennant_number": "D65",
+            "class": "Kolkata-class (Project 15A)",
+            "type": "Guided Missile Destroyer",
+            "origin": "India (Indigenous)",
+            "displacement": "7,500 tonnes",
+            "commissioned": "21 November 2016",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Third and final ship of the Kolkata-class. Named after Chennai, the capital of Tamil Nadu."
+          },
+          {
+            "name": "INS Delhi",
+            "pennant_number": "D61",
+            "class": "Delhi-class (Project 15)",
+            "type": "Guided Missile Destroyer",
+            "origin": "India (Indigenous)",
+            "displacement": "6,700 tonnes",
+            "length": "163 meters",
+            "commissioned": "15 November 1997",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "armament": [
+              "16 x Kh-35 Uran anti-ship missiles",
+              "2 x Shtil SAM launchers",
+              "100mm AK-100 gun",
+              "4 x AK-630 CIWS"
+            ],
+            "funfact": "Lead ship of India's first indigenous destroyer class! Represented a quantum leap in Indian warship design. Being upgraded with Barak-8 missiles."
+          },
+          {
+            "name": "INS Mysore",
+            "pennant_number": "D60",
+            "class": "Delhi-class (Project 15)",
+            "type": "Guided Missile Destroyer",
+            "origin": "India (Indigenous)",
+            "displacement": "6,700 tonnes",
+            "commissioned": "2 June 1999",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after the historic city of Mysore. Participated in numerous international naval exercises and anti-piracy operations."
+          },
+          {
+            "name": "INS Mumbai",
+            "pennant_number": "D62",
+            "class": "Delhi-class (Project 15)",
+            "type": "Guided Missile Destroyer",
+            "origin": "India (Indigenous)",
+            "displacement": "6,700 tonnes",
+            "commissioned": "22 January 2001",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after India's commercial capital. The last of the Delhi-class destroyers."
+          }
+        ],
+        "decommissioned_destroyers": [
+          {
+            "name": "INS Rajput",
+            "pennant_number": "D51",
+            "class": "Rajput-class (Kashin-class)",
+            "origin": "Soviet Union",
+            "commissioned": "4 May 1980",
+            "decommissioned": "21 May 2021",
+            "displacement": "4,974 tonnes",
+            "funfact": "Lead ship of the Rajput-class and first destroyer of Soviet origin in the Indian Navy. Served for 41 years! Participated in Operation Pawan in Sri Lanka."
+          },
+          {
+            "name": "INS Rana",
+            "pennant_number": "D52",
+            "class": "Rajput-class",
+            "commissioned": "28 June 1982",
+            "decommissioned": "2022",
+            "funfact": "Named after the Rana warrior clan. Served extensively in the Indian Ocean region."
+          },
+          {
+            "name": "INS Ranjit",
+            "pennant_number": "D53",
+            "class": "Rajput-class",
+            "commissioned": "15 September 1983",
+            "decommissioned": "6 May 2019",
+            "funfact": "Named meaning 'Victor in Battle'. Served for 36 years."
+          },
+          {
+            "name": "INS Ranvir",
+            "pennant_number": "D54",
+            "class": "Rajput-class",
+            "commissioned": "28 October 1986",
+            "decommissioned": "2023",
+            "status": "Decommissioned",
+            "funfact": "The first Rajput-class ship equipped with BrahMos missiles after modernization."
+          },
+          {
+            "name": "INS Ranvijay",
+            "pennant_number": "D55",
+            "class": "Rajput-class",
+            "commissioned": "15 January 1988",
+            "status": "Active (Last of class)",
+            "funfact": "The last surviving Rajput-class destroyer in active service. May be decommissioned soon."
+          }
+        ]
+      },
+      "frigates": {
+        "active": [
+          {
+            "name": "INS Shivalik",
+            "pennant_number": "F47",
+            "class": "Shivalik-class (Project 17)",
+            "type": "Stealth Multi-role Frigate",
+            "origin": "India (Indigenous)",
+            "displacement": "6,200 tonnes",
+            "length": "143 meters",
+            "commissioned": "29 April 2010",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "armament": [
+              "8 x BrahMos anti-ship missiles",
+              "32-cell Barak-1 SAM",
+              "76mm Super Rapid Gun Mount",
+              "4 x AK-630 CIWS",
+              "Torpedo tubes",
+              "RBU-6000"
+            ],
+            "helicopters": "2 x Sea King/Dhruv",
+            "top_speed": "32 knots",
+            "funfact": "Lead ship of India's first indigenous stealth frigates! Features 'X-form' hull for reduced radar signature. Named after the Shivalik mountain range."
+          },
+          {
+            "name": "INS Satpura",
+            "pennant_number": "F48",
+            "class": "Shivalik-class (Project 17)",
+            "type": "Stealth Multi-role Frigate",
+            "commissioned": "20 August 2011",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after the Satpura mountain range in central India."
+          },
+          {
+            "name": "INS Sahyadri",
+            "pennant_number": "F49",
+            "class": "Shivalik-class (Project 17)",
+            "type": "Stealth Multi-role Frigate",
+            "commissioned": "21 July 2012",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after the Sahyadri (Western Ghats) mountain range. Third and final ship of the class."
+          },
+          {
+            "name": "INS Nilgiri",
+            "pennant_number": "F41",
+            "class": "Nilgiri-class (Project 17A)",
+            "type": "Advanced Stealth Frigate",
+            "origin": "India (Indigenous)",
+            "displacement": "6,670 tonnes",
+            "length": "149 meters",
+            "commissioned": "Expected 2024",
+            "status": "Sea Trials",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "armament": [
+              "8 x BrahMos missiles",
+              "32-cell Barak-8 SAM",
+              "127mm main gun",
+              "AK-630 CIWS",
+              "Anti-submarine weapons"
+            ],
+            "funfact": "Lead ship of India's most advanced frigates! Enhanced stealth features compared to Shivalik-class. 7 ships ordered (4 from MDL, 3 from GRSE). Will form the backbone of the future navy."
+          },
+          {
+            "name": "INS Udaygiri",
+            "pennant_number": "F42",
+            "class": "Nilgiri-class (Project 17A)",
+            "type": "Advanced Stealth Frigate",
+            "status": "Under Construction/Fitting Out",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after a hill in Odisha with ancient Buddhist caves."
+          },
+          {
+            "name": "INS Taragiri",
+            "pennant_number": "F43",
+            "class": "Nilgiri-class (Project 17A)",
+            "type": "Advanced Stealth Frigate",
+            "status": "Under Construction",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after a hill in Maharashtra."
+          },
+          {
+            "name": "INS Vindhyagiri",
+            "pennant_number": "F44",
+            "class": "Nilgiri-class (Project 17A)",
+            "type": "Advanced Stealth Frigate",
+            "status": "Under Construction",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "Named after the Vindhya mountain range."
+          },
+          {
+            "name": "INS Himgiri",
+            "pennant_number": "F45",
+            "class": "Nilgiri-class (Project 17A)",
+            "type": "Advanced Stealth Frigate",
+            "status": "Launched/Fitting Out",
+            "builder": "Garden Reach Shipbuilders, Kolkata",
+            "funfact": "First of three Project 17A frigates built at GRSE. Named after the Himalayan range."
+          },
+          {
+            "name": "INS Dunagiri",
+            "pennant_number": "F46",
+            "class": "Nilgiri-class (Project 17A)",
+            "type": "Advanced Stealth Frigate",
+            "status": "Under Construction",
+            "builder": "Garden Reach Shipbuilders, Kolkata",
+            "funfact": "Named after a peak in Uttarakhand."
+          },
+          {
+            "name": "Ship 7 (Unnamed)",
+            "class": "Nilgiri-class (Project 17A)",
+            "status": "Under Construction",
+            "builder": "Garden Reach Shipbuilders, Kolkata",
+            "funfact": "Seventh and final ship of the Project 17A class."
+          },
+          {
+            "name": "INS Talwar",
+            "pennant_number": "F40",
+            "class": "Talwar-class (Project 11356)",
+            "type": "Guided Missile Frigate",
+            "origin": "Russia",
+            "displacement": "4,000 tonnes",
+            "length": "125 meters",
+            "commissioned": "18 June 2003",
+            "status": "Active",
+            "builder": "Baltiysky Zavod, Russia",
+            "armament": [
+              "8 x BrahMos (upgraded) / Kh-35 Uran",
+              "Shtil-1 SAM",
+              "100mm A-190 gun",
+              "Kashtan CIWS"
+            ],
+            "top_speed": "30 knots",
+            "funfact": "Lead ship of the most numerous frigate class in the Indian Navy! 'Talwar' means 'Sword'. These ships are the workhorses of the navy."
+          },
+          {
+            "name": "INS Trishul",
+            "pennant_number": "F43",
+            "class": "Talwar-class",
+            "commissioned": "25 June 2003",
+            "status": "Active",
+            "funfact": "'Trishul' means Lord Shiva's Trident."
+          },
+          {
+            "name": "INS Tabar",
+            "pennant_number": "F44",
+            "class": "Talwar-class",
+            "commissioned": "19 April 2004",
+            "status": "Active",
+            "funfact": "'Tabar' means Battle Axe. Famous for sinking a pirate 'mother ship' in the Gulf of Aden in 2008!"
+          },
+          {
+            "name": "INS Teg",
+            "pennant_number": "F45",
+            "class": "Talwar-class (Follow-on batch)",
+            "commissioned": "27 April 2012",
+            "status": "Active",
+            "builder": "Yantar Shipyard, Russia",
+            "funfact": "'Teg' means 'Sabre'. Second batch with improved systems."
+          },
+          {
+            "name": "INS Tarkash",
+            "pennant_number": "F50",
+            "class": "Talwar-class (Follow-on batch)",
+            "commissioned": "9 November 2012",
+            "status": "Active",
+            "funfact": "'Tarkash' means 'Quiver'. Equipped with BrahMos missiles."
+          },
+          {
+            "name": "INS Trikand",
+            "pennant_number": "F51",
+            "class": "Talwar-class (Follow-on batch)",
+            "commissioned": "29 June 2013",
+            "status": "Active",
+            "funfact": "'Trikand' is another name for Trident. Last of the second batch."
+          },
+          {
+            "name": "INS Brahmaputra",
+            "pennant_number": "F31",
+            "class": "Brahmaputra-class (Project 16A)",
+            "type": "Guided Missile Frigate",
+            "origin": "India (Indigenous)",
+            "displacement": "3,850 tonnes",
+            "commissioned": "14 April 2000",
+            "status": "Active",
+            "builder": "Garden Reach Shipbuilders, Kolkata",
+            "funfact": "Lead ship named after the mighty Brahmaputra River. Built with stealth features. Capsized at Naval Dockyard Mumbai in July 2024 during maintenance."
+          },
+          {
+            "name": "INS Betwa",
+            "pennant_number": "F39",
+            "class": "Brahmaputra-class (Project 16A)",
+            "commissioned": "7 July 2004",
+            "status": "Active",
+            "funfact": "Named after the Betwa River in central India."
+          },
+          {
+            "name": "INS Beas",
+            "pennant_number": "F37",
+            "class": "Brahmaputra-class (Project 16A)",
+            "commissioned": "11 July 2005",
+            "status": "Active",
+            "funfact": "Named after the Beas River in Punjab. Third and final ship of the class."
+          },
+          {
+            "name": "INS Kamorta",
+            "pennant_number": "P28",
+            "class": "Kamorta-class (Project 28)",
+            "type": "Anti-Submarine Warfare Corvette",
+            "origin": "India (Indigenous)",
+            "displacement": "3,500 tonnes",
+            "length": "109 meters",
+            "commissioned": "23 August 2014",
+            "status": "Active",
+            "builder": "Garden Reach Shipbuilders, Kolkata",
+            "armament": [
+              "76mm Super Rapid Gun Mount",
+              "AK-630 CIWS",
+              "RBU-6000 anti-submarine rockets",
+              "Torpedo tubes",
+              "Hull-mounted sonar"
+            ],
+            "funfact": "India's first indigenous stealth ASW corvette! Named after Kamorta Island in Andaman & Nicobar. Features advanced sonar systems and torpedo capabilities. First warship with superstructure of carbon fiber composite."
+          },
+          {
+            "name": "INS Kadmatt",
+            "pennant_number": "P29",
+            "class": "Kamorta-class (Project 28)",
+            "commissioned": "7 January 2016",
+            "status": "Active",
+            "funfact": "Named after Kadmat Island in Lakshadweep."
+          },
+          {
+            "name": "INS Kiltan",
+            "pennant_number": "P30",
+            "class": "Kamorta-class (Project 28)",
+            "commissioned": "14 October 2017",
+            "status": "Active",
+            "funfact": "Named after Kiltan Island in Lakshadweep. First warship with superstructure entirely of carbon fiber."
+          },
+          {
+            "name": "INS Kavaratti",
+            "pennant_number": "P31",
+            "class": "Kamorta-class (Project 28)",
+            "commissioned": "22 October 2020",
+            "status": "Active",
+            "funfact": "Named after Kavaratti, capital of Lakshadweep. Fourth and final ship of the class."
+          }
+        ],
+        "frigates_decommissioned": [
+          {
+            "name": "INS Nilgiri (F33) - Original",
+            "class": "Nilgiri-class (Original Leander-class)",
+            "origin": "India (based on UK design)",
+            "commissioned": "3 June 1972",
+            "decommissioned": "31 May 1996",
+            "funfact": "India's first indigenous frigate! Based on British Leander-class design. Paved the way for Indian warship building."
+          },
+          {
+            "name": "INS Himgiri (F34) - Original",
+            "class": "Nilgiri-class (Original)",
+            "commissioned": "23 November 1974",
+            "decommissioned": "6 May 2005",
+            "funfact": "Second ship of the original Nilgiri-class."
+          },
+          {
+            "name": "INS Dunagiri (F35) - Original",
+            "class": "Nilgiri-class (Original)",
+            "commissioned": "5 May 1977",
+            "decommissioned": "20 October 2010",
+            "funfact": "Third ship of the original Nilgiri-class."
+          },
+          {
+            "name": "INS Godavari",
+            "pennant_number": "F20",
+            "class": "Godavari-class (Project 16)",
+            "commissioned": "10 December 1983",
+            "decommissioned": "23 December 2015",
+            "funfact": "Lead ship of India's first fully indigenous frigate design. Named after the Godavari River."
+          },
+          {
+            "name": "INS Ganga",
+            "pennant_number": "F22",
+            "class": "Godavari-class",
+            "commissioned": "30 December 1985",
+            "decommissioned": "27 May 2017",
+            "funfact": "Named after the holy River Ganga."
+          },
+          {
+            "name": "INS Gomati",
+            "pennant_number": "F21",
+            "class": "Godavari-class",
+            "commissioned": "16 April 1988",
+            "decommissioned": "28 May 2022",
+            "funfact": "Last of the Godavari-class. Named after the Gomti River. Participated in Operation Cactus (Maldives, 1988)."
+          }
+        ]
+      },
+      "corvettes": {
+        "active": [
+          {
+            "name": "INS Kora",
+            "pennant_number": "P61",
+            "class": "Kora-class (Project 25A)",
+            "type": "Missile Corvette",
+            "origin": "India (Indigenous)",
+            "displacement": "1,350 tonnes",
+            "commissioned": "22 August 1998",
+            "status": "Active",
+            "builder": "Garden Reach Shipbuilders, Kolkata",
+            "armament": [
+              "16 x Kh-35 Uran anti-ship missiles",
+              "76mm gun",
+              "AK-630 CIWS"
+            ],
+            "funfact": "Lead ship of four Kora-class corvettes. Packed with 16 anti-ship missiles despite small size!"
+          },
+          {
+            "name": "INS Kirch",
+            "pennant_number": "P62",
+            "class": "Kora-class",
+            "commissioned": "12 April 1999",
+            "status": "Active",
+            "funfact": "Named after a sword."
+          },
+          {
+            "name": "INS Kulish",
+            "pennant_number": "P63",
+            "class": "Kora-class",
+            "commissioned": "14 August 2000",
+            "status": "Active",
+            "funfact": "'Kulish' means thunderbolt."
+          },
+          {
+            "name": "INS Khanjar",
+            "pennant_number": "P64",
+            "class": "Kora-class",
+            "commissioned": "22 October 2002",
+            "status": "Active",
+            "funfact": "'Khanjar' means dagger. Last of the Kora-class."
+          },
+          {
+            "name": "INS Khukri",
+            "pennant_number": "P49",
+            "class": "Khukri-class (Project 25)",
+            "type": "Missile Corvette",
+            "origin": "India (Indigenous)",
+            "displacement": "1,350 tonnes",
+            "commissioned": "23 August 1989",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited",
+            "funfact": "Named after the legendary Gurkha knife 'Khukri'. Also honors the original INS Khukri sunk in 1971 war."
+          },
+          {
+            "name": "INS Kuthar",
+            "pennant_number": "P46",
+            "class": "Khukri-class",
+            "commissioned": "7 April 1990",
+            "status": "Active",
+            "funfact": "'Kuthar' means battle-axe."
+          },
+          {
+            "name": "INS Kirpan",
+            "pennant_number": "P44",
+            "class": "Khukri-class",
+            "commissioned": "12 January 1991",
+            "status": "Active",
+            "funfact": "'Kirpan' means sword/dagger (sacred to Sikhs)."
+          },
+          {
+            "name": "INS Karmuk",
+            "pennant_number": "P48",
+            "class": "Veer-class",
+            "type": "Missile Corvette",
+            "origin": "Soviet Union (Tarantul-class)",
+            "displacement": "480 tonnes",
+            "commissioned": "1991",
+            "status": "Active",
+            "armament": [
+              "4 x P-20M Termit (SS-N-2D Styx) missiles",
+              "76mm AK-176 gun",
+              "30mm AK-630 CIWS"
+            ],
+            "funfact": "One of the surviving Veer-class corvettes. Fast attack craft with potent anti-ship capability."
+          }
+        ],
+        "corvettes_decommissioned": [
+          {
+            "name": "INS Veer",
+            "pennant_number": "K40",
+            "class": "Veer-class",
+            "origin": "Soviet Union",
+            "commissioned": "1987",
+            "decommissioned": "Various dates",
+            "funfact": "Lead ship of 12 Tarantul-class corvettes transferred from the Soviet Union. Most now decommissioned."
+          },
+          {
+            "name": "INS Khukri (F149) - Original",
+            "class": "Petya-class",
+            "origin": "Soviet Union",
+            "commissioned": "1969",
+            "sunk": "9 December 1971",
+            "funfact": "Sunk by Pakistani submarine PNS Hangor during 1971 war - the first submarine kill since WWII. 18 officers and 176 sailors lost. The Captain chose to go down with his ship."
+          }
+        ]
+      },
+      "submarines": {
+        "nuclear_submarines": {
+          "ssbn_ballistic_missile": [
+            {
+              "name": "INS Arihant",
+              "pennant_number": "S2",
+              "class": "Arihant-class",
+              "type": "Nuclear-Powered Ballistic Missile Submarine (SSBN)",
+              "origin": "India (Indigenous)",
+              "displacement": "6,000 tonnes (submerged)",
+              "length": "112 meters",
+              "commissioned": "August 2016",
+              "status": "Active",
+              "builder": "Ship Building Centre, Visakhapatnam",
+              "propulsion": "83 MW pressurized water reactor",
+              "armament": [
+                "12 x K-15 Sagarika SLBMs (750 km range) OR",
+                "4 x K-4 SLBMs (3,500 km range)",
+                "Torpedo tubes"
+              ],
+              "crew": "95-100",
+              "funfact": "India's FIRST indigenous nuclear submarine! Completes India's nuclear triad. Named 'Arihant' meaning 'Destroyer of Enemies'. Part of the secret Advanced Technology Vessel (ATV) project started in 1984. Gives India second-strike nuclear capability."
+            },
+            {
+              "name": "INS Arighat",
+              "pennant_number": "S3",
+              "class": "Arihant-class",
+              "type": "Nuclear-Powered Ballistic Missile Submarine (SSBN)",
+              "origin": "India (Indigenous)",
+              "displacement": "6,000 tonnes (submerged)",
+              "commissioned": "29 August 2024",
+              "status": "Active",
+              "builder": "Ship Building Centre, Visakhapatnam",
+              "funfact": "Second indigenous SSBN. 'Arighat' means 'Destroyer of Enemies'. Has improved systems compared to Arihant. Strengthens India's nuclear deterrence."
+            },
+            {
+              "name": "S4 (Unnamed)",
+              "class": "Arihant-class (Improved)",
+              "type": "SSBN",
+              "status": "Under Construction",
+              "displacement": "7,000 tonnes (estimated)",
+              "funfact": "Third SSBN under construction. Believed to be larger with more missile tubes. Will carry K-4 missiles with 3,500 km range."
+            },
+            {
+              "name": "S4* (Unnamed)",
+              "class": "S5-class",
+              "type": "SSBN",
+              "status": "Under Construction/Planned",
+              "displacement": "13,500 tonnes (estimated)",
+              "funfact": "Next-generation SSBN class reportedly under development. Will be significantly larger and carry more powerful missiles."
+            }
+          ],
+          "ssn_attack": [
+            {
+              "name": "INS Chakra II",
+              "pennant_number": "S71",
+              "class": "Akula-II class",
+              "type": "Nuclear-Powered Attack Submarine (SSN)",
+              "origin": "Russia (Leased)",
+              "displacement": "8,140 tonnes (submerged)",
+              "length": "110 meters",
+              "commissioned": "4 April 2012",
+              "returned": "2021 (Lease ended)",
+              "status": "Returned to Russia",
+              "original_name": "K-152 Nerpa",
+              "armament": [
+                "Torpedoes",
+                "Cruise missiles (removed per lease terms)"
+              ],
+              "funfact": "India's first nuclear attack submarine (leased)! Provided valuable training for Indian submariners. The 10-year lease cost $900 million. Allowed India to operate nuclear subs before indigenous ones were ready."
+            },
+            {
+              "name": "INS Chakra I (Original)",
+              "class": "Charlie-I class",
+              "origin": "Soviet Union (Leased)",
+              "commissioned": "5 January 1988",
+              "returned": "1991",
+              "funfact": "India's FIRST nuclear submarine ever! Leased from the Soviet Union. Gave India early experience in nuclear submarine operations."
+            },
+            {
+              "name": "INS Chakra III",
+              "class": "Akula-II class",
+              "type": "Nuclear-Powered Attack Submarine (SSN)",
+              "origin": "Russia (Leased)",
+              "status": "Under negotiation/Expected",
+              "funfact": "India is negotiating a third lease of Russian nuclear attack submarine while indigenous SSN program progresses."
+            },
+            {
+              "name": "Indigenous SSN (Project Varsha)",
+              "class": "New class",
+              "type": "Nuclear-Powered Attack Submarine (SSN)",
+              "origin": "India (Indigenous)",
+              "status": "Under Development",
+              "expected": "2030s",
+              "funfact": "India's ambitious program to build 6 indigenous nuclear attack submarines. Will be larger than Arihant-class. Part of the 30-year submarine building plan."
+            }
+          ]
+        },
+        "conventional_submarines": {
+          "diesel_electric": [
+            {
+              "name": "INS Kalvari",
+              "pennant_number": "S50",
+              "class": "Kalvari-class (Scorpène-class)",
+              "type": "Diesel-Electric Attack Submarine",
+              "origin": "France/India (License built)",
+              "displacement": "1,775 tonnes (submerged)",
+              "length": "67.5 meters",
+              "commissioned": "14 December 2017",
+              "status": "Active",
+              "builder": "Mazagon Dock Limited, Mumbai",
+              "propulsion": "Diesel-electric with AIP (future)",
+              "armament": [
+                "6 x 533mm torpedo tubes",
+                "18 torpedoes/missiles",
+                "SM39 Exocet anti-ship missiles"
+              ],
+              "diving_depth": "300+ meters",
+              "crew": "8 officers, 35 sailors",
+              "funfact": "Lead ship of India's most advanced conventional submarines! 'Kalvari' means Tiger Shark. Built under technology transfer from France (Naval Group). Features advanced stealth and can stay submerged for weeks."
+            },
+            {
+              "name": "INS Khanderi",
+              "pennant_number": "S51",
+              "class": "Kalvari-class (Scorpène-class)",
+              "commissioned": "28 September 2019",
+              "status": "Active",
+              "funfact": "Named after the Maratha island fortress 'Khanderi' built by Shivaji. Second Scorpène submarine."
+            },
+            {
+              "name": "INS Karanj",
+              "pennant_number": "S52",
+              "class": "Kalvari-class (Scorpène-class)",
+              "commissioned": "10 March 2021",
+              "status": "Active",
+              "funfact": "Named after Karanja Island near Mumbai. Third submarine of the class."
+            },
+            {
+              "name": "INS Vela",
+              "pennant_number": "S53",
+              "class": "Kalvari-class (Scorpène-class)",
+              "commissioned": "25 November 2021",
+              "status": "Active",
+              "funfact": "Named after the Vela constellation (The Sails). Fourth submarine."
+            },
+            {
+              "name": "INS Vagir",
+              "pennant_number": "S54",
+              "class": "Kalvari-class (Scorpène-class)",
+              "commissioned": "23 January 2023",
+              "status": "Active",
+              "funfact": "'Vagir' is a sand fish found in Indian Ocean. Fifth submarine of the class."
+            },
+            {
+              "name": "INS Vagsheer",
+              "pennant_number": "S55",
+              "class": "Kalvari-class (Scorpène-class)",
+              "commissioned": "Expected 2024",
+              "status": "Sea Trials",
+              "funfact": "'Vagsheer' means 'Lord of the Deep'. Sixth and final Scorpène submarine. Being fitted with indigenous AIP system."
+            },
+            {
+              "name": "INS Sindhukesari",
+              "pennant_number": "S61",
+              "class": "Sindhughosh-class (Kilo-class)",
+              "type": "Diesel-Electric Attack Submarine",
+              "origin": "Soviet Union/Russia",
+              "displacement": "3,000 tonnes (submerged)",
+              "length": "72 meters",
+              "commissioned": "1988",
+              "status": "Active",
+              "armament": [
+                "6 x 533mm torpedo tubes",
+                "18 torpedoes",
+                "Klub-S cruise missiles (upgraded boats)"
+              ],
+              "funfact": "One of the surviving Kilo-class submarines. Extremely quiet and nicknamed 'Black Hole' by US Navy for its stealth. Being replaced by Scorpènes."
+            },
+            {
+              "name": "INS Sindhuraj",
+              "pennant_number": "S52",
+              "class": "Sindhughosh-class (Kilo-class)",
+              "commissioned": "1987",
+              "status": "Active",
+              "funfact": "One of the older but still capable Kilo-class submarines."
+            },
+            {
+              "name": "INS Sindhushastra",
+              "pennant_number": "S65",
+              "class": "Sindhughosh-class (Kilo-class)",
+              "commissioned": "2000",
+              "status": "Active",
+              "funfact": "The last Kilo-class submarine acquired. Newer than others with upgraded systems."
+            },
+            {
+              "name": "INS Sindhukirti",
+              "pennant_number": "S64",
+              "class": "Sindhughosh-class (Kilo-class)",
+              "commissioned": "1990",
+              "status": "Active",
+              "funfact": "Underwent extensive refit to extend service life."
+            },
+            {
+              "name": "INS Sindhuvijay",
+              "pennant_number": "S62",
+              "class": "Sindhughosh-class (Kilo-class)",
+              "commissioned": "1991",
+              "status": "Active (Recently refitted)",
+              "funfact": "Underwent major refit in Russia, returned with upgraded systems."
+            },
+            {
+              "name": "INS Sindhudhvaj",
+              "pennant_number": "S58",
+              "class": "Sindhughosh-class (Kilo-class)",
+              "commissioned": "1987",
+              "decommissioned": "2024",
+              "status": "Decommissioned",
+              "funfact": "Served for over 35 years. Successfully launched Klub missile during tests."
+            },
+            {
+              "name": "INS Shishumar",
+              "pennant_number": "S44",
+              "class": "Shishumar-class (Type 209/1500)",
+              "type": "Diesel-Electric Attack Submarine",
+              "origin": "Germany (HDW)",
+              "displacement": "1,850 tonnes (submerged)",
+              "length": "64.4 meters",
+              "commissioned": "22 September 1986",
+              "status": "Active (Extended service)",
+              "builder": "Howaldtswerke-Deutsche Werft, Germany",
+              "armament": [
+                "8 x 533mm torpedo tubes",
+                "14 torpedoes"
+              ],
+              "funfact": "Lead ship of the German-origin submarines. 'Shishumar' means Crocodile/Dolphin. Two built in Germany, two in India."
+            },
+            {
+              "name": "INS Shankush",
+              "pennant_number": "S45",
+              "class": "Shishumar-class",
+              "commissioned": "20 November 1986",
+              "status": "Active",
+              "funfact": "Built in Germany. 'Shankush' means Conch Shell."
+            },
+            {
+              "name": "INS Shalki",
+              "pennant_number": "S46",
+              "class": "Shishumar-class",
+              "commissioned": "7 February 1992",
+              "status": "Active",
+              "builder": "Mazagon Dock Limited, Mumbai",
+              "funfact": "First submarine built in India using German technology transfer!"
+            },
+            {
+              "name": "INS Shankul",
+              "pennant_number": "S47",
+              "class": "Shishumar-class",
+              "commissioned": "28 May 1994",
+              "status": "Active",
+              "builder": "Mazagon Dock Limited, Mumbai",
+              "funfact": "Second and last submarine built in India under German collaboration."
+            }
+          ]
+        },
+        "submarines_decommissioned": [
+          {
+            "name": "INS Kursura",
+            "pennant_number": "S20",
+            "class": "Foxtrot-class",
+            "origin": "Soviet Union",
+            "commissioned": "18 December 1969",
+            "decommissioned": "27 February 2001",
+            "funfact": "Now a submarine museum in Visakhapatnam! One of India's first submarines. Thousands of visitors tour it annually."
+          },
+          {
+            "name": "INS Vagli",
+            "class": "Foxtrot-class",
+            "commissioned": "1973",
+            "decommissioned": "2010",
+            "funfact": "Served for over 35 years in the Indian Navy."
+          },
+          {
+            "name": "INS Sindhurakshak",
+            "pennant_number": "S63",
+            "class": "Sindhughosh-class (Kilo-class)",
+            "commissioned": "1997",
+            "lost": "14 August 2013",
+            "funfact": "Tragically lost in an explosion and fire at Mumbai Naval Dockyard. 18 sailors died. The submarine sank in the dock."
+          },
+          {
+            "name": "INS Sindhuratna",
+            "pennant_number": "S60",
+            "class": "Sindhughosh-class",
+            "commissioned": "1988",
+            "decommissioned": "2017",
+            "funfact": "Suffered a serious fire in 2014, declared beyond repair and decommissioned."
+          }
+        ],
+        "future_submarines": [
+          {
+            "name": "Project 75(I)",
+            "type": "Diesel-Electric with AIP",
+            "quantity": "6 submarines",
+            "status": "Tender process ongoing",
+            "expected_displacement": "3,000 tonnes",
+            "features": "Air Independent Propulsion (AIP), Land-attack missiles, Advanced stealth",
+            "funfact": "India's largest-ever defense procurement program! Will cost approximately ₹43,000 crores. Will be built in India with foreign collaboration."
+          },
+          {
+            "name": "Project Varsha/Indigenous SSN",
+            "type": "Nuclear-Powered Attack Submarine",
+            "quantity": "6 submarines (planned)",
+            "status": "Development phase",
+            "funfact": "India's ambitious plan to build indigenous nuclear attack submarines. Will give India blue-water capability."
+          }
+        ]
+      },
+      "patrol_vessels": {
+        "offshore_patrol_vessels": [
+          {
+            "name": "INS Saryu",
+            "pennant_number": "P52",
+            "class": "Saryu-class",
+            "type": "Naval Offshore Patrol Vessel (NOPV)",
+            "origin": "India (Indigenous)",
+            "displacement": "2,300 tonnes",
+            "commissioned": "21 January 2013",
+            "status": "Active",
+            "builder": "Goa Shipyard Limited",
+            "armament": [
+              "76mm Super Rapid Gun Mount",
+              "2 x 30mm AK-630 CIWS"
+            ],
+            "funfact": "Lead ship of Saryu-class. Designed for EEZ patrol, anti-piracy, and fleet support."
+          },
+          {
+            "name": "INS Sumedha",
+            "pennant_number": "P53",
+            "class": "Saryu-class",
+            "commissioned": "7 March 2014",
+            "status": "Active",
+            "funfact": "Named after a river mentioned in ancient texts."
+          },
+          {
+            "name": "INS Sumitra",
+            "pennant_number": "P54",
+            "class": "Saryu-class",
+            "commissioned": "4 September 2014",
+            "status": "Active",
+            "funfact": "Third ship of the class."
+          },
+          {
+            "name": "INS Suvarna",
+            "pennant_number": "P55",
+            "class": "Saryu-class",
+            "commissioned": "10 August 2020",
+            "status": "Active",
+            "funfact": "Fourth and final ship of the Saryu-class."
+          },
+          {
+            "name": "INS Sharda",
+            "pennant_number": "P51",
+            "class": "Sukanya-class",
+            "type": "Offshore Patrol Vessel",
+            "displacement": "1,890 tonnes",
+            "commissioned": "1989",
+            "status": "Active",
+            "builder": "Korea Tacoma",
+            "funfact": "First of the Sukanya-class OPVs. Partially built in South Korea."
+          },
+          {
+            "name": "INS Sukanya",
+            "pennant_number": "P50",
+            "class": "Sukanya-class",
+            "commissioned": "1989",
+            "status": "Active",
+            "funfact": "Lead ship of the class. Named after a character from Hindu mythology."
+          },
+          {
+            "name": "INS Subhadra",
+            "pennant_number": "P52",
+            "class": "Sukanya-class",
+            "commissioned": "1991",
+            "status": "Active",
+            "funfact": "Named after Subhadra, sister of Lord Krishna."
+          },
+          {
+            "name": "INS Suvarna (Original)",
+            "pennant_number": "P53",
+            "class": "Sukanya-class",
+            "commissioned": "1993",
+            "status": "Active",
+            "builder": "Hindustan Shipyard, Visakhapatnam",
+            "funfact": "Built entirely in India unlike earlier ships of the class."
+          },
+          {
+            "name": "INS Savitri",
+            "pennant_number": "P54",
+            "class": "Sukanya-class",
+            "commissioned": "1994",
+            "status": "Active",
+            "funfact": "Named after the legendary queen Savitri."
+          },
+          {
+            "name": "INS Sharada",
+            "pennant_number": "P56",
+            "class": "Sukanya-class",
+            "commissioned": "1996",
+            "status": "Active",
+            "funfact": "Sixth ship of the class."
+          },
+          {
+            "name": "INS Sujata",
+            "pennant_number": "P57",
+            "class": "Sukanya-class",
+            "commissioned": "1996",
+            "status": "Active",
+            "funfact": "Named after Sujata who fed Buddha rice pudding."
+          }
+        ],
+        "fast_attack_craft": [
+          {
+            "name": "INS Car Nicobar",
+            "pennant_number": "T67",
+            "class": "Car Nicobar-class",
+            "type": "Water Jet Fast Attack Craft",
+            "origin": "India (Indigenous)",
+            "displacement": "320 tonnes",
+            "length": "50 meters",
+            "commissioned": "2010",
+            "status": "Active",
+            "builder": "Garden Reach Shipbuilders, Kolkata",
+            "armament": [
+              "30mm CRN-91 gun",
+              "Heavy machine guns"
+            ],
+            "top_speed": "35+ knots",
+            "funfact": "Lead ship of the class. Named after Car Nicobar island. Designed for coastal patrol and fast interception."
+          },
+          {
+            "name": "INS Chetlat",
+            "pennant_number": "T68",
+            "class": "Car Nicobar-class",
+            "commissioned": "2012",
+            "status": "Active",
+            "funfact": "Named after Chetlat Island in Lakshadweep."
+          },
+          {
+            "name": "INS Cheriyam",
+            "pennant_number": "T69",
+            "class": "Car Nicobar-class",
+            "commissioned": "2013",
+            "status": "Active",
+            "funfact": "Named after Cheriyam Island in Lakshadweep."
+          },
+          {
+            "name": "INS Cannanore",
+            "pennant_number": "T70",
+            "class": "Car Nicobar-class",
+            "commissioned": "2013",
+            "status": "Active",
+            "funfact": "Named after Cannanore (Kannur) in Kerala."
+          },
+          {
+            "name": "INS Konkan",
+            "pennant_number": "T71",
+            "class": "Car Nicobar-class",
+            "commissioned": "2013",
+            "status": "Active",
+            "funfact": "Named after the Konkan coast."
+          },
+          {
+            "name": "INS Kavaratti (FAC)",
+            "pennant_number": "T72",
+            "class": "Car Nicobar-class",
+            "commissioned": "2014",
+            "status": "Active",
+            "funfact": "Named after Kavaratti Island in Lakshadweep."
+          },
+          {
+            "name": "INS Koswari",
+            "pennant_number": "T73",
+            "class": "Car Nicobar-class",
+            "commissioned": "2015",
+            "status": "Active",
+            "funfact": "Named after Koswari Island."
+          },
+          {
+            "name": "INS Kalpeni",
+            "pennant_number": "T74",
+            "class": "Car Nicobar-class",
+            "commissioned": "2016",
+            "status": "Active",
+            "funfact": "Named after Kalpeni Island in Lakshadweep."
+          }
+        ]
+      },
+      "amphibious_warfare_ships": [
+        {
+          "name": "INS Jalashwa",
+          "pennant_number": "L41",
+          "class": "Austin-class",
+          "type": "Landing Platform Dock (LPD)",
+          "origin": "USA (formerly USS Trenton)",
+          "displacement": "17,000 tonnes (full load)",
+          "length": "173 meters",
+          "commissioned": "22 June 2007",
+          "status": "Active",
+          "capabilities": [
+            "Can carry 1,000 troops",
+            "6 helicopters",
+            "Landing craft",
+            "Vehicles and tanks"
+          ],
+          "funfact": "India's largest amphibious ship! Acquired from US Navy for $48 million. Can land troops anywhere along enemy coast. Used in multiple evacuation operations including Yemen (Operation Raahat)."
+        },
+        {
+          "name": "INS Shardul",
+          "pennant_number": "L16",
+          "class": "Shardul-class",
+          "type": "Landing Ship Tank (LST)",
+          "origin": "India (Indigenous)",
+          "displacement": "5,650 tonnes",
+          "length": "125 meters",
+          "commissioned": "28 September 2007",
+          "status": "Active",
+          "builder": "Garden Reach Shipbuilders, Kolkata",
+          "capabilities": [
+            "500 troops",
+            "10 main battle tanks OR 18 trucks",
+            "1 helicopter"
+          ],
+          "funfact": "Lead ship of indigenous LST class. Can beach itself to unload troops and tanks directly onto shore."
+        },
+        {
+          "name": "INS Kesari",
+          "pennant_number": "L15",
+          "class": "Shardul-class",
+          "commissioned": "28 February 2009",
+          "status": "Active",
+          "funfact": "'Kesari' means Saffron - the color of courage in Indian culture."
+        },
+        {
+          "name": "INS Airavat",
+          "pennant_number": "L24",
+          "class": "Shardul-class",
+          "commissioned": "19 May 2009",
+          "status": "Active",
+          "funfact": "Named after Airavata, the white elephant mount of Lord Indra."
+        },
+        {
+          "name": "INS Magar",
+          "pennant_number": "L20",
+          "class": "Magar-class",
+          "type": "Landing Ship Tank (LST)",
+          "origin": "India (Indigenous)",
+          "displacement": "5,650 tonnes",
+          "commissioned": "18 July 1987",
+          "status": "Active (Extended service)",
+          "builder": "Garden Reach Shipbuilders, Kolkata",
+          "funfact": "'Magar' means Crocodile. First indigenous LST. Participated in IPKF operations in Sri Lanka."
+        },
+        {
+          "name": "INS Gharial",
+          "pennant_number": "L23",
+          "class": "Magar-class",
+          "commissioned": "4 August 1997",
+          "status": "Active",
+          "funfact": "Named after the endangered Gharial crocodile."
+        },
+        {
+          "name": "INLCU L51-L58",
+          "class": "Mk-IV Landing Craft Utility",
+          "type": "Landing Craft Utility (LCU)",
+          "quantity": "8 vessels",
+          "origin": "India (Indigenous)",
+          "displacement": "830 tonnes",
+          "commissioned": "2017-2021",
+          "status": "Active",
+          "builder": "Garden Reach Shipbuilders, Kolkata",
+          "capabilities": [
+            "160 troops",
+            "2 main battle tanks",
+            "Or equivalent cargo"
+          ],
+          "funfact": "Eight LCUs based in Andaman & Nicobar. Can carry troops and tanks directly to beaches. Critical for island defense."
+        }
+      ],
+      "auxiliary_ships": {
+        "tankers_and_replenishment": [
+          {
+            "name": "INS Deepak",
+            "pennant_number": "A50",
+            "class": "Deepak-class",
+            "type": "Fleet Tanker",
+            "origin": "Italy",
+            "displacement": "27,500 tonnes",
+            "length": "175 meters",
+            "commissioned": "21 January 2011",
+            "status": "Active",
+            "builder": "Fincantieri, Italy",
+            "capabilities": [
+              "15,000 tonnes fuel",
+              "1,280 tonnes fresh water",
+              "Ammunition, food, stores",
+              "Replenishment at sea (RAS)"
+            ],
+            "funfact": "Can refuel multiple ships simultaneously while underway at sea. Essential for extended blue-water operations."
+          },
+          {
+            "name": "INS Shakti",
+            "pennant_number": "A57",
+            "class": "Deepak-class",
+            "type": "Fleet Tanker",
+            "commissioned": "1 October 2011",
+            "status": "Active",
+            "builder": "Fincantieri, Italy",
+            "funfact": "'Shakti' means Power. Second of the modern fleet tankers."
+          },
+          {
+            "name": "INS Aditya",
+            "pennant_number": "A59",
+            "class": "Aditya-class",
+            "type": "Replenishment Tanker",
+            "origin": "India (Indigenous)",
+            "displacement": "24,612 tonnes",
+            "commissioned": "3 August 2000",
+            "status": "Active",
+            "builder": "Garden Reach Shipbuilders, Kolkata",
+            "funfact": "First large auxiliary ship built in India. Named after the Sun God."
+          },
+          {
+            "name": "INS Jyoti",
+            "pennant_number": "A58",
+            "class": "Jyoti-class",
+            "type": "Fleet Tanker",
+            "origin": "Germany",
+            "displacement": "35,000 tonnes",
+            "commissioned": "1996",
+            "status": "Active",
+            "funfact": "Converted tanker. 'Jyoti' means Light/Flame."
+          }
+        ],
+        "survey_and_research_vessels": [
+          {
+            "name": "INS Sandhayak",
+            "pennant_number": "J18",
+            "class": "Sandhayak-class",
+            "type": "Survey Vessel (Large)",
+            "origin": "India (Indigenous)",
+            "displacement": "2,240 tonnes",
+            "commissioned": "26 February 1981",
+            "status": "Active (Extended)",
+            "builder": "Garden Reach Shipbuilders, Kolkata",
+            "funfact": "Lead ship of indigenous survey vessels. Has charted vast areas of Indian Ocean."
+          },
+          {
+            "name": "INS Nirdeshak",
+            "pennant_number": "J15",
+            "class": "Sandhayak-class",
+            "commissioned": "20 August 1983",
+            "status": "Active",
+            "funfact": "'Nirdeshak' means Director/Guide."
+          },
+          {
+            "name": "INS Nirupak",
+            "pennant_number": "J20",
+            "class": "Sandhayak-class",
+            "commissioned": "31 May 1985",
+            "status": "Active",
+            "funfact": "'Nirupak' means Assessor/Judge."
+          },
+          {
+            "name": "INS Investigator",
+            "pennant_number": "J16",
+            "class": "Sandhayak-class",
+            "commissioned": "12 October 1990",
+            "status": "Active",
+            "funfact": "Fourth ship of the class."
+          },
+          {
+            "name": "INS Sarvekshak",
+            "pennant_number": "J14",
+            "class": "Sarvekshak-class (New)",
+            "type": "Survey Vessel",
+            "origin": "India (Indigenous)",
+            "displacement": "3,400 tonnes",
+            "commissioned": "26 January 2021",
+            "status": "Active",
+            "builder": "Garden Reach Shipbuilders, Kolkata",
+            "funfact": "New generation survey vessel with modern equipment. Name means 'Surveyor'. First of four planned vessels."
+          },
+          {
+            "name": "INS Makar",
+            "pennant_number": "J31",
+            "class": "Makar-class",
+            "type": "Catamaran Survey Vessel",
+            "origin": "India (Indigenous)",
+            "displacement": "430 tonnes",
+            "commissioned": "30 April 2007",
+            "status": "Active",
+            "builder": "ABG Shipyard, Surat",
+            "funfact": "Unique catamaran design provides stability for survey operations."
+          },
+          {
+            "name": "INS Sagardhwani",
+            "pennant_number": "A74",
+            "class": "Research Vessel",
+            "type": "Marine Research Vessel",
+            "origin": "India (Indigenous)",
+            "displacement": "2,050 tonnes",
+            "commissioned": "28 July 1994",
+            "status": "Active",
+            "builder": "Goa Shipyard Limited",
+            "funfact": "Operated by Naval Physical & Oceanographic Laboratory (NPOL). Conducts anti-submarine warfare research. 'Sagardhwani' means 'Sound of the Ocean'."
+          }
+        ],
+        "training_ships": [
+          {
+            "name": "INS Tir",
+            "pennant_number": "A86",
+            "class": "Training Ship",
+            "type": "Cadet Training Ship",
+            "origin": "India (Indigenous)",
+            "displacement": "3,200 tonnes",
+            "commissioned": "21 August 1986",
+            "status": "Active",
+            "builder": "Mazagon Dock Limited, Mumbai",
+            "funfact": "'Tir' means Arrow. Trains naval cadets on long voyages. Has circumnavigated the globe!"
+          },
+          {
+            "name": "INS Tarangini",
+            "pennant_number": "A75",
+            "class": "Sail Training Ship",
+            "type": "Three-masted barque",
+            "origin": "India (Indigenous)",
+            "displacement": "500 tonnes",
+            "length": "54 meters",
+            "commissioned": "11 November 1997",
+            "status": "Active",
+            "builder": "Goa Shipyard Limited",
+            "sails": "20 sails, 1,036 sq meters",
+            "funfact": "India's first sail training ship! Built entirely of wood. Has sailed over 200,000 nautical miles. Participated in tall ship races worldwide. Name means 'Riding the Waves'."
+          },
+          {
+            "name": "INS Sudarshini",
+            "pennant_number": "A77",
+            "class": "Sail Training Ship",
+            "type": "Three-masted barque",
+            "origin": "India (Indigenous)",
+            "displacement": "500 tonnes",
+            "commissioned": "16 October 2012",
+            "status": "Active",
+            "builder": "Goa Shipyard Limited",
+            "funfact": "Sister ship of Tarangini. Named after Sudarshana Chakra, Lord Vishnu's divine discus."
+          },
+          {
+            "name": "INS Dronacharya",
+            "type": "Gunnery Training Establishment",
+            "location": "Kochi",
+            "funfact": "Named after the legendary archer teacher from Mahabharata. Trains sailors in weapon systems."
+          }
+        ],
+        "diving_support_vessels": [
+          {
+            "name": "INS Nireekshak",
+            "pennant_number": "A15",
+            "class": "Diving Support Vessel",
+            "type": "Submarine Rescue/Diving Support",
+            "origin": "India (Indigenous)",
+            "displacement": "1,670 tonnes",
+            "commissioned": "12 January 1989",
+            "status": "Active",
+            "builder": "Hindustan Shipyard, Visakhapatnam",
+            "capabilities": [
+              "Submarine rescue",
+              "Deep diving support",
+              "Underwater survey",
+              "Salvage operations"
+            ],
+            "funfact": "'Nireekshak' means Observer. Can rescue trapped submarine crew. Has participated in multiple salvage operations."
+          }
+        ]
+      },
+      "mine_warfare_vessels": [
+        {
+          "name": "INS Kozhikode",
+          "pennant_number": "M71",
+          "class": "Abhay-class",
+          "type": "Minesweeper",
+          "origin": "India (Indigenous)",
+          "displacement": "485 tonnes",
+          "commissioned": "1989",
+          "status": "Active",
+          "builder": "Goa Shipyard Limited",
+          "funfact": "Lead ship of indigenous minesweepers. Wooden/GRP hull to avoid triggering magnetic mines."
+        },
+        {
+          "name": "INS Konkan (Minesweeper)",
+          "pennant_number": "M72",
+          "class": "Abhay-class",
+          "commissioned": "1990",
+          "status": "Active",
+          "funfact": "Named after the Konkan coast."
+        },
+        {
+          "name": "INS Cuddalore",
+          "pennant_number": "M73",
+          "class": "Abhay-class",
+          "commissioned": "1993",
+          "status": "Active",
+          "funfact": "Named after the port city of Cuddalore."
+        },
+        {
+          "name": "INS Cannanore (Minesweeper)",
+          "pennant_number": "M74",
+          "class": "Abhay-class",
+          "commissioned": "1993",
+          "status": "Active",
+          "funfact": "Named after Cannanore (Kannur) in Kerala."
+        },
+        {
+          "name": "INS Pondicherry",
+          "pennant_number": "M61",
+          "class": "Pondicherry-class (Natya-class)",
+          "type": "Minesweeper (Ocean)",
+          "origin": "Soviet Union",
+          "displacement": "790 tonnes",
+          "commissioned": "1978",
+          "status": "Decommissioned",
+          "funfact": "Lead ship of Soviet-origin minesweepers. All now decommissioned due to age."
+        },
+        {
+          "name": "MCMV Project (New)",
+          "class": "Mine Counter Measure Vessels",
+          "type": "Modern MCMVs",
+          "origin": "India (Indigenous with collaboration)",
+          "status": "Under procurement/construction",
+          "quantity": "12 vessels planned",
+          "funfact": "India is acquiring modern mine countermeasure vessels to replace aging fleet. Critical for keeping shipping lanes open."
+        }
+      ]
+    },
+    "naval_aviation": {
+      "fixed_wing_aircraft": [
+        {
+          "name": "MiG-29K/KUB",
+          "type": "Carrier-based Multirole Fighter",
+          "origin": "Russia",
+          "quantity": "45 (approximately)",
+          "introduced": "2009",
+          "status": "Active",
+          "role": ["Air Superiority", "Anti-Ship Strike", "Ground Attack"],
+          "carrier": "INS Vikramaditya, INS Vikrant",
+          "funfact": "India's only carrier-based fighter jets! Can take off from ski-jump ramps. Equipped with anti-ship missiles and smart bombs."
+        },
+        {
+          "name": "Boeing P-8I Poseidon",
+          "type": "Maritime Patrol and ASW Aircraft",
+          "origin": "USA",
+          "quantity": "12",
+          "introduced": "2013",
+          "status": "Active",
+          "role": ["Anti-Submarine Warfare", "Maritime Reconnaissance", "Anti-Surface Warfare"],
+          "armament": ["Harpoon missiles", "Torpedoes", "Depth charges"],
+          "funfact": "India's most advanced maritime patrol aircraft! Can detect submarines hundreds of km away. Equipped with magnetic anomaly detector and sonobuoys."
+        },
+        {
+          "name": "Ilyushin Il-38",
+          "nato_name": "May",
+          "type": "Maritime Patrol Aircraft",
+          "origin": "Soviet Union",
+          "quantity": "5 (approximately)",
+          "introduced": "1977",
+          "status": "Active (Being phased out)",
+          "role": ["Maritime Reconnaissance", "Anti-Submarine Warfare"],
+          "funfact": "Veteran of Indian naval aviation! Upgraded with Sea Dragon systems. Being replaced by P-8I."
+        },
+        {
+
+          "name": "Dornier Do 228",
+          "type": "Maritime Patrol/Utility Aircraft",
+          "origin": "Germany/India (License built by HAL)",
+          "quantity": "30+ (approximately)",
+          "introduced": "1991",
+          "status": "Active",
+          "role": ["Maritime Surveillance", "Search and Rescue", "Transport", "EEZ Patrol"],
+          "funfact": "Workhorse of coastal surveillance! Can operate from small airstrips. Used extensively for anti-piracy patrols. HAL builds them in India."
+        },
+        {
+          "name": "HAL Tejas (Naval variant)",
+          "type": "Carrier-based Light Combat Aircraft",
+          "origin": "India (Indigenous)",
+          "quantity": "Under development (Twin-engine version)",
+          "status": "Development",
+          "role": ["Air Defense", "Anti-Ship Strike"],
+          "funfact": "India's first indigenous carrier-based fighter! Single-engine prototype successfully landed on INS Vikrant. Twin-engine version (TEDBF) now under development for future carriers."
+        },
+        {
+          "name": "TEDBF (Twin Engine Deck Based Fighter)",
+          "type": "Carrier-based Multirole Fighter",
+          "origin": "India (Indigenous - HAL/ADA)",
+          "status": "Development",
+          "expected_induction": "2030s",
+          "role": ["Air Superiority", "Anti-Ship Strike", "Ground Attack"],
+          "funfact": "Next-generation indigenous carrier fighter! Will replace MiG-29K. Features stealth design and advanced avionics. Designed for both ski-jump and CATOBAR operations."
+        },
+        {
+          "name": "Britten-Norman Islander",
+          "type": "Light Utility Aircraft",
+          "origin": "UK",
+          "quantity": "10+ (approximately)",
+          "status": "Active",
+          "role": ["Utility", "Transport", "Communication"],
+          "funfact": "Used for inter-island transport in Andaman & Nicobar and Lakshadweep. Can land on short runways."
+        }
+      ],
+      "rotary_wing_aircraft": [
+        {
+          "name": "Sikorsky MH-60R Seahawk",
+          "type": "Multi-role Helicopter",
+          "origin": "USA",
+          "quantity": "24 ordered",
+          "introduced": "2022 onwards",
+          "status": "Active (Deliveries ongoing)",
+          "role": ["Anti-Submarine Warfare", "Anti-Surface Warfare", "Search and Rescue", "VERTREP"],
+          "armament": ["AGM-114 Hellfire missiles", "MK 54 torpedoes", "M240 machine guns"],
+          "funfact": "India's most advanced naval helicopter! $2.4 billion deal signed in 2020. Nicknamed 'Romeo'. Has dipping sonar and advanced radar. Can detect and destroy submarines."
+        },
+        {
+          "name": "Kamov Ka-31",
+          "nato_name": "Helix",
+          "type": "Airborne Early Warning Helicopter",
+          "origin": "Russia",
+          "quantity": "14 (approximately)",
+          "introduced": "2003",
+          "status": "Active",
+          "role": ["Airborne Early Warning", "Surface Surveillance"],
+          "funfact": "India's eyes in the sky! Has a large rotating radar antenna under the fuselage. Can detect aircraft and ships 150 km away. Operates from aircraft carriers and large warships."
+        },
+        {
+          "name": "Kamov Ka-28/Ka-28PL",
+          "nato_name": "Helix-A",
+          "type": "Anti-Submarine Warfare Helicopter",
+          "origin": "Russia",
+          "quantity": "10 (approximately)",
+          "introduced": "1980s",
+          "status": "Active (Being replaced)",
+          "role": ["Anti-Submarine Warfare", "Search and Rescue"],
+          "armament": ["Torpedoes", "Depth charges"],
+          "funfact": "Coaxial rotor design allows operations from small ship decks! Doesn't need a tail rotor. Being replaced by MH-60R."
+        },
+        {
+          "name": "Westland Sea King Mk.42B/C",
+          "type": "Multi-role Helicopter",
+          "origin": "UK",
+          "quantity": "20+ (approximately)",
+          "introduced": "1971",
+          "status": "Active (Extended service)",
+          "role": ["Anti-Submarine Warfare", "Search and Rescue", "Utility", "VERTREP"],
+          "armament": ["Sea Eagle missiles (Mk.42B)", "Torpedoes", "Depth charges"],
+          "funfact": "Veteran of multiple wars! First used Sea Eagle missiles in exercises. Being replaced by MH-60R and indigenous helicopters. Some converted to commando carriers."
+        },
+        {
+          "name": "HAL Chetak",
+          "type": "Light Utility Helicopter",
+          "origin": "France/India (License-built Alouette III)",
+          "quantity": "30+ (approximately)",
+          "introduced": "1962",
+          "status": "Active (Being phased out)",
+          "role": ["Training", "Search and Rescue", "Utility", "Communication"],
+          "funfact": "Legendary workhorse serving for over 60 years! License-built version of French Alouette III. Used for training generations of naval aviators."
+        },
+        {
+          "name": "HAL Dhruv (Naval variant)",
+          "type": "Multi-role Helicopter",
+          "origin": "India (Indigenous)",
+          "quantity": "25+ (approximately)",
+          "introduced": "2002",
+          "status": "Active",
+          "role": ["Search and Rescue", "Utility", "Communication", "VERTREP"],
+          "funfact": "India's first indigenous helicopter in naval service! Can operate from warship decks. Variants include SAR and utility versions."
+        },
+        {
+          "name": "HAL ALH Mk III",
+          "type": "Multi-role Helicopter",
+          "origin": "India (Indigenous)",
+          "quantity": "16 ordered",
+          "status": "Entering service",
+          "role": ["Search and Rescue", "Special Operations", "Medical Evacuation"],
+          "funfact": "Advanced variant with Shakti engines and modern avionics. Features rescue hoist and advanced navigation systems."
+        },
+        {
+          "name": "HAL NMRH (Naval Multi-Role Helicopter)",
+          "type": "Multi-role Helicopter",
+          "origin": "India (Indigenous - Under development)",
+          "status": "Development",
+          "expected_induction": "2030s",
+          "role": ["Anti-Submarine Warfare", "Anti-Surface Warfare", "SAR"],
+          "funfact": "India's ambitious project to develop indigenous naval helicopter! Will replace Sea Kings and Ka-28s. Based on 12-ton platform."
+        },
+        {
+          "name": "Boeing Chinook CH-47F(I)",
+          "type": "Heavy-Lift Helicopter",
+          "origin": "USA",
+          "quantity": "Shared with IAF for naval requirements",
+          "status": "Active (IAF operated)",
+          "role": ["Heavy Lift", "Humanitarian Assistance"],
+          "funfact": "Though operated by IAF, used for naval requirements. Can lift heavy equipment to remote islands and ships."
+        }
+      ],
+      "unmanned_aerial_vehicles": [
+        {
+          "name": "IAI Heron",
+          "type": "Medium Altitude Long Endurance (MALE) UAV",
+          "origin": "Israel",
+          "quantity": "8+ (approximately)",
+          "introduced": "2011",
+          "status": "Active",
+          "role": ["Maritime Surveillance", "Intelligence Gathering", "EEZ Patrol"],
+          "endurance": "45+ hours",
+          "funfact": "Can patrol vast ocean areas for days! Provides real-time intelligence to fleet commanders. Crucial for maritime domain awareness."
+        },
+        {
+          "name": "IAI Searcher Mk II",
+          "type": "Tactical UAV",
+          "origin": "Israel",
+          "quantity": "20+ (approximately)",
+          "introduced": "2006",
+          "status": "Active",
+          "role": ["Surveillance", "Targeting", "Battle Damage Assessment"],
+          "funfact": "Workhorse tactical UAV. Can be launched from shore stations for coastal surveillance."
+        },
+        {
+          "name": "MQ-9B Sea Guardian",
+          "type": "High Altitude Long Endurance (HALE) Armed UAV",
+          "origin": "USA",
+          "quantity": "31 ordered (for all services)",
+          "status": "Ordered/Delivery pending",
+          "role": ["Maritime Surveillance", "Anti-Submarine Warfare", "Anti-Surface Warfare"],
+          "endurance": "40+ hours",
+          "armament": ["Sonobuoys", "Torpedoes", "Anti-ship missiles (potential)"],
+          "funfact": "India's first armed maritime drone! Can patrol entire Indian Ocean for days. Will revolutionize maritime surveillance. Part of $3 billion deal with USA."
+        },
+        {
+          "name": "DRDO TAPAS/Rustom-2",
+          "type": "MALE UAV",
+          "origin": "India (Indigenous)",
+          "status": "Development/Testing",
+          "role": ["Maritime Surveillance", "Intelligence Gathering"],
+          "funfact": "Indigenous MALE UAV for all three services. Will reduce dependence on imported drones."
+        },
+        {
+          "name": "DRDO Abhyas",
+          "type": "Target Drone",
+          "origin": "India (Indigenous)",
+          "status": "Active",
+          "role": ["Target practice for missiles and guns"],
+          "funfact": "High-speed expendable aerial target. Used for live-fire training of naval air defense systems."
+        }
+      ],
+      "naval_air_stations": [
+        {
+          "name": "INS Hansa",
+          "location": "Dabolim, Goa",
+          "established": 1961,
+          "type": "Naval Air Station",
+          "aircraft_based": "MiG-29K, Sea King, Dornier, IL-38",
+          "funfact": "India's largest naval air station! Primary base for MiG-29K fighters. Has India's only shore-based ski-jump for carrier pilot training (SBTF)."
+        },
+        {
+          "name": "INS Dega",
+          "location": "Visakhapatnam",
+          "established": 1989,
+          "type": "Naval Air Station",
+          "aircraft_based": "P-8I, Dornier, Helicopters",
+          "funfact": "Primary air station for Eastern Naval Command. Home to P-8I Poseidon maritime patrol aircraft."
+        },
+        {
+          "name": "INS Shikra",
+          "location": "Mumbai",
+          "established": 1986,
+          "type": "Naval Air Enclave",
+          "aircraft_based": "Helicopters (Sea King, Chetak)",
+          "funfact": "Located in Mumbai Harbor. Provides helicopter support to Western Fleet."
+        },
+        {
+          "name": "INS Garuda",
+          "location": "Kochi",
+          "established": 1953,
+          "type": "Naval Air Station",
+          "aircraft_based": "Helicopters, Training aircraft",
+          "funfact": "Oldest operational naval air station! Named after the mythical bird Garuda, vehicle of Lord Vishnu."
+        },
+        {
+          "name": "INS Utkrosh",
+          "location": "Port Blair, Andaman",
+          "established": 1985,
+          "type": "Naval Air Station",
+          "aircraft_based": "Dornier, Helicopters",
+          "funfact": "Strategic air station in Andaman Islands. Monitors approaches to Strait of Malacca."
+        },
+        {
+          "name": "INS Rajali",
+          "location": "Arakkonam, Tamil Nadu",
+          "established": 1992,
+          "type": "Naval Air Station",
+          "aircraft_based": "P-8I, IL-38, Tu-142 (formerly)",
+          "funfact": "India's premier maritime patrol aircraft base! Home to the P-8I Poseidon fleet. Has one of the longest runways in India."
+        },
+        {
+          "name": "INS Parundu",
+          "location": "Uchipuli, Tamil Nadu",
+          "established": 2011,
+          "type": "Naval Air Enclave",
+          "aircraft_based": "Dornier, UAVs",
+          "funfact": "Newest naval air facility. UAV operations base for surveillance of Palk Strait."
+        },
+        {
+          "name": "INS Baaz",
+          "location": "Campbell Bay, Nicobar",
+          "established": 2012,
+          "type": "Naval Air Station",
+          "aircraft_based": "Dornier, Helicopters",
+          "funfact": "India's southernmost air station! Only 90 nautical miles from Strait of Malacca. Strategic for monitoring one of world's busiest shipping lanes."
+        },
+        {
+          "name": "INS Kohassa",
+          "location": "Shibpur, Diglipur, Andaman",
+          "established": 2019,
+          "type": "Naval Air Station",
+          "aircraft_based": "Dornier, Helicopters",
+          "funfact": "Third air station in Andaman & Nicobar. Named after a white-bellied sea eagle found in the islands."
+        }
+      ]
+    },
+    "special_forces": {
+      "marcos": {
+        "name": "MARCOS (Marine Commandos)",
+        "full_name": "Marine Commando Force",
+        "established": 1987,
+        "headquarters": "INS Abhimanyu, Mumbai",
+        "motto": "The Few, The Fearless",
+        "strength": "2,000+ (estimated)",
+        "selection_rate": "Less than 10% pass",
+        "training_duration": "2-3 years",
+        "roles": [
+          "Direct Action",
+          "Special Reconnaissance",
+          "Maritime Counter-Terrorism",
+          "Hostage Rescue",
+          "Combat Search and Rescue",
+          "Beach Landing Operations",
+          "Underwater Demolition",
+          "VBSS (Visit, Board, Search, Seizure)"
+        ],
+        "notable_operations": [
+          {
+            "name": "Operation Pawan",
+            "year": "1987-1990",
+            "location": "Sri Lanka",
+            "description": "Combat operations against LTTE"
+          },
+          {
+            "name": "Operation Cactus",
+            "year": 1988,
+            "location": "Maldives",
+            "description": "Helped restore government after coup attempt"
+          },
+          {
+            "name": "26/11 Mumbai Attacks",
+            "year": 2008,
+            "location": "Mumbai",
+            "description": "Neutralized terrorists at Taj Hotel and Oberoi Hotel"
+          },
+          {
+            "name": "Operation Black Tornado",
+            "year": 2008,
+            "location": "Mumbai",
+            "description": "NSG-led operation with MARCOS support at multiple sites"
+          },
+          {
+            "name": "Anti-Piracy Operations",
+            "year": "2008-Present",
+            "location": "Gulf of Aden, Somali Basin",
+            "description": "Rescued numerous ships and crews from pirates"
+          }
+        ],
+        "equipment": [
+          "MP5 submachine guns",
+          "AK-47/AK-103 rifles",
+          "Sig Sauer pistols",
+          "Dragunov sniper rifles",
+          "TAR-21 Tavor assault rifles",
+          "Underwater weapons",
+          "Combat diving equipment",
+          "HALO/HAHO parachutes"
+        ],
+        "funfact": "MARCOS are among the few special forces in the world trained in all three dimensions - land, sea, and air. They undergo training with US Navy SEALs and British SBS. They can hold their breath for over 5 minutes and swim 40 km in open ocean."
+      },
+      "diving_teams": {
+        "name": "Naval Clearance Diving Teams",
+        "role": [
+          "Underwater explosive disposal",
+          "Salvage operations",
+          "Ship bottom searches",
+          "Port clearance"
+        ],
+        "funfact": "Navy divers have salvaged aircraft, recovered black boxes, and cleared mines. They can work at depths exceeding 100 meters."
+      }
+    },
+    "missiles_and_weapons": {
+      "anti_ship_missiles": [
+        {
+          "name": "BrahMos",
+          "type": "Supersonic Cruise Missile",
+          "origin": "India-Russia (Joint Venture)",
+          "range": "290-500 km",
+          "speed": "Mach 2.8-3.0",
+          "warhead": "200-300 kg",
+          "platforms": ["Ships", "Submarines", "Aircraft"],
+          "funfact": "World's fastest cruise missile in operational service! Named after Brahmaputra (India) and Moskva (Russia) rivers. Can be launched from vertical launchers. Sea-skimming capability makes it nearly impossible to intercept."
+        },
+        {
+          "name": "BrahMos-NG (Next Generation)",
+          "type": "Supersonic Cruise Missile (Compact)",
+          "origin": "India-Russia",
+          "range": "290+ km",
+          "speed": "Mach 3.5",
+          "status": "Under development",
+          "funfact": "Smaller and lighter than original BrahMos. Will fit in torpedo tubes and aircraft. More missiles per ship."
+        },
+        {
+          "name": "P-20M Termit (SS-N-2D Styx)",
+          "type": "Anti-Ship Cruise Missile",
+          "origin": "Soviet Union",
+          "range": "80 km",
+          "speed": "Mach 0.9",
+          "platforms": ["Veer-class corvettes"],
+          "funfact": "Veteran missile! Indian Navy sank Pakistani warships with Styx missiles in 1971. First-ever ship sinking by anti-ship missiles in combat."
+        },
+        {
+          "name": "Kh-35 Uran (SS-N-25 Switchblade)",
+          "type": "Anti-Ship Cruise Missile",
+          "origin": "Russia",
+          "range": "130 km",
+          "speed": "Mach 0.8",
+          "platforms": ["Delhi-class destroyers", "Kora-class corvettes"],
+          "funfact": "Sea-skimming missile that flies just meters above water. Difficult to detect by ship radars."
+        },
+        {
+          "name": "Exocet MM40",
+          "type": "Anti-Ship Missile",
+          "origin": "France",
+          "range": "70+ km",
+          "platforms": ["Submarines (SM39 variant)"],
+          "funfact": "Submarine-launched Exocets can be fired from torpedo tubes while submerged. Made famous in the Falklands War."
+        },
+        {
+          "name": "DRDO NASM (Naval Anti-Ship Missile)",
+          "type": "Subsonic Anti-Ship Missile",
+          "origin": "India (Indigenous)",
+          "status": "Under development",
+          "funfact": "Indigenous long-range anti-ship missile to reduce import dependency."
+        }
+      ],
+      "surface_to_air_missiles": [
+        {
+          "name": "Barak-8 (LR-SAM/MR-SAM)",
+          "type": "Long-Range Surface-to-Air Missile",
+          "origin": "India-Israel (Joint Development)",
+          "range": "70-100 km",
+          "speed": "Mach 2",
+          "platforms": ["Kolkata-class", "Visakhapatnam-class", "Nilgiri-class"],
+          "funfact": "India's most advanced naval air defense system! Can engage aircraft, helicopters, anti-ship missiles, and UAVs simultaneously. 360-degree coverage. Can engage sea-skimming missiles."
+        },
+        {
+          "name": "Barak-1",
+          "type": "Point Defense Missile System",
+          "origin": "Israel",
+          "range": "12 km",
+          "platforms": ["Various frigates and corvettes"],
+          "funfact": "Fast reaction missile for close-in defense. Can engage multiple threats within seconds."
+        },
+        {
+          "name": "Shtil/Shtil-1 (SA-N-7 Gadfly)",
+          "type": "Medium-Range SAM",
+          "origin": "Russia",
+          "range": "25-50 km",
+          "platforms": ["Delhi-class destroyers", "Talwar-class frigates"],
+          "funfact": "Naval version of the Buk missile system. Being replaced by Barak-8 on newer ships."
+        },
+        {
+          "name": "9K32 Strela-2 (SA-N-5 Grail)",
+          "type": "MANPADS (Man-Portable)",
+          "origin": "Soviet Union",
+          "range": "4 km",
+          "platforms": ["Various ships as backup"],
+          "funfact": "Shoulder-launched missile for close-in air defense. Last-ditch weapon against aircraft."
+        },
+        {
+          "name": "Igla-S (SA-24 Grinch)",
+          "type": "MANPADS",
+          "origin": "Russia",
+          "range": "6 km",
+          "funfact": "Modern MANPADS with improved guidance. Can engage targets from any direction."
+        }
+      ],
+      "submarine_launched_ballistic_missiles": [
+        {
+          "name": "K-15 Sagarika",
+          "type": "Submarine-Launched Ballistic Missile (SLBM)",
+          "origin": "India (Indigenous)",
+          "range": "750 km",
+          "warhead": "Nuclear capable (1,000 kg)",
+          "platforms": ["Arihant-class SSBN"],
+          "launch_method": "Submerged launch",
+          "funfact": "India's first SLBM! Completes India's nuclear triad. Can be launched from underwater. Named 'Sagarika' meaning 'Born from the Ocean'."
+        },
+        {
+          "name": "K-4",
+          "type": "SLBM (Intermediate Range)",
+          "origin": "India (Indigenous)",
+          "range": "3,500 km",
+          "warhead": "Nuclear capable (2,000 kg)",
+          "platforms": ["Arihant-class SSBN"],
+          "status": "Active",
+          "funfact": "Can reach any target in Pakistan and most of China from Indian Ocean! Multiple warhead capability (potentially MIRV). Gives India credible second-strike capability."
+        },
+        {
+          "name": "K-5",
+          "type": "SLBM (Long Range)",
+          "origin": "India (Indigenous)",
+          "range": "5,000+ km",
+          "status": "Under development",
+          "funfact": "Next-generation SLBM with intercontinental range. Will give India global reach from underwater platforms."
+        },
+        {
+          "name": "K-6",
+          "type": "SLBM (MIRV capable)",
+          "origin": "India (Indigenous)",
+          "range": "6,000+ km",
+          "status": "Development",
+          "funfact": "Future SLBM with multiple independently targetable warheads. Will be deployed on larger S5-class SSBNs."
+        }
+      ],
+      "torpedoes": [
+        {
+          "name": "Varunastra",
+          "type": "Heavy Weight Torpedo",
+          "origin": "India (Indigenous - DRDO/BDL)",
+          "weight": "1,500 kg",
+          "range": "40+ km",
+          "speed": "40+ knots",
+          "depth": "Up to 600 meters",
+          "guidance": "Wire-guided with active/passive homing",
+          "platforms": ["Surface ships", "Submarines"],
+          "funfact": "India's first indigenous heavyweight torpedo! Electric propulsion makes it quiet. Can engage submarines and surface ships. Named after Lord Varuna's weapon."
+        },
+        {
+          "name": "TAL Shyena",
+          "type": "Light Weight Anti-Submarine Torpedo",
+          "origin": "India (Indigenous)",
+          "weight": "290 kg",
+          "range": "10+ km",
+          "platforms": ["Helicopters", "P-8I aircraft", "Surface ships"],
+          "funfact": "Air-dropped anti-submarine torpedo. 'Shyena' means Hawk in Sanskrit. Indigenous alternative to imported torpedoes."
+        },
+        {
+          "name": "SET-65E",
+          "type": "Electric Torpedo",
+          "origin": "Russia",
+          "platforms": ["Kilo-class submarines"],
+          "funfact": "Soviet-era torpedo still in service on older submarines."
+        },
+        {
+          "name": "TEST-71",
+          "type": "Wire-Guided Torpedo",
+          "origin": "Russia",
+          "range": "20 km",
+          "platforms": ["Kilo-class submarines"],
+          "funfact": "Can be guided by submarine throughout its attack run."
+        },
+        {
+          "name": "SUT (Surface and Underwater Torpedo)",
+          "type": "Heavy Weight Torpedo",
+          "origin": "Germany",
+          "platforms": ["Shishumar-class submarines"],
+          "funfact": "German wire-guided torpedo. Can attack both submarines and surface ships."
+        },
+        {
+          "name": "Black Shark",
+          "type": "Heavy Weight Torpedo",
+          "origin": "Italy",
+          "range": "50+ km",
+          "platforms": ["Scorpène-class submarines"],
+          "funfact": "One of the world's most advanced torpedoes. Electric propulsion with very long range."
+        },
+        {
+          "name": "MK 54 Lightweight Torpedo",
+          "type": "ASW Torpedo",
+          "origin": "USA",
+          "platforms": ["MH-60R helicopters"],
+          "funfact": "Comes with MH-60R helicopters. Can be dropped from helicopters to attack submarines."
+        }
+      ],
+      "guns_and_ciws": [
+        {
+          "name": "76mm Super Rapid Gun Mount (SRGM)",
+          "type": "Naval Gun",
+          "origin": "Italy (OTO Melara)",
+          "rate_of_fire": "120 rounds/minute",
+          "range": "16 km",
+          "platforms": ["Most modern frigates and corvettes"],
+          "funfact": "Versatile gun for anti-ship, anti-aircraft, and shore bombardment. Can fire guided munitions."
+        },
+        {
+          "name": "100mm AK-100",
+          "type": "Naval Gun",
+          "origin": "Russia",
+          "rate_of_fire": "60 rounds/minute",
+          "range": "21 km",
+          "platforms": ["Delhi-class destroyers"],
+          "funfact": "Soviet-designed single-barrel gun. Good for shore bombardment."
+        },
+        {
+          "name": "127mm/54 (5-inch) Gun",
+          "type": "Naval Gun",
+          "origin": "Italy (Oto Melara)",
+          "range": "23+ km",
+          "platforms": ["Visakhapatnam-class destroyers (planned)"],
+          "funfact": "Powerful gun for naval gunfire support and anti-ship warfare."
+        },
+        {
+          "name": "AK-630 CIWS",
+          "type": "Close-In Weapon System",
+          "origin": "Russia",
+          "caliber": "30mm (6 barrels)",
+          "rate_of_fire": "4,000-5,000 rounds/minute",
+          "range": "4 km",
+          "platforms": ["Most Indian Navy warships"],
+          "funfact": "Last line of defense against incoming missiles! Gatling-type gun fires a 'wall of lead'. Two usually mounted per ship for 360-degree coverage."
+        },
+        {
+          "name": "Kashtan CIWS",
+          "type": "Combined Gun-Missile CIWS",
+          "origin": "Russia",
+          "armament": "Twin 30mm guns + 8 x 9M311 missiles",
+          "platforms": ["Talwar-class frigates"],
+          "funfact": "Unique system combining guns and missiles for close-in defense. Can engage targets from 10 km (missiles) to 500m (guns)."
+        },
+        {
+          "name": "CRN-91 (30mm Naval Gun)",
+          "type": "Remote-Controlled Gun",
+          "origin": "India (Ordnance Factory Board)",
+          "platforms": ["Patrol vessels", "Fast attack craft"],
+          "funfact": "Indigenous stabilized gun system. Can be operated remotely."
+        }
+      ],
+      "anti_submarine_weapons": [
+        {
+          "name": "RBU-6000 (Smerch-2)",
+          "type": "Anti-Submarine Rocket Launcher",
+          "origin": "Russia",
+          "rockets": "12 barrels",
+          "range": "6 km",
+          "platforms": ["Destroyers", "Frigates"],
+          "funfact": "Fires a pattern of depth charges to blanket submarine positions. Can also be used for torpedo defense."
+        },
+        {
+          "name": "Sonobuoys",
+          "type": "Anti-Submarine Detection",
+          "platforms": ["P-8I", "MH-60R", "Sea King"],
+          "funfact": "Dropped from aircraft to detect submarines. Can be passive (listening) or active (pinging)."
+        },
+        {
+          "name": "Dipping Sonar",
+          "type": "ASW Sensor",
+          "platforms": ["Sea King", "MH-60R", "Ka-28"],
+          "funfact": "Lowered from hovering helicopter to detect submarines. Can pinpoint location for torpedo attack."
+        }
+      ]
+    },
+    "historic_operations": [
+      {
+        "name": "Operation Trident",
+        "date": "4-5 December 1971",
+        "war": "1971 Indo-Pakistani War",
+        "location": "Karachi Harbor, Pakistan",
+        "vessels_involved": ["INS Nipat", "INS Nirghat", "INS Veer"],
+        "missiles_used": "P-15 Termit (Styx)",
+        "result": "Sank PNS Khaibar (destroyer), MV Venus Challenger; damaged PNS Shah Jahan",
+        "significance": "First successful anti-ship missile attack in history!",
+        "funfact": "This operation is why India celebrates Navy Day on December 4. Changed naval warfare forever by proving effectiveness of missile boats."
+      },
+      {
+        "name": "Operation Python",
+        "date": "8-9 December 1971",
+        "war": "1971 Indo-Pakistani War",
+        "location": "Karachi Harbor, Pakistan",
+        "vessels_involved": ["INS Vinash", "INS Talwar", "INS Trishul"],
+        "result": "Destroyed oil storage tanks at Keamari, sank multiple vessels",
+        "funfact": "Karachi's fuel reserves burned for seven days! Completely demoralized Pakistani Navy."
+      },
+      {
+        "name": "Operation Vijay (Naval)",
+        "date": "December 1971",
+        "war": "Liberation of Bangladesh",
+        "location": "Bay of Bengal",
+        "vessels_involved": ["Aircraft Carrier INS Vikrant", "Multiple destroyers and frigates"],
+        "aircraft": "Sea Hawk fighters, Alizé aircraft",
+        "result": "Complete naval blockade of East Pakistan, destruction of Chittagong and Cox's Bazar ports",
+        "funfact": "INS Vikrant's aircraft flew 125+ sorties. Pakistani Navy completely neutralized in Eastern theater. Hastened surrender of Pakistani forces."
+      },
+      {
+        "name": "Operation Cactus",
+        "date": "3 November 1988",
+        "location": "Maldives",
+        "vessels_involved": ["INS Godavari", "INS Betwa"],
+        "result": "Helped restore legitimate Maldivian government after coup attempt",
+        "funfact": "Indian Navy ships intercepted fleeing mercenaries. Rescued President Gayoom's government within hours of request."
+      },
+      {
+        "name": "Operation Parakram",
+        "date": "2001-2002",
+        "location": "Arabian Sea, Indian Ocean",
+        "trigger": "Post-Parliament Attack standoff",
+        "action": "Massive naval mobilization and forward deployment",
+        "funfact": "Largest naval mobilization since 1971. Demonstrated ability to operate both carriers simultaneously."
+      },
+      {
+        "name": "Operation Sukoon",
+        "date": "July 2006",
+        "location": "Lebanon",
+        "vessels_involved": ["INS Mumbai", "INS Brahmaputra", "INS Betwa"],
+        "result": "Evacuated 2,280 people (Indians, Sri Lankans, Nepalis, Lebanese)",
+        "funfact": "Evacuated civilians during Israel-Lebanon War. Ships entered active war zone under fire."
+      },
+      {
+        "name": "Operation Raahat",
+        "date": "April 2015",
+        "location": "Yemen",
+        "vessels_involved": ["INS Mumbai", "INS Tarkash", "INS Sumitra", "INS Kolkata"],
+        "result": "Evacuated 5,600+ people from war-torn Yemen",
+        "funfact": "Evacuated citizens of 41 countries! Operations conducted under Saudi-led airstrikes. One of the largest evacuation operations by Indian Navy."
+      },
+      {
+        "name": "Operation Samudra Setu",
+        "date": "May-July 2020",
+        "location": "Persian Gulf, Sri Lanka, Maldives",
+        "trigger": "COVID-19 pandemic",
+        "vessels_involved": ["INS Jalashwa", "INS Magar", "INS Shardul", "INS Airavat"],
+        "result": "Repatriated 3,992 Indian citizens",
+        "funfact": "First large-scale naval repatriation during pandemic. Ships converted to floating hospitals with quarantine facilities."
+      },
+      {
+        "name": "Anti-Piracy Operations",
+        "date": "2008-Present",
+        "location": "Gulf of Aden, Somali Basin, Arabian Sea",
+        "action": "Continuous deployment of warships for maritime security",
+        "ships_escorted": "4,000+ merchant vessels",
+        "pirates_apprehended": "120+",
+        "funfact": "Indian Navy has been continuously deployed since 2008. INS Tabar famously sank a pirate 'mother ship' in 2008. No ship under Indian Navy escort has ever been successfully hijacked."
+      },
+      {
+        "name": "Operation Sankalp",
+        "date": "June 2019-Present",
+        "location": "Gulf of Oman, Strait of Hormuz",
+        "trigger": "Tanker attacks and regional tensions",
+        "action": "24/7 deployment to protect Indian shipping",
+        "funfact": "Ongoing operation ensuring safe passage for Indian oil tankers through the world's most critical oil chokepoint."
+      }
+    ],
+    "future_projects": {
+      "under_construction": [
+        {
+          "name": "Project 17A (Nilgiri-class Frigates)",
+          "quantity": "7 frigates",
+          "builder": "MDL (4) + GRSE (3)",
+          "status": "Multiple ships in various stages",
+          "expected_completion": "2024-2027",
+          "funfact": "Will be the most advanced frigates in Indian Navy. 75% indigenous content."
+        },
+        {
+          "name": "Project 15B (Visakhapatnam-class Destroyers)",
+          "quantity": "4 destroyers (3 commissioned, 1 fitting out)",
+          "builder": "Mazagon Dock Limited",
+          "status": "Final ship INS Surat in sea trials",
+          "funfact": "Most potent destroyers in the region. Each costs approximately ₹4,000 crores."
+        },
+        {
+          "name": "Project 75 (Scorpène-class Submarines)",
+          "quantity": "6 submarines (5 commissioned, 1 sea trials)",
+          "builder": "Mazagon Dock Limited",
+          "status": "INS Vagsheer in sea trials",
+          "funfact": "Last submarine will feature indigenous AIP system."
+        },
+        {
+          "name": "Next Generation Missile Vessels (NGMVs)",
+          "quantity": "6 vessels",
+          "status": "Construction initiated",
+          "funfact": "Stealthy missile boats to replace aging Veer-class. Will carry BrahMos missiles."
+        },
+        {
+          "name": "Next Generation Offshore Patrol Vessels",
+          "quantity": "5 vessels",
+          "builder": "Garden Reach Shipbuilders",
+          "status": "Under construction",
+          "funfact": "Modern OPVs for enhanced coastal and EEZ patrol."
+        },
+        {
+          "name": "Fleet Support Ships (FSS)",
+          "quantity": "5 vessels",
+          "builder": "Hindustan Shipyard Limited",
+          "status": "Under construction",
+          "funfact": "Will replace aging tankers. Essential for extended blue-water operations."
+        },
+        {
+          "name": "Survey Vessels (New generation)",
+          "quantity": "4 vessels",
+          "builder": "Garden Reach Shipbuilders",
+          "status": "Under construction",
+          "funfact": "Modern hydrographic survey vessels. First ship INS Sarvekshak already commissioned."
+        }
+      ],
+      "planned_acquisitions": [
+        {
+          "name": "Project 75(I) Submarines",
+          "quantity": "6 submarines",
+          "type": "Diesel-Electric with AIP",
+          "cost_estimate": "₹43,000 crores",
+          "status": "Tender process",
+          "features": ["Air Independent Propulsion", "Land-attack missiles", "Advanced stealth"],
+          "funfact": "India's largest defense procurement! Will be built in India with foreign collaboration. Contenders include TKMS (Germany), Naval Group (France), Navantia (Spain), Daewoo (South Korea)."
+        },
+        {
+          "name": "Indigenous Aircraft Carrier-2 (IAC-2)",
+          "displacement": "65,000 tonnes (estimated)",
+          "type": "CATOBAR (Catapult-Assisted Take-Off But Arrested Recovery)",
+          "status": "Design phase",
+          "funfact": "Will be India's largest warship ever! May feature electromagnetic catapults (EMALS). Can operate heavier aircraft than ski-jump carriers."
+        },
+        {
+          "name": "Project Varsha (Indigenous SSN)",
+          "quantity": "6 nuclear attack submarines",
+          "status": "Development",
+          "expected": "2030s",
+          "funfact": "India's most ambitious submarine project. Will give blue-water attack capability."
+        },
+        {
+          "name": "MH-60R Seahawk Helicopters",
+          "quantity": "24",
+          "status": "Deliveries ongoing",
+          "funfact": "$2.4 billion deal. Replacing aging Sea Kings."
+        },
+        {
+          "name": "Predator/Sea Guardian MQ-9B",
+          "quantity": "31 (for all services)",
+          "status": "Ordered",
+          "funfact": "India's first armed maritime drones."
+        },
+        {
+          "name": "TEDBF (Twin Engine Deck Based Fighter)",
+          "quantity": "50+ (planned)",
+          "status": "Development",
+          "expected": "2030s",
+          "funfact": "Indigenous carrier fighter to replace MiG-29K."
+        },
+        {
+          "name": "Landing Platform Dock (LPD)",
+          "quantity": "4 (planned)",
+          "displacement": "20,000+ tonnes",
+          "status": "Planning",
+          "funfact": "Will significantly enhance amphibious warfare capability."
+        },
+        {
+          "name": "Multi-Purpose Vessel/Landing Helicopter Dock",
+          "status": "Planning",
+          "funfact": "Large amphibious assault ship similar to Mistral-class."
+        },
+        {
+          "name": "Mine Counter-Measure Vessels (MCMVs)",
+          "quantity": "12 vessels",
+          "status": "Procurement process",
+          "funfact": "Critical capability gap. Will replace aging minesweepers."
+        },
+        {
+          "name": "Additional P-8I Poseidon",
+          "quantity": "6 (option for more)",
+          "status": "Under consideration",
+          "funfact": "To expand maritime patrol capability."
+        }
+      ],
+      "indigenous_programs": [
+        {
+          "name": "AIP (Air Independent Propulsion)",
+          "organization": "DRDO/NMRL",
+          "type": "Fuel Cell AIP",
+          "status": "Developed, integration underway",
+          "application": "Scorpène-class submarines (INS Vagsheer first)",
+          "funfact": "Will allow submarines to stay submerged for weeks! Indigenous system reduces foreign dependence. Cheaper than imported systems."
+        },
+        {
+          "name": "Integrated Underwater Harbour Defence System",
+          "organization": "DRDO",
+          "status": "Development",
+          "funfact": "To protect naval harbors from underwater threats including divers and mini-submarines."
+        },
+        {
+          "name": "USHUS (Submarine Sonar System)",
+          "organization": "NPOL/DRDO",
+          "status": "Operational",
+          "funfact": "Indigenous submarine sonar now operational on Indian submarines. Major achievement in sensor technology."
+        },
+        {
+          "name": "HUMSA (Hull Mounted Sonar Array)",
+          "organization": "NPOL/BEL",
+          "status": "Operational",
+          "funfact": "Indigenous sonar for surface ships. Comparable to imported systems."
+        },
+        {
+          "name": "Maareech Torpedo Defense System",
+          "organization": "DRDO",
+          "status": "Operational",
+          "funfact": "Indigenous torpedo decoy system to protect ships from torpedo attack."
+        }
+      ]
+    },
+    "training_establishments": [
+      {
+        "name": "Indian Naval Academy (INA)",
+        "location": "Ezhimala, Kerala",
+        "established": 2009,
+        "type": "Officer Training",
+        "funfact": "Asia's largest naval academy! 2,500-acre campus. Trains officers from India and friendly foreign navies. First academy to train all three branches (executive, engineering, electrical) under one roof."
+      },
+      {
+        "name": "INS Chilka",
+        "location": "Chilika, Odisha",
+        "type": "Sailors Training",
+        "funfact": "Asia's largest sailor training establishment. All Indian Navy sailors pass through here."
+      },
+      {
+        "name": "INS Shivaji",
+        "location": "Lonavala, Maharashtra",
+        "type": "Engineering Training",
+        "funfact": "Premier engineering training establishment. Named after Chhatrapati Shivaji Maharaj."
+      },
+      {
+        "name": "INS Valsura",
+        "location": "Jamnagar, Gujarat",
+        "type": "Electrical Training",
+        "funfact": "Electrical and electronics training. Named after a local village."
+      },
+      {
+        "name": "INS Venduruthy",
+        "location": "Kochi, Kerala",
+        "type": "Navigation and Direction Training",
+        "funfact": "Trains officers in navigation and warfare. Has specialized simulation facilities."
+      },
+      {
+        "name": "INS Dronacharya",
+        "location": "Kochi, Kerala",
+        "type": "Gunnery Training",
+        "funfact": "Named after the legendary archery teacher. Trains all weapon systems operators."
+      },
+      {
+        "name": "INS Hamla",
+        "location": "Mumbai",
+        "type": "Logistics Training",
+        "funfact": "Supply and secretariat training. 'Hamla' means Attack in Hindi."
+      },
+      {
+        "name": "INS Satavahana",
+        "location": "Visakhapatnam",
+        "type": "Submarine Training",
+        "funfact": "India's submarine school. Named after the Satavahana dynasty which had naval power."
+      },
+      {
+        "name": "INS Agrani",
+        "location": "Coimbatore, Tamil Nadu",
+        "type": "Leadership Training",
+        "funfact": "Leadership and management training. 'Agrani' means Pioneer/Leader."
+      }
+    ],
+    "international_exercises": [
+      {
+        "name": "MALABAR",
+        "participants": ["India", "USA", "Japan", "Australia (Quad)"],
+        "type": "Naval Exercise",
+        "frequency": "Annual",
+        "funfact": "Started as bilateral India-US exercise in 1992. Now includes all Quad nations. Focuses on high-end warfare including carrier operations, anti-submarine warfare."
+      },
+      {
+        "name": "VARUNA",
+        "participants": ["India", "France"],
+        "type": "Bilateral Naval Exercise",
+        "frequency": "Annual",
+        "funfact": "Named after the Vedic god of oceans. Includes aircraft carrier operations when possible."
+      },
+      {
+        "name": "KONKAN",
+        "participants": ["India", "United Kingdom"],
+        "type": "Bilateral Naval Exercise",
+        "frequency": "Annual",
+        "funfact": "Named after India's Konkan coast. Long-standing exercise with the Royal Navy."
+      },
+      {
+        "name": "INDRA Navy",
+        "participants": ["India", "Russia"],
+        "type": "Bilateral Naval Exercise",
+        "frequency": "Annual",
+        "funfact": "One of the oldest naval exercises. Demonstrates India-Russia naval cooperation."
+      },
+      {
+        "name": "SIMBEX",
+        "participants": ["India", "Singapore"],
+        "type": "Bilateral Naval Exercise",
+        "frequency": "Annual",
+        "funfact": "Singapore-India Maritime Bilateral Exercise. Focuses on advanced naval warfare."
+      },
+      {
+        "name": "CORPAT (Coordinated Patrol)",
+        "participants": ["India with Indonesia/Thailand/Myanmar"],
+        "type": "Coordinated Patrol",
+        "frequency": "Biannual",
+        "funfact": "Joint patrols of maritime boundaries to prevent smuggling, piracy, and illegal fishing."
+      },
+      {
+        "name": "MILAN",
+        "participants": ["India + 40+ nations"],
+        "type": "Multilateral Naval Exercise",
+        "frequency": "Biennial",
+        "hosted_by": "Indian Navy",
+        "location": "Andaman & Nicobar Islands",
+        "funfact": "India hosts this massive multilateral exercise. 'MILAN' means 'Meeting' in Hindi. Over 40 navies participate. Showcases Indian Navy's role as net security provider."
+      },
+      {
+        "name": "RIMPAC",
+        "participants": ["26+ nations"],
+        "hosted_by": "US Navy",
+        "location": "Pacific Ocean",
+        "funfact": "World's largest naval exercise. India has participated since 2014."
+      }
+    ],
+    "medals_and_awards": {
+      "wartime_gallantry": [
+        {
+          "medal": "Param Vir Chakra",
+          "recipients_from_navy": 0,
+          "note": "No naval recipient yet"
+        },
+        {
+          "medal": "Maha Vir Chakra",
+          "notable_recipient": "Cdr Babru Bhan Yadav (1971)",
+          "funfact": "Awarded for leadership during attack on Karachi harbor."
+        },
+        {
+          "medal": "Vir Chakra",
+          "recipients": "Multiple (1971 War)",
+          "funfact": "Many officers and sailors received Vir Chakras during 1971 operations."
+        }
+      ],
+      "peacetime_gallantry": [
+        {
+          "medal": "Ashoka Chakra",
+          "notable_recipient": "Lt. Cdr. Mohan Narayan Rao (Posthumous)",
+          "funfact": "Awarded for extraordinary bravery in peacetime."
+        },
+        {
+          "medal": "Kirti Chakra",
+          "note": "Multiple naval recipients",
+          "funfact": "Awarded for conspicuous gallantry otherwise than in the face of the enemy."
+        },
+        {
+          "medal": "Shaurya Chakra",
+          "note": "Multiple naval recipients",
+          "funfact": "Several MARCOS operators have received this for anti-terror operations."
+        }
+      ],
+      "distinguished_service": [
+        {
+          "medal": "Param Vishisht Seva Medal",
+          "level": "Highest distinguished service medal"
+        },
+        {
+          "medal": "Ati Vishisht Seva Medal",
+          "level": "Second highest"
+        },
+        {
+          "medal": "Nau Sena Medal",
+          "level": "Naval medal for gallantry/distinguished service"
+        }
+      ]
+    },
+    "fun_facts_and_records": [
+      {
+        "fact": "First Asian Navy to operate an aircraft carrier",
+        "year": 1961,
+        "ship": "INS Vikrant",
+        "funfact": "India commissioned INS Vikrant before China, Japan, or any other Asian nation."
+      },
+      {
+        "fact": "First successful anti-ship missile attack in history",
+        "year": 1971,
+        "operation": "Operation Trident",
+        "funfact": "Indian Navy's attack on Karachi changed naval warfare forever."
+      },
+      {
+        "fact": "Largest submarine rescue exercise",
+        "name": "SMEREX",
+        "participants": "32 nations",
+        "funfact": "India hosts major submarine rescue exercises, crucial given submarine fleet size."
+      },
+      {
+        "fact": "Circumnavigation by Sailing Vessel",
+        "ship": "INSV Tarini",
+        "year": "2017-2018",
+        "crew": "All-women crew (Navika Sagar Parikrama)",
+        "funfact": "First Indian all-women crew to circumnavigate the globe! Covered 21,600 nautical miles in 254 days."
+      },
+      {
+        "fact": "Oldest serving sailing ship",
+        "ship": "INS Tarangini",
+        "age": "27+ years",
+        "funfact": "Has sailed over 200,000 nautical miles across all major oceans."
+      },
+      {
+        "fact": "Continuous anti-piracy deployment",
+        "duration": "Since 2008",
+        "ships_escorted": "4,000+",
+        "funfact": "Indian Navy has maintained unbroken presence in Gulf of Aden for 15+ years."
+      },
+      {
+        "fact": "First indigenously built aircraft carrier",
+        "ship": "INS Vikrant (2022)",
+        "funfact": "Makes India only the 6th country to design and build its own aircraft carrier."
+      },
+      {
+        "fact": "Fastest cruise missile",
+        "missile": "BrahMos",
+        "speed": "Mach 2.8-3.0",
+        "funfact": "Indian Navy operates the world's fastest cruise missile in operational service."
+      },
+      {
+        "fact": "Nuclear Triad completion",
+        "year": 2018,
+        "submarine": "INS Arihant (first deterrent patrol)",
+        "funfact": "India became only the 6th nation to achieve operational nuclear triad (land, air, sea-based nuclear weapons)."
+      },
+      {
+        "fact": "Largest naval base in Asia",
+        "base": "INS Kadamba, Karwar",
+        "capacity": "50+ warships",
+        "funfact": "Can accommodate aircraft carriers and nuclear submarines. Cost over ₹25,000 crores."
+      }
+    ],
+    "summary_statistics": {
+      "aircraft_carriers": {
+        "active": 2,
+        "names": ["INS Vikramaditya", "INS Vikrant"]
+      },
+      "destroyers": {
+        "active": 11,
+        "classes": ["Visakhapatnam-class", "Kolkata-class", "Delhi-class", "Rajput-class (1 remaining)"]
+      },
+      "frigates": {
+        "active": 13,
+        "classes": ["Nilgiri-class (entering service)", "Shivalik-class", "Talwar-class", "Brahmaputra-class"]
+      },
+      "corvettes": {
+        "active": 20,
+        "classes": ["Kamorta-class", "Kora-class", "Khukri-class", "Veer-class"]
+      },
+      "submarines": {
+        "nuclear_ssbn": 2,
+        "nuclear_ssn": 0,
+        "conventional": 15,
+        "total": 17
+      },
+      "patrol_vessels": {
+        "opv": 11,
+        "fac": 8
+      },
+      "amphibious_ships": {
+        "lpd": 1,
+        "lst": 5,
+        "lcu": 8
+      },
+      "mine_warfare": {
+        "minesweepers": 4
+      },
+      "auxiliaries": {
+        "tankers": 4,
+        "survey_vessels": 6,
+        "training_ships": 3
+      },
+      "naval_aviation": {
+        "fighters": 45,
+        "maritime_patrol": 20,
+        "helicopters": 100,
+        "uav": 30
+      },
+      "total_vessels": "150+ (approximately)",
+      "total_aircraft": "300+ (approximately)",
+      "personnel": "67,000+ (approximately)"
+    }
+  }
+}

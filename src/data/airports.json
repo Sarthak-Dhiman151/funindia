@@ -1,0 +1,1100 @@
+{
+  "indian_airports_funfacts": {
+    "metadata": {
+      "description": "Fun facts about airports across India",
+      "total_airports": 123,
+      "last_updated": "2024"
+    },
+    "states": {
+      "Andhra Pradesh": {
+        "airports": [
+          {
+            "name": "Visakhapatnam International Airport",
+            "iata_code": "VTZ",
+            "city": "Visakhapatnam",
+            "funfact": "This airport served as a crucial military base during World War II and was used by the Allied forces. The runway was originally built by the British in 1942."
+          },
+          {
+            "name": "Vijayawada International Airport",
+            "iata_code": "VGA",
+            "city": "Vijayawada",
+            "funfact": "Located at Gannavaram, this airport sits on land that was once a rice paddy field. It's one of the few airports where you can see the Krishna River from the runway during landing."
+          },
+          {
+            "name": "Tirupati Airport",
+            "iata_code": "TIR",
+            "city": "Tirupati",
+            "funfact": "This airport primarily serves pilgrims visiting the famous Tirumala Venkateswara Temple. During peak pilgrimage seasons, it handles more passengers than many metro airports!"
+          },
+          {
+            "name": "Rajiv Gandhi International Airport",
+            "iata_code": "CDP",
+            "city": "Kadapa",
+            "funfact": "Built in the heart of the Rayalaseema region, this airport was revived under the UDAN scheme after being defunct for years. It's named after former PM Rajiv Gandhi who had a special connection to the region."
+          },
+          {
+            "name": "Orvakal Airport",
+            "iata_code": "KJB",
+            "city": "Kurnool",
+            "funfact": "This is one of India's newest airports, opened in 2021. The terminal design is inspired by the famous Kurnool fort and incorporates local architectural elements."
+          },
+          {
+            "name": "Rajahmundry Airport",
+            "iata_code": "RJA",
+            "city": "Rajahmundry",
+            "funfact": "Known as the 'Gateway to the Godavari', this airport offers stunning aerial views of the Godavari River delta. Pilots consider the approach one of the most scenic in South India."
+          }
+        ]
+      },
+      "Arunachal Pradesh": {
+        "airports": [
+          {
+            "name": "Donyi Polo Airport",
+            "iata_code": "HGI",
+            "city": "Itanagar",
+            "funfact": "Named after the Sun (Donyi) and Moon (Polo) deities worshipped by local tribes, this airport opened in 2023 and is built using a unique 'tabletop' design carved out of a mountain, similar to Shimla airport."
+          },
+          {
+            "name": "Pasighat Airport",
+            "iata_code": "IXT",
+            "city": "Pasighat",
+            "funfact": "This is the oldest town in Arunachal Pradesh, and the airport sits at an elevation where morning fog creates mystical views. The runway is surrounded by orange orchards!"
+          },
+          {
+            "name": "Tezu Airport",
+            "iata_code": "TEI",
+            "city": "Tezu",
+            "funfact": "One of India's most remote airports, Tezu is closer to Myanmar and China than to most Indian metropolitan cities. It serves the Mishmi tribe region known for their unique bird-hunting traditions."
+          },
+          {
+            "name": "Ziro Airport",
+            "iata_code": "ZER",
+            "city": "Ziro",
+            "funfact": "Located in the Ziro Valley, a UNESCO World Heritage tentative site, this airport serves the land of the Apatani tribe known for their sustainable rice-fish farming practiced for over 5000 years."
+          },
+          {
+            "name": "Along Airport",
+            "iata_code": "IXV",
+            "city": "Along",
+            "funfact": "This airport serves as the gateway to the land of the Adi tribe, famous for their unique living root bridges. The area experiences some of the highest rainfall in India."
+          },
+          {
+            "name": "Daporijo Airport",
+            "iata_code": "DEP",
+            "city": "Daporijo",
+            "funfact": "Serving the Tagin tribe community, this airport is surrounded by dense forests that are home to the endangered clouded leopard. It's one of the least busy airports in India."
+          }
+        ]
+      },
+      "Assam": {
+        "airports": [
+          {
+            "name": "Lokpriya Gopinath Bordoloi International Airport",
+            "iata_code": "GAU",
+            "city": "Guwahati",
+            "funfact": "This airport is the gateway to the entire Northeast India and is built on the banks of the mighty Brahmaputra. During floods, the airport has occasionally had to close due to water reaching the runway perimeter!"
+          },
+          {
+            "name": "Dibrugarh Airport",
+            "iata_code": "DIB",
+            "city": "Dibrugarh",
+            "funfact": "Known as the 'Tea City of India', flights departing from here fly over the world's largest tea-growing region. The airport was established during British rule specifically for the tea trade."
+          },
+          {
+            "name": "Jorhat Airport",
+            "iata_code": "JRH",
+            "city": "Jorhat",
+            "funfact": "This airport serves as the gateway to Majuli, the world's largest river island. It's also the nearest airport to several World War II cemeteries where Allied soldiers are buried."
+          },
+          {
+            "name": "Silchar Airport",
+            "iata_code": "IXS",
+            "city": "Silchar",
+            "funfact": "Located in the Barak Valley, this airport is the lifeline for the region as road connectivity is often disrupted by landslides. It's surrounded by some of India's most biodiverse forests."
+          },
+          {
+            "name": "Tezpur Airport",
+            "iata_code": "TEZ",
+            "city": "Tezpur",
+            "funfact": "The city is mythologically known as 'Sonitpur' (City of Blood) from the Mahabharata. The airport serves as a gateway to several important Buddhist monasteries and the famous Nameri National Park."
+          },
+          {
+            "name": "Lilabari Airport",
+            "iata_code": "IXI",
+            "city": "North Lakhimpur",
+            "funfact": "This airport sits in one of the most flood-prone regions of India. The area it serves is known for producing the famous 'Assam Muga Silk', the golden silk that can only be produced in Assam."
+          },
+          {
+            "name": "Rupsi Airport",
+            "iata_code": "RUP",
+            "city": "Rupsi",
+            "funfact": "Originally built in 1940, this airport was abandoned for decades and became overgrown with vegetation. It was rediscovered and revived in 2020 under the UDAN scheme, making it a 'ghost airport' that came back to life!"
+          }
+        ]
+      },
+      "Bihar": {
+        "airports": [
+          {
+            "name": "Jay Prakash Narayan International Airport",
+            "iata_code": "PAT",
+            "city": "Patna",
+            "funfact": "This airport sits near the ancient city of Pataliputra, which was once the largest city in the world during the Mauryan Empire around 300 BCE. Archaeological remains have been found near the airport grounds."
+          },
+          {
+            "name": "Gaya Airport",
+            "iata_code": "GAY",
+            "city": "Gaya",
+            "funfact": "This airport serves Bodh Gaya, where Buddha attained enlightenment. During Buddha Purnima, the airport handles charter flights from Buddhist countries including Sri Lanka, Thailand, Japan, and Myanmar."
+          },
+          {
+            "name": "Darbhanga Airport",
+            "iata_code": "DBR",
+            "city": "Darbhanga",
+            "funfact": "Originally built by the Maharaja of Darbhanga in the 1930s for personal use, this was one of India's first private airstrips. It became a public airport only in 2020 after almost 90 years!"
+          },
+          {
+            "name": "Muzaffarpur Airport",
+            "iata_code": "MZU",
+            "city": "Muzaffarpur",
+            "funfact": "This airport serves the 'Litchi Kingdom' of India. Muzaffarpur produces over 70% of India's litchis, and during harvest season, special cargo flights transport the fruit to other cities."
+          }
+        ]
+      },
+      "Chhattisgarh": {
+        "airports": [
+          {
+            "name": "Swami Vivekananda Airport",
+            "iata_code": "RPR",
+            "city": "Raipur",
+            "funfact": "The airport terminal is designed to represent the wings of a butterfly, symbolizing transformation. Chhattisgarh produces 15% of India's steel, and many passengers are steel industry executives."
+          },
+          {
+            "name": "Bilaspur Airport",
+            "iata_code": "PAB",
+            "city": "Bilaspur",
+            "funfact": "This airport serves the 'Rice Bowl of Chhattisgarh'. The region it serves is home to over 20,000 varieties of indigenous rice, making it one of the most rice-diverse areas in the world."
+          },
+          {
+            "name": "Jagdalpur Airport",
+            "iata_code": "JGB",
+            "city": "Jagdalpur",
+            "funfact": "This airport is the gateway to Bastar, known as India's 'Tribal Heartland'. The region has more than 70 different tribal communities with unique languages and traditions largely unchanged for centuries."
+          }
+        ]
+      },
+      "Goa": {
+        "airports": [
+          {
+            "name": "Manohar International Airport",
+            "iata_code": "GOX",
+            "city": "Mopa",
+            "funfact": "Named after late CM Manohar Parrikar, this airport is built on a laterite plateau and is designed to handle 33 million passengers annually - more than Goa's entire population multiplied by 20!"
+          },
+          {
+            "name": "Goa International Airport (Dabolim)",
+            "iata_code": "GOI",
+            "city": "Dabolim",
+            "funfact": "This is a civil enclave within a naval air station, meaning commercial flights share the runway with Indian Navy aircraft. During naval exercises, commercial flights are sometimes rerouted!"
+          }
+        ]
+      },
+      "Gujarat": {
+        "airports": [
+          {
+            "name": "Sardar Vallabhbhai Patel International Airport",
+            "iata_code": "AMD",
+            "city": "Ahmedabad",
+            "funfact": "This airport has a dedicated terminal just for Hajj pilgrims, one of the largest in India. It processes over 100,000 pilgrims every year going to Mecca."
+          },
+          {
+            "name": "Surat Airport",
+            "iata_code": "STV",
+            "city": "Surat",
+            "funfact": "Surat processes 90% of the world's diamonds! The airport has special diamond cargo facilities, and millions of dollars worth of diamonds pass through here daily."
+          },
+          {
+            "name": "Vadodara Airport",
+            "iata_code": "BDQ",
+            "city": "Vadodara",
+            "funfact": "Built by the Gaekwad royal family, the original airport hangar still exists. The Maharaja of Baroda was one of India's first rulers to own an airplane in the 1930s."
+          },
+          {
+            "name": "Rajkot Airport",
+            "iata_code": "RAJ",
+            "city": "Rajkot",
+            "funfact": "Mahatma Gandhi spent his childhood in Rajkot. The airport serves as the gateway to Saurashtra region, home to the last remaining Asiatic lions in the world."
+          },
+          {
+            "name": "Bhavnagar Airport",
+            "iata_code": "BHU",
+            "city": "Bhavnagar",
+            "funfact": "This airport serves Alang, the world's largest ship-breaking yard where giant ocean liners come to be dismantled. The coastal area breaks down half of the world's decommissioned ships!"
+          },
+          {
+            "name": "Jamnagar Airport",
+            "iata_code": "JGA",
+            "city": "Jamnagar",
+            "funfact": "Jamnagar is home to the world's largest oil refinery owned by Reliance Industries. The airport also serves as a gateway to India's first marine national park."
+          },
+          {
+            "name": "Porbandar Airport",
+            "iata_code": "PBD",
+            "city": "Porbandar",
+            "funfact": "This is Mahatma Gandhi's birthplace! The airport is just 2 km from Kirti Mandir, where Gandhi was born. It's one of the smallest airports still serving commercial flights in India."
+          },
+          {
+            "name": "Bhuj Airport",
+            "iata_code": "BHJ",
+            "city": "Bhuj",
+            "funfact": "This airport played a crucial role in the 1971 India-Pakistan war. It was bombed but remained operational. Today, it serves tourists visiting the Rann of Kutch, the world's largest salt desert."
+          },
+          {
+            "name": "Kandla Airport",
+            "iata_code": "IXY",
+            "city": "Kandla",
+            "funfact": "Kandla Port is India's largest port by cargo volume. The airport primarily serves commercial shipping executives and is one of the few airports where you might see more cargo planes than passenger flights."
+          },
+          {
+            "name": "Keshod Airport",
+            "iata_code": "IXK",
+            "city": "Keshod",
+            "funfact": "This tiny airport is the closest to Somnath Temple, one of the 12 Jyotirlingas. It operates only a few flights per week, making it one of India's least busy commercial airports."
+          }
+        ]
+      },
+      "Haryana": {
+        "airports": [
+          {
+            "name": "Hisar Airport",
+            "iata_code": "HSS",
+            "city": "Hisar",
+            "funfact": "Hisar has one of the oldest flying clubs in India, established in 1936. The airport also houses a Haryana Institute of Civil Aviation that has trained thousands of pilots."
+          },
+          {
+            "name": "Bhiwani Airport",
+            "iata_code": "BWN",
+            "city": "Bhiwani",
+            "funfact": "Bhiwani is known as the 'City of Boxers' having produced numerous Olympic and international boxing champions. The airport primarily serves sports training facilities in the region."
+          },
+          {
+            "name": "Karnal Airport",
+            "iata_code": "KUU",
+            "city": "Karnal",
+            "funfact": "Karnal is named after Karna from the Mahabharata. The region is also home to the National Dairy Research Institute, making it the 'Dairy Capital of India'."
+          }
+        ]
+      },
+      "Himachal Pradesh": {
+        "airports": [
+          {
+            "name": "Shimla Airport (Jubbarhatti)",
+            "iata_code": "SLV",
+            "city": "Shimla",
+            "funfact": "At 5,072 feet elevation, this has one of the shortest runways in India at just 1,260 meters. Only specially trained pilots can land here, and only small ATR aircraft operate due to the challenging terrain."
+          },
+          {
+            "name": "Kullu Manali Airport (Bhuntar)",
+            "iata_code": "KUU",
+            "city": "Kullu",
+            "funfact": "Surrounded by towering Himalayan peaks, this airport has a 'black hole' approach where pilots must navigate through a narrow valley. Flights only operate in the morning before winds pick up."
+          },
+          {
+            "name": "Gaggal Airport (Kangra)",
+            "iata_code": "DHM",
+            "city": "Dharamshala",
+            "funfact": "This airport serves the residence of the Dalai Lama in McLeodganj. It sees a high number of Tibetan monks and international visitors seeking audiences with His Holiness."
+          }
+        ]
+      },
+      "Jharkhand": {
+        "airports": [
+          {
+            "name": "Birsa Munda Airport",
+            "iata_code": "IXR",
+            "city": "Ranchi",
+            "funfact": "Named after the legendary tribal freedom fighter Birsa Munda, this airport sits at an elevation of 2,148 feet, giving Ranchi its nickname 'City of Waterfalls' due to the cool climate."
+          },
+          {
+            "name": "Sonari Airport",
+            "iata_code": "IXW",
+            "city": "Jamshedpur",
+            "funfact": "Jamshedpur is India's first planned industrial city, built by the Tatas. The airport serves TATA Steel's headquarters - India's oldest and largest private sector steel company."
+          },
+          {
+            "name": "Bokaro Airport",
+            "iata_code": "BKR",
+            "city": "Bokaro",
+            "funfact": "Bokaro Steel City was built with Soviet collaboration during the Cold War. The airport served to transport Russian engineers during the plant's construction in the 1960s."
+          },
+          {
+            "name": "Deoghar Airport",
+            "iata_code": "DGH",
+            "city": "Deoghar",
+            "funfact": "Opened in 2022, this airport serves the famous Baidyanath Temple, one of the 12 Jyotirlingas. During the Shravan month, millions of pilgrims visit, making it one of the world's largest religious gatherings."
+          },
+          {
+            "name": "Dumka Airport",
+            "iata_code": "DMU",
+            "city": "Dumka",
+            "funfact": "Dumka is the headquarters of the Santhal Parganas division, home to the Santhal tribe - one of India's largest tribal communities with their own script called 'Ol Chiki'."
+          }
+        ]
+      },
+      "Karnataka": {
+        "airports": [
+          {
+            "name": "Kempegowda International Airport",
+            "iata_code": "BLR",
+            "city": "Bengaluru",
+            "funfact": "This airport has a vertical garden with over 3,700 square meters of living plants - one of the largest in any airport worldwide. It also has a dedicated pet relief area called 'Paws Park'!"
+          },
+          {
+            "name": "Mangaluru International Airport",
+            "iata_code": "IXE",
+            "city": "Mangaluru",
+            "funfact": "This is a tabletop airport carved from a hill, similar to aircraft carriers. The runway has a steep cliff at one end, making it one of India's most challenging airports for pilots."
+          },
+          {
+            "name": "Mysore Airport",
+            "iata_code": "MYQ",
+            "city": "Mysuru",
+            "funfact": "Mysore was one of the first cities in India to have an airport, established by the Wodeyar Maharajas in the 1940s. The royal family was among the first Indians to own private aircraft."
+          },
+          {
+            "name": "Hubli Airport",
+            "iata_code": "HBX",
+            "city": "Hubballi",
+            "funfact": "Hubli is the commercial capital of North Karnataka and the only city with its own railway division. The airport terminal design incorporates local Dharwad stone architecture."
+          },
+          {
+            "name": "Belgaum Airport",
+            "iata_code": "IXG",
+            "city": "Belagavi",
+            "funfact": "This airport operates within an Indian Air Force station. Belagavi hosted the 1924 Indian National Congress session where Mahatma Gandhi was elected as the Congress president."
+          },
+          {
+            "name": "Bidar Airport",
+            "iata_code": "IXB",
+            "city": "Bidar",
+            "funfact": "Bidar is home to India's premier pilot training facility - the Air Force Technical College. Many Indian Air Force pilots received their initial training on this airfield."
+          },
+          {
+            "name": "Kalaburagi Airport",
+            "iata_code": "GBI",
+            "city": "Kalaburagi",
+            "funfact": "Kalaburagi (formerly Gulbarga) houses the Khwaja Bandanawaz Dargah, one of South India's most important Sufi shrines. The airport serves thousands of pilgrims from across the globe."
+          },
+          {
+            "name": "Shimoga Airport",
+            "iata_code": "RQY",
+            "city": "Shivamogga",
+            "funfact": "This airport serves as the gateway to the Sharavathi Valley and Jog Falls - India's second-highest plunge waterfall at 253 meters. The region receives over 7,000mm of annual rainfall!"
+          }
+        ]
+      },
+      "Kerala": {
+        "airports": [
+          {
+            "name": "Cochin International Airport",
+            "iata_code": "COK",
+            "city": "Kochi",
+            "funfact": "This is the world's first airport to run entirely on solar power! It has over 46,000 solar panels that generate more electricity than the airport consumes, making it carbon-negative."
+          },
+          {
+            "name": "Trivandrum International Airport",
+            "iata_code": "TRV",
+            "city": "Thiruvananthapuram",
+            "funfact": "This airport is just 6 km from the Sree Padmanabhaswamy Temple, which holds the world's largest treasure ever discovered - worth over $22 billion in gold and jewels hidden in underground vaults!"
+          },
+          {
+            "name": "Calicut International Airport",
+            "iata_code": "CCJ",
+            "city": "Kozhikode",
+            "funfact": "Built on a hilltop at 342 feet elevation, this is a tabletop runway. Kozhikode is where Vasco da Gama first landed in India in 1498, changing world history forever."
+          },
+          {
+            "name": "Kannur International Airport",
+            "iata_code": "CNN",
+            "city": "Kannur",
+            "funfact": "This is India's first airport built under public-private partnership with the state government holding majority. Kannur is famous for Theyyam - a ritual dance where performers become living gods."
+          }
+        ]
+      },
+      "Madhya Pradesh": {
+        "airports": [
+          {
+            "name": "Raja Bhoj Airport",
+            "iata_code": "BHO",
+            "city": "Bhopal",
+            "funfact": "Named after the legendary King Bhoj who founded Bhopal around 1000 CE. The city is known as the 'City of Lakes' and the airport overlooks the beautiful Upper Lake built by King Bhoj himself."
+          },
+          {
+            "name": "Devi Ahilyabai Holkar Airport",
+            "iata_code": "IDR",
+            "city": "Indore",
+            "funfact": "Indore has been ranked as India's cleanest city multiple times. The airport is named after the visionary queen Ahilyabai Holkar who built over 100 temples across India in the 18th century."
+          },
+          {
+            "name": "Gwalior Airport",
+            "iata_code": "GWL",
+            "city": "Gwalior",
+            "funfact": "The legendary Tansen, one of India's greatest musicians, lived in Gwalior. The city also has the world's oldest known inscription of zero (0) dating to the 9th century!"
+          },
+          {
+            "name": "Jabalpur Airport (Dumna)",
+            "iata_code": "JLR",
+            "city": "Jabalpur",
+            "funfact": "Jabalpur is where the marble rocks of Bhedaghat create a moonlight canyon effect. The airport serves as a gateway to this geological wonder that's been forming for over 3 billion years."
+          },
+          {
+            "name": "Khajuraho Airport",
+            "iata_code": "HJR",
+            "city": "Khajuraho",
+            "funfact": "This airport exists solely to serve tourists visiting the UNESCO World Heritage Khajuraho temples. These 1000-year-old temples feature erotic sculptures that were 'lost' in forests until rediscovered by a British engineer in 1838!"
+          },
+          {
+            "name": "Satna Airport",
+            "iata_code": "TNI",
+            "city": "Satna",
+            "funfact": "Satna is one of India's largest cement-producing regions. The airport serves Chitrakoot, where Lord Rama spent 11 years of his exile according to the Ramayana."
+          },
+          {
+            "name": "Singrauli Airport",
+            "iata_code": "SLI",
+            "city": "Singrauli",
+            "funfact": "Singrauli is called India's 'Energy Capital' as it houses the largest cluster of coal-based power plants in the country, generating over 20% of India's thermal power."
+          }
+        ]
+      },
+      "Maharashtra": {
+        "airports": [
+          {
+            "name": "Chhatrapati Shivaji Maharaj International Airport",
+            "iata_code": "BOM",
+            "city": "Mumbai",
+            "funfact": "This airport handles over 1,000 flights daily and is built on reclaimed land that was originally seven islands! The GVK Lounge here was voted Asia's best airport lounge multiple times."
+          },
+          {
+            "name": "Pune Airport (Lohegaon)",
+            "iata_code": "PNQ",
+            "city": "Pune",
+            "funfact": "This airport operates within an Indian Air Force station that was originally built by the British in 1939. It's one of the busiest air force stations that also handles commercial traffic."
+          },
+          {
+            "name": "Dr. Babasaheb Ambedkar International Airport",
+            "iata_code": "NAG",
+            "city": "Nagpur",
+            "funfact": "Nagpur is the geographical center of India - a 'Zero Mile' marker exists in the city. The airport serves as an ideal refueling hub for flights between South and North India."
+          },
+          {
+            "name": "Chhatrapati Sambhaji Maharaj Airport",
+            "iata_code": "IXU",
+            "city": "Aurangabad",
+            "funfact": "This airport serves the Ajanta and Ellora caves - where Buddhist monks carved entire mountains into monasteries over 2,000 years ago. Some caves were created 800 years before the Taj Mahal!"
+          },
+          {
+            "name": "Kolhapur Airport",
+            "iata_code": "KLH",
+            "city": "Kolhapur",
+            "funfact": "Kolhapur is famous for its wrestling tradition. It's also where the 'Kolhapuri chappal' (sandal) originated - a 2,000-year-old leather footwear still made by hand using vegetable-tanned leather."
+          },
+          {
+            "name": "Nashik Airport (Ozar)",
+            "iata_code": "ISK",
+            "city": "Nashik",
+            "funfact": "Nashik hosts the Kumbh Mela every 12 years - the world's largest religious gathering with over 30 million attendees! The airport runs extra flights during this period."
+          },
+          {
+            "name": "Shirdi Airport",
+            "iata_code": "SAG",
+            "city": "Shirdi",
+            "funfact": "Built specifically to serve the Sai Baba Temple, this airport sees over 25,000 pilgrims every day! It's one of the few airports in India built primarily for religious tourism."
+          },
+          {
+            "name": "Nanded Airport",
+            "iata_code": "NDC",
+            "city": "Nanded",
+            "funfact": "Nanded houses the Hazur Sahib Gurdwara - one of the five Takhts (thrones) in Sikhism where Guru Gobind Singh spent his final days. Special flights connect it to Amritsar."
+          },
+          {
+            "name": "Jalgaon Airport",
+            "iata_code": "JLG",
+            "city": "Jalgaon",
+            "funfact": "Jalgaon produces 60% of India's bananas! The airport serves the famous Ajanta Caves, discovered by a British officer during a tiger hunt in 1819."
+          },
+          {
+            "name": "Solapur Airport",
+            "iata_code": "SSE",
+            "city": "Solapur",
+            "funfact": "Solapur is known as the 'Manchester of India' for its textile industry, producing the famous 'Chaddar' (sheet/blanket). The city has been weaving textiles for over 500 years."
+          },
+          {
+            "name": "Navi Mumbai International Airport",
+            "iata_code": "NMI",
+            "city": "Navi Mumbai",
+            "funfact": "When completed, this will be one of the world's largest greenfield airports, built by relocating an entire village and thousands of mangrove trees. It will handle 90 million passengers annually!"
+          }
+        ]
+      },
+      "Manipur": {
+        "airports": [
+          {
+            "name": "Bir Tikendrajit International Airport",
+            "iata_code": "IMF",
+            "city": "Imphal",
+            "funfact": "Named after a prince who led a revolt against British rule in 1891. This airport serves as the gateway to Loktak Lake, home to the world's only floating national park with its unique 'phumdis' (floating islands)."
+          }
+        ]
+      },
+      "Meghalaya": {
+        "airports": [
+          {
+            "name": "Shillong Airport (Umroi)",
+            "iata_code": "SHL",
+            "city": "Shillong",
+            "funfact": "Shillong was called the 'Scotland of the East' by the British. The airport serves a region that receives some of the highest rainfall on Earth - Mawsynram nearby gets over 11,000mm annually!"
+          },
+          {
+            "name": "Baljek Airport",
+            "iata_code": "TUR",
+            "city": "Tura",
+            "funfact": "Tura is home to the Garo tribe who practice 'Nokma' - a matrilineal system where property passes from mother to daughter. The region also has some of the longest caves in the Indian subcontinent."
+          }
+        ]
+      },
+      "Mizoram": {
+        "airports": [
+          {
+            "name": "Lengpui Airport",
+            "iata_code": "AJL",
+            "city": "Aizawl",
+            "funfact": "This airport is built on a hilltop at 1,350 meters elevation, with valleys on both sides of the runway. Mizoram has the highest literacy rate in India at 91.58%!"
+          }
+        ]
+      },
+      "Nagaland": {
+        "airports": [
+          {
+            "name": "Dimapur Airport",
+            "iata_code": "DMU",
+            "city": "Dimapur",
+            "funfact": "Dimapur has ruins of the Kachari Kingdom dating to the 10th century, with mysterious mushroom-shaped stones called 'Dima Hasao'. The region is home to 16 major tribes, each with their own language."
+          }
+        ]
+      },
+      "Odisha": {
+        "airports": [
+          {
+            "name": "Biju Patnaik International Airport",
+            "iata_code": "BBI",
+            "city": "Bhubaneswar",
+            "funfact": "Named after legendary aviator and politician Biju Patnaik who once rescued the Indonesian Prime Minister in his personal plane during their independence struggle! He's called 'Biju Babu' affectionately."
+          },
+          {
+            "name": "Veer Surendra Sai Airport",
+            "iata_code": "JRG",
+            "city": "Jharsuguda",
+            "funfact": "This region is called the 'Powerhouse of Odisha' with multiple power plants. The airport is named after a freedom fighter who fought the British for 25 years and was never captured alive!"
+          },
+          {
+            "name": "Rourkela Airport",
+            "iata_code": "RRK",
+            "city": "Rourkela",
+            "funfact": "Rourkela houses India's first public sector steel plant built with German collaboration in 1959. The city was planned by the Germans and still maintains its European-style grid layout."
+          },
+          {
+            "name": "Jeypore Airport",
+            "iata_code": "PYB",
+            "city": "Jeypore",
+            "funfact": "Jeypore serves the Koraput region, home to 62 different tribal communities. The area is known as 'Eastern Ghats Biodiversity Hotspot' with species found nowhere else on Earth."
+          }
+        ]
+      },
+      "Punjab": {
+        "airports": [
+          {
+            "name": "Sri Guru Ram Dass Jee International Airport",
+            "iata_code": "ATQ",
+            "city": "Amritsar",
+            "funfact": "This airport serves the Golden Temple, Sikhism's holiest shrine. It's the only international airport in India named after a Sikh Guru. The langar (community kitchen) at Golden Temple feeds 100,000 people daily for free!"
+          },
+          {
+            "name": "Sahnewal Airport",
+            "iata_code": "LUH",
+            "city": "Ludhiana",
+            "funfact": "Ludhiana produces more bicycles than the rest of India combined - over 10 million cycles per year! It's called the 'Manchester of India' for its textile and manufacturing industries."
+          },
+          {
+            "name": "Pathankot Airport",
+            "iata_code": "IXP",
+            "city": "Pathankot",
+            "funfact": "This airport is near the India-Pakistan border and was the site of a terror attack in 2016 that led to major security upgrades. It serves as a gateway to Himachal Pradesh and Jammu."
+          },
+          {
+            "name": "Bathinda Airport",
+            "iata_code": "BUP",
+            "city": "Bathinda",
+            "funfact": "Bathinda Fort is one of the oldest forts in India where Razia Sultana, India's first female ruler, was imprisoned. The region is also famous for its thermal power plants."
+          },
+          {
+            "name": "Adampur Airport",
+            "iata_code": "AIP",
+            "city": "Jalandhar",
+            "funfact": "This is primarily an Indian Air Force station that handles limited civilian traffic. Jalandhar is the largest producer of sports goods in India, manufacturing equipment for the Olympics!"
+          }
+        ]
+      },
+      "Rajasthan": {
+        "airports": [
+          {
+            "name": "Jaipur International Airport",
+            "iata_code": "JAI",
+            "city": "Jaipur",
+            "funfact": "The terminal design incorporates traditional Rajasthani architecture with pink sandstone. Jaipur is called the 'Pink City' because in 1876, the entire city was painted pink to welcome Prince Albert!"
+          },
+          {
+            "name": "Maharana Pratap Airport",
+            "iata_code": "UDR",
+            "city": "Udaipur",
+            "funfact": "Udaipur was the only Rajput kingdom that never surrendered to the Mughals. The airport terminal is designed like a palace with traditional Mewar architecture, honoring the warrior king Maharana Pratap."
+          },
+          {
+            "name": "Jodhpur Airport",
+            "iata_code": "JDH",
+            "city": "Jodhpur",
+            "funfact": "Jodhpur is called the 'Blue City' because Brahmin houses were painted blue to indicate their caste, but eventually everyone adopted the color! The blue paint also repels insects naturally."
+          },
+          {
+            "name": "Jaisalmer Airport",
+            "iata_code": "JSA",
+            "city": "Jaisalmer",
+            "funfact": "This airport serves the 'Golden City' where the entire fort is still inhabited by 3,000 people - one of the few 'living forts' in the world. It's also the gateway to India's nuclear testing site at Pokhran."
+          },
+          {
+            "name": "Bikaner Airport (Nal)",
+            "iata_code": "BKB",
+            "city": "Bikaner",
+            "funfact": "Bikaner is famous for the Karni Mata Temple where 25,000 rats are worshipped as sacred! The airport also serves India's largest camel research center, the only one of its kind in Asia."
+          },
+          {
+            "name": "Kota Airport",
+            "iata_code": "KTU",
+            "city": "Kota",
+            "funfact": "Kota has become India's 'Coaching Capital' with over 200,000 students preparing for engineering and medical entrance exams. The city's student population is larger than many Indian cities!"
+          },
+          {
+            "name": "Kishangarh Airport",
+            "iata_code": "KQH",
+            "city": "Ajmer",
+            "funfact": "This airport serves Ajmer, home to the Dargah Sharif - the tomb of Sufi saint Moinuddin Chishti visited by millions including celebrities and politicians from around the world, regardless of religion."
+          }
+        ]
+      },
+      "Sikkim": {
+        "airports": [
+          {
+            "name": "Pakyong Airport",
+            "iata_code": "PYG",
+            "city": "Gangtok",
+            "funfact": "At 4,593 feet, this is one of the highest airports in India, built by cutting through a mountain and filling a valley! It's also the 100th airport in India and the first in Sikkim, opening in 2018."
+          }
+        ]
+      },
+      "Tamil Nadu": {
+        "airports": [
+          {
+            "name": "Chennai International Airport",
+            "iata_code": "MAA",
+            "city": "Chennai",
+            "funfact": "This airport has a unique 'Eco Garden' inside the terminal with 2,000+ plants. Chennai was called 'Madras' until 1996, and the airport code 'MAA' still reflects the old name!"
+          },
+          {
+            "name": "Coimbatore International Airport",
+            "iata_code": "CJB",
+            "city": "Coimbatore",
+            "funfact": "Coimbatore is called the 'Manchester of South India' for its textile mills. The airport serves Isha Foundation where the largest bust statue in the world - the 112-feet Adiyogi Shiva - is located."
+          },
+          {
+            "name": "Madurai Airport",
+            "iata_code": "IXM",
+            "city": "Madurai",
+            "funfact": "Madurai is one of the oldest continuously inhabited cities in the world - over 2,500 years old! The airport serves the Meenakshi Temple with 33,000 sculptures on its 14 towering gopurams."
+          },
+          {
+            "name": "Tiruchirappalli International Airport",
+            "iata_code": "TRZ",
+            "city": "Tiruchirappalli",
+            "funfact": "Trichy (as it's called) has a massive rock fort where the Pallavas, Cholas, and Nayaks built temples over 1,300 years. The airport handles heavy cargo of temple artifacts and traditional crafts."
+          },
+          {
+            "name": "Tuticorin Airport",
+            "iata_code": "TCR",
+            "city": "Tuticorin",
+            "funfact": "Tuticorin is famous for pearl diving - it was once called 'Pearl City' and exported pearls to the Roman Empire 2,000 years ago! The Gulf of Mannar has some of the richest marine biodiversity."
+          },
+          {
+            "name": "Salem Airport",
+            "iata_code": "SXV",
+            "city": "Salem",
+            "funfact": "Salem is famous for its steel and is known as 'Steel City'. The region produces unique Salem steel that was so sought after by the British that they tried to monopolize its production."
+          },
+          {
+            "name": "Thanjavur Airport",
+            "iata_code": "TJV",
+            "city": "Thanjavur",
+            "funfact": "Thanjavur houses the 1,000-year-old Brihadeeswara Temple whose shadow never falls on the ground at noon! The 80-ton granite dome was transported 50 km using elephants and a 6 km ramp."
+          },
+          {
+            "name": "Puducherry Airport",
+            "iata_code": "PNY",
+            "city": "Puducherry",
+            "funfact": "Puducherry (Pondicherry) was a French colony until 1954, and the airport serves a city that still has French street names, colonial architecture, and French as an official language!"
+          }
+        ]
+      },
+      "Telangana": {
+        "airports": [
+          {
+            "name": "Rajiv Gandhi International Airport",
+            "iata_code": "HYD",
+            "city": "Hyderabad",
+            "funfact": "This airport has India's largest solar power plant at any airport, generating 5 MW of clean energy. It also houses an aircraft maintenance facility that can handle the world's largest aircraft, the A380!"
+          },
+          {
+            "name": "Warangal Airport",
+            "iata_code": "WGC",
+            "city": "Warangal",
+            "funfact": "Warangal was the capital of the Kakatiya dynasty who built the famous Thousand Pillar Temple. The airport serves ruins of a fort with four massive gates that inspired the Telangana state logo."
+          }
+        ]
+      },
+      "Tripura": {
+        "airports": [
+          {
+            "name": "Maharaja Bir Bikram Airport",
+            "iata_code": "IXA",
+            "city": "Agartala",
+            "funfact": "This airport is located just 2 km from the Bangladesh border - you can see Bangladeshi villages from the runway! It's the third busiest airport in Northeast India."
+          }
+        ]
+      },
+      "Uttar Pradesh": {
+        "airports": [
+          {
+            "name": "Chaudhary Charan Singh International Airport",
+            "iata_code": "LKO",
+            "city": "Lucknow",
+            "funfact": "Lucknow is famous for its 'Tehzeeb' (etiquette) and 'Pehle Aap' (You First) culture. The airport design incorporates elements of Awadhi architecture with its famous domed ceilings and arches."
+          },
+          {
+            "name": "Lal Bahadur Shastri International Airport",
+            "iata_code": "VNS",
+            "city": "Varanasi",
+            "funfact": "Varanasi is the oldest continuously inhabited city in the world - older than history itself! Mark Twain wrote 'Benares is older than history, older than tradition, older even than legend.'"
+          },
+          {
+            "name": "Agra Airport (Kheria)",
+            "iata_code": "AGR",
+            "city": "Agra",
+            "funfact": "This airport serves the Taj Mahal - visited by 8 million people annually! The monument changes color throughout the day: pinkish at dawn, milky white during day, and golden at moonlight."
+          },
+          {
+            "name": "Kanpur Airport (Chakeri)",
+            "iata_code": "KNU",
+            "city": "Kanpur",
+            "funfact": "Kanpur is called the 'Leather City of India' and exports leather products globally. The city also witnessed one of the most tragic events of the 1857 rebellion at the Bibighar well."
+          },
+          {
+            "name": "Gorakhpur Airport",
+            "iata_code": "GOP",
+            "city": "Gorakhpur",
+            "funfact": "Gorakhpur has the world's longest railway platform at 1.35 km! The city is named after the saint Gorakhnath and serves Buddhist pilgrims visiting Kushinagar where Buddha attained Mahaparinirvana."
+          },
+          {
+            "name": "Allahabad Airport (Bamrauli)",
+            "iata_code": "IXD",
+            "city": "Prayagraj",
+            "funfact": "Prayagraj (formerly Allahabad) hosts the Kumbh Mela at the Sangam - confluence of three rivers. The 2019 Kumbh was visible from space and had 240 million visitors over 49 days!"
+          },
+          {
+            "name": "Kushinagar International Airport",
+            "iata_code": "KBK",
+            "city": "Kushinagar",
+            "funfact": "Opened in 2021, this airport serves the exact location where Buddha died and attained Parinirvana around 483 BCE. Special charter flights bring Buddhist pilgrims from Sri Lanka, Japan, and Thailand."
+          },
+          {
+            "name": "Bareilly Airport",
+            "iata_code": "BEK",
+            "city": "Bareilly",
+            "funfact": "Bareilly is famous for 'Surma' (antimony eyeliner) and the romantic song 'Bareilly Wali' that makes it famous across India. The city has been a military cantonment since British times."
+          },
+          {
+            "name": "Hindon Airport",
+            "iata_code": "HDO",
+            "city": "Ghaziabad",
+            "funfact": "Hindon is Asia's largest air force station! It now operates civilian flights, serving as Delhi's second airport. The airbase handles military transport of VVIPs and heavy cargo aircraft."
+          },
+          {
+            "name": "Ayodhya Airport",
+            "iata_code": "AYJ",
+            "city": "Ayodhya",
+            "funfact": "Opened in 2024, this airport serves the birthplace of Lord Rama and the newly built Ram Mandir. The terminal architecture is inspired by the ancient temple architecture of Ayodhya."
+          },
+          {
+            "name": "Noida International Airport (Jewar)",
+            "iata_code": "DXN",
+            "city": "Greater Noida",
+            "funfact": "When complete, this will be India's largest airport with capacity for 70 million passengers! It will be Asia's first net-zero carbon emission airport, built on land where the Mahabharata's Indraprastha once stood."
+          }
+        ]
+      },
+      "Uttarakhand": {
+        "airports": [
+          {
+            "name": "Jolly Grant Airport",
+            "iata_code": "DED",
+            "city": "Dehradun",
+            "funfact": "Dehradun sits in a valley between the Himalayas and Shivalik hills. The airport serves as the gateway to the Char Dham pilgrimage - four sacred Hindu temples that every Hindu aspires to visit."
+          },
+          {
+            "name": "Pantnagar Airport",
+            "iata_code": "PGH",
+            "city": "Pantnagar",
+            "funfact": "Pantnagar houses India's first agricultural university, modeled after American land-grant universities. It played a crucial role in the Green Revolution that made India self-sufficient in food."
+          },
+          {
+            "name": "Pithoragarh Airport",
+            "iata_code": "NNS",
+            "city": "Pithoragarh",
+            "funfact": "Called 'Little Kashmir', this airport is surrounded by snow-capped Himalayan peaks. It serves the starting point for the Kailash Mansarovar Yatra, a pilgrimage to one of the world's most sacred mountains."
+          },
+          {
+            "name": "Chinyalisaur Airport",
+            "iata_code": "UTK",
+            "city": "Uttarkashi",
+            "funfact": "Uttarkashi is where the Nehru Institute of Mountaineering trains aspiring climbers for Himalayan expeditions. Many Everest summiteers started their training in this region!"
+          }
+        ]
+      },
+      "West Bengal": {
+        "airports": [
+          {
+            "name": "Netaji Subhas Chandra Bose International Airport",
+            "iata_code": "CCU",
+            "city": "Kolkata",
+            "funfact": "This is India's oldest operating airport, established in 1924! It was renamed 'Dum Dum Airport' after the nearby Dum Dum Arsenal where the infamous 'dum-dum bullet' (expanding bullet) was invented."
+          },
+          {
+            "name": "Bagdogra Airport",
+            "iata_code": "IXB",
+            "city": "Siliguri",
+            "funfact": "This airport is the gateway to Darjeeling, Sikkim, and Bhutan. It sits in the narrow 'Chicken's Neck' corridor - India's most strategically vulnerable land connection to the Northeast!"
+          },
+          {
+            "name": "Kazi Nazrul Islam Airport",
+            "iata_code": "RDP",
+            "city": "Durgapur",
+            "funfact": "Named after the revolutionary poet who wrote Bangladesh's national anthem! Durgapur is called the 'Ruhr of India' after Germany's industrial region, being one of India's largest steel and power hubs."
+          },
+          {
+            "name": "Cooch Behar Airport",
+            "iata_code": "COH",
+            "city": "Cooch Behar",
+            "funfact": "Cooch Behar was a separate kingdom until 1949 with its own palace modeled after Buckingham Palace! The royal family's Maharani was so influential that 'Gayatri' became a popular name across India."
+          },
+          {
+            "name": "Balurghat Airport",
+            "iata_code": "RGH",
+            "city": "Balurghat",
+            "funfact": "This small airport serves the 'Raiganj Wildlife Sanctuary', home to the second-largest bird colony in Asia. Over 100,000 birds migrate here annually from Siberia and Central Asia!"
+          },
+          {
+            "name": "Malda Airport",
+            "iata_code": "LDA",
+            "city": "Malda",
+            "funfact": "Malda is famous for its mangoes - the 'Malda Mango' is exported worldwide. The district also houses the ruins of Gaur, once the largest city in South Asia with a population of 200,000 in the 14th century!"
+          }
+        ]
+      }
+    },
+    "union_territories": {
+      "Andaman and Nicobar Islands": {
+        "airports": [
+          {
+            "name": "Veer Savarkar International Airport",
+            "iata_code": "IXZ",
+            "city": "Port Blair",
+            "funfact": "This airport is surrounded by ocean on three sides! Port Blair houses the infamous Cellular Jail where Indian freedom fighters were exiled - each prisoner could only see the sky from their cell."
+          },
+          {
+            "name": "Car Nicobar Airport",
+            "iata_code": "CBD",
+            "city": "Car Nicobar",
+            "funfact": "This is one of India's southernmost airports, closer to Indonesia than to mainland India. The 2004 tsunami completely devastated this island, and the airport was rebuilt from scratch."
+          },
+          {
+            "name": "Campbell Bay Airport",
+            "iata_code": "CBY",
+            "city": "Campbell Bay",
+            "funfact": "India's southernmost airport! It's only 190 km from Sumatra, Indonesia. The Great Nicobar Island is so remote that the indigenous Shompen tribe here has had minimal contact with the outside world."
+          }
+        ]
+      },
+      "Chandigarh": {
+        "airports": [
+          {
+            "name": "Chandigarh International Airport",
+            "iata_code": "IXC",
+            "city": "Chandigarh",
+            "funfact": "Chandigarh was designed by the French architect Le Corbusier - the only city in India entirely planned by a foreign architect. The airport serves as the shared capital of two states - Punjab and Haryana!"
+          }
+        ]
+      },
+      "Dadra and Nagar Haveli and Daman and Diu": {
+        "airports": [
+          {
+            "name": "Diu Airport",
+            "iata_code": "DIU",
+            "city": "Diu",
+            "funfact": "Diu was a Portuguese colony until 1961 - one of the last European colonies in India! The airport serves this tiny island where alcohol is easily available, making it popular with tourists from neighboring 'dry' Gujarat."
+          }
+        ]
+      },
+      "Delhi": {
+        "airports": [
+          {
+            "name": "Indira Gandhi International Airport",
+            "iata_code": "DEL",
+            "city": "New Delhi",
+            "funfact": "Terminal 3 has the world's largest single-roof structure made of steel - no internal pillars! It can handle more passengers than the entire city of Florence, Italy. The airport also has a 'Yoga Lounge' for travelers."
+          },
+          {
+            "name": "Safdarjung Airport",
+            "iata_code": "SFD",
+            "city": "New Delhi",
+            "funfact": "Built in 1929, this was Delhi's first airport! Prime Ministers used it until the 1960s. It's now used for flying clubs and VIP helicopters, and is named after Safdarjung, a Mughal-era nobleman whose tomb is nearby."
+          }
+        ]
+      },
+      "Jammu and Kashmir": {
+        "airports": [
+          {
+            "name": "Sheikh ul-Alam International Airport",
+            "iata_code": "SXR",
+            "city": "Srinagar",
+            "funfact": "This airport offers one of the most breathtaking landings in the world - descending between snow-capped Himalayan peaks into the Kashmir Valley. Pilots require special training for the challenging approach!"
+          },
+          {
+            "name": "Jammu Airport",
+            "iata_code": "IXJ",
+            "city": "Jammu",
+            "funfact": "Jammu is called the 'City of Temples' with over 300 religious sites. The airport serves pilgrims visiting Vaishno Devi temple - one of the most visited religious sites globally with 8 million visitors annually!"
+          }
+        ]
+      },
+      "Ladakh": {
+        "airports": [
+          {
+            "name": "Kushok Bakula Rimpochee Airport",
+            "iata_code": "IXL",
+            "city": "Leh",
+            "funfact": "At 10,682 feet, this is India's highest commercial airport! Flights only operate in the morning before winds pick up. The air is so thin that aircraft can only fly half-loaded with passengers and cargo."
+          },
+          {
+            "name": "Kargil Airport",
+            "iata_code": "IXK",
+            "city": "Kargil",
+            "funfact": "Kargil was the site of the 1999 India-Pakistan war fought at 18,000 feet - the highest altitude warfare in history! The airport serves tourists and military personnel in this strategically crucial region."
+          }
+        ]
+      },
+      "Lakshadweep": {
+        "airports": [
+          {
+            "name": "Agatti Airport",
+            "iata_code": "AGX",
+            "city": "Agatti Island",
+            "funfact": "This is India's only airport with a runway surrounded by coral reefs and crystal-clear turquoise lagoons! The runway is so short (1,204m) that only specially designed aircraft can land here."
+          }
+        ]
+      },
+      "Puducherry": {
+        "airports": [
+          {
+            "name": "Puducherry Airport",
+            "iata_code": "PNY",
+            "city": "Puducherry",
+            "funfact": "Puducherry has a unique Franco-Tamil culture - the airport announcements are in French, Tamil, and English! The city has more French restaurants per capita than any Indian city and still uses French-style yellow street signs."
+          }
+        ]
+      }
+    },
+    "bonus_facts": {
+      "most_challenging_airports": [
+        {
+          "name": "Kullu Manali Airport",
+          "reason": "Valley approach between mountains with unpredictable winds"
+        },
+        {
+          "name": "Leh Kushok Bakula Airport",
+          "reason": "Highest altitude with thin air requiring specialized aircraft"
+        },
+        {
+          "name": "Mangaluru Airport",
+          "reason": "Tabletop runway with steep cliff at one end"
+        },
+        {
+          "name": "Shimla Airport",
+          "reason": "Shortest runway in India at just 1,260 meters"
+        }
+      ],
+      "unique_airports": [
+        {
+          "fact": "Cochin Airport is world's first fully solar-powered airport"
+        },
+        {
+          "fact": "Kolkata Airport is India's oldest, operating since 1924"
+        },
+        {
+          "fact": "Delhi T3 has world's largest single-roof structure"
+        },
+        {
+          "fact": "Agatti Airport has a runway surrounded by coral reef lagoons"
+        },
+        {
+          "fact": "Campbell Bay Airport is closer to Indonesia than Delhi"
+        }
+      ],
+      "airports_with_religious_significance": [
+        {
+          "airport": "Shirdi Airport",
+          "significance": "Serves Sai Baba Temple"
+        },
+        {
+          "airport": "Tirupati Airport",
+          "significance": "Serves Tirumala Venkateswara Temple"
+        },
+        {
+          "airport": "Amritsar Airport",
+          "significance": "Serves Golden Temple"
+        },
+        {
+          "airport": "Varanasi Airport",
+          "significance": "Serves world's oldest inhabited city and ghats"
+        },
+        {
+          "airport": "Gaya Airport",
+          "significance": "Serves Bodh Gaya where Buddha attained enlightenment"
+        },
+        {
+          "airport": "Kushinagar Airport",
+          "significance": "Serves where Buddha attained Mahaparinirvana"
+        },
+        {
+          "airport": "Ayodhya Airport",
+          "significance": "Serves birthplace of Lord Rama"
+        }
+      ]
+    }
+  }
+}
